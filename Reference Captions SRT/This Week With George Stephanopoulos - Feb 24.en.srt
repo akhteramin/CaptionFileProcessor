@@ -1,0 +1,6942 @@
+﻿1
+00:00:00,316 --> 00:00:02,480
+- We've got large hail--
+- Rise and shine!
+
+2
+00:00:02,480 --> 00:00:05,150
+- [Both] Good morning,
+Washington, from Crystal City!
+
+3
+00:00:05,150 --> 00:00:07,860
+- [Announcer] With ABC 7's Good
+Morning Washington weekdays,
+
+4
+00:00:07,860 --> 00:00:09,763
+on your side, no matter where you are.
+
+5
+00:00:10,990 --> 00:00:13,460
+- [Announcer] The deadly blind
+spot right under your nose,
+
+6
+00:00:13,460 --> 00:00:14,893
+tonight after the Oscars.
+
+7
+00:00:16,540 --> 00:00:18,820
+- [Announcer] This Week
+with George Stephanopoulos
+
+8
+00:00:18,820 --> 00:00:20,890
+starts right now.
+
+9
+00:00:20,890 --> 00:00:22,070
+- [George] Countdown to Cohen.
+
+10
+00:00:22,070 --> 00:00:23,060
+- [Reporter] Do you have any concerns
+
+11
+00:00:23,060 --> 00:00:24,600
+about Michael Cohen's testimony?
+
+12
+00:00:24,600 --> 00:00:25,470
+- No, no.
+
+13
+00:00:25,470 --> 00:00:26,980
+- President Trump's former fixer
+
+14
+00:00:26,980 --> 00:00:29,230
+set to pull back the curtain
+on his time with Trump
+
+15
+00:00:29,230 --> 00:00:31,220
+before three committees in Congress,
+
+16
+00:00:31,220 --> 00:00:33,130
+Cohen says he'll tell
+the truth about Trump
+
+17
+00:00:33,130 --> 00:00:34,580
+after years of lies.
+
+18
+00:00:34,580 --> 00:00:37,750
+He's cooperating again with
+prosecutors in New York.
+
+19
+00:00:37,750 --> 00:00:40,800
+Will this new testimony pose
+a threat to President Trump,
+
+20
+00:00:40,800 --> 00:00:43,740
+even after Robert Mueller
+completes his investigation?
+
+21
+00:00:43,740 --> 00:00:46,030
+That and more with House
+Intelligence Chair Adam Schiff,
+
+22
+00:00:46,030 --> 00:00:48,550
+our legal experts, Dan
+Abrams and Alan Dershowitz,
+
+23
+00:00:48,550 --> 00:00:50,530
+and Andrew McCabe, the FBI veteran
+
+24
+00:00:50,530 --> 00:00:53,050
+whose new tell-all is
+drawing fire from Trump.
+
+25
+00:00:53,050 --> 00:00:54,232
+And--
+
+26
+00:00:54,232 --> 00:00:55,065
+- There's been no nuclear testing,
+
+27
+00:00:55,065 --> 00:00:56,380
+no missiles, no rockets.
+
+28
+00:00:56,380 --> 00:00:58,980
+- A second summit with
+North Korea just days away,
+
+29
+00:00:58,980 --> 00:01:00,720
+but no signs yet that North Korea's
+
+30
+00:01:00,720 --> 00:01:02,780
+ready to give up its nuclear arsenal.
+
+31
+00:01:02,780 --> 00:01:04,660
+Will a second meeting with Kim Jong-un
+
+32
+00:01:04,660 --> 00:01:06,280
+bring real progress?
+
+33
+00:01:06,280 --> 00:01:08,680
+Insight and analysis from
+our panel of experts,
+
+34
+00:01:08,680 --> 00:01:11,190
+including the ambassador who
+negotiated with North Korea,
+
+35
+00:01:11,190 --> 00:01:12,250
+Bill Richardson.
+
+36
+00:01:12,250 --> 00:01:14,100
+Plus, Bernie is back.
+
+37
+00:01:14,100 --> 00:01:19,070
+- And our 2016 campaign began
+the political revolution.
+
+38
+00:01:19,070 --> 00:01:21,940
+Now, it is time to
+complete that revolution.
+
+39
+00:01:21,940 --> 00:01:25,460
+- His staying power shocked
+the political world in 2016.
+
+40
+00:01:25,460 --> 00:01:28,310
+His national movement is
+a fundraising juggernaut.
+
+41
+00:01:28,310 --> 00:01:30,940
+But can he stand out in
+this cycle's wide-open race
+
+42
+00:01:30,940 --> 00:01:31,970
+for the White House?
+
+43
+00:01:31,970 --> 00:01:33,470
+Our powerhouse roundtable weighs in
+
+44
+00:01:33,470 --> 00:01:36,100
+on what's at stake in
+2020, the issues in play,
+
+45
+00:01:36,100 --> 00:01:38,470
+and who's making headway
+in these early rounds.
+
+46
+00:01:38,470 --> 00:01:41,364
+We'll break down the
+politics, smoke out the spin.
+
+47
+00:01:41,364 --> 00:01:42,953
+The facts that matter this week.
+
+48
+00:01:44,108 --> 00:01:47,020
+- [Announcer] From ABC
+News, it's This Week.
+
+49
+00:01:47,020 --> 00:01:50,343
+Here now, chief anchor
+George Stephanopoulos.
+
+50
+00:01:51,600 --> 00:01:53,550
+- Good morning and welcome to This Week.
+
+51
+00:01:53,550 --> 00:01:55,290
+It is a big week ahead for the president
+
+52
+00:01:55,290 --> 00:01:57,630
+on two very different fronts.
+
+53
+00:01:57,630 --> 00:01:59,930
+Tomorrow he boards Air
+Force One for Vietnam,
+
+54
+00:01:59,930 --> 00:02:02,060
+the site of the second
+summit with North Korea's
+
+55
+00:02:02,060 --> 00:02:04,040
+Kim Jong-un, who's already
+on his way to Hanoi.
+
+56
+00:02:04,040 --> 00:02:06,160
+You see him there in
+his armored train that's
+
+57
+00:02:06,160 --> 00:02:08,120
+arriving in China yesterday.
+
+58
+00:02:08,120 --> 00:02:09,620
+But just as Trump tries to strike
+
+59
+00:02:09,620 --> 00:02:11,570
+a nuclear deal with Kim Jong-un,
+
+60
+00:02:11,570 --> 00:02:14,560
+Michael Cohen will take
+the Washington spotlight.
+
+61
+00:02:14,560 --> 00:02:16,490
+Three days of hearings on Capitol Hill,
+
+62
+00:02:16,490 --> 00:02:18,670
+including blockbuster public testimony
+
+63
+00:02:18,670 --> 00:02:20,360
+in the House on Wednesday.
+
+64
+00:02:20,360 --> 00:02:22,360
+Cohen's lawyer says
+he's prepared to reveal
+
+65
+00:02:22,360 --> 00:02:25,910
+damning details of his years
+as Trump's attorney and fixer,
+
+66
+00:02:25,910 --> 00:02:28,630
+promising a chilling
+portrait of the president.
+
+67
+00:02:28,630 --> 00:02:31,410
+It comes as Cohen continues
+to cooperate with prosecutors,
+
+68
+00:02:31,410 --> 00:02:33,430
+offering leads into possible corruption
+
+69
+00:02:33,430 --> 00:02:34,500
+of the Trump inaugural,
+
+70
+00:02:34,500 --> 00:02:37,870
+and insurance irregularities
+at the Trump organization.
+
+71
+00:02:37,870 --> 00:02:40,280
+And that investigation in
+New York's Southern District
+
+72
+00:02:40,280 --> 00:02:42,280
+is just one of several probes poised
+
+73
+00:02:42,280 --> 00:02:44,380
+to challenge the president well beyond
+
+74
+00:02:44,380 --> 00:02:46,380
+the end of Robert Mueller's work.
+
+75
+00:02:46,380 --> 00:02:48,450
+We start with the man leading
+one of those investigations,
+
+76
+00:02:48,450 --> 00:02:50,350
+the Chair of the House Intelligence
+Committee, Adam Schiff.
+
+77
+00:02:50,350 --> 00:02:53,016
+Congressman Schiff, thank you
+for joining us this morning.
+
+78
+00:02:53,016 --> 00:02:53,849
+- Thank you, George.
+
+79
+00:02:53,849 --> 00:02:55,210
+- Michael Cohen is going to
+appear before your committee
+
+80
+00:02:55,210 --> 00:02:57,098
+behind closed doors on Thursday.
+
+81
+00:02:57,098 --> 00:02:58,810
+What do you hope to learn from him
+
+82
+00:02:58,810 --> 00:03:00,700
+that you don't already know?
+
+83
+00:03:00,700 --> 00:03:03,340
+- Well a great deal,
+starting with why the false
+
+84
+00:03:03,340 --> 00:03:06,510
+statements before our committee
+when he first appeared.
+
+85
+00:03:06,510 --> 00:03:08,410
+Did they go beyond what he told us
+
+86
+00:03:08,410 --> 00:03:12,230
+about Moscow Trump Tower
+into other areas as well?
+
+87
+00:03:12,230 --> 00:03:14,430
+Who would have been aware
+of the false testimony
+
+88
+00:03:14,430 --> 00:03:15,720
+that he was giving?
+
+89
+00:03:15,720 --> 00:03:18,760
+What other light can he shed
+now that he's cooperating
+
+90
+00:03:18,760 --> 00:03:22,080
+on issues of obstruction
+of justice or collusion?
+
+91
+00:03:22,080 --> 00:03:23,630
+What more can he tell us about the
+
+92
+00:03:23,630 --> 00:03:25,570
+Trump Tower New York meeting?
+
+93
+00:03:25,570 --> 00:03:28,380
+Or any other issues relevant
+to our investigation.
+
+94
+00:03:28,380 --> 00:03:30,310
+We think he has a lot to offer.
+
+95
+00:03:30,310 --> 00:03:32,450
+- How about on the finances
+of the Trump organization?
+
+96
+00:03:32,450 --> 00:03:34,487
+You've suggested that's the new front
+
+97
+00:03:34,487 --> 00:03:37,263
+in your committee's investigation.
+
+98
+00:03:38,200 --> 00:03:40,000
+- Well this is something,
+George as you know,
+
+99
+00:03:40,000 --> 00:03:42,080
+I've been concerned
+about for two years now.
+
+100
+00:03:42,080 --> 00:03:45,216
+We weren't really permitted
+to explore it in great detail
+
+101
+00:03:45,216 --> 00:03:47,780
+when the Republicans were
+running the committee,
+
+102
+00:03:47,780 --> 00:03:51,030
+but we know already, and Michael
+Cohen is pivotal to this,
+
+103
+00:03:51,030 --> 00:03:54,320
+the peril of ignoring or
+observing this red line
+
+104
+00:03:54,320 --> 00:03:57,620
+of the president's and
+ignoring the financial issues,
+
+105
+00:03:57,620 --> 00:03:59,630
+what we have learned to date
+
+106
+00:03:59,630 --> 00:04:02,370
+about Moscow Trump Tower is chilling.
+
+107
+00:04:02,370 --> 00:04:05,850
+That is, as Donald Trump was
+campaigning for president,
+
+108
+00:04:05,850 --> 00:04:07,930
+even when he became
+the presumptive nominee
+
+109
+00:04:07,930 --> 00:04:10,490
+of the Republican Party,
+and was telling the country
+
+110
+00:04:10,490 --> 00:04:12,410
+he had no business dealings with Russia,
+
+111
+00:04:12,410 --> 00:04:14,650
+he was privately,
+through his organization,
+
+112
+00:04:14,650 --> 00:04:16,720
+seeking the Kremlin's help to make what
+
+113
+00:04:16,720 --> 00:04:19,490
+may have been the most
+lucrative deal of his life,
+
+114
+00:04:19,490 --> 00:04:22,080
+even reportedly offering
+an inducement to Putin
+
+115
+00:04:22,080 --> 00:04:24,490
+to make it happen, and at the same time,
+
+116
+00:04:24,490 --> 00:04:27,420
+talking about removing
+sanctions on Russia,
+
+117
+00:04:27,420 --> 00:04:29,160
+something very important to Russians.
+
+118
+00:04:29,160 --> 00:04:32,590
+That is deeply compromising,
+whether it's criminal or not,
+
+119
+00:04:32,590 --> 00:04:35,260
+it is deeply compromising
+of our national security.
+
+120
+00:04:35,260 --> 00:04:37,040
+So those issues have to be probed,
+
+121
+00:04:37,040 --> 00:04:38,940
+and they include money laundering as well.
+
+122
+00:04:38,940 --> 00:04:40,790
+- That gets to a question about
+the Mueller investigation.
+
+123
+00:04:40,790 --> 00:04:43,040
+If it turns out, as the
+president has said so many times,
+
+124
+00:04:43,040 --> 00:04:44,920
+he did not collude with the Russians
+
+125
+00:04:44,920 --> 00:04:46,590
+to interfere in the election,
+
+126
+00:04:46,590 --> 00:04:48,470
+but in fact he was pursuing this
+
+127
+00:04:48,470 --> 00:04:50,560
+Trump Tower at the same time.
+
+128
+00:04:50,560 --> 00:04:52,240
+If that's not criminal, does Mueller have
+
+129
+00:04:52,240 --> 00:04:54,935
+a responsibility to report it or no?
+
+130
+00:04:54,935 --> 00:04:58,200
+- He does have a
+responsibility to report it,
+
+131
+00:04:58,200 --> 00:05:00,520
+and in fact, if you take the position,
+
+132
+00:05:00,520 --> 00:05:01,760
+and I think it's a flawed one,
+
+133
+00:05:01,760 --> 00:05:02,870
+but if you take the position that
+
+134
+00:05:02,870 --> 00:05:05,510
+the president cannot be indicted,
+
+135
+00:05:05,510 --> 00:05:08,740
+and the only remedy for improper, illegal,
+
+136
+00:05:08,740 --> 00:05:11,530
+or other conduct is impeachment,
+
+137
+00:05:11,530 --> 00:05:14,140
+then you cannot withhold that
+information from Congress
+
+138
+00:05:14,140 --> 00:05:16,990
+or essentially the president has immunity.
+
+139
+00:05:16,990 --> 00:05:20,030
+So that cannot be allowed to be the case.
+
+140
+00:05:20,030 --> 00:05:23,890
+Bob, or Bill Barr has
+committed in his testimony
+
+141
+00:05:23,890 --> 00:05:27,770
+to making as much of the
+report public as he can,
+
+142
+00:05:27,770 --> 00:05:30,270
+and the regulations allow
+him to make it all public.
+
+143
+00:05:30,270 --> 00:05:32,650
+We're going to insist
+on it becoming public,
+
+144
+00:05:32,650 --> 00:05:34,610
+and more than that, George,
+we're going to insist
+
+145
+00:05:34,610 --> 00:05:37,930
+on the underlying
+evidence because there is
+
+146
+00:05:37,930 --> 00:05:40,460
+certain evidence that
+is only in the hands of
+
+147
+00:05:40,460 --> 00:05:42,870
+The Department of Justice that
+we can't get any other way.
+
+148
+00:05:42,870 --> 00:05:44,770
+There were searches
+conducted, for example,
+
+149
+00:05:44,770 --> 00:05:46,985
+of Roger Stone and Paul Manafort.
+
+150
+00:05:46,985 --> 00:05:49,570
+There's no other way
+to get the information
+
+151
+00:05:49,570 --> 00:05:52,160
+that was seized except
+through the Department.
+
+152
+00:05:52,160 --> 00:05:54,450
+We can't tell the country
+fully what happened without it.
+
+153
+00:05:54,450 --> 00:05:56,470
+- As you know, William Barr
+may have quite a different view
+
+154
+00:05:56,470 --> 00:05:58,160
+of what those regulation
+require than you do.
+
+155
+00:05:58,160 --> 00:06:01,440
+They could allow him to
+release the entire report,
+
+156
+00:06:01,440 --> 00:06:03,361
+but under Justice Department regulations,
+
+157
+00:06:03,361 --> 00:06:05,870
+officials have said that if you decline
+
+158
+00:06:05,870 --> 00:06:07,850
+to prosecute someone, then
+the underlying evidence
+
+159
+00:06:07,850 --> 00:06:09,418
+should not be released.
+
+160
+00:06:09,418 --> 00:06:13,964
+- But George, the Department
+has violated that policy
+
+161
+00:06:13,964 --> 00:06:18,200
+repeatedly and extendedly
+to a great extent
+
+162
+00:06:18,200 --> 00:06:19,700
+over the last two years, and in fact,
+
+163
+00:06:19,700 --> 00:06:21,890
+I've had this conversation
+with Rod Rosenstein
+
+164
+00:06:21,890 --> 00:06:24,640
+and others on down at
+the Justice Department
+
+165
+00:06:24,640 --> 00:06:26,990
+as they turned over
+thousands and thousands
+
+166
+00:06:26,990 --> 00:06:30,700
+of pages of discovery in the
+Clinton email investigation
+
+167
+00:06:30,700 --> 00:06:34,040
+and there was no indictment
+in that investigation.
+
+168
+00:06:34,040 --> 00:06:35,990
+This was a new precedent
+they were setting,
+
+169
+00:06:35,990 --> 00:06:38,490
+and they were gonna have
+to live by this precedent,
+
+170
+00:06:38,490 --> 00:06:41,660
+whether it was a Congress
+controlled by the Democrats
+
+171
+00:06:41,660 --> 00:06:45,900
+or Republicans, so they're
+gonna have to abide by that,
+
+172
+00:06:45,900 --> 00:06:47,830
+and I think also,
+
+173
+00:06:47,830 --> 00:06:49,820
+quite separate and apart from
+the precedent already set,
+
+174
+00:06:49,820 --> 00:06:53,320
+is the intense public need to know here,
+
+175
+00:06:53,320 --> 00:06:55,750
+which I think overrides
+any other considerations.
+
+176
+00:06:55,750 --> 00:06:58,070
+- You say the Justice
+Department is gonna have to live
+
+177
+00:06:58,070 --> 00:06:59,660
+by that precedent, but what if they don't?
+
+178
+00:06:59,660 --> 00:07:01,440
+What if they simply
+say no, we're not gonna
+
+179
+00:07:01,440 --> 00:07:02,520
+release the underlying evidence.
+
+180
+00:07:02,520 --> 00:07:04,480
+What options do you have?
+
+181
+00:07:04,480 --> 00:07:07,100
+- Well, we will obviously
+subpoena the report,
+
+182
+00:07:07,100 --> 00:07:09,870
+we will bring Bob Mueller in
+to testify before Congress,
+
+183
+00:07:09,870 --> 00:07:12,170
+we will take it to court if necessary.
+
+184
+00:07:12,170 --> 00:07:14,788
+And in the end, I think
+the Department understands,
+
+185
+00:07:14,788 --> 00:07:17,130
+they're going to have to make this public.
+
+186
+00:07:17,130 --> 00:07:20,150
+I think Barr will ultimately
+understand that as well.
+
+187
+00:07:20,150 --> 00:07:23,050
+Barr comes into this job
+with two strikes against him.
+
+188
+00:07:23,050 --> 00:07:25,710
+He applied for the job by demonstrating
+
+189
+00:07:25,710 --> 00:07:27,780
+a bias against the Mueller investigation.
+
+190
+00:07:27,780 --> 00:07:30,530
+Indeed that's part of
+the reason he was hired.
+
+191
+00:07:30,530 --> 00:07:32,410
+He's also not been willing to commit to
+
+192
+00:07:32,410 --> 00:07:33,970
+following the advice of ethics lawyers.
+
+193
+00:07:33,970 --> 00:07:36,720
+Indeed that was part of
+the reason he was hired.
+
+194
+00:07:36,720 --> 00:07:39,470
+If he were to try to
+withhold, to try to bury
+
+195
+00:07:39,470 --> 00:07:42,900
+any part of this report,
+that will be his legacy,
+
+196
+00:07:42,900 --> 00:07:44,550
+and it will be a tarnished legacy.
+
+197
+00:07:44,550 --> 00:07:46,510
+So I think there will be immense pressure,
+
+198
+00:07:46,510 --> 00:07:49,230
+not only on the Department
+but on the Attorney General
+
+199
+00:07:49,230 --> 00:07:50,180
+to be forthcoming.
+
+200
+00:07:50,180 --> 00:07:51,227
+- You're talking about public pressure?
+
+201
+00:07:51,227 --> 00:07:53,820
+Are you prepared to take
+the Administration to court?
+
+202
+00:07:53,820 --> 00:07:55,170
+- Absolutely.
+
+203
+00:07:55,170 --> 00:07:57,440
+We are gonna get to the bottom of this.
+
+204
+00:07:57,440 --> 00:07:59,570
+We are gonna share this
+information with the public,
+
+205
+00:07:59,570 --> 00:08:02,960
+and if the president is
+serious about all of his
+
+206
+00:08:02,960 --> 00:08:05,330
+claims of exoneration, then he should
+
+207
+00:08:05,330 --> 00:08:07,550
+welcome the publication of this report.
+
+208
+00:08:07,550 --> 00:08:09,940
+- The president has said no
+collusion many times as I said.
+
+209
+00:08:09,940 --> 00:08:11,760
+You said many months
+ago that you've already
+
+210
+00:08:11,760 --> 00:08:13,790
+developed evidence of collusion.
+
+211
+00:08:13,790 --> 00:08:16,230
+We haven't seen that from Robert Mueller.
+
+212
+00:08:16,230 --> 00:08:19,233
+Do you have any evidence at all
+that the president colluded?
+
+213
+00:08:20,140 --> 00:08:22,470
+- George, there's ample
+evidence of collusion
+
+214
+00:08:22,470 --> 00:08:25,787
+of the campaign and it's very
+much in the public record.
+
+215
+00:08:25,787 --> 00:08:28,880
+And it's everything from
+what we have seen recently
+
+216
+00:08:28,880 --> 00:08:31,120
+about Paul Manafort
+meeting with someone linked
+
+217
+00:08:31,120 --> 00:08:34,010
+to Russian intelligence
+and sharing polling data.
+
+218
+00:08:34,010 --> 00:08:36,960
+And not top line data, not
+this is why we think Trump
+
+219
+00:08:36,960 --> 00:08:40,920
+is gonna win data, but raw
+data, complicated data.
+
+220
+00:08:40,920 --> 00:08:43,340
+We've seen evidence of Roger Stone
+
+221
+00:08:43,340 --> 00:08:45,430
+in communication with WikiLeaks.
+
+222
+00:08:45,430 --> 00:08:48,170
+We've seen the president's
+son having a secret meeting
+
+223
+00:08:48,170 --> 00:08:51,240
+at Trump Tower that was
+presented to him as part of
+
+224
+00:08:51,240 --> 00:08:54,860
+the Russian government's effort
+to help the Trump campaign.
+
+225
+00:08:54,860 --> 00:08:58,020
+His acceptance of that help
+is interesting, getting that.
+
+226
+00:08:58,020 --> 00:08:59,890
+All of this is evidence of collusion,
+
+227
+00:08:59,890 --> 00:09:01,950
+and there's much, much more.
+
+228
+00:09:01,950 --> 00:09:06,160
+Whether that will amount
+to a criminal conspiracy
+
+229
+00:09:06,160 --> 00:09:08,260
+that can be proved beyond
+a reasonable doubt,
+
+230
+00:09:08,260 --> 00:09:11,090
+we will have to wait for
+Bob Mueller to tell us,
+
+231
+00:09:11,090 --> 00:09:15,660
+but to not see what is
+plainly in front of us,
+
+232
+00:09:15,660 --> 00:09:18,206
+means you basically don't
+wanna see the evidence
+
+233
+00:09:18,206 --> 00:09:20,760
+of collusion because it is quite abundant.
+
+234
+00:09:20,760 --> 00:09:22,900
+- Congressman Schiff, thank
+you for your time this morning.
+
+235
+00:09:22,900 --> 00:09:23,880
+- [Schiff] Thanks George.
+
+236
+00:09:23,880 --> 00:09:24,941
+- Let's bring in our legal panel,
+
+237
+00:09:24,941 --> 00:09:25,774
+our Chief Legal Analyst, Dan Abrams,
+
+238
+00:09:25,774 --> 00:09:28,440
+also Harvard Law School
+Professor Emeritus,
+
+239
+00:09:28,440 --> 00:09:29,773
+Alan Dershowitz, author of
+
+240
+00:09:29,773 --> 00:09:31,270
+The Case Against the Democratic
+House Impeaching Trump,
+
+241
+00:09:31,270 --> 00:09:32,400
+and Dan, let me begin with you.
+
+242
+00:09:32,400 --> 00:09:34,240
+Let's pick up with what
+I was talking about
+
+243
+00:09:34,240 --> 00:09:35,720
+with Congressman Schiff right there.
+
+244
+00:09:35,720 --> 00:09:37,770
+He says that Bill Barr is gonna be
+
+245
+00:09:37,770 --> 00:09:40,100
+under tremendous pressure to release
+
+246
+00:09:40,100 --> 00:09:43,650
+whatever Mueller has reported publicly.
+
+247
+00:09:43,650 --> 00:09:46,500
+It's not clear that Barr agrees with that.
+
+248
+00:09:46,500 --> 00:09:47,333
+- That's right.
+
+249
+00:09:47,333 --> 00:09:50,540
+Barr has made it very
+clear that he's going to
+
+250
+00:09:50,540 --> 00:09:55,540
+release as much as he can, but
+he has put caveats on that.
+
+251
+00:09:55,970 --> 00:09:57,880
+The question's gonna be, for example,
+
+252
+00:09:57,880 --> 00:10:00,620
+how much information in there potentially
+
+253
+00:10:00,620 --> 00:10:02,450
+could be a national security threat?
+
+254
+00:10:02,450 --> 00:10:04,040
+And I think you need to separate out
+
+255
+00:10:04,040 --> 00:10:06,230
+the difference between the report itself
+
+256
+00:10:06,230 --> 00:10:07,580
+and the underlying information.
+
+257
+00:10:07,580 --> 00:10:09,210
+'Cause you heard Congressman Schiff there
+
+258
+00:10:09,210 --> 00:10:11,360
+talk about some of the
+underlying information.
+
+259
+00:10:11,360 --> 00:10:13,100
+That's gonna be harder to get.
+
+260
+00:10:13,100 --> 00:10:15,010
+- Even though it was all released in
+
+261
+00:10:15,010 --> 00:10:16,010
+the Clinton investigation?
+
+262
+00:10:16,010 --> 00:10:16,843
+- Correct.
+
+263
+00:10:16,843 --> 00:10:18,290
+Well look, you have to
+remember that the current
+
+264
+00:10:18,290 --> 00:10:21,590
+Special Counsel law was a response
+
+265
+00:10:21,590 --> 00:10:24,270
+to the Clinton investigation,
+meaning there were concerns
+
+266
+00:10:24,270 --> 00:10:25,103
+about how much-
+
+267
+00:10:25,103 --> 00:10:25,936
+- [George] The Bill Clinton investigation,
+
+268
+00:10:25,936 --> 00:10:27,316
+you're talking about the
+Hillary investigation.
+
+269
+00:10:27,316 --> 00:10:28,263
+- Oh, I'm sorry, I'm sorry.
+
+270
+00:10:28,263 --> 00:10:29,322
+I was talking about
+the Bill, you're right.
+
+271
+00:10:29,322 --> 00:10:31,070
+In response to the Bill
+Clinton investigation,
+
+272
+00:10:31,070 --> 00:10:32,900
+this was a response to that law.
+
+273
+00:10:32,900 --> 00:10:34,360
+On the Hillary Clinton investigation,
+
+274
+00:10:34,360 --> 00:10:36,880
+look, I don't think
+there's a direct comparison
+
+275
+00:10:36,880 --> 00:10:38,920
+between the Hillary Clinton investigation
+
+276
+00:10:38,920 --> 00:10:40,600
+and the Special Counsel investigation.
+
+277
+00:10:40,600 --> 00:10:43,710
+I do think that there is a much stronger
+
+278
+00:10:43,710 --> 00:10:47,930
+argument to say that a
+Special Counsel investigation
+
+279
+00:10:47,930 --> 00:10:51,230
+ought to be made public, even
+if there is no prosecution.
+
+280
+00:10:51,230 --> 00:10:54,810
+That the decision making process for them,
+
+281
+00:10:54,810 --> 00:10:57,560
+that the report should be made public,
+
+282
+00:10:57,560 --> 00:11:00,830
+even if, and typically in
+the Department of Justice,
+
+283
+00:11:00,830 --> 00:11:02,705
+you wouldn't release
+information related to
+
+284
+00:11:02,705 --> 00:11:04,840
+an investigation that was not prosecuted.
+
+285
+00:11:04,840 --> 00:11:07,360
+- What's your response to that Alan?
+
+286
+00:11:07,360 --> 00:11:09,380
+- Well I think that's exactly the issue.
+
+287
+00:11:09,380 --> 00:11:11,500
+Democrats were appropriately furious,
+
+288
+00:11:11,500 --> 00:11:14,560
+I was among them, when Comey,
+
+289
+00:11:14,560 --> 00:11:16,670
+after saying that he was not gonna indict
+
+290
+00:11:16,670 --> 00:11:20,470
+Hillary Clinton then went
+on to give his own opinion
+
+291
+00:11:20,470 --> 00:11:22,930
+as to her wrong-doing.
+
+292
+00:11:22,930 --> 00:11:26,760
+And the question is, is there
+a difference between Comey,
+
+293
+00:11:26,760 --> 00:11:29,970
+who did wrong, everybody
+now acknowledges that,
+
+294
+00:11:29,970 --> 00:11:32,790
+and a Special Counsel who has
+
+295
+00:11:32,790 --> 00:11:35,230
+had a broader mandate to investigate.
+
+296
+00:11:35,230 --> 00:11:36,300
+Look, let's be realistic.
+
+297
+00:11:36,300 --> 00:11:37,810
+In the end, everything's gonna come out.
+
+298
+00:11:37,810 --> 00:11:38,950
+There are no secrets.
+
+299
+00:11:38,950 --> 00:11:41,570
+In the end, it's all gonna come out.
+
+300
+00:11:41,570 --> 00:11:43,930
+And in the end, as I've said from day one,
+
+301
+00:11:43,930 --> 00:11:46,050
+it would have been so much better
+
+302
+00:11:46,050 --> 00:11:50,340
+if we had a non-partisan,
+independent commission
+
+303
+00:11:50,340 --> 00:11:52,170
+like they have in England and in Israel,
+
+304
+00:11:52,170 --> 00:11:55,300
+like we had after 9/11,
+getting to the whole truth
+
+305
+00:11:55,300 --> 00:11:56,600
+in a non-partisan way.
+
+306
+00:11:56,600 --> 00:11:58,493
+The American public's not gonna trust
+
+307
+00:11:58,493 --> 00:11:59,813
+a Democratic controlled House
+- Let me stop you on that.
+
+308
+00:11:59,813 --> 00:12:01,450
+- They're not going to trust
+
+309
+00:12:01,450 --> 00:12:03,070
+the Republican controlled Senate.
+
+310
+00:12:03,070 --> 00:12:04,650
+- I'll take your point on the Congress,
+
+311
+00:12:04,650 --> 00:12:06,343
+but Robert Mueller was
+about as non-partisan
+
+312
+00:12:06,343 --> 00:12:08,850
+a figure as you could
+have found, isn't he?
+
+313
+00:12:08,850 --> 00:12:10,880
+- That's the point, no
+that's the point now I think.
+
+314
+00:12:10,880 --> 00:12:14,120
+My point is that if his
+information is not released
+
+315
+00:12:14,120 --> 00:12:16,850
+to the public, and it
+then goes to Congress
+
+316
+00:12:16,850 --> 00:12:19,320
+to conduct the investigation,
+I think there'll be
+
+317
+00:12:19,320 --> 00:12:20,350
+a question of credibility.
+
+318
+00:12:20,350 --> 00:12:22,390
+Look I think, and I've said from day one,
+
+319
+00:12:22,390 --> 00:12:24,810
+that President Trump's
+greatest vulnerability
+
+320
+00:12:24,810 --> 00:12:27,950
+lies not with the Mueller report,
+
+321
+00:12:27,950 --> 00:12:29,690
+but with the Southern
+District of New York,
+
+322
+00:12:29,690 --> 00:12:32,250
+and with the New York
+Attorney General's office,
+
+323
+00:12:32,250 --> 00:12:35,840
+and with other prosecutorial arms that
+
+324
+00:12:35,840 --> 00:12:39,310
+can look into conduct unrelated
+to collusion to Russia,
+
+325
+00:12:39,310 --> 00:12:42,140
+but conduct that preceded his presidency,
+
+326
+00:12:42,140 --> 00:12:44,250
+and I think that's where the problems
+
+327
+00:12:44,250 --> 00:12:45,910
+can come up in the future.
+
+328
+00:12:45,910 --> 00:12:47,600
+This may be just the beginning.
+
+329
+00:12:47,600 --> 00:12:49,654
+The Mueller report may be just a road map
+
+330
+00:12:49,654 --> 00:12:52,660
+given to Congress and
+given to other prosecutors
+
+331
+00:12:52,660 --> 00:12:54,840
+that will continue these investigations
+
+332
+00:12:54,840 --> 00:12:56,400
+until the end of President
+Trump's first term.
+
+333
+00:12:56,400 --> 00:12:58,080
+- I wanna pick up on that with Dan.
+
+334
+00:12:58,080 --> 00:12:59,170
+It does appear that we might be having
+
+335
+00:12:59,170 --> 00:13:01,480
+something of a Mueller
+strategy in plain sight.
+
+336
+00:13:01,480 --> 00:13:04,920
+Every indictment he has
+lays out in great detail
+
+337
+00:13:04,920 --> 00:13:06,130
+what he thought happened.
+
+338
+00:13:06,130 --> 00:13:08,130
+Meantime, things that
+he thinks may be a bit
+
+339
+00:13:08,130 --> 00:13:11,710
+beyond his scope, he siphons
+off to other prosecutors.
+
+340
+00:13:11,710 --> 00:13:13,430
+- Right, and I think
+Alan's right that that
+
+341
+00:13:13,430 --> 00:13:15,720
+poses an enormous danger
+to him as these other
+
+342
+00:13:15,720 --> 00:13:17,490
+offices because you can't just say
+
+343
+00:13:17,490 --> 00:13:20,036
+oh, well the Southern District
+of New York is out to get me,
+
+344
+00:13:20,036 --> 00:13:22,430
+the Eastern District of
+New York is out to get me,
+
+345
+00:13:22,430 --> 00:13:24,210
+and Virginia's out to get me, et cetera.
+
+346
+00:13:24,210 --> 00:13:25,950
+That's a tough argument to make.
+
+347
+00:13:25,950 --> 00:13:28,380
+But when you look at some
+of the documents that have
+
+348
+00:13:28,380 --> 00:13:30,637
+been filed, for example
+in the Manafort case,
+
+349
+00:13:30,637 --> 00:13:32,790
+and you talk about the
+road map, you have to
+
+350
+00:13:32,790 --> 00:13:34,710
+ask the question in the big picture,
+
+351
+00:13:34,710 --> 00:13:37,200
+why so much still redacted, right?
+
+352
+00:13:37,200 --> 00:13:40,180
+Why are they still not allowing the public
+
+353
+00:13:40,180 --> 00:13:43,070
+to see so much related to
+the Russia investigation?
+
+354
+00:13:43,070 --> 00:13:45,000
+Why isn't Michael Cohen being allowed to
+
+355
+00:13:45,000 --> 00:13:47,190
+testify in public about
+the Russia investigation?
+
+356
+00:13:47,190 --> 00:13:48,750
+- He's only going to be talking
+about other investigations.
+
+357
+00:13:48,750 --> 00:13:51,190
+- Right, about ten other
+topics not related to Russians.
+
+358
+00:13:51,190 --> 00:13:53,900
+You have to ask yourself,
+if there's nothing else
+
+359
+00:13:53,900 --> 00:13:57,330
+that's gonna come out, why
+are they redacting so much?
+
+360
+00:13:57,330 --> 00:13:58,610
+- Alan, that was something curious.
+
+361
+00:13:58,610 --> 00:14:01,120
+800 pages from Robert Mueller yesterday
+
+362
+00:14:01,120 --> 00:14:03,281
+in the Manafort sentencing memo,
+
+363
+00:14:03,281 --> 00:14:04,490
+yet nothing about the underlying things
+
+364
+00:14:04,490 --> 00:14:05,670
+that he may have been lying about.
+
+365
+00:14:05,670 --> 00:14:08,160
+His meetings with various Russians,
+
+366
+00:14:08,160 --> 00:14:11,510
+and they say the redactions
+were for ongoing investigations
+
+367
+00:14:11,510 --> 00:14:13,360
+and uncharged individuals.
+
+368
+00:14:13,360 --> 00:14:14,910
+That does suggest more to come.
+
+369
+00:14:16,240 --> 00:14:18,330
+- Oh absolutely, I have
+no doubt about that.
+
+370
+00:14:18,330 --> 00:14:20,950
+I think these redactions are a clue
+
+371
+00:14:20,950 --> 00:14:23,490
+to what may be hinted at.
+
+372
+00:14:23,490 --> 00:14:26,240
+Look also, I think we
+are seeing now an effort
+
+373
+00:14:26,240 --> 00:14:30,330
+to tamp down expectations from
+the Mueller report itself.
+
+374
+00:14:30,330 --> 00:14:34,440
+I think we're being told
+don't expect smoking guns,
+
+375
+00:14:34,440 --> 00:14:36,950
+don't expect dynamite in the report.
+
+376
+00:14:36,950 --> 00:14:40,800
+The report is gonna be the beginning of
+
+377
+00:14:40,800 --> 00:14:43,780
+some other investigations
+coming down the line.
+
+378
+00:14:43,780 --> 00:14:45,350
+So I think there's a combination.
+
+379
+00:14:45,350 --> 00:14:48,090
+Don't expect too much from
+the Mueller report itself,
+
+380
+00:14:48,090 --> 00:14:52,040
+but the Mueller report may
+lead to greater investigations
+
+381
+00:14:52,040 --> 00:14:54,670
+by a variety of other institutions.
+
+382
+00:14:54,670 --> 00:14:56,960
+So this, the Mueller
+report is not gonna mark
+
+383
+00:14:56,960 --> 00:14:58,270
+the end of the investigation.
+
+384
+00:14:58,270 --> 00:15:00,070
+I think that's the message we're hearing.
+
+385
+00:15:00,070 --> 00:15:01,840
+- Dan, so much of the report
+and the Mueller report
+
+386
+00:15:01,840 --> 00:15:04,840
+is unfounded because Robert
+Mueller isn't talking.
+
+387
+00:15:04,840 --> 00:15:06,200
+But there has been some rather aggressive
+
+388
+00:15:06,200 --> 00:15:09,240
+backgrounding going on suggesting
+that the Mueller report
+
+389
+00:15:09,240 --> 00:15:11,370
+will be an anti-climax.
+
+390
+00:15:11,370 --> 00:15:15,350
+- Yeah, I mean, look, and the
+expectation game is critical
+
+391
+00:15:15,350 --> 00:15:17,550
+when it comes to public perception.
+
+392
+00:15:17,550 --> 00:15:20,400
+But whether it's a summary, whether it's
+
+393
+00:15:20,400 --> 00:15:23,400
+a detailed accounting, don't forget,
+
+394
+00:15:23,400 --> 00:15:25,430
+we already have a lot of information.
+
+395
+00:15:25,430 --> 00:15:27,220
+I'm not talking just about
+what Congressman Schiff
+
+396
+00:15:27,220 --> 00:15:28,080
+was talking about.
+
+397
+00:15:28,080 --> 00:15:31,150
+I'm talking about the
+indictments that currently exist.
+
+398
+00:15:31,150 --> 00:15:33,009
+When people wanna know what happened
+
+399
+00:15:33,009 --> 00:15:35,770
+leading up to the 2016 election,
+
+400
+00:15:35,770 --> 00:15:38,180
+you have to start by
+reading the indictments.
+
+401
+00:15:38,180 --> 00:15:39,850
+You have to start by
+reading the indictments
+
+402
+00:15:39,850 --> 00:15:40,780
+of the Russians.
+
+403
+00:15:40,780 --> 00:15:44,430
+And then ask yourself,
+okay, was anyone else
+
+404
+00:15:44,430 --> 00:15:45,290
+connected to them?
+
+405
+00:15:45,290 --> 00:15:47,270
+And that's what they're trying
+to piece together still.
+
+406
+00:15:47,270 --> 00:15:51,320
+That's why when you
+have Papadopoulos lying,
+
+407
+00:15:51,320 --> 00:15:52,790
+Flynn lying about Russia,
+
+408
+00:15:52,790 --> 00:15:55,580
+you've got Manafort lying, et cetera,
+
+409
+00:15:55,580 --> 00:15:57,850
+you have to ask yourself why are all these
+
+410
+00:15:57,850 --> 00:16:00,440
+people not telling the
+truth about, and the answer
+
+411
+00:16:00,440 --> 00:16:02,690
+may simply be look, I wanted to
+
+412
+00:16:02,690 --> 00:16:03,760
+distance myself from it.
+
+413
+00:16:03,760 --> 00:16:04,720
+I didn't wanna get in trouble
+
+414
+00:16:04,720 --> 00:16:06,110
+in connection with this thing.
+
+415
+00:16:06,110 --> 00:16:09,430
+But there are still critical
+questions that are unanswered.
+
+416
+00:16:09,430 --> 00:16:11,630
+There's a ton of redacted material,
+
+417
+00:16:11,630 --> 00:16:14,340
+and I think we're gonna
+to see some answers.
+
+418
+00:16:14,340 --> 00:16:15,630
+- [George] And we're still
+waiting for Robert Mueller--
+
+419
+00:16:15,630 --> 00:16:17,480
+- Let's remember, though--
+
+420
+00:16:17,480 --> 00:16:18,313
+- [George] Go ahead.
+
+421
+00:16:18,313 --> 00:16:19,420
+- Let's remember that indictments are
+
+422
+00:16:19,420 --> 00:16:21,450
+different than convictions.
+
+423
+00:16:21,450 --> 00:16:23,510
+A lot of this is indictments.
+
+424
+00:16:23,510 --> 00:16:24,500
+Remember, too, we're gonna see
+
+425
+00:16:24,500 --> 00:16:27,090
+a rebuttal report from the Trump team.
+
+426
+00:16:27,090 --> 00:16:28,900
+So I think the American
+public should withhold
+
+427
+00:16:28,900 --> 00:16:31,760
+final judgment until
+they see both reports,
+
+428
+00:16:31,760 --> 00:16:33,890
+the Mueller report and the
+response by the Trump team.
+
+429
+00:16:33,890 --> 00:16:35,740
+- Well this will be the first
+time in the history of America
+
+430
+00:16:35,740 --> 00:16:38,530
+where a defendant or someone
+who's accused of something
+
+431
+00:16:38,530 --> 00:16:42,120
+gets to write a response report
+to what an indictment is.
+
+432
+00:16:42,120 --> 00:16:44,150
+Every criminal defendant in America
+
+433
+00:16:44,150 --> 00:16:46,510
+would love to be able to
+write their own report
+
+434
+00:16:46,510 --> 00:16:48,640
+about what they say happened,
+
+435
+00:16:48,640 --> 00:16:49,617
+but that's not the way the system works.
+
+436
+00:16:49,617 --> 00:16:51,456
+- But you're contradicting yourself.
+
+437
+00:16:51,456 --> 00:16:52,289
+- How?
+
+438
+00:16:52,289 --> 00:16:54,150
+- Because this is not just a yes or no.
+
+439
+00:16:54,150 --> 00:16:55,890
+You're saying that the Special Counsel
+
+440
+00:16:55,890 --> 00:16:58,700
+have special obligations
+to release everything,
+
+441
+00:16:58,700 --> 00:17:01,130
+and if they have a special
+obligation to release everything,
+
+442
+00:17:01,130 --> 00:17:04,016
+then there's an obligation
+to allow a response.
+
+443
+00:17:04,016 --> 00:17:05,345
+- You can allow, that's fine.
+- That's precisely the point.
+
+444
+00:17:05,345 --> 00:17:07,181
+- Let them respond.
+- If it was just yes or no,
+
+445
+00:17:07,181 --> 00:17:09,110
+then you wouldn't need a response,
+
+446
+00:17:09,110 --> 00:17:11,510
+but if you get a long, long narrative,
+
+447
+00:17:11,510 --> 00:17:14,068
+then fairness requires a response.
+
+448
+00:17:14,068 --> 00:17:14,901
+- That's fine, let 'em respond.
+
+449
+00:17:14,901 --> 00:17:16,170
+- And simultaneous release of both.
+
+450
+00:17:16,170 --> 00:17:18,210
+- Whoa, simultaneous release of both, too?
+
+451
+00:17:18,210 --> 00:17:19,857
+So now basically--
+- Right.
+
+452
+00:17:19,857 --> 00:17:20,950
+- Right, look.
+
+453
+00:17:20,950 --> 00:17:22,620
+That's just, that's ridiculous.
+
+454
+00:17:22,620 --> 00:17:25,370
+The idea that you have
+to allow the other side
+
+455
+00:17:25,370 --> 00:17:27,440
+in something like this,
+the opportunity to file
+
+456
+00:17:27,440 --> 00:17:30,630
+a long report in response to a prosecutor.
+
+457
+00:17:30,630 --> 00:17:31,930
+- You don't have to do that if
+
+458
+00:17:31,930 --> 00:17:34,570
+you just limit yourself to
+indictment or not indictment.
+
+459
+00:17:34,570 --> 00:17:37,450
+If you go beyond it and
+you start telling a story,
+
+460
+00:17:37,450 --> 00:17:40,360
+the other side of the narrative
+has to be produced as well.
+
+461
+00:17:40,360 --> 00:17:42,539
+That's required by
+fairness and due process.
+
+462
+00:17:42,539 --> 00:17:43,372
+- Bill Clinton would have loved that.
+
+463
+00:17:43,372 --> 00:17:44,490
+- Not in the regulations.
+
+464
+00:17:44,490 --> 00:17:45,610
+Okay, thank you both very much.
+
+465
+00:17:45,610 --> 00:17:47,220
+- [Alan] Well he should have gotten it.
+
+466
+00:17:47,220 --> 00:17:48,360
+- When we come back, his new book
+
+467
+00:17:48,360 --> 00:17:49,730
+is drawing fire from President Trump,
+
+468
+00:17:49,730 --> 00:17:52,670
+former FBI Deputy Director
+Andrew McCabe up next.
+
+469
+00:17:52,670 --> 00:17:54,770
+And later the powerhouse
+round table takes on 2020.
+
+470
+00:17:54,770 --> 00:17:55,770
+We'll be right back.
+
+471
+00:17:56,850 --> 00:17:58,790
+- [Announcer] This Week
+with George Stephanopoulos
+
+472
+00:17:58,790 --> 00:18:02,420
+sponsored by Pacific Life
+protecting generations
+
+473
+00:18:02,420 --> 00:18:05,770
+of families for more than 150 years.
+
+474
+00:18:05,770 --> 00:18:07,903
+That's the power of Pacific.
+
+475
+00:18:11,185 --> 00:18:12,018
+(upbeat music)
+
+476
+00:18:12,018 --> 00:18:13,170
+- [Announcer] When you retire,
+
+477
+00:18:13,170 --> 00:18:15,400
+will you act or feel different?
+
+478
+00:18:15,400 --> 00:18:17,040
+Or will you just be you,
+
+479
+00:18:17,040 --> 00:18:20,270
+without the constraints
+of a full time job?
+
+480
+00:18:20,270 --> 00:18:21,970
+You can grow your retirement savings
+
+481
+00:18:21,970 --> 00:18:24,030
+with Pacific Life and create the future
+
+482
+00:18:24,030 --> 00:18:25,653
+that's most meaningful to you.
+
+483
+00:18:26,620 --> 00:18:30,173
+Which means you can retire
+without retiring from life.
+
+484
+00:18:31,660 --> 00:18:32,670
+Having the flexibility
+
+485
+00:18:32,670 --> 00:18:34,283
+to retire on your terms.
+
+486
+00:18:35,500 --> 00:18:37,660
+That's the power of Pacific.
+
+487
+00:18:37,660 --> 00:18:41,020
+Ask your financial professional
+about Pacific Life today.
+
+488
+00:18:41,020 --> 00:18:42,840
+- [Narrator] Family taco
+night is a heartburn night
+
+489
+00:18:42,840 --> 00:18:45,220
+you can plan for, but
+surprise pizza at the office
+
+490
+00:18:45,220 --> 00:18:47,140
+means heartburn you didn't expect.
+
+491
+00:18:47,140 --> 00:18:48,660
+Zantac works when you need it.
+
+492
+00:18:48,660 --> 00:18:50,220
+It relieves or prevents heartburn
+
+493
+00:18:50,220 --> 00:18:53,180
+in as little as 30 minutes
+and lasts up to 12 hours.
+
+494
+00:18:53,180 --> 00:18:56,310
+Zantac, eat your way, treat your way.
+
+495
+00:18:56,310 --> 00:18:59,460
+- [Narrator] 98% of us
+don't get enough omega-3s,
+
+496
+00:18:59,460 --> 00:19:01,680
+which is why MegaRed Advanced 4 in 1
+
+497
+00:19:01,680 --> 00:19:05,290
+packs more omega-3 power
+into one small soft gel.
+
+498
+00:19:05,290 --> 00:19:09,943
+It supports your heart,
+brain, eyes, and joints.
+
+499
+00:19:09,943 --> 00:19:10,930
+MegaRed.
+
+500
+00:19:10,930 --> 00:19:13,150
+- [Narrator] Prestige creams
+not living up to the hype?
+
+501
+00:19:13,150 --> 00:19:15,010
+One jar shatters the competition.
+
+502
+00:19:15,010 --> 00:19:17,660
+Olay Regenerist hydrates
+skin better than creams
+
+503
+00:19:17,660 --> 00:19:21,150
+costing over 100, 200, and even $400.
+
+504
+00:19:21,150 --> 00:19:23,193
+Fact check this ad in Good Housekeeping.
+
+505
+00:19:24,800 --> 00:19:25,940
+Olay.
+
+506
+00:19:25,940 --> 00:19:29,210
+- For singing, definitely dry mouth
+
+507
+00:19:29,210 --> 00:19:30,620
+has been a problem for me.
+
+508
+00:19:30,620 --> 00:19:33,180
+I'm also on a lot of
+medications that dry my mouth.
+
+509
+00:19:33,180 --> 00:19:35,520
+I just drank tons of water all the time,
+
+510
+00:19:35,520 --> 00:19:36,510
+it was never enough.
+
+511
+00:19:36,510 --> 00:19:38,080
+I wasn't sure I was going to be able
+
+512
+00:19:38,080 --> 00:19:39,130
+to continue singing.
+
+513
+00:19:39,130 --> 00:19:42,010
+I saw my dentist, he suggested Biotene.
+
+514
+00:19:42,010 --> 00:19:45,360
+It feels refreshing, my
+mouth felt more lubricated.
+
+515
+00:19:45,360 --> 00:19:47,800
+I use Biotene rinse twice a day,
+
+516
+00:19:47,800 --> 00:19:49,970
+then I use the spray throughout the day.
+
+517
+00:19:49,970 --> 00:19:52,696
+It actually saved my career in a way.
+
+518
+00:19:52,696 --> 00:19:54,546
+Biotene really did make a difference.
+
+519
+00:19:56,312 --> 00:19:58,503
+- [Narrator] Welcome to Fowler, Indiana.
+
+520
+00:19:59,700 --> 00:20:01,783
+One of the windiest places in America.
+
+521
+00:20:03,350 --> 00:20:05,930
+And home to three BP Wind Farms.
+
+522
+00:20:05,930 --> 00:20:08,593
+In the off chance the wind
+ever stops blowing here,
+
+523
+00:20:10,250 --> 00:20:12,160
+the lights can keep on shining
+
+524
+00:20:12,160 --> 00:20:14,850
+thanks to our natural gas, a smart partner
+
+525
+00:20:14,850 --> 00:20:18,470
+to renewable energy that's
+always ready when needed.
+
+526
+00:20:18,470 --> 00:20:20,254
+Or not.
+
+527
+00:20:20,254 --> 00:20:23,770
+At BP, we see possibilities everywhere
+
+528
+00:20:23,770 --> 00:20:25,563
+to help the world keep advancing.
+
+529
+00:20:27,920 --> 00:20:29,170
+- [Narrator] The Investigation,
+
+530
+00:20:29,170 --> 00:20:31,110
+the new podcast from ABC News.
+
+531
+00:20:31,110 --> 00:20:33,083
+Listen free on Apple Podcasts.
+
+532
+00:20:34,990 --> 00:20:37,460
+- [Narrator] For the
+250,000 service members
+
+533
+00:20:37,460 --> 00:20:39,900
+who transition out of the
+U.S. Military every year,
+
+534
+00:20:39,900 --> 00:20:41,540
+one of the toughest parts is the search
+
+535
+00:20:41,540 --> 00:20:43,010
+for a job that takes advantage of
+
+536
+00:20:43,010 --> 00:20:45,520
+the skills you've gained while serving.
+
+537
+00:20:45,520 --> 00:20:48,380
+You can now search with
+phrase jobs for veterans
+
+538
+00:20:48,380 --> 00:20:50,350
+directly on Google and then enter
+
+539
+00:20:50,350 --> 00:20:52,493
+your military occupational specialty code.
+
+540
+00:20:53,350 --> 00:20:55,330
+Google brings together job openings
+
+541
+00:20:55,330 --> 00:20:57,520
+from across the web that match the skills
+
+542
+00:20:57,520 --> 00:20:59,600
+you gained in your military role.
+
+543
+00:20:59,600 --> 00:21:02,350
+Just click to apply
+and use your experience
+
+544
+00:21:02,350 --> 00:21:03,483
+to guide your future.
+
+545
+00:21:05,378 --> 00:21:07,163
+- Pain wants to stop you,
+
+546
+00:21:08,200 --> 00:21:11,253
+block you, like that's gonna happen.
+
+547
+00:21:12,271 --> 00:21:15,340
+IcyHot, Icy to dull, hot to relax.
+
+548
+00:21:15,340 --> 00:21:16,543
+Rise from pain.
+
+549
+00:21:18,875 --> 00:21:20,020
+IcyHot.
+
+550
+00:21:20,020 --> 00:21:21,640
+- [Narrator] No matter how much you clean,
+
+551
+00:21:21,640 --> 00:21:24,050
+does your house still smell stuffy?
+
+552
+00:21:24,050 --> 00:21:26,470
+That's because your home is
+filled with soft surfaces
+
+553
+00:21:26,470 --> 00:21:29,890
+that trap odors and release
+them back into the room.
+
+554
+00:21:29,890 --> 00:21:32,060
+Try Febreze Fabric Refresher.
+
+555
+00:21:32,060 --> 00:21:34,970
+Febreze finds odors trapped in
+fabrics and cleans them away
+
+556
+00:21:34,970 --> 00:21:36,227
+as it dries.
+
+557
+00:21:36,227 --> 00:21:38,910
+Use Febreze every time you tidy up
+
+558
+00:21:38,910 --> 00:21:41,590
+to keep your whole house
+smelling fresh air clean.
+
+559
+00:21:41,590 --> 00:21:43,640
+Fabric Refresher even works for clothes
+
+560
+00:21:43,640 --> 00:21:45,300
+you wanna wear another day.
+
+561
+00:21:45,300 --> 00:21:48,190
+Make Febreze part of your clean routine,
+
+562
+00:21:48,190 --> 00:21:50,130
+for whole home freshness.
+
+563
+00:21:50,130 --> 00:21:52,150
+- [Narrator] This is Charlie not coughing
+
+564
+00:21:52,150 --> 00:21:54,700
+because he took Delsym 12 Hour.
+
+565
+00:21:54,700 --> 00:21:57,350
+And this is Charlie still
+not coughing while trying
+
+566
+00:21:57,350 --> 00:21:59,623
+his hardest not to wake Zeus.
+
+567
+00:22:01,100 --> 00:22:03,130
+Delsym 12 Hour, nothing lasts longer
+
+568
+00:22:03,130 --> 00:22:05,180
+for powerful cough relief.
+
+569
+00:22:05,180 --> 00:22:06,700
+- [Narrator] Lady Gaga and Bradley Cooper
+
+570
+00:22:06,700 --> 00:22:10,330
+perform together live on
+the Oscars, ABC tonight.
+
+571
+00:22:10,330 --> 00:22:13,670
+- [Narrator] There are
+parents, neighbors, loved ones
+
+572
+00:22:13,670 --> 00:22:16,720
+living with diseases
+like cancer, epilepsy,
+
+573
+00:22:16,720 --> 00:22:19,340
+mental health conditions, and HIV.
+
+574
+00:22:19,340 --> 00:22:20,930
+Maybe you're one of them.
+
+575
+00:22:20,930 --> 00:22:23,750
+But new Medicare rules could
+deny access to the latest
+
+576
+00:22:23,750 --> 00:22:28,720
+most effective therapies,
+therapies that keep them healthy.
+
+577
+00:22:28,720 --> 00:22:31,813
+Are Medicare cuts that save less than 1%
+
+578
+00:22:31,813 --> 00:22:34,550
+worth the risk to millions of patients?
+
+579
+00:22:34,550 --> 00:22:37,690
+President Trump promised
+to protect Medicare.
+
+580
+00:22:37,690 --> 00:22:40,110
+We need him to keep his word.
+
+581
+00:22:40,110 --> 00:22:42,350
+- Why now may be the best
+time to book a cruise.
+
+582
+00:22:42,350 --> 00:22:44,100
+Tuesday on Good Morning Washington.
+
+583
+00:22:46,880 --> 00:22:49,280
+- I think Andrew McCabe has
+made a fool out of himself
+
+584
+00:22:49,280 --> 00:22:50,630
+over the last couple of days,
+
+585
+00:22:50,630 --> 00:22:53,150
+and he really looks to me
+like sort of a poor man's
+
+586
+00:22:53,150 --> 00:22:54,790
+J. Edgar Hoover.
+
+587
+00:22:54,790 --> 00:22:57,670
+He's a, I think he's a disaster,
+
+588
+00:22:57,670 --> 00:22:59,780
+and what he was trying to do was terrible,
+
+589
+00:22:59,780 --> 00:23:01,270
+and he was caught.
+
+590
+00:23:01,270 --> 00:23:03,500
+I'm very proud to say we caught him,
+
+591
+00:23:03,500 --> 00:23:04,750
+so we'll see what happens.
+
+592
+00:23:04,750 --> 00:23:07,833
+But he is a disgraced man.
+
+593
+00:23:08,950 --> 00:23:11,120
+- President Trump taking on
+our next guest, Andrew McCabe.
+
+594
+00:23:11,120 --> 00:23:13,310
+His new book The Threat:
+How the FBI Protects
+
+595
+00:23:13,310 --> 00:23:15,730
+America in the Age of Terror and Trump
+
+596
+00:23:15,730 --> 00:23:18,240
+takes us behind the scenes at the launch
+
+597
+00:23:18,240 --> 00:23:19,200
+of the Mueller investigation.
+
+598
+00:23:19,200 --> 00:23:20,740
+Welcome to This Week.
+
+599
+00:23:20,740 --> 00:23:22,143
+Poor man's J. Edgar Hoover?
+
+600
+00:23:23,020 --> 00:23:24,682
+- I don't even know what that means.
+
+601
+00:23:24,682 --> 00:23:27,040
+It's not the first time
+that I've had to listen
+
+602
+00:23:27,040 --> 00:23:29,380
+to the president say bizarre
+and untrue things about me.
+
+603
+00:23:29,380 --> 00:23:32,370
+So it's unfortunate that this is getting
+
+604
+00:23:32,370 --> 00:23:35,540
+a little bit routine, but I will say,
+
+605
+00:23:35,540 --> 00:23:38,305
+I don't think there's
+anything sad or unfortunate
+
+606
+00:23:38,305 --> 00:23:42,070
+about speaking truth to
+power and telling the story
+
+607
+00:23:42,070 --> 00:23:44,530
+that you lived and the
+things you saw and heard
+
+608
+00:23:44,530 --> 00:23:46,500
+and the reasons behind
+the decisions you made,
+
+609
+00:23:46,500 --> 00:23:48,650
+and that's what I'm trying
+to do with the book.
+
+610
+00:23:48,650 --> 00:23:50,250
+- Another man who's got
+a reputation for speaking
+
+611
+00:23:50,250 --> 00:23:52,410
+truth to power, Robert
+Mueller, you worked for him
+
+612
+00:23:52,410 --> 00:23:53,330
+- [Andrew] I did.
+
+613
+00:23:53,330 --> 00:23:54,163
+- At the FBI.
+
+614
+00:23:54,163 --> 00:23:55,340
+Based on what you know,
+
+615
+00:23:55,340 --> 00:23:56,490
+and you heard our previous discussion,
+
+616
+00:23:56,490 --> 00:23:59,086
+what should we expect from Robert Mueller?
+
+617
+00:23:59,086 --> 00:24:02,372
+Kind of a narrow by the
+book prosecutor reporting,
+
+618
+00:24:02,372 --> 00:24:04,460
+or someone who senses he has a broader
+
+619
+00:24:04,460 --> 00:24:06,430
+responsibility to the public?
+
+620
+00:24:06,430 --> 00:24:08,070
+- That's a great question, George.
+
+621
+00:24:08,070 --> 00:24:10,030
+I think first and foremost, what you can
+
+622
+00:24:10,030 --> 00:24:13,130
+expect from Robert Mueller
+is an honest, independent
+
+623
+00:24:13,130 --> 00:24:15,170
+assessment of the work that they've done.
+
+624
+00:24:15,170 --> 00:24:17,315
+How much detail he chooses to go into
+
+625
+00:24:17,315 --> 00:24:19,530
+to convey to the Department of Justice
+
+626
+00:24:19,530 --> 00:24:20,390
+is a great question.
+
+627
+00:24:20,390 --> 00:24:23,000
+I hope they lean on the detailed side.
+
+628
+00:24:23,000 --> 00:24:26,960
+This is not a normal
+investigation by any evaluation.
+
+629
+00:24:26,960 --> 00:24:29,630
+It's one that I think
+the Department, Congress,
+
+630
+00:24:29,630 --> 00:24:31,920
+and the public have an enormous interest
+
+631
+00:24:31,920 --> 00:24:33,167
+in finding out just
+exactly what they learned.
+
+632
+00:24:33,167 --> 00:24:35,070
+- And it's complicated in so many ways,
+
+633
+00:24:35,070 --> 00:24:36,030
+including the precedent
+
+634
+00:24:36,030 --> 00:24:39,260
+of the Hillary Clinton investigation.
+
+635
+00:24:39,260 --> 00:24:43,140
+The FBI released all that
+information about her
+
+636
+00:24:43,140 --> 00:24:44,220
+as you heard Alan Dershowitz say,
+
+637
+00:24:44,220 --> 00:24:45,750
+James Comey criticized for that.
+
+638
+00:24:45,750 --> 00:24:48,020
+Was that the wrong
+decision by James Comey?
+
+639
+00:24:48,020 --> 00:24:52,320
+- I absolutely agreed
+with Director Comey's
+
+640
+00:24:52,320 --> 00:24:55,572
+approach at the time, and
+since have had the benefit
+
+641
+00:24:55,572 --> 00:24:59,620
+of some reconsideration of
+those things that we did.
+
+642
+00:24:59,620 --> 00:25:01,150
+I think I'm pretty clear
+about it in the book,
+
+643
+00:25:01,150 --> 00:25:04,534
+I think that decision
+was not well thought.
+
+644
+00:25:04,534 --> 00:25:08,000
+I think we underestimated
+the kind of political
+
+645
+00:25:08,000 --> 00:25:09,790
+toxicity of the environment that we were
+
+646
+00:25:09,790 --> 00:25:11,290
+launching our conclusions into,
+
+647
+00:25:11,290 --> 00:25:13,570
+and I think we overestimated our ability
+
+648
+00:25:13,570 --> 00:25:15,780
+and Jim's ability to convince people
+
+649
+00:25:15,780 --> 00:25:17,280
+of the great work that we had done.
+
+650
+00:25:17,280 --> 00:25:19,300
+- It is now a precedent, and in releasing
+
+651
+00:25:19,300 --> 00:25:22,670
+the entire underlying case file
+is now a precedent as well.
+
+652
+00:25:22,670 --> 00:25:25,810
+Is it one the FBI should
+follow in this investigation?
+
+653
+00:25:25,810 --> 00:25:29,540
+- I'm not sure that Jim's
+decision to announce it in July
+
+654
+00:25:29,540 --> 00:25:30,910
+is a precedent.
+
+655
+00:25:30,910 --> 00:25:33,840
+However, I think that
+it is a very concerning
+
+656
+00:25:33,840 --> 00:25:37,440
+and now recent precedent,
+the volume of information
+
+657
+00:25:37,440 --> 00:25:40,130
+that the FBI turned over
+to Congress in the wake of,
+
+658
+00:25:40,130 --> 00:25:42,520
+after the investigation was concluded.
+
+659
+00:25:42,520 --> 00:25:44,410
+That is something that
+concerned me greatly
+
+660
+00:25:44,410 --> 00:25:48,300
+at that time, and I thought,
+you know this is a practice
+
+661
+00:25:48,300 --> 00:25:49,930
+that will be hard to step away from.
+
+662
+00:25:49,930 --> 00:25:52,460
+- You made the decision to
+investigate the president,
+
+663
+00:25:52,460 --> 00:25:54,500
+the opening investigation
+into to the president
+
+664
+00:25:54,500 --> 00:25:55,790
+has come under some criticism this week
+
+665
+00:25:55,790 --> 00:25:58,080
+including from Congressman
+Mark Meadows who says
+
+666
+00:25:58,080 --> 00:25:58,913
+you made a stunning admission.
+
+667
+00:25:58,913 --> 00:26:01,012
+You wanna put up his tweet.
+
+668
+00:26:01,012 --> 00:26:03,140
+Right there where you said it was
+
+669
+00:26:03,140 --> 00:26:04,930
+because of suspicious behavior
+
+670
+00:26:04,930 --> 00:26:06,900
+by the president on
+intercept source reporting
+
+671
+00:26:06,900 --> 00:26:08,550
+or other secret evidence.
+
+672
+00:26:08,550 --> 00:26:11,173
+Congressman Meadows says
+that is an abuse of power.
+
+673
+00:26:12,229 --> 00:26:15,690
+- I'm not sure what
+he's referring to there,
+
+674
+00:26:15,690 --> 00:26:17,700
+but I can tell you that the information
+
+675
+00:26:17,700 --> 00:26:19,080
+that was in our hands at the time,
+
+676
+00:26:19,080 --> 00:26:20,610
+much of which was publicly known,
+
+677
+00:26:20,610 --> 00:26:22,982
+caused us great concern.
+
+678
+00:26:22,982 --> 00:26:25,360
+- You say us, but this was
+your decision, correct?
+
+679
+00:26:25,360 --> 00:26:27,740
+- This was the recommendation
+from the investigative team
+
+680
+00:26:27,740 --> 00:26:29,870
+and it was ultimately
+my decision to authorize
+
+681
+00:26:29,870 --> 00:26:32,210
+the opening of the case,
+and I did that because,
+
+682
+00:26:32,210 --> 00:26:34,690
+at the time, the facts clearly indicated
+
+683
+00:26:34,690 --> 00:26:37,350
+that we had an articulable
+basis to believe
+
+684
+00:26:37,350 --> 00:26:39,570
+that a crime may have been committed
+
+685
+00:26:39,570 --> 00:26:42,520
+and that a threat to national
+security might exist.
+
+686
+00:26:42,520 --> 00:26:44,571
+We hadn't concluded that
+either of those two things
+
+687
+00:26:44,571 --> 00:26:47,050
+had happened, but we were
+certainly in the place
+
+688
+00:26:47,050 --> 00:26:48,940
+that we needed to investigate both sides.
+
+689
+00:26:48,940 --> 00:26:50,110
+- You'd make the same decision today?
+
+690
+00:26:50,110 --> 00:26:51,070
+- [Andrew] Absolutely.
+
+691
+00:26:51,070 --> 00:26:54,390
+- You're also planning
+on filing a civil lawsuit
+
+692
+00:26:54,390 --> 00:26:55,460
+against President Trump.
+
+693
+00:26:55,460 --> 00:26:56,730
+What grounds do you have to sue,
+
+694
+00:26:56,730 --> 00:26:58,000
+and what do you hope to get from it?
+
+695
+00:26:58,000 --> 00:27:00,610
+- Well, I can't talk in great
+detail about the lawsuit,
+
+696
+00:27:00,610 --> 00:27:02,860
+I'll certainly let the
+pleadings speak for themselves.
+
+697
+00:27:02,860 --> 00:27:05,100
+It'll be an action against
+the Department of Justice
+
+698
+00:27:05,100 --> 00:27:10,100
+primarily, and challenging the
+circumstances of my firing.
+
+699
+00:27:10,170 --> 00:27:13,210
+It of course derives from
+the Inspector General Report,
+
+700
+00:27:13,210 --> 00:27:15,290
+a report that I deeply disagree with,
+
+701
+00:27:15,290 --> 00:27:17,290
+a report that was the result of a process
+
+702
+00:27:17,290 --> 00:27:19,530
+that I don't think anyone
+has ever seen before,
+
+703
+00:27:19,530 --> 00:27:21,067
+I certainly hadn't.
+
+704
+00:27:21,067 --> 00:27:22,600
+(clears throat) Excuse me.
+
+705
+00:27:22,600 --> 00:27:25,350
+- Do you think the president
+inspired that process?
+
+706
+00:27:25,350 --> 00:27:27,740
+- There's no doubt in my
+mind that the president's
+
+707
+00:27:27,740 --> 00:27:31,040
+clear desire impacted that process.
+
+708
+00:27:31,040 --> 00:27:32,850
+The president was
+talking about removing me
+
+709
+00:27:32,850 --> 00:27:35,120
+from months before I ever interacted with
+
+710
+00:27:35,120 --> 00:27:36,380
+the Inspector General.
+
+711
+00:27:36,380 --> 00:27:40,680
+He made his desires perfectly
+clear on his own Twitter feed.
+
+712
+00:27:40,680 --> 00:27:43,100
+The Inspector General
+delivered that result.
+
+713
+00:27:43,100 --> 00:27:44,270
+- Andrew McCabe, thanks very much.
+
+714
+00:27:44,270 --> 00:27:45,103
+- [Andrew] Thank you, George.
+
+715
+00:27:45,103 --> 00:27:47,133
+- Roundtable's up next,
+we'll be right back.
+
+716
+00:27:49,580 --> 00:27:51,850
+- [Narrator] All money
+managers might seem the same,
+
+717
+00:27:51,850 --> 00:27:54,730
+but some give their clients
+cookie cutter portfolios.
+
+718
+00:27:54,730 --> 00:27:56,720
+Fisher Investments tailors portfolios
+
+719
+00:27:56,720 --> 00:27:58,300
+to your goals and needs.
+
+720
+00:27:58,300 --> 00:28:00,760
+Some only call when they
+have something to sell.
+
+721
+00:28:00,760 --> 00:28:03,730
+Fisher calls regularly,
+so you stay informed.
+
+722
+00:28:03,730 --> 00:28:06,100
+And while some advisors are
+happy to earn commissions
+
+723
+00:28:06,100 --> 00:28:07,810
+whether you do well or not,
+
+724
+00:28:07,810 --> 00:28:09,450
+Fisher Investments' fees are structured
+
+725
+00:28:09,450 --> 00:28:11,930
+so we do better when you do better.
+
+726
+00:28:11,930 --> 00:28:14,000
+Maybe that's why most of our clients
+
+727
+00:28:14,000 --> 00:28:16,010
+come from other money managers.
+
+728
+00:28:16,010 --> 00:28:19,180
+Fisher Investments, clearly
+better money management.
+
+729
+00:28:19,180 --> 00:28:20,410
+- How's your cough?
+
+730
+00:28:20,410 --> 00:28:22,500
+- I'm good, I took this 12 Hour Mucinex
+
+731
+00:28:22,500 --> 00:28:25,320
+and sent it far away.
+
+732
+00:28:25,320 --> 00:28:27,670
+- Hey buddy, have you seen
+a nice woman with a cough?
+
+733
+00:28:27,670 --> 00:28:28,790
+Whoa!
+
+734
+00:28:28,790 --> 00:28:30,200
+- [Narrator] Mucinex DM release fast
+
+735
+00:28:30,200 --> 00:28:31,940
+and lasts 12 hours, not four.
+
+736
+00:28:31,940 --> 00:28:34,330
+Send coughs far away, all day.
+
+737
+00:28:34,330 --> 00:28:37,210
+- [Narrator] Think only
+specialty stores have what's new?
+
+738
+00:28:37,210 --> 00:28:39,770
+Olay has the hottest debut.
+
+739
+00:28:39,770 --> 00:28:43,393
+New Olay clay stick masks,
+hydrating facial mists,
+
+740
+00:28:44,540 --> 00:28:45,893
+and brightening eye cream.
+
+741
+00:28:47,160 --> 00:28:48,513
+Only by Olay.
+
+742
+00:28:49,440 --> 00:28:51,880
+- [Narrator] Whether you
+were born for more dance offs
+
+743
+00:28:51,880 --> 00:28:54,400
+more travels or more touchdowns,
+
+744
+00:28:54,400 --> 00:28:56,500
+get the immune support
+that gives you more.
+
+745
+00:28:56,500 --> 00:28:58,660
+Airborne gummies have 50% more
+
+746
+00:28:58,660 --> 00:29:00,180
+Vitamin C than Emergen-C.
+
+747
+00:29:00,180 --> 00:29:03,080
+Plus, our crafted blend of
+vitamins, minerals, and herbs.
+
+748
+00:29:03,080 --> 00:29:03,913
+Airborne.
+
+749
+00:29:05,820 --> 00:29:07,350
+- [Narrator] Okay, so
+when the New York Times
+
+750
+00:29:07,350 --> 00:29:09,160
+calls you one of the eight news podcasts
+
+751
+00:29:09,160 --> 00:29:11,620
+worth listening to, well,
+you just say thank you.
+
+752
+00:29:11,620 --> 00:29:14,100
+So go on, start smart with Start Here,
+
+753
+00:29:14,100 --> 00:29:15,893
+free on Apple Podcasts.
+
+754
+00:29:17,902 --> 00:29:19,750
+(upbeat music)
+
+755
+00:29:19,750 --> 00:29:21,260
+- [Narrator] The Russells
+travel to a different
+
+756
+00:29:21,260 --> 00:29:25,090
+swim meet every Saturday, but now
+
+757
+00:29:26,160 --> 00:29:28,253
+(sighs)
+it's Thursday.
+
+758
+00:29:30,950 --> 00:29:33,110
+Good thing they discovered Gain Flings,
+
+759
+00:29:33,110 --> 00:29:35,710
+the only detergent with concentrated Gain,
+
+760
+00:29:35,710 --> 00:29:38,343
+Oxi boost, and Febreze odor remover.
+
+761
+00:29:39,960 --> 00:29:41,650
+Mm-hmm, smelling is believing,
+
+762
+00:29:41,650 --> 00:29:44,433
+and Gain Flings can
+hi-yah karate stink, too.
+
+763
+00:29:45,490 --> 00:29:47,123
+Try new improved Gain Flings.
+
+764
+00:29:47,970 --> 00:29:51,120
+- [Narrator] 98% of us
+don't get enough omega-3s,
+
+765
+00:29:51,120 --> 00:29:53,340
+which is why MegaRed Advanced 4 in 1
+
+766
+00:29:53,340 --> 00:29:56,940
+packs more omega-3 power
+into one small soft gel.
+
+767
+00:29:56,940 --> 00:30:01,586
+It supports your heart,
+brain, eyes, and joints.
+
+768
+00:30:01,586 --> 00:30:02,419
+MegaRed.
+
+769
+00:30:03,474 --> 00:30:06,807
+(slow electronic music)
+
+770
+00:30:12,519 --> 00:30:14,807
+- [Woman] Ignition sequence start.
+
+771
+00:30:14,807 --> 00:30:17,807
+110, nine, guidance in the terminal.
+
+772
+00:30:19,697 --> 00:30:23,893
+Six, five, four, three, two, one
+
+773
+00:30:25,243 --> 00:30:28,076
+(engines roaring)
+
+774
+00:30:33,103 --> 00:30:36,453
+- Pain wants to stop you, block you.
+
+775
+00:30:37,637 --> 00:30:38,887
+Like that's gonna happen.
+
+776
+00:30:39,942 --> 00:30:42,980
+IcyHot, Icy to dull, hot to relax.
+
+777
+00:30:42,980 --> 00:30:44,173
+Rise from pain.
+
+778
+00:30:46,954 --> 00:30:47,787
+IcyHot.
+
+779
+00:30:47,787 --> 00:30:49,820
+- Do I use a toothpaste
+that whitens my teeth
+
+780
+00:30:49,820 --> 00:30:51,470
+or one that's good for my teeth?
+
+781
+00:30:51,470 --> 00:30:52,640
+Now I don't have to choose.
+
+782
+00:30:52,640 --> 00:30:53,690
+- [Narrator] From Crest 3D White,
+
+783
+00:30:53,690 --> 00:30:54,950
+the Whitening Therapy collection,
+
+784
+00:30:54,950 --> 00:30:56,450
+now with charcoal or coconut oil.
+
+785
+00:30:56,450 --> 00:30:59,070
+It gently whitens, plus it
+has a fortifying formula
+
+786
+00:30:59,070 --> 00:31:00,240
+to protect your enamel.
+
+787
+00:31:00,240 --> 00:31:02,610
+Crest, healthy beautiful smiles for life.
+
+788
+00:31:02,610 --> 00:31:04,750
+- [Narrator] This is Charlie not coughing
+
+789
+00:31:04,750 --> 00:31:07,310
+because he took Delsym 12 Hour.
+
+790
+00:31:07,310 --> 00:31:09,500
+And this is Charlie still not coughing
+
+791
+00:31:09,500 --> 00:31:11,860
+while trying his hardest not to wake Zeus.
+
+792
+00:31:13,596 --> 00:31:15,750
+Delsym 12 Hour, nothing lasts longer
+
+793
+00:31:15,750 --> 00:31:17,670
+for powerful cough relief.
+
+794
+00:31:17,670 --> 00:31:19,130
+- [Narrator] Ah, potluck.
+
+795
+00:31:19,130 --> 00:31:21,910
+These dishes will soon be yours to scrub,
+
+796
+00:31:21,910 --> 00:31:23,860
+and they're not even yours.
+
+797
+00:31:23,860 --> 00:31:27,460
+New and improved Dawn Ultra
+lets you scrub 50% less
+
+798
+00:31:27,460 --> 00:31:29,164
+and get done faster.
+
+799
+00:31:29,164 --> 00:31:32,644
+A drop of Dawn and grease is gone.
+
+800
+00:31:32,644 --> 00:31:36,810
+♪ My heart is feelin' a little bit low ♪
+
+801
+00:31:36,810 --> 00:31:37,960
+- [Narrator] When heartburn hits,
+
+802
+00:31:37,960 --> 00:31:39,770
+fight back fast with Tums Smoothies.
+
+803
+00:31:39,770 --> 00:31:41,937
+It neutralizes acid at the source.
+
+804
+00:31:41,937 --> 00:31:44,510
+♪ Tum, tum tum tum ♪
+- Smoothies.
+
+805
+00:31:44,510 --> 00:31:46,493
+Also available, Tums Sugar-Free.
+
+806
+00:31:49,543 --> 00:31:51,500
+- Roundtable standing
+by and all week long,
+
+807
+00:31:51,500 --> 00:31:53,690
+you get the latest on politics
+and breaking news alerts
+
+808
+00:31:53,690 --> 00:31:55,740
+on the ABC News app, we'll be right back.
+
+809
+00:31:58,582 --> 00:32:00,810
+(upbeat music)
+
+810
+00:32:00,810 --> 00:32:04,430
+- [Narrator] This simple banana
+peel represents a bold idea.
+
+811
+00:32:04,430 --> 00:32:07,400
+A way to create energy
+from household trash.
+
+812
+00:32:07,400 --> 00:32:10,990
+It not only saves about
+80% in carbon emissions,
+
+813
+00:32:10,990 --> 00:32:13,200
+it helps reduce landfill waste.
+
+814
+00:32:13,200 --> 00:32:15,870
+That's why BP is partnering
+with the California company
+
+815
+00:32:15,870 --> 00:32:19,700
+Fulcrum BioEnergy to turn
+garbage into jet fuel.
+
+816
+00:32:19,700 --> 00:32:23,000
+Because we can't let any
+good ideas go to waste.
+
+817
+00:32:23,000 --> 00:32:26,210
+At BP, we see possibilities everywhere
+
+818
+00:32:26,210 --> 00:32:28,570
+to help the world keep advancing.
+
+819
+00:32:28,570 --> 00:32:31,010
+- [Narrator] Whether you were
+born for more dance-offs,
+
+820
+00:32:31,010 --> 00:32:34,550
+more travels or more touchdowns,
+get the immune support
+
+821
+00:32:34,550 --> 00:32:35,620
+that gives you more.
+
+822
+00:32:35,620 --> 00:32:38,420
+Airborne gummies have 50% more Vitamin C
+
+823
+00:32:38,420 --> 00:32:40,360
+than Emergen-C plus our crafted blends
+
+824
+00:32:40,360 --> 00:32:42,360
+of vitamins, minerals, and herbs.
+
+825
+00:32:42,360 --> 00:32:43,470
+Airborne.
+
+826
+00:32:43,470 --> 00:32:45,570
+- [Narrator] Upgrade to new Tide PODS 2.0.
+
+827
+00:32:47,100 --> 00:32:49,400
+And get 50% more cleaning power
+
+828
+00:32:49,400 --> 00:32:51,260
+in the palm of your hand.
+
+829
+00:32:51,260 --> 00:32:53,730
+For a powerful clean in one step.
+
+830
+00:32:53,730 --> 00:32:55,850
+Number one stain and odor fighter,
+
+831
+00:32:55,850 --> 00:32:58,790
+number one trusted, it's got to be Tide.
+
+832
+00:32:58,790 --> 00:33:01,540
+- When I kept finding
+myself smoking in my attic,
+
+833
+00:33:01,540 --> 00:33:03,380
+hiding when I was supposed to be quitting,
+
+834
+00:33:03,380 --> 00:33:04,920
+I thought, you should
+try something that works,
+
+835
+00:33:04,920 --> 00:33:06,290
+you should try Nicorette.
+
+836
+00:33:06,290 --> 00:33:07,460
+- [Narrator] Nicorette Mini relieves
+
+837
+00:33:07,460 --> 00:33:10,260
+sudden cravings fast, any time, anywhere.
+
+838
+00:33:10,260 --> 00:33:13,370
+Nicorette Mini, you know why, we know how.
+
+839
+00:33:13,370 --> 00:33:15,600
+- [Narrator] Prestige creams
+not living up to the hype?
+
+840
+00:33:15,600 --> 00:33:17,460
+One jar shatters the competition.
+
+841
+00:33:17,460 --> 00:33:19,760
+Olay Regenerist hydrates skin better than
+
+842
+00:33:19,760 --> 00:33:23,610
+creams costing over
+100, 200, and even $400.
+
+843
+00:33:23,610 --> 00:33:25,623
+Fact check this ad in Good Housekeeping.
+
+844
+00:33:27,250 --> 00:33:28,510
+Olay.
+
+845
+00:33:28,510 --> 00:33:30,330
+- [Narrator] Family taco
+night is a heartburn night
+
+846
+00:33:30,330 --> 00:33:32,710
+you can plan for, but
+surprise pizza at the office
+
+847
+00:33:32,710 --> 00:33:34,640
+means heartburn you didn't expect.
+
+848
+00:33:34,640 --> 00:33:36,160
+Zantac works when you need it.
+
+849
+00:33:36,160 --> 00:33:37,790
+It relieves or prevents heartburn in
+
+850
+00:33:37,790 --> 00:33:40,660
+as little as 30 minutes
+and lasts up to 12 hours.
+
+851
+00:33:40,660 --> 00:33:43,753
+Zantac, eat your way, treat your way.
+
+852
+00:33:43,753 --> 00:33:45,410
+(upbeat music)
+
+853
+00:33:45,410 --> 00:33:47,160
+- [Narrator] This is decision tech.
+
+854
+00:33:49,160 --> 00:33:51,310
+It's screening technology
+that helps you find
+
+855
+00:33:51,310 --> 00:33:53,103
+a stock based on what's trending,
+
+856
+00:33:54,470 --> 00:33:55,853
+or an an investing goal.
+
+857
+00:33:57,460 --> 00:33:59,870
+It's real time insights and information
+
+858
+00:33:59,870 --> 00:34:02,113
+in your own customized view of the market.
+
+859
+00:34:02,990 --> 00:34:05,340
+It's smarter trading technology
+
+860
+00:34:05,340 --> 00:34:07,770
+for smarter trading decisions.
+
+861
+00:34:07,770 --> 00:34:10,210
+And it's only from Fidelity.
+
+862
+00:34:10,210 --> 00:34:12,253
+Open an account with no minimums today.
+
+863
+00:34:13,932 --> 00:34:14,765
+- How's your cough?
+
+864
+00:34:14,765 --> 00:34:17,100
+- I'm good, I took this 12 Hour Mucinex
+
+865
+00:34:17,100 --> 00:34:18,743
+and sent it far away.
+
+866
+00:34:19,590 --> 00:34:21,900
+- Hey buddy, have you seen
+a nice woman with a cough?
+
+867
+00:34:21,900 --> 00:34:23,133
+Whoa!
+
+868
+00:34:23,133 --> 00:34:24,440
+- [Narrator] Mucinex DM releases fast
+
+869
+00:34:24,440 --> 00:34:26,210
+and lasts 12 hours, not four.
+
+870
+00:34:26,210 --> 00:34:28,453
+Send coughs far away all day.
+
+871
+00:34:30,750 --> 00:34:33,050
+- I wanna make sure that
+in the years to come,
+
+872
+00:34:33,050 --> 00:34:35,710
+the same opportunities
+that were there for me,
+
+873
+00:34:35,710 --> 00:34:39,640
+a kid that grew up in the
+public school in Texas,
+
+874
+00:34:39,640 --> 00:34:41,370
+can be there for anybody.
+
+875
+00:34:41,370 --> 00:34:44,140
+- I'm in this fight
+because I truly do believe
+
+876
+00:34:45,100 --> 00:34:46,460
+this is our moment.
+
+877
+00:34:46,460 --> 00:34:49,860
+- I believe it is time to
+restore truth and justice,
+
+878
+00:34:49,860 --> 00:34:50,860
+how about that?
+
+879
+00:34:50,860 --> 00:34:53,180
+- You see every single
+day that President Trump
+
+880
+00:34:53,180 --> 00:34:55,810
+is trying to undermine our Constitution.
+
+881
+00:34:55,810 --> 00:34:58,130
+- I am going to run for
+president, that's right.
+
+882
+00:34:58,130 --> 00:35:00,230
+- What's gonna be different this time?
+
+883
+00:35:00,230 --> 00:35:01,930
+- We're gonna win.
+
+884
+00:35:01,930 --> 00:35:03,060
+- First vote's a year away,
+
+885
+00:35:03,060 --> 00:35:05,580
+but the campaign already in
+full swing this February.
+
+886
+00:35:05,580 --> 00:35:06,770
+Let's talk about it on our Roundtable,
+
+887
+00:35:06,770 --> 00:35:08,610
+joined by Chris Christie
+our ABC News contributor,
+
+888
+00:35:08,610 --> 00:35:10,000
+former Governor of New Jersey.
+
+889
+00:35:10,000 --> 00:35:12,070
+Also author of new book Let Me Finish.
+
+890
+00:35:12,070 --> 00:35:14,942
+Heidi Heitkamp, former Democratic
+Senator from North Dakota.
+
+891
+00:35:14,942 --> 00:35:16,790
+Rachael Bade, the new
+Congressional reporter
+
+892
+00:35:16,790 --> 00:35:18,530
+for the Washington Post, welcome to you.
+
+893
+00:35:18,530 --> 00:35:20,900
+Patrick Gaspard, president of
+the Open Societies Foundation,
+
+894
+00:35:20,900 --> 00:35:23,230
+Political Affairs Director
+in the Obama White House,
+
+895
+00:35:23,230 --> 00:35:25,140
+also former Ambassador to South Africa.
+
+896
+00:35:25,140 --> 00:35:26,970
+And Alex Castellanos,
+Republican strategist,
+
+897
+00:35:26,970 --> 00:35:29,380
+also an ABC News contributor.
+
+898
+00:35:29,380 --> 00:35:30,213
+Patrick, let me begin with you
+
+899
+00:35:30,213 --> 00:35:31,770
+and the case of Bernie Sanders.
+
+900
+00:35:31,770 --> 00:35:33,680
+He says he's going to
+win this time around,
+
+901
+00:35:33,680 --> 00:35:36,600
+lot of questions, 77 years
+old, already targeted
+
+902
+00:35:36,600 --> 00:35:38,470
+by the president as a
+Democratic Socialist,
+
+903
+00:35:38,470 --> 00:35:40,797
+but 24 hours into his announcement,
+
+904
+00:35:40,797 --> 00:35:43,627
+$6 million in contributions
+from that fundraising base.
+
+905
+00:35:43,627 --> 00:35:45,500
+- $6 million in right away
+
+906
+00:35:45,500 --> 00:35:47,770
+and another $600,000 from people
+
+907
+00:35:47,770 --> 00:35:50,210
+who have pledged to give
+him every single month.
+
+908
+00:35:50,210 --> 00:35:52,520
+It's like the Netflix model of fundraising
+
+909
+00:35:52,520 --> 00:35:53,800
+for a presidential campaign.
+
+910
+00:35:53,800 --> 00:35:55,030
+But he's going to have
+an interesting challenge
+
+911
+00:35:55,030 --> 00:35:56,070
+this time around.
+
+912
+00:35:56,070 --> 00:35:59,080
+I worked on Howard
+Dean's campaign in 2004.
+
+913
+00:35:59,080 --> 00:36:00,710
+- Against John Kerry.
+- Against John Kerry
+
+914
+00:36:00,710 --> 00:36:01,810
+and everybody else in the world,
+
+915
+00:36:01,810 --> 00:36:04,200
+and early on in that
+contest, there was a sense
+
+916
+00:36:04,200 --> 00:36:05,730
+that it was a battle
+for the hearts and minds
+
+917
+00:36:05,730 --> 00:36:07,930
+of the Democratic party,
+but at some point,
+
+918
+00:36:07,930 --> 00:36:10,240
+in Iowa and New Hampshire,
+South Carolina early on,
+
+919
+00:36:10,240 --> 00:36:12,040
+Democrats decided we
+don't want a revolution,
+
+920
+00:36:12,040 --> 00:36:13,610
+we just wanna beat George Bush,
+
+921
+00:36:13,610 --> 00:36:15,430
+and we've got to find
+somebody the most electable.
+
+922
+00:36:15,430 --> 00:36:17,380
+I think that Bernie Sanders
+is going to find this time,
+
+923
+00:36:17,380 --> 00:36:18,740
+people don't want a revolution,
+
+924
+00:36:18,740 --> 00:36:19,790
+they wanna beat Donald Trump.
+
+925
+00:36:19,790 --> 00:36:22,340
+- Heidi Heitkamp, it brings
+up an interesting point.
+
+926
+00:36:22,340 --> 00:36:24,730
+Bernie Sanders, his
+ideas have been adopted
+
+927
+00:36:24,730 --> 00:36:28,040
+by many other candidates,
+many other Democrats,
+
+928
+00:36:28,040 --> 00:36:29,890
+but there is that concern that he's gonna
+
+929
+00:36:29,890 --> 00:36:31,340
+pull the party too far to the left.
+
+930
+00:36:31,340 --> 00:36:33,400
+- Well I think that a couple
+things are gonna happen.
+
+931
+00:36:33,400 --> 00:36:34,990
+You're gonna see people get in
+
+932
+00:36:34,990 --> 00:36:37,610
+who are gonna broaden the
+scope of Democratic ideas,
+
+933
+00:36:37,610 --> 00:36:39,420
+that are gonna be put on the forefront,
+
+934
+00:36:39,420 --> 00:36:41,420
+but to the point of the money.
+
+935
+00:36:41,420 --> 00:36:44,030
+Money doesn't matter as
+much as what it used to,
+
+936
+00:36:44,030 --> 00:36:46,170
+in my opinion, and when you step back,
+
+937
+00:36:46,170 --> 00:36:49,290
+and you take a look at
+kind of the record crowds
+
+938
+00:36:49,290 --> 00:36:51,920
+that everybody's enjoying in Iowa,
+
+939
+00:36:51,920 --> 00:36:55,010
+I mean people are coming out
+because they wanna examine
+
+940
+00:36:55,010 --> 00:36:58,520
+each candidate and pick the candidate who,
+
+941
+00:36:58,520 --> 00:37:00,670
+in their mind, the highest priority
+
+942
+00:37:00,670 --> 00:37:02,200
+is who can beat this president.
+
+943
+00:37:02,200 --> 00:37:04,320
+- Money may not matter, but
+the sign that you've got
+
+944
+00:37:04,320 --> 00:37:06,200
+this movement behind you could.
+
+945
+00:37:06,200 --> 00:37:07,940
+- It could, but I
+disagree with the senator,
+
+946
+00:37:07,940 --> 00:37:11,190
+having gone through it a couple
+years ago, money matters.
+
+947
+00:37:11,190 --> 00:37:12,610
+Because, what's going to happen is,
+
+948
+00:37:12,610 --> 00:37:15,790
+whoever emerges out of this will wind up
+
+949
+00:37:15,790 --> 00:37:17,490
+having a huge target on their back
+
+950
+00:37:17,490 --> 00:37:18,600
+when they start to do well,
+
+951
+00:37:18,600 --> 00:37:20,190
+and they have to have the money to answer.
+
+952
+00:37:20,190 --> 00:37:23,810
+If you don't have the money
+to answer, you're gonna lose.
+
+953
+00:37:23,810 --> 00:37:25,950
+Because, I love all the characterization
+
+954
+00:37:25,950 --> 00:37:28,440
+of Iowa and New Hampshire
+voters, especially early,
+
+955
+00:37:28,440 --> 00:37:30,410
+as being so discerning and they wanna come
+
+956
+00:37:30,410 --> 00:37:31,560
+and meet you in person.
+
+957
+00:37:31,560 --> 00:37:33,200
+They wanna meet everybody in person,
+
+958
+00:37:33,200 --> 00:37:34,940
+but they also watch what
+comes in their mailbox
+
+959
+00:37:34,940 --> 00:37:37,300
+or what comes over the
+TV, and guys like Alex
+
+960
+00:37:37,300 --> 00:37:39,170
+wouldn't have made the fortune he's made
+
+961
+00:37:39,170 --> 00:37:41,540
+over time if that didn't matter.
+
+962
+00:37:41,540 --> 00:37:43,270
+It does matter, the money will matter,
+
+963
+00:37:43,270 --> 00:37:45,030
+and Sanders will matter.
+
+964
+00:37:45,030 --> 00:37:47,380
+But it's a Republican dream that Sanders
+
+965
+00:37:47,380 --> 00:37:48,801
+could actually be the nominee.
+
+966
+00:37:48,801 --> 00:37:49,980
+- Can I just jump in real quick and say
+
+967
+00:37:49,980 --> 00:37:52,790
+it is increasingly, the difference between
+
+968
+00:37:52,790 --> 00:37:55,210
+Democrats on Capitol
+Hill and these Democrats
+
+969
+00:37:55,210 --> 00:37:57,960
+jumping in to 2020 are
+becoming increasingly glaring.
+
+970
+00:37:57,960 --> 00:37:59,720
+When you see all these
+candidates supporting
+
+971
+00:37:59,720 --> 00:38:03,400
+Medicare for all, the Green
+New Deal, free college,
+
+972
+00:38:03,400 --> 00:38:06,010
+all these ideas, getting
+corporate money out of politics.
+
+973
+00:38:06,010 --> 00:38:08,910
+On Capitol Hill, Nancy
+Pelosi is keeping her arms--
+
+974
+00:38:08,910 --> 00:38:10,330
+- But she's holding the line against some
+
+975
+00:38:10,330 --> 00:38:11,870
+of her new members as well there.
+
+976
+00:38:11,870 --> 00:38:13,200
+- Well they're introducing ideas,
+
+977
+00:38:13,200 --> 00:38:15,350
+but they're not gonna be
+voted on on the floor.
+
+978
+00:38:15,350 --> 00:38:16,350
+And there's a reason for that,
+
+979
+00:38:16,350 --> 00:38:18,580
+and that's because most
+Democrats on the Hill
+
+980
+00:38:18,580 --> 00:38:20,200
+are afraid of these ideas, and they think
+
+981
+00:38:20,200 --> 00:38:21,310
+they go too far and they're gonna--
+
+982
+00:38:21,310 --> 00:38:24,900
+- In a presidential campaign,
+politics will just swamp
+
+983
+00:38:24,900 --> 00:38:28,120
+public policy over the course
+of the next 18 months or so.
+
+984
+00:38:28,120 --> 00:38:29,000
+- [Rachael] They're going
+to have to be careful--
+
+985
+00:38:29,000 --> 00:38:30,880
+- Capitol Hill will be taking a back seat
+
+986
+00:38:30,880 --> 00:38:31,713
+to what's happening in--
+
+987
+00:38:31,713 --> 00:38:33,430
+- It shows in the divide
+in the party, though.
+
+988
+00:38:33,430 --> 00:38:35,780
+- President Trump loves
+the idea of Bernie Sanders
+
+989
+00:38:35,780 --> 00:38:36,613
+front and center.
+
+990
+00:38:36,613 --> 00:38:38,849
+- Oh, he couldn't be that
+lucky again could he?
+
+991
+00:38:38,849 --> 00:38:41,290
+Look, the president has
+seen a Democratic party
+
+992
+00:38:41,290 --> 00:38:44,510
+going as crazy far left as Republicans
+
+993
+00:38:44,510 --> 00:38:48,180
+did far right under
+Obama, and it's a gift.
+
+994
+00:38:48,180 --> 00:38:50,546
+Socialism didn't work for the Pilgrims.
+
+995
+00:38:50,546 --> 00:38:53,350
+The first two years, half of them died,
+
+996
+00:38:53,350 --> 00:38:55,762
+and now that's the
+Democratic party agenda.
+
+997
+00:38:55,762 --> 00:38:58,790
+There are three Democratic
+primaries to take on Trump,
+
+998
+00:38:58,790 --> 00:38:59,870
+and all of them are gonna,
+
+999
+00:38:59,870 --> 00:39:02,670
+there's the Establishment
+primary with Biden
+
+1000
+00:39:02,670 --> 00:39:04,150
+and Klobuchar--
+
+1001
+00:39:04,150 --> 00:39:05,273
+- [Patrick] Can't get more Socialist
+
+1002
+00:39:05,273 --> 00:39:06,443
+than the Quakers, right?
+
+1003
+00:39:07,780 --> 00:39:09,080
+That was their model.
+
+1004
+00:39:09,080 --> 00:39:11,340
+- You're going to have
+the Progressive primary
+
+1005
+00:39:11,340 --> 00:39:13,890
+which Sanders has the money and the lead.
+
+1006
+00:39:13,890 --> 00:39:17,130
+Then you've got Kamala
+Harris and Cory Booker
+
+1007
+00:39:17,130 --> 00:39:19,530
+for the Obama Black primary.
+
+1008
+00:39:19,530 --> 00:39:22,650
+Which one, I think Kamala
+Harris is gonna succeed
+
+1009
+00:39:22,650 --> 00:39:24,420
+in that one, you're
+gonna see Bernie Sanders,
+
+1010
+00:39:24,420 --> 00:39:25,550
+maybe Klobuchar--
+- Alex.
+
+1011
+00:39:25,550 --> 00:39:28,847
+- I would bet you right
+now that Kamala Harris
+
+1012
+00:39:28,847 --> 00:39:30,806
+can grow beyond, I think she's being,
+
+1013
+00:39:30,806 --> 00:39:32,537
+she's a big enough candidate--
+
+1014
+00:39:32,537 --> 00:39:34,610
+- I'd be careful there,
+there's no such thing
+
+1015
+00:39:34,610 --> 00:39:36,370
+as the Obama Black primary.
+
+1016
+00:39:36,370 --> 00:39:38,540
+- Yes, I think there is.
+- I think Kamala Harris
+
+1017
+00:39:38,540 --> 00:39:42,010
+and Cory Booker are both
+extraordinary candidates
+
+1018
+00:39:42,010 --> 00:39:44,154
+who can appeal to a broad cross section.
+
+1019
+00:39:44,154 --> 00:39:45,787
+- That's my point about Kamala Harris.
+
+1020
+00:39:45,787 --> 00:39:48,567
+I agree with that, and I
+think that's right now--
+
+1021
+00:39:50,633 --> 00:39:54,080
+- You're all judging the
+Democratic party ideas
+
+1022
+00:39:54,080 --> 00:39:55,760
+by the people who are in now.
+
+1023
+00:39:55,760 --> 00:39:57,470
+What happens when Michael Bennett gets in?
+
+1024
+00:39:57,470 --> 00:39:59,940
+What happens when Sherrod Brown gets in?
+
+1025
+00:39:59,940 --> 00:40:04,150
+What happens when you
+see Bloomberg get in?
+
+1026
+00:40:04,150 --> 00:40:05,370
+- What happens is they--
+
+1027
+00:40:05,370 --> 00:40:06,203
+- You mention Joe Biden,
+you think he's getting in?
+
+1028
+00:40:06,203 --> 00:40:07,036
+- I do.
+
+1029
+00:40:07,036 --> 00:40:08,060
+I think Joe will get in.
+
+1030
+00:40:08,060 --> 00:40:10,740
+I think the Vice president
+will feel a calling
+
+1031
+00:40:10,740 --> 00:40:13,600
+will feel a necessity
+to bring that gravitas
+
+1032
+00:40:13,600 --> 00:40:15,300
+and I think that the minute he gets in,
+
+1033
+00:40:15,300 --> 00:40:17,530
+he's going to be the
+recognized front runner.
+
+1034
+00:40:17,530 --> 00:40:18,868
+- [Rachael] And there's an
+opening for that right now.
+
+1035
+00:40:18,868 --> 00:40:20,750
+- Joe Biden is hot, he has name ID,
+
+1036
+00:40:20,750 --> 00:40:22,850
+a lot of Democratic
+voters are sitting there
+
+1037
+00:40:22,850 --> 00:40:24,070
+because they don't know the alternative
+
+1038
+00:40:24,070 --> 00:40:26,420
+but the soul of the
+Democratic party is rabidly
+
+1039
+00:40:26,420 --> 00:40:29,070
+anti-Trump and it has gone crazy left.
+
+1040
+00:40:29,070 --> 00:40:31,904
+It belongs to Ocasio-Cortez,
+not Joe Biden.
+
+1041
+00:40:31,904 --> 00:40:33,419
+- The soul of the Democratic Party
+
+1042
+00:40:33,419 --> 00:40:37,012
+- That is wishful Republican thinking.
+
+1043
+00:40:37,012 --> 00:40:40,698
+- The soul of the Democratic
+party, respectfully Alex,
+
+1044
+00:40:40,698 --> 00:40:43,310
+there are folks who are sitting in Iowa,
+
+1045
+00:40:43,310 --> 00:40:45,440
+New Hampshire, South Carolina,
+
+1046
+00:40:45,440 --> 00:40:48,060
+California which is an
+early state on Super Tuesday
+
+1047
+00:40:48,060 --> 00:40:50,770
+this time who are worried
+about the education
+
+1048
+00:40:50,770 --> 00:40:53,590
+of their children, they're
+concerned about health care.
+
+1049
+00:40:53,590 --> 00:40:55,253
+- Which is why Elizabeth Warren--
+
+1050
+00:40:55,253 --> 00:40:57,183
+- They're terribly concerned
+about some of the corruption
+
+1051
+00:40:57,183 --> 00:40:58,629
+we have in Washington, DC.
+
+1052
+00:40:58,629 --> 00:40:59,811
+- Is for reparations.
+
+1053
+00:40:59,811 --> 00:41:00,865
+- At the end of the day, here's the issue.
+
+1054
+00:41:00,865 --> 00:41:01,698
+We're gonna dominate,
+
+1055
+00:41:01,698 --> 00:41:04,871
+we're gonna move away
+from politics of ideas
+
+1056
+00:41:04,871 --> 00:41:06,550
+- Let's get to what's practical here.
+
+1057
+00:41:06,550 --> 00:41:08,400
+Let's get to what's practical here.
+
+1058
+00:41:08,400 --> 00:41:11,600
+And what campaigns come
+down to are candidates.
+
+1059
+00:41:11,600 --> 00:41:13,390
+Forget about all the
+ideology and everything else,
+
+1060
+00:41:13,390 --> 00:41:14,570
+it comes down to candidates.
+- Who's gonna perform?
+
+1061
+00:41:14,570 --> 00:41:15,640
+- Who's gonna perform?
+
+1062
+00:41:15,640 --> 00:41:17,070
+You've seen this, I've seen this,
+
+1063
+00:41:17,070 --> 00:41:17,903
+I've lived it.
+
+1064
+00:41:17,903 --> 00:41:19,460
+Who's going to get up there and perform?
+
+1065
+00:41:19,460 --> 00:41:22,720
+Kamala Harria, you know
+learned this in her first week,
+
+1066
+00:41:22,720 --> 00:41:25,430
+when she's talking smoking
+pot listening to Tupac,
+
+1067
+00:41:25,430 --> 00:41:27,000
+when Tupac's albums hadn't come out
+
+1068
+00:41:27,000 --> 00:41:29,430
+until six years after she
+said she was in college.
+
+1069
+00:41:29,430 --> 00:41:31,560
+You're shaking your head,
+Patrick, but let me tell you.
+
+1070
+00:41:31,560 --> 00:41:34,480
+She's probably told that
+BS story in California
+
+1071
+00:41:34,480 --> 00:41:37,180
+a thousand times and no
+one ever called her on it.
+
+1072
+00:41:37,180 --> 00:41:38,760
+When you run for president--
+- But Governor--
+
+1073
+00:41:38,760 --> 00:41:40,440
+- They call you on everything.
+
+1074
+00:41:40,440 --> 00:41:42,420
+Who's going to perform
+when the, there's only
+
+1075
+00:41:42,420 --> 00:41:43,839
+two alternatives, George.
+
+1076
+00:41:43,839 --> 00:41:45,154
+- We're going to judge them by whether
+
+1077
+00:41:45,154 --> 00:41:46,246
+they tell the truth now?
+
+1078
+00:41:46,246 --> 00:41:47,777
+(laughs)
+
+1079
+00:41:47,777 --> 00:41:49,935
+that's a new standard for president!
+
+1080
+00:41:49,935 --> 00:41:52,140
+- The Governor is saying
+something terribly important.
+
+1081
+00:41:52,140 --> 00:41:56,120
+- When the lights go on,
+there's only two alternatives.
+
+1082
+00:41:56,120 --> 00:41:58,180
+You either shine or you melt.
+
+1083
+00:41:58,180 --> 00:41:59,410
+Those are the only two alternatives
+
+1084
+00:41:59,410 --> 00:42:01,540
+for presidential candidates
+and we're gonna see
+
+1085
+00:42:01,540 --> 00:42:03,540
+who does what, and I
+think it's way too early
+
+1086
+00:42:03,540 --> 00:42:05,160
+to try to figure it out with these folks.
+
+1087
+00:42:05,160 --> 00:42:07,990
+And when Joe Biden is
+seen as the front runner,
+
+1088
+00:42:07,990 --> 00:42:10,141
+which I think he is if he gets in,
+
+1089
+00:42:10,141 --> 00:42:13,660
+this is a guy who's run twice
+and hasn't exactly shined
+
+1090
+00:42:13,660 --> 00:42:14,970
+both times he ran.
+
+1091
+00:42:14,970 --> 00:42:16,350
+- Governor, you know a thing or two about
+
+1092
+00:42:16,350 --> 00:42:18,270
+fanciful tales and that type of thing.
+
+1093
+00:42:18,270 --> 00:42:20,670
+- [Chris] Aw, Patrick.
+
+1094
+00:42:20,670 --> 00:42:22,250
+- At the end of the day,
+the Governor is right
+
+1095
+00:42:22,250 --> 00:42:25,110
+that this really is about performance.
+
+1096
+00:42:25,110 --> 00:42:27,680
+When you showed that clip at
+the very beginning, George,
+
+1097
+00:42:27,680 --> 00:42:30,500
+every candidate with the
+exception of Amy Klobuchar
+
+1098
+00:42:30,500 --> 00:42:32,300
+started each sentence with I.
+
+1099
+00:42:32,300 --> 00:42:35,060
+I believe, I feel, they understand
+
+1100
+00:42:35,060 --> 00:42:36,560
+that at the end of the
+day, it's whether or not
+
+1101
+00:42:36,560 --> 00:42:39,680
+people can trust them and
+their values and their story.
+
+1102
+00:42:39,680 --> 00:42:41,430
+- Rachael, one of the things
+we've been seeing is that,
+
+1103
+00:42:41,430 --> 00:42:43,586
+since the government shut
+down, the president's
+
+1104
+00:42:43,586 --> 00:42:45,770
+actually had something of a
+come back in recent weeks.
+
+1105
+00:42:45,770 --> 00:42:48,550
+Approval ratings back up,
+heading towards the mid-40,
+
+1106
+00:42:48,550 --> 00:42:50,550
+not quite there yet, but this whole idea
+
+1107
+00:42:50,550 --> 00:42:51,670
+of the emergency going to back
+
+1108
+00:42:51,670 --> 00:42:53,690
+front and center on
+Capitol Hill this week.
+
+1109
+00:42:53,690 --> 00:42:55,340
+- No, exactly, I mean
+the president thinks that
+
+1110
+00:42:55,340 --> 00:42:58,370
+this is a good re-election,
+something he can run on.
+
+1111
+00:42:58,370 --> 00:42:59,950
+That it's gonna help him.
+
+1112
+00:42:59,950 --> 00:43:01,910
+And, you know it shows that he's obviously
+
+1113
+00:43:01,910 --> 00:43:04,570
+catering to his base,
+and he's showing that he
+
+1114
+00:43:04,570 --> 00:43:05,690
+is putting them front and center,
+
+1115
+00:43:05,690 --> 00:43:07,780
+but it's interesting
+because, in doing that,
+
+1116
+00:43:07,780 --> 00:43:10,760
+he has sort of upended the
+re-elections potentially
+
+1117
+00:43:10,760 --> 00:43:12,160
+of other Senate Republicans.
+
+1118
+00:43:12,160 --> 00:43:13,977
+There are 22 Senate Republicans.
+
+1119
+00:43:13,977 --> 00:43:14,810
+- They don't want this vote.
+- They don't!
+
+1120
+00:43:14,810 --> 00:43:16,470
+and a lot of them were privately
+
+1121
+00:43:16,470 --> 00:43:18,130
+telling the president
+please don't do this.
+
+1122
+00:43:18,130 --> 00:43:20,060
+Don't do this, this is
+gonna create a terrible
+
+1123
+00:43:20,060 --> 00:43:23,013
+precedent if we have a President
+Bernie Sanders some day,
+
+1124
+00:43:23,013 --> 00:43:26,150
+if he's gonna try to do
+something with the Green New Deal
+
+1125
+00:43:26,150 --> 00:43:28,680
+on his own, call it an
+emergency, this a big problem.
+
+1126
+00:43:28,680 --> 00:43:29,530
+And we can't have that.
+
+1127
+00:43:29,530 --> 00:43:31,340
+But we're already seeing a lot of
+
+1128
+00:43:31,340 --> 00:43:33,990
+those same Republicans who privately
+
+1129
+00:43:33,990 --> 00:43:36,820
+were telling him don't do
+this, come out and say that
+
+1130
+00:43:36,820 --> 00:43:38,930
+basically they're not going
+to push back against him.
+
+1131
+00:43:38,930 --> 00:43:41,040
+- Still his Republican
+party, and by the way,
+
+1132
+00:43:41,040 --> 00:43:43,110
+if the election were held today
+
+1133
+00:43:43,110 --> 00:43:45,160
+against the Democratic
+party he's running against,
+
+1134
+00:43:45,160 --> 00:43:49,452
+I think Donald Trump will win
+by more than he won last time.
+
+1135
+00:43:49,452 --> 00:43:52,190
+The Democratic Party is going crazy left.
+
+1136
+00:43:52,190 --> 00:43:53,540
+The only thing that has changed,
+
+1137
+00:43:53,540 --> 00:43:55,000
+neither party has changed by the way,
+
+1138
+00:43:55,000 --> 00:43:57,320
+Republicans or Democrats
+since Trump was elected,
+
+1139
+00:43:57,320 --> 00:44:00,240
+except Trump is now not theory, he's fact.
+
+1140
+00:44:00,240 --> 00:44:01,766
+And it's an impressive record--
+
+1141
+00:44:01,766 --> 00:44:03,069
+- [Patrick} It's a fact
+that the mid-term Elections
+
+1142
+00:44:03,069 --> 00:44:04,600
+- Growth and security, excuse me--
+
+1143
+00:44:04,600 --> 00:44:06,647
+- Were a creation of that fact.
+
+1144
+00:44:06,647 --> 00:44:07,850
+- But see, that's the thing--
+
+1145
+00:44:07,850 --> 00:44:08,930
+- You can't forget that happened.
+
+1146
+00:44:08,930 --> 00:44:10,319
+- No, that's important, but actually--
+
+1147
+00:44:10,319 --> 00:44:12,936
+- Where suburban white men in particular
+
+1148
+00:44:12,936 --> 00:44:14,787
+have been fleeing from this president
+
+1149
+00:44:14,787 --> 00:44:15,740
+- What you have to
+understan, mid-terms are
+
+1150
+00:44:15,740 --> 00:44:17,610
+a referendum on the incumbent.
+
+1151
+00:44:17,610 --> 00:44:20,440
+Presidential years are
+choices, and the Democrats
+
+1152
+00:44:20,440 --> 00:44:22,670
+are offering a choice of going left,
+
+1153
+00:44:22,670 --> 00:44:23,630
+Trump is saying--
+
+1154
+00:44:23,630 --> 00:44:25,090
+- The Democratic choice is not yet--
+
+1155
+00:44:25,090 --> 00:44:27,008
+- The economy is growing, I'm locking--
+
+1156
+00:44:27,008 --> 00:44:28,130
+- The Democratic choice is not clarified,
+
+1157
+00:44:28,130 --> 00:44:30,070
+that's why you have the
+primary contests, Alex.
+
+1158
+00:44:30,070 --> 00:44:33,040
+- Let me just say Trump's choice is clear.
+
+1159
+00:44:33,040 --> 00:44:35,750
+Growth and locking the
+doors at night and security.
+
+1160
+00:44:35,750 --> 00:44:38,470
+The Democrat's response has
+not been about either of those.
+
+1161
+00:44:38,470 --> 00:44:40,700
+It's only been about the mommy bear party,
+
+1162
+00:44:40,700 --> 00:44:42,530
+caregiving and nourishing.
+
+1163
+00:44:42,530 --> 00:44:45,840
+It's like a 1950s sitcom and in that case,
+
+1164
+00:44:45,840 --> 00:44:48,864
+the teddy bear party usually
+beats the mommy bear party.
+
+1165
+00:44:48,864 --> 00:44:50,656
+- So health care, child care-
+
+1166
+00:44:50,656 --> 00:44:52,555
+- I'm not advocating,
+I'm just telling you,
+
+1167
+00:44:52,555 --> 00:44:54,457
+Trump has got a very strong hand going.
+
+1168
+00:44:54,457 --> 00:44:58,470
+- If you think the economy in a year
+
+1169
+00:44:58,470 --> 00:45:01,170
+is gonna look like the
+economy today, you're wrong.
+
+1170
+00:45:01,170 --> 00:45:05,310
+And the tax refund issue
+is real, I know this.
+
+1171
+00:45:05,310 --> 00:45:07,059
+You can say well their taxes were reduced.
+
+1172
+00:45:07,059 --> 00:45:09,160
+People count on that refund,
+
+1173
+00:45:09,160 --> 00:45:11,120
+and now they feel they got shortchanged.
+
+1174
+00:45:11,120 --> 00:45:13,870
+They look at economic
+and business investment
+
+1175
+00:45:13,870 --> 00:45:15,563
+that never materialized.
+
+1176
+00:45:16,865 --> 00:45:18,800
+They look at a package,
+the signature piece,
+
+1177
+00:45:18,800 --> 00:45:20,260
+economic piece for this president--
+
+1178
+00:45:20,260 --> 00:45:22,164
+- Hoping for bad news is not
+a great political strategy.
+
+1179
+00:45:22,164 --> 00:45:23,050
+- No, no, and I'm not hoping for bad news.
+
+1180
+00:45:23,050 --> 00:45:26,375
+But I think bad news is
+predictable in this cycle.
+
+1181
+00:45:26,375 --> 00:45:28,820
+I mean I'm not the only
+person saying this.
+
+1182
+00:45:28,820 --> 00:45:30,513
+I think look at one of the leading--
+
+1183
+00:45:30,513 --> 00:45:31,346
+- [Alex] It is if you're a socialist.
+
+1184
+00:45:31,346 --> 00:45:34,090
+- Indicators in the
+economy is agriculture.
+
+1185
+00:45:34,090 --> 00:45:36,223
+We have record bankruptcies
+in the farming industry.
+
+1186
+00:45:36,223 --> 00:45:40,170
+- Alex is counting on that
+socialism label sticking,
+
+1187
+00:45:40,170 --> 00:45:42,040
+but Chris, I wanna bring
+up a different point
+
+1188
+00:45:42,040 --> 00:45:43,170
+inside the Republican party.
+
+1189
+00:45:43,170 --> 00:45:45,160
+It does seem to be
+Trump's Republican party.
+
+1190
+00:45:45,160 --> 00:45:46,950
+Right now, we have Bill Weld say that
+
+1191
+00:45:46,950 --> 00:45:48,237
+he's going to run against him.
+
+1192
+00:45:48,237 --> 00:45:49,070
+Larry Hogan, Governor of Maryland,
+
+1193
+00:45:49,070 --> 00:45:50,230
+had this to say this week.
+
+1194
+00:45:51,530 --> 00:45:55,090
+- I was just sworn in a
+month ago for my second term.
+
+1195
+00:45:55,090 --> 00:45:56,960
+I've got a lot of work
+to do here in Maryland.
+
+1196
+00:45:56,960 --> 00:45:58,760
+I would say I'm being
+approached from a lot of
+
+1197
+00:45:58,760 --> 00:46:02,200
+different people, and I guess
+the best way to put it is,
+
+1198
+00:46:02,200 --> 00:46:05,070
+I haven't thrown them out of my office.
+
+1199
+00:46:05,070 --> 00:46:06,600
+- How real is this idea of a significant
+
+1200
+00:46:06,600 --> 00:46:07,520
+challenge to the president?
+
+1201
+00:46:07,520 --> 00:46:09,060
+- Not, not real.
+
+1202
+00:46:09,060 --> 00:46:11,470
+Listen, there's probably
+nobody in American politics
+
+1203
+00:46:11,470 --> 00:46:13,330
+who knows Larry Hogan better than I do
+
+1204
+00:46:13,330 --> 00:46:14,707
+because I was the guy who I in 2014
+
+1205
+00:46:14,707 --> 00:46:17,160
+went in there when no one
+thought Maryland was winnable
+
+1206
+00:46:17,160 --> 00:46:19,410
+and I invested $2 million in Larry Hogan,
+
+1207
+00:46:19,410 --> 00:46:20,930
+and we got him over the finish line.
+
+1208
+00:46:20,930 --> 00:46:23,300
+Larry Hogan won both times,
+
+1209
+00:46:23,300 --> 00:46:25,570
+only the second Republican
+ever to be re-elected
+
+1210
+00:46:25,570 --> 00:46:27,820
+Governor of Maryland in
+the history of the state
+
+1211
+00:46:27,820 --> 00:46:29,240
+because he's a smart politician.
+
+1212
+00:46:29,240 --> 00:46:32,590
+And a smart politician is not,
+based on this set of facts,
+
+1213
+00:46:32,590 --> 00:46:34,720
+gonna challenge Donald Trump in a primary.
+
+1214
+00:46:34,720 --> 00:46:36,410
+Because the guy's got 80%
+
+1215
+00:46:36,410 --> 00:46:38,160
+approval ratings among Republicans.
+
+1216
+00:46:38,160 --> 00:46:41,160
+And so I think what Larry's
+doing is he's got some issues
+
+1217
+00:46:41,160 --> 00:46:43,350
+he cares about, he's gonna
+use this as a platform
+
+1218
+00:46:43,350 --> 00:46:45,170
+to speak out about those issues, to try to
+
+1219
+00:46:45,170 --> 00:46:47,690
+bring the party a little bit
+back towards where he is,
+
+1220
+00:46:47,690 --> 00:46:50,420
+but the idea that Larry Hogan,
+and Bill Weld's not serious,
+
+1221
+00:46:50,420 --> 00:46:51,594
+no one takes Bill Weld seriously,
+
+1222
+00:46:51,594 --> 00:46:53,910
+Larry Hogan would be
+serious, but he's not.
+
+1223
+00:46:53,910 --> 00:46:55,810
+My view is, he's not gonna do it.
+
+1224
+00:46:55,810 --> 00:46:58,450
+- It seems like it would
+be, it's political suicide
+
+1225
+00:46:58,450 --> 00:46:59,283
+to do that right now.
+
+1226
+00:46:59,283 --> 00:47:02,110
+I mean this is Donald Trump's
+party still, two years later.
+
+1227
+00:47:02,110 --> 00:47:04,521
+Look no further again to the
+National Emergency Declaration.
+
+1228
+00:47:04,521 --> 00:47:05,530
+- [Patrick] Provided
+there isn't a revelation
+
+1229
+00:47:05,530 --> 00:47:06,420
+that comes out of these investigatons--
+
+1230
+00:47:06,420 --> 00:47:08,760
+- Then by the way, Larry
+Hogan would be with
+
+1231
+00:47:08,760 --> 00:47:10,602
+a whole group of people who
+were running if that happened.
+
+1232
+00:47:10,602 --> 00:47:11,780
+- Republicans were out
+speaking against this
+
+1233
+00:47:11,780 --> 00:47:13,970
+Emergency Declaration for weeks.
+
+1234
+00:47:13,970 --> 00:47:16,400
+He totally ignored them and
+now they're backing off.
+
+1235
+00:47:16,400 --> 00:47:18,876
+This is Trump's party and
+running against him is foolish.
+
+1236
+00:47:18,876 --> 00:47:19,940
+- The question is what
+does happen with these
+
+1237
+00:47:19,940 --> 00:47:21,660
+farther on investigations
+throughout Mueller?
+
+1238
+00:47:21,660 --> 00:47:24,440
+We still haven't Robert
+Mueller's report either, Senator.
+
+1239
+00:47:24,440 --> 00:47:26,650
+Do you sense any concern among your former
+
+1240
+00:47:26,650 --> 00:47:28,970
+colleagues on Capitol Hill
+that if Robert Mueller
+
+1241
+00:47:28,970 --> 00:47:32,293
+finishes his job and hands it off to them
+
+1242
+00:47:32,293 --> 00:47:35,340
+that they're going to be
+wary of going too far?
+
+1243
+00:47:35,340 --> 00:47:37,130
+- I hope so, I think they are.
+
+1244
+00:47:37,130 --> 00:47:39,930
+I think they realize that
+one of the worst things
+
+1245
+00:47:39,930 --> 00:47:42,330
+that can happen, in my
+opinion, is impeachment.
+
+1246
+00:47:42,330 --> 00:47:44,720
+I think that you have
+to win at the ballot box
+
+1247
+00:47:44,720 --> 00:47:49,720
+in order to have a real
+future for this country.
+
+1248
+00:47:49,992 --> 00:47:51,140
+- [George] Does that
+mean no investigating?
+
+1249
+00:47:51,140 --> 00:47:52,720
+- No, it doesn't mean no investigating,
+
+1250
+00:47:52,720 --> 00:47:54,200
+but it does mean that what do you do
+
+1251
+00:47:54,200 --> 00:47:55,660
+with that investigation?
+
+1252
+00:47:55,660 --> 00:47:58,280
+All of that information is
+critical, it's important.
+
+1253
+00:47:58,280 --> 00:47:59,965
+The public needs to know.
+
+1254
+00:47:59,965 --> 00:48:02,960
+I said 20% of the public, guess what?
+
+1255
+00:48:02,960 --> 00:48:04,800
+They believe whatever the president says.
+
+1256
+00:48:04,800 --> 00:48:07,110
+The next 20% will look at this and say
+
+1257
+00:48:07,110 --> 00:48:09,637
+yeah, he doesn't always
+tell the truth but so what?
+
+1258
+00:48:09,637 --> 00:48:13,180
+I mean so you've got 40% who
+aren't really gonna ever care.
+
+1259
+00:48:13,180 --> 00:48:16,150
+You're looking at the 20% that
+you hope you could persuade.
+
+1260
+00:48:16,150 --> 00:48:17,080
+- That's what the polls say now.
+
+1261
+00:48:17,080 --> 00:48:18,600
+The past is prologue, senator.
+
+1262
+00:48:18,600 --> 00:48:21,460
+I remember the polling a year before
+
+1263
+00:48:21,460 --> 00:48:24,446
+President Nixon resigned
+said that 50% of Americans
+
+1264
+00:48:24,446 --> 00:48:25,710
+thought that too much media attention was
+
+1265
+00:48:25,710 --> 00:48:27,190
+being paid to Watergate.
+
+1266
+00:48:27,190 --> 00:48:28,900
+The polling on the day that he resigned
+
+1267
+00:48:28,900 --> 00:48:31,500
+said a quarter of Americans
+still supported Richard Nixon.
+
+1268
+00:48:31,500 --> 00:48:33,190
+So I just, I think that you--
+
+1269
+00:48:33,190 --> 00:48:34,660
+- [George] You're full speed ahead?
+
+1270
+00:48:34,660 --> 00:48:37,230
+- I think Democrats in
+Congress are absolutely
+
+1271
+00:48:37,230 --> 00:48:39,059
+going to continue these investigations.
+
+1272
+00:48:39,059 --> 00:48:41,600
+There's more than enough
+fodder when you consider
+
+1273
+00:48:41,600 --> 00:48:44,530
+that every institution that
+Donald Trump has touched
+
+1274
+00:48:44,530 --> 00:48:47,230
+has come into being questioned from
+
+1275
+00:48:47,230 --> 00:48:49,523
+his cabinet picks like his
+current Labor Secretary
+
+1276
+00:48:49,523 --> 00:48:51,980
+to his foundation that he had to shutter.
+
+1277
+00:48:51,980 --> 00:48:54,283
+- Here's the thing, though, it that
+
+1278
+00:48:54,283 --> 00:48:57,270
+there better be some there there.
+
+1279
+00:48:57,270 --> 00:48:59,328
+If they're going to decide
+to go down that road,
+
+1280
+00:48:59,328 --> 00:49:01,436
+- Mountains of there.
+
+1281
+00:49:01,436 --> 00:49:03,579
+- Patrick, this is a
+different context now.
+
+1282
+00:49:03,579 --> 00:49:05,460
+Because when you're
+getting into a presidential
+
+1283
+00:49:05,460 --> 00:49:08,020
+election cycle, people
+are going to see it as not
+
+1284
+00:49:08,020 --> 00:49:10,960
+being necessarily legitimate,
+but being political.
+
+1285
+00:49:10,960 --> 00:49:12,640
+Even more political when you're gonna have
+
+1286
+00:49:12,640 --> 00:49:14,319
+all these candidates
+that they're not going
+
+1287
+00:49:14,319 --> 00:49:15,322
+to be able to control themselves.
+
+1288
+00:49:15,322 --> 00:49:16,420
+- How does that affect
+your former colleagues
+
+1289
+00:49:16,420 --> 00:49:18,190
+in the Southern District
+right now who seem to have
+
+1290
+00:49:18,190 --> 00:49:19,700
+the most serious investigation
+in the Trump investigation?
+
+1291
+00:49:19,700 --> 00:49:21,950
+- Not a lick, not a bit.
+
+1292
+00:49:21,950 --> 00:49:22,783
+They don't care.
+
+1293
+00:49:22,783 --> 00:49:25,390
+That's why we were, when I
+was US Attorney of New Jersey,
+
+1294
+00:49:25,390 --> 00:49:27,090
+every other U.S. Attorney
+used to refer to them
+
+1295
+00:49:27,090 --> 00:49:28,940
+as the Sovereign District of New York.
+
+1296
+00:49:28,940 --> 00:49:31,280
+They believe they are a
+sovereign power unto themselves
+
+1297
+00:49:31,280 --> 00:49:32,360
+in the Southern District.
+
+1298
+00:49:32,360 --> 00:49:33,953
+They'll listen to no one.
+
+1299
+00:49:33,953 --> 00:49:35,160
+They barely listen to
+the Attorney General.
+
+1300
+00:49:35,160 --> 00:49:37,591
+So they're going to do whatever
+they think they need to do,
+
+1301
+00:49:37,591 --> 00:49:39,120
+and that's what I've
+been saying as you know,
+
+1302
+00:49:39,120 --> 00:49:42,180
+for 10 months here, the
+Southern District of New York
+
+1303
+00:49:42,180 --> 00:49:46,880
+investigation is monumentally
+more perilous to the president
+
+1304
+00:49:46,880 --> 00:49:49,400
+that Bob Mueller ever was or ever will be.
+
+1305
+00:49:49,400 --> 00:49:51,280
+They have two tour guides, George,
+
+1306
+00:49:51,280 --> 00:49:53,330
+and no restriction on where they can go.
+
+1307
+00:49:53,330 --> 00:49:54,370
+- That is the last word today.
+
+1308
+00:49:54,370 --> 00:49:55,260
+Thank you all very much.
+
+1309
+00:49:55,260 --> 00:49:56,980
+Up next, our experts
+break down what to expect
+
+1310
+00:49:56,980 --> 00:49:59,190
+from President Trump's
+second nuclear summit
+
+1311
+00:49:59,190 --> 00:50:00,660
+with North Korea's Kim Jong-un.
+
+1312
+00:50:00,660 --> 00:50:01,660
+We'll be right back.
+
+1313
+00:50:03,988 --> 00:50:06,988
+(suspenseful music)
+
+1314
+00:50:08,220 --> 00:50:11,320
+- As of today, we are all
+officially working together.
+
+1315
+00:50:11,320 --> 00:50:12,490
+- As a team.
+
+1316
+00:50:12,490 --> 00:50:13,520
+- [Both] Led by me.
+
+1317
+00:50:13,520 --> 00:50:15,377
+- She is just trying to push your buttons.
+
+1318
+00:50:15,377 --> 00:50:16,867
+♪ Warrior ♪
+
+1319
+00:50:16,867 --> 00:50:18,710
+- How about a warning next time?
+
+1320
+00:50:18,710 --> 00:50:19,863
+- Okay, we're here.
+
+1321
+00:50:20,770 --> 00:50:22,040
+- I am going to win you over.
+
+1322
+00:50:22,040 --> 00:50:23,120
+My charm is like a virus.
+
+1323
+00:50:23,120 --> 00:50:25,390
+Before you know it, boom, you're infected.
+
+1324
+00:50:25,390 --> 00:50:27,640
+- So you're going to give me a virus?
+
+1325
+00:50:27,640 --> 00:50:30,030
+- [Narrator] Whiskey Cavalier,
+special sneak preview
+
+1326
+00:50:30,030 --> 00:50:33,197
+after the Oscars, series
+premier Wednesday on ABC.
+
+1327
+00:50:34,340 --> 00:50:37,240
+- [Narrator] Hey Mercedes,
+take me to the Red Carpet.
+
+1328
+00:50:37,240 --> 00:50:39,500
+- [Narrator] The all new
+Mercedes Benz A Class,
+
+1329
+00:50:39,500 --> 00:50:43,374
+with MBUX, featuring natural
+language recognition.
+
+1330
+00:50:43,374 --> 00:50:46,010
+Join us to watch the stars arrive.
+
+1331
+00:50:46,010 --> 00:50:49,170
+Mercedes Benz, the best or nothing.
+
+1332
+00:50:49,170 --> 00:50:51,220
+- [Narrator] This is what she sees.
+
+1333
+00:50:51,220 --> 00:50:53,260
+This is what's really there.
+
+1334
+00:50:53,260 --> 00:50:56,888
+Is it possible to avoid hitting
+something you can't see?
+
+1335
+00:50:56,888 --> 00:50:58,500
+Seven on your side
+investigates the dangers
+
+1336
+00:50:58,500 --> 00:51:01,260
+of front over crashes
+tonight after the Oscars
+
+1337
+00:51:01,260 --> 00:51:03,613
+and Monday on ABC 7 News at six.
+
+1338
+00:51:07,740 --> 00:51:09,670
+- They have to get rid of
+all their nuclear weapons.
+
+1339
+00:51:09,670 --> 00:51:11,830
+- They've got to get rid
+of, yeah, I think they will.
+
+1340
+00:51:11,830 --> 00:51:13,330
+I really believe that he will.
+
+1341
+00:51:13,330 --> 00:51:15,083
+I've gotten to know him over--
+
+1342
+00:51:15,083 --> 00:51:16,240
+- Did he tell you that?
+- A short period of time,
+
+1343
+00:51:16,240 --> 00:51:18,300
+yeah sure it's de-nuking.
+
+1344
+00:51:18,300 --> 00:51:20,690
+I mean, he's de-nuking the whole place,
+
+1345
+00:51:20,690 --> 00:51:21,950
+and he's gonna start very quickly.
+
+1346
+00:51:21,950 --> 00:51:23,260
+I think he's gonna start now.
+
+1347
+00:51:23,260 --> 00:51:26,755
+I'd just like to see
+ultimately denuclearization
+
+1348
+00:51:26,755 --> 00:51:29,372
+of North Korea, and I think
+we will see that ultimately.
+
+1349
+00:51:29,372 --> 00:51:32,383
+I have no pressing time schedule.
+
+1350
+00:51:33,290 --> 00:51:35,220
+- President Trump resetting
+expectations there
+
+1351
+00:51:35,220 --> 00:51:37,100
+for his second nuclear
+summit with North Korea,
+
+1352
+00:51:37,100 --> 00:51:38,900
+that's set for Thursday in Vietnam.
+
+1353
+00:51:38,900 --> 00:51:40,700
+Let's talk about the risk
+and the possible rewards
+
+1354
+00:51:40,700 --> 00:51:42,380
+of that meeting with our panel of experts,
+
+1355
+00:51:42,380 --> 00:51:44,850
+Tom Bossert, former Trump
+Homeland Security Adviser,
+
+1356
+00:51:44,850 --> 00:51:46,160
+ABC News contributor.
+
+1357
+00:51:46,160 --> 00:51:48,670
+Jung Pak, Brookings Institution
+Korea Studies Chair,
+
+1358
+00:51:48,670 --> 00:51:50,090
+former CIA Analyst.
+
+1359
+00:51:50,090 --> 00:51:52,150
+And Bill Richardson, former
+U.S. Ambassador to the U.N.
+
+1360
+00:51:52,150 --> 00:51:53,570
+Who has negotiated with North Korea.
+
+1361
+00:51:53,570 --> 00:51:55,267
+Ambassador Richardson,
+let me begin with you.
+
+1362
+00:51:55,267 --> 00:51:57,310
+You saw the president resetting
+the expectations there.
+
+1363
+00:51:57,310 --> 00:51:59,110
+He also has a tweet out
+this morning that ends
+
+1364
+00:51:59,110 --> 00:52:01,060
+with denuclearization
+with a question mark,
+
+1365
+00:52:01,060 --> 00:52:03,060
+questioning whether that's gonna happen.
+
+1366
+00:52:04,250 --> 00:52:07,100
+Can you have a successful
+summit without a clear
+
+1367
+00:52:07,100 --> 00:52:09,370
+commitment by the North Koreans and actual
+
+1368
+00:52:09,370 --> 00:52:11,945
+concrete action to denuclearize?
+
+1369
+00:52:11,945 --> 00:52:14,820
+- I don't believe it would
+be a successful summit
+
+1370
+00:52:14,820 --> 00:52:18,210
+unless you had some kind of
+commitment on North Korea's
+
+1371
+00:52:18,210 --> 00:52:22,380
+part on denuclearization,
+dismantling, inspections,
+
+1372
+00:52:22,380 --> 00:52:25,410
+missiles, nuclear detonations.
+
+1373
+00:52:25,410 --> 00:52:29,670
+It seems a president
+deflating expectations,
+
+1374
+00:52:29,670 --> 00:52:31,270
+and that's a concern.
+
+1375
+00:52:31,270 --> 00:52:33,420
+The concern 'cause I
+think what should come out
+
+1376
+00:52:33,420 --> 00:52:36,310
+of this summit is a
+framework for negotiations.
+
+1377
+00:52:36,310 --> 00:52:39,140
+My worry, George, is
+that this negotiation,
+
+1378
+00:52:39,140 --> 00:52:44,140
+this summit may be a dud, that
+instead of concrete progress
+
+1379
+00:52:44,750 --> 00:52:47,600
+on what is important,
+denuclearization, it's now shifting
+
+1380
+00:52:47,600 --> 00:52:52,460
+from denuclearization,
+arms control, to peace,
+
+1381
+00:52:52,460 --> 00:52:57,420
+to important steps, return of
+our servicemen, the remains.
+
+1382
+00:52:57,420 --> 00:53:02,420
+Maybe a liaison office,
+maybe some kind of continued
+
+1383
+00:53:03,640 --> 00:53:06,460
+North South cooperation, which is good.
+
+1384
+00:53:06,460 --> 00:53:10,370
+I think the president deserves
+credit for lowering tensions
+
+1385
+00:53:10,370 --> 00:53:14,030
+in the region, but in terms
+of concrete accomplishments,
+
+1386
+00:53:14,030 --> 00:53:16,460
+I don't think this summit's
+gonna produce that.
+
+1387
+00:53:16,460 --> 00:53:17,730
+- Dud is, I guess, one possibility.
+
+1388
+00:53:17,730 --> 00:53:19,740
+There's also been some concern
+expressed by the president's
+
+1389
+00:53:19,740 --> 00:53:21,260
+advisors that he gives away something that
+
+1390
+00:53:21,260 --> 00:53:23,080
+he shouldn't give away too soon,
+
+1391
+00:53:23,080 --> 00:53:26,020
+say a formal peace declaration,
+a formal declaration
+
+1392
+00:53:26,020 --> 00:53:28,260
+end to the Korean War.
+
+1393
+00:53:28,260 --> 00:53:29,410
+- I think Bill is right.
+
+1394
+00:53:29,410 --> 00:53:33,160
+I think there's been a profound
+shift in talking about peace
+
+1395
+00:53:33,160 --> 00:53:34,970
+and normalization with North Korea
+
+1396
+00:53:34,970 --> 00:53:36,330
+rather than the nuclear issues.
+
+1397
+00:53:36,330 --> 00:53:37,660
+And I think that's really problematic
+
+1398
+00:53:37,660 --> 00:53:40,830
+because the whole point of a
+summit between the two leaders,
+
+1399
+00:53:40,830 --> 00:53:45,350
+is to get dismantlement
+and to get North Korea
+
+1400
+00:53:45,350 --> 00:53:47,910
+to completely abandon
+it's nuclear weapons.
+
+1401
+00:53:47,910 --> 00:53:50,320
+I think having a peace
+declaration and normalization
+
+1402
+00:53:50,320 --> 00:53:52,187
+is fine for tension reduction,
+
+1403
+00:53:52,187 --> 00:53:54,448
+but we really have to wonder about how
+
+1404
+00:53:54,448 --> 00:53:57,172
+that affects North Korea's
+actions down the line.
+
+1405
+00:53:57,172 --> 00:53:58,452
+- Should there be, Tom Bossert,
+
+1406
+00:53:58,452 --> 00:54:00,110
+should there be a summit
+now given the fact that
+
+1407
+00:54:00,110 --> 00:54:02,380
+the president's own
+National Security Advisor,
+
+1408
+00:54:02,380 --> 00:54:05,820
+John Bolton says that North
+Korea hasn't followed through
+
+1409
+00:54:05,820 --> 00:54:07,240
+on the commitments they
+made at the first summit.
+
+1410
+00:54:07,240 --> 00:54:09,510
+- There's been
+back-pedaling and dishonesty
+
+1411
+00:54:09,510 --> 00:54:11,860
+from the last summit
+which was a significant
+
+1412
+00:54:11,860 --> 00:54:13,780
+watershed moment 'til today.
+
+1413
+00:54:13,780 --> 00:54:15,910
+At this point, the only
+reason to have that summit
+
+1414
+00:54:15,910 --> 00:54:17,660
+is for President Trump to go in
+
+1415
+00:54:17,660 --> 00:54:19,210
+and give a clear-eyed reminder.
+
+1416
+00:54:19,210 --> 00:54:21,500
+It will be a dud if he comes out and tries
+
+1417
+00:54:21,500 --> 00:54:23,486
+to varnish this as a success without
+
+1418
+00:54:23,486 --> 00:54:26,290
+any real actionable activity.
+
+1419
+00:54:26,290 --> 00:54:29,260
+Any kind of freeze or reversible gesture,
+
+1420
+00:54:29,260 --> 00:54:31,629
+superficial gesture on the
+part of the North Koreans,
+
+1421
+00:54:31,629 --> 00:54:34,040
+is gonna be a little bit
+of a slap in the face,
+
+1422
+00:54:34,040 --> 00:54:36,100
+but if the president then
+comes out and buys it,
+
+1423
+00:54:36,100 --> 00:54:38,210
+whether it's because of
+domestic political pressure
+
+1424
+00:54:38,210 --> 00:54:40,680
+or some other instinct to post a win,
+
+1425
+00:54:40,680 --> 00:54:43,960
+he's going to lose the
+international coalition
+
+1426
+00:54:43,960 --> 00:54:45,557
+that he's put together and
+the strength he goes in with.
+
+1427
+00:54:45,557 --> 00:54:47,230
+- The president had
+another tweet this morning,
+
+1428
+00:54:47,230 --> 00:54:49,055
+Jung Pak, that the president put out,
+
+1429
+00:54:49,055 --> 00:54:51,360
+he says that North Korea can
+be an economic powerhouse
+
+1430
+00:54:51,360 --> 00:54:53,510
+under Kim Jong-un if they just give up
+
+1431
+00:54:53,510 --> 00:54:54,343
+their nuclear weapons.
+
+1432
+00:54:54,343 --> 00:54:57,620
+Almost trying to incentivize
+him to come further along.
+
+1433
+00:54:57,620 --> 00:54:59,930
+At this point, he does seem to be banking
+
+1434
+00:54:59,930 --> 00:55:02,360
+on the idea that his personal relationship
+
+1435
+00:55:02,360 --> 00:55:04,930
+with Kim Jong-un is somehow
+gonna yield benefits.
+
+1436
+00:55:04,930 --> 00:55:08,730
+- Yeah, I think President
+Trump is making the mistake
+
+1437
+00:55:08,730 --> 00:55:12,670
+of mirror imaging, so the
+president is from New York City.
+
+1438
+00:55:12,670 --> 00:55:15,340
+He's a business man and
+a real estate mogul,
+
+1439
+00:55:15,340 --> 00:55:18,320
+and he's speaking in terms
+of as if Kim is another
+
+1440
+00:55:18,320 --> 00:55:20,440
+business man, but Kim is a dictator
+
+1441
+00:55:20,440 --> 00:55:24,520
+of a highly authoritarian regime,
+
+1442
+00:55:24,520 --> 00:55:26,990
+who needs his nuclear
+weapons for legitimacy
+
+1443
+00:55:26,990 --> 00:55:28,260
+and his own survival.
+
+1444
+00:55:28,260 --> 00:55:30,900
+And so yes, North Korea is in the middle
+
+1445
+00:55:30,900 --> 00:55:32,530
+of a very strategic environment
+
+1446
+00:55:32,530 --> 00:55:35,360
+among the second, third, and 11th largest
+
+1447
+00:55:35,360 --> 00:55:36,720
+economies in the world.
+
+1448
+00:55:36,720 --> 00:55:39,770
+But North Korea also sees its location
+
+1449
+00:55:39,770 --> 00:55:42,100
+and its economic deprivation
+
+1450
+00:55:42,100 --> 00:55:44,920
+relative to the other
+countries as a threat
+
+1451
+00:55:44,920 --> 00:55:45,753
+to it's survival.
+
+1452
+00:55:45,753 --> 00:55:48,293
+- So how do we make progress short of
+
+1453
+00:55:48,293 --> 00:55:51,100
+North Korea getting rid
+of it's nuclear weapons?
+
+1454
+00:55:51,100 --> 00:55:52,360
+The testing moratorium, we've seen
+
+1455
+00:55:52,360 --> 00:55:54,170
+testing moratoriums in the past.
+
+1456
+00:55:54,170 --> 00:55:58,160
+What kind of concrete action
+could we see from North Korea
+
+1457
+00:55:58,160 --> 00:55:59,590
+that would really signify
+
+1458
+00:55:59,590 --> 00:56:01,540
+real progress that can be built on?
+
+1459
+00:56:01,540 --> 00:56:04,170
+- I think Jung is right and so is Tom.
+
+1460
+00:56:04,170 --> 00:56:06,680
+My view is that, what
+is concrete progress?
+
+1461
+00:56:06,680 --> 00:56:09,400
+One, I've called this a potential dud,
+
+1462
+00:56:09,400 --> 00:56:12,579
+but we've got to continue
+talking the relationship--
+
+1463
+00:56:12,579 --> 00:56:14,200
+- There's no harm.
+- No.
+
+1464
+00:56:14,200 --> 00:56:18,030
+The relationship of the
+two leaders, that's good.
+
+1465
+00:56:18,030 --> 00:56:21,160
+However, the president should
+listen to his advisors,
+
+1466
+00:56:21,160 --> 00:56:26,160
+and his advisors have been,
+I think, very specific.
+
+1467
+00:56:26,170 --> 00:56:28,900
+What I fear we're gonna lose, one,
+
+1468
+00:56:28,900 --> 00:56:31,880
+a detailing of all the weapons inventory
+
+1469
+00:56:31,880 --> 00:56:33,480
+that North Korea has.
+
+1470
+00:56:33,480 --> 00:56:35,690
+I think we've kind of given up on that.
+
+1471
+00:56:35,690 --> 00:56:39,340
+Secondly, that we simply say okay,
+
+1472
+00:56:39,340 --> 00:56:43,420
+you dismantle the Yongbyon
+reactor, another missile site,
+
+1473
+00:56:43,420 --> 00:56:46,450
+that they've already done several times.
+
+1474
+00:56:46,450 --> 00:56:49,840
+That's a danger, and if
+that's the only arms control
+
+1475
+00:56:49,840 --> 00:56:51,780
+initiative that they push.
+
+1476
+00:56:51,780 --> 00:56:55,140
+I think lastly, my worry,
+George, is that we're gonna trade
+
+1477
+00:56:55,140 --> 00:56:56,560
+something what the North Koreans
+
+1478
+00:56:56,560 --> 00:56:59,800
+really want which is a peace treaty
+
+1479
+00:56:59,800 --> 00:57:03,620
+in exchange for some limited
+arms control measures.
+
+1480
+00:57:03,620 --> 00:57:06,960
+I think what needs to happen
+is dismantle some weapons.
+
+1481
+00:57:06,960 --> 00:57:08,950
+They're not going to
+dismantle all of them.
+
+1482
+00:57:08,950 --> 00:57:11,230
+Freeze intercontinental ballistic missiles
+
+1483
+00:57:11,230 --> 00:57:13,690
+that affect Japan and South Korea.
+
+1484
+00:57:13,690 --> 00:57:17,705
+Find ways that these are concrete steps.
+
+1485
+00:57:17,705 --> 00:57:22,705
+Timelines, verification, a
+framework for negotiations.
+
+1486
+00:57:22,750 --> 00:57:25,230
+If it's just a bunch of hand shakes,
+
+1487
+00:57:25,230 --> 00:57:28,160
+and you're a good guy, we'll meet again,
+
+1488
+00:57:28,160 --> 00:57:29,510
+it's gonna be a dud.
+
+1489
+00:57:29,510 --> 00:57:30,950
+- Is there a win win here?
+
+1490
+00:57:30,950 --> 00:57:33,080
+- Yeah, but it's not going to
+happen out of this meeting.
+
+1491
+00:57:33,080 --> 00:57:35,400
+So what happened in the
+last meeting took us back
+
+1492
+00:57:35,400 --> 00:57:37,620
+from the brink of war, but the president,
+
+1493
+00:57:37,620 --> 00:57:38,720
+two presidents agreed
+
+1494
+00:57:38,720 --> 00:57:42,520
+to two mutually inconsistent
+future objectives.
+
+1495
+00:57:42,520 --> 00:57:44,660
+One was normalization
+between the North and South,
+
+1496
+00:57:44,660 --> 00:57:47,390
+and the other was
+denuclearization of the North.
+
+1497
+00:57:47,390 --> 00:57:49,700
+Right now, president Moon in the South
+
+1498
+00:57:49,700 --> 00:57:52,370
+is suggesting that he give some incentives
+
+1499
+00:57:52,370 --> 00:57:54,310
+in terms of money or
+reductions in sanctions
+
+1500
+00:57:54,310 --> 00:57:57,040
+or opening up industrial
+complexes to the North
+
+1501
+00:57:57,040 --> 00:57:59,150
+to induce them into further talks,
+
+1502
+00:57:59,150 --> 00:58:00,840
+to re-normalize their relationships.
+
+1503
+00:58:00,840 --> 00:58:03,100
+That would fundamentally
+undermine everything
+
+1504
+00:58:03,100 --> 00:58:04,740
+that President Trump is trying to do
+
+1505
+00:58:04,740 --> 00:58:06,460
+with respect to denuclearizing.
+
+1506
+00:58:06,460 --> 00:58:09,130
+If you don't force him, to Jung's point,
+
+1507
+00:58:09,130 --> 00:58:11,030
+the North will not get
+rid of their weapons.
+
+1508
+00:58:11,030 --> 00:58:13,250
+So the win win here has
+to be for the president
+
+1509
+00:58:13,250 --> 00:58:16,420
+to carry the international
+good will to this meeting
+
+1510
+00:58:16,420 --> 00:58:18,370
+because he's not representing
+the United States
+
+1511
+00:58:18,370 --> 00:58:19,840
+and come out of this with some serious,
+
+1512
+00:58:19,840 --> 00:58:21,760
+if not threatening additional sanctions.
+
+1513
+00:58:21,760 --> 00:58:23,770
+- That is the last word for
+today, thank you all very much.
+
+1514
+00:58:23,770 --> 00:58:24,820
+That is all for us today.
+
+1515
+00:58:24,820 --> 00:58:26,680
+Thanks for sharing part
+of your Sunday with us.
+
+1516
+00:58:26,680 --> 00:58:28,150
+Check out World News Tonight,
+
+1517
+00:58:28,150 --> 00:58:30,632
+and I'll see you tomorrow on GMA.
+
+1518
+00:58:30,632 --> 00:58:34,132
+(intense energetic music)
+
+1519
+00:58:41,000 --> 00:58:42,320
+- [Narrator] We all need someone
+
+1520
+00:58:42,320 --> 00:58:45,510
+who will pull no punches
+and give it to us straight.
+
+1521
+00:58:45,510 --> 00:58:47,670
+No bull, no spin.
+
+1522
+00:58:47,670 --> 00:58:50,680
+Now imagine getting your news like that.
+
+1523
+00:58:50,680 --> 00:58:52,760
+Just give it to me straight.
+
+1524
+00:58:52,760 --> 00:58:55,383
+ABC News, straightforward.
+
+1525
+00:58:56,417 --> 00:58:58,430
+- Empire actor Jussie Smollett
+
+1526
+00:58:58,430 --> 00:59:00,160
+took advantage of the pain and anger
+
+1527
+00:59:00,160 --> 00:59:02,000
+of racism to promote his career.
+
+1528
+00:59:02,000 --> 00:59:04,850
+- [Narrator] GMA exclusive,
+Chicago's top cop.
+
+1529
+00:59:04,850 --> 00:59:06,470
+His first interview in the stunning
+
+1530
+00:59:06,470 --> 00:59:08,500
+Jussie Smollett investigation.
+
+1531
+00:59:08,500 --> 00:59:09,730
+What will he say now?
+
+1532
+00:59:09,730 --> 00:59:11,533
+Tomorrow on Good Morning America.
+
+1533
+00:59:12,460 --> 00:59:14,160
+- Show me The Crown.
+
+1534
+00:59:14,160 --> 00:59:15,490
+- [Narrator] Look at you.
+
+1535
+00:59:15,490 --> 00:59:17,930
+When you talk, your TV listens.
+
+1536
+00:59:17,930 --> 00:59:19,270
+That's cool.
+
+1537
+00:59:19,270 --> 00:59:22,510
+Downloading 24 tunes in one second.
+
+1538
+00:59:22,510 --> 00:59:23,780
+Boo-yah.
+
+1539
+00:59:23,780 --> 00:59:26,970
+Locking your doors with your phone?
+
+1540
+00:59:26,970 --> 00:59:28,530
+Oh yeah.
+
+1541
+00:59:28,530 --> 00:59:31,350
+Jim and Melissa, you are cool.
+
+1542
+00:59:31,350 --> 00:59:32,830
+- [Man] Cool.
+
+1543
+00:59:32,830 --> 00:59:33,663
+- Hi Carol.
+
+1544
+00:59:35,290 --> 00:59:36,123
+- [Man] Let's go!
+
+1545
+00:59:36,123 --> 00:59:37,800
+- [Narrator] Get Contour
+TV, 100 meg internet,
+
+1546
+00:59:37,800 --> 00:59:40,360
+and now Homelife Automation
+for $89.99 a month.
+
+1547
+00:59:40,360 --> 00:59:41,830
+Free HD camera included.
+
+1548
+00:59:41,830 --> 00:59:43,760
+- [Narrator] Traffic Watch 7 is our way
+
+1549
+00:59:43,760 --> 00:59:45,480
+of keeping you ahead of traffic,
+
+1550
+00:59:45,480 --> 00:59:47,630
+so you can commute better, save time,
+
+1551
+00:59:47,630 --> 00:59:49,910
+save headaches, and save money.
+
+1552
+00:59:49,910 --> 00:59:53,360
+It's team traffic, on your
+side to help find which turn.
+
+1553
+00:59:53,360 --> 00:59:55,550
+- And a good alternative to 95 right now.
+
+1554
+00:59:55,550 --> 00:59:57,920
+- [Narrator] Which side
+road, which highway to take.
+
+1555
+00:59:57,920 --> 00:59:59,670
+On the maps with Julie Wright.
+
+1556
+00:59:59,670 --> 01:00:01,400
+- Mobile Track, the first on the scene.
+
+1557
+01:00:01,400 --> 01:00:03,640
+- [Narrator] On the roads
+with Mobile Track 7,
+
+1558
+01:00:03,640 --> 01:00:06,530
+and in your car with
+new Traffic Watch 7 app.
+
+1559
+01:00:06,530 --> 01:00:08,820
+Traffic Watch 7, on your side.
+
+1560
+01:00:08,820 --> 01:00:10,133
+No matter where you go.
+
+1561
+01:00:11,990 --> 01:00:14,430
+- [Announcer] The deadly blind
+spot right under your nose.
+
+1562
+01:00:14,430 --> 01:00:15,973
+Sunday after the Oscars.
+
+1563
+01:00:17,215 --> 01:00:19,700
+(upbeat music)
+

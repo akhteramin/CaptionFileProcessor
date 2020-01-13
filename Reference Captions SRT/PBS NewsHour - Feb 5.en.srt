@@ -1,0 +1,6477 @@
+﻿1
+00:00:00,088 --> 00:00:02,671
+(lively music)
+
+2
+00:00:04,861 --> 00:00:07,090
+- [Show Announcer] WETA
+is proud to present
+
+3
+00:00:07,090 --> 00:00:09,773
+the PBS NewsHour in HD.
+
+4
+00:00:11,424 --> 00:00:14,341
+(triumphant music)
+
+5
+00:00:15,190 --> 00:00:17,170
+- Good evening, I'm Judy Woodruff.
+
+6
+00:00:17,170 --> 00:00:20,210
+On the NewsHour tonight, A House Divided.
+
+7
+00:00:20,210 --> 00:00:23,130
+President Trump delivers his
+State of the Union address
+
+8
+00:00:23,130 --> 00:00:24,989
+after the longest government shutdown
+
+9
+00:00:24,989 --> 00:00:27,210
+and no deal yet in sight for a
+
+10
+00:00:27,210 --> 00:00:29,340
+barrier at the southern border.
+
+11
+00:00:29,340 --> 00:00:31,010
+We talk with lawmakers.
+
+12
+00:00:31,010 --> 00:00:34,229
+Historian Michael Beschloss
+puts the address in context,
+
+13
+00:00:34,229 --> 00:00:37,840
+and our panel previews what
+is at stake for the President.
+
+14
+00:00:37,840 --> 00:00:41,430
+Plus, Mr. Trump's plan
+to keep forces in Iraq
+
+15
+00:00:41,430 --> 00:00:45,200
+to monitor Iran sparked
+condemnation in Baghdad
+
+16
+00:00:45,200 --> 00:00:47,670
+and calls for the U.S. to leave.
+
+17
+00:00:47,670 --> 00:00:50,073
+All that and more on
+tonight's PBS NewsHour.
+
+18
+00:00:51,048 --> 00:00:53,631
+(upbeat music)
+
+19
+00:01:02,040 --> 00:01:04,698
+- [Show Announcer] Major
+funding for the PBS NewsHour
+
+20
+00:01:04,698 --> 00:01:07,486
+has been provided by:
+
+21
+00:01:07,486 --> 00:01:11,270
+- [Narrator] On a cruise
+with American Cruise Lines,
+
+22
+00:01:11,270 --> 00:01:14,130
+travelers experience the maritime heritage
+
+23
+00:01:14,130 --> 00:01:15,763
+and culture of New England.
+
+24
+00:01:16,840 --> 00:01:18,880
+Our fleet of small cruise ships
+
+25
+00:01:20,010 --> 00:01:24,470
+explores American
+landscapes, seaside villages,
+
+26
+00:01:24,470 --> 00:01:28,810
+and historic harbors
+where you can experience
+
+27
+00:01:28,810 --> 00:01:30,763
+local customs and cuisine.
+
+28
+00:01:31,610 --> 00:01:36,023
+American Cruise Lines, proud
+sponsor of PBS NewsHour.
+
+29
+00:01:37,637 --> 00:01:38,470
+(beeping)
+
+30
+00:01:38,470 --> 00:01:39,303
+- Ordering takeout.
+
+31
+00:01:39,303 --> 00:01:40,870
+- Finding the best route.
+
+32
+00:01:40,870 --> 00:01:42,460
+- [Both] Talking for hours.
+
+33
+00:01:42,460 --> 00:01:43,990
+- Planning for showers.
+
+34
+00:01:43,990 --> 00:01:45,550
+- [Announcer] You can do
+the things you like to do
+
+35
+00:01:45,550 --> 00:01:47,290
+with a wireless plan designed for you
+
+36
+00:01:47,290 --> 00:01:48,774
+with talk, text, and data.
+
+37
+00:01:48,774 --> 00:01:50,270
+Consumer Cellular.
+
+38
+00:01:50,270 --> 00:01:53,270
+Learn more at ConsumerCellular.tv.
+
+39
+00:01:53,270 --> 00:01:55,553
+- [Narrator] BNSF Railway.
+
+40
+00:01:56,900 --> 00:01:58,450
+- [Announcer] Babbel, a language program
+
+41
+00:01:58,450 --> 00:02:01,943
+that teaches Spanish, French,
+Italian, German, and more.
+
+42
+00:02:03,930 --> 00:02:05,810
+- [Show Announcer] And
+with the ongoing support
+
+43
+00:02:05,810 --> 00:02:07,974
+of these institutions.
+
+44
+00:02:07,974 --> 00:02:10,807
+(uplifting music)
+
+45
+00:02:12,510 --> 00:02:14,610
+This program was made possible by the
+
+46
+00:02:14,610 --> 00:02:17,210
+Corporation for Public Broadcasting
+
+47
+00:02:17,210 --> 00:02:20,840
+and by contributions to your PBS station
+
+48
+00:02:20,840 --> 00:02:23,162
+from viewers like you.
+
+49
+00:02:23,162 --> 00:02:23,995
+Thank you.
+
+50
+00:02:23,995 --> 00:02:26,828
+(uplifting music)
+
+51
+00:02:27,920 --> 00:02:29,860
+- This is State of the Union night,
+
+52
+00:02:29,860 --> 00:02:31,940
+when the President makes an annual report
+
+53
+00:02:31,940 --> 00:02:34,490
+to the American people,
+but it comes at a time
+
+54
+00:02:34,490 --> 00:02:36,440
+of division here in Washington.
+
+55
+00:02:36,440 --> 00:02:39,540
+The White House says President
+Trump will appeal for unity
+
+56
+00:02:39,540 --> 00:02:42,980
+even as he holds to his
+demand for a border wall.
+
+57
+00:02:42,980 --> 00:02:44,750
+Newly resurgent Democrats say
+
+58
+00:02:44,750 --> 00:02:47,110
+the President himself is the problem.
+
+59
+00:02:47,110 --> 00:02:49,620
+The split was clear at the Capitol today
+
+60
+00:02:49,620 --> 00:02:53,352
+as Mr. Trump's supporters
+and opponents sounded off.
+
+61
+00:02:53,352 --> 00:02:55,057
+- I think he's doing a good job,
+
+62
+00:02:55,057 --> 00:02:56,880
+and I think he really is making an effort.
+
+63
+00:02:56,880 --> 00:02:58,330
+He'll make some statements tonight
+
+64
+00:02:58,330 --> 00:03:01,860
+that'll surprise a lot of
+people on the other side.
+
+65
+00:03:01,860 --> 00:03:03,820
+I'm talking about conciliatory things
+
+66
+00:03:03,820 --> 00:03:05,670
+and I think this comes from the heart.
+
+67
+00:03:05,670 --> 00:03:09,370
+This guy is, he has a background that has
+
+68
+00:03:09,370 --> 00:03:10,980
+shown him in different lights
+
+69
+00:03:10,980 --> 00:03:12,320
+but it's always been successful.
+
+70
+00:03:12,320 --> 00:03:15,910
+- Well, the President
+hasn't been acting on unity
+
+71
+00:03:15,910 --> 00:03:18,450
+for two years up and down the line.
+
+72
+00:03:18,450 --> 00:03:22,520
+He's always criticizing, dividing,
+
+73
+00:03:22,520 --> 00:03:27,520
+and so if he calls for unity
+tonight, we'll have to say,
+
+74
+00:03:27,530 --> 00:03:29,070
+let's see what happens tomorrow
+
+75
+00:03:29,070 --> 00:03:31,400
+and the day after and the day after,
+
+76
+00:03:31,400 --> 00:03:33,450
+because in the past he's called for unity
+
+77
+00:03:33,450 --> 00:03:36,190
+and he's forgotten about
+it by the next morning.
+
+78
+00:03:36,190 --> 00:03:38,330
+- The formal Democratic response tonight
+
+79
+00:03:38,330 --> 00:03:40,960
+will come from Stacey Abrams of Georgia.
+
+80
+00:03:40,960 --> 00:03:43,100
+She narrowly lost her bid last year
+
+81
+00:03:43,100 --> 00:03:45,700
+to become that state's
+first Black governor
+
+82
+00:03:45,700 --> 00:03:48,789
+and she's now a rising star
+in the Democratic Party.
+
+83
+00:03:48,789 --> 00:03:51,940
+Let's turn now to our Lisa
+Desjardins at the Capitol
+
+84
+00:03:51,940 --> 00:03:54,380
+and Yamiche Alcindor at the White House
+
+85
+00:03:54,380 --> 00:03:56,080
+watching all of this.
+
+86
+00:03:56,080 --> 00:03:57,470
+Yamiche, to you first.
+
+87
+00:03:57,470 --> 00:03:58,880
+I've been talking to
+folks at the White House,
+
+88
+00:03:58,880 --> 00:04:00,780
+much of it off the record.
+
+89
+00:04:00,780 --> 00:04:02,410
+You've been talking to them too.
+
+90
+00:04:02,410 --> 00:04:03,618
+What do we know for certain,
+
+91
+00:04:03,618 --> 00:04:07,180
+or what do we think the
+President's gonna focus on tonight?
+
+92
+00:04:07,180 --> 00:04:10,180
+- The President's gonna
+focus on unifying our nation
+
+93
+00:04:10,180 --> 00:04:11,940
+and unifying both political parties,
+
+94
+00:04:11,940 --> 00:04:13,290
+but some of course say that there's some
+
+95
+00:04:13,290 --> 00:04:15,030
+credibility issues there because of
+
+96
+00:04:15,030 --> 00:04:17,510
+his political track record of really
+
+97
+00:04:17,510 --> 00:04:21,700
+offending and giving insults
+to his political opponents.
+
+98
+00:04:21,700 --> 00:04:23,280
+The President is expected to talk about
+
+99
+00:04:23,280 --> 00:04:25,808
+a number of topics including
+illegal immigration,
+
+100
+00:04:25,808 --> 00:04:28,480
+health care costs, including trade,
+
+101
+00:04:28,480 --> 00:04:31,700
+wars and foreign policy,
+as well as infrastructure.
+
+102
+00:04:31,700 --> 00:04:33,000
+He's supposed to be, at some point,
+
+103
+00:04:33,000 --> 00:04:35,200
+pitching and asking Congress to come up
+
+104
+00:04:35,200 --> 00:04:36,800
+with some sort of infrastructure plan.
+
+105
+00:04:36,800 --> 00:04:38,360
+The President's also
+supposed to be talking about
+
+106
+00:04:38,360 --> 00:04:40,730
+HIV and trying to end the transmission of
+
+107
+00:04:40,730 --> 00:04:43,400
+that deadly disease by 2030,
+
+108
+00:04:43,400 --> 00:04:45,930
+and the President is also
+supposed to be talking about
+
+109
+00:04:45,930 --> 00:04:47,560
+his ideas for a way forward,
+
+110
+00:04:47,560 --> 00:04:49,640
+and it's really important
+though to remind people
+
+111
+00:04:49,640 --> 00:04:51,850
+that the President has been tweeting today
+
+112
+00:04:51,850 --> 00:04:53,700
+and he's been saying
+that Chuck Schumer's mad
+
+113
+00:04:53,700 --> 00:04:54,910
+that he didn't win the Senate.
+
+114
+00:04:54,910 --> 00:04:56,090
+He's also said in the past that
+
+115
+00:04:56,090 --> 00:04:58,230
+Democrats don't believe
+in border security,
+
+116
+00:04:58,230 --> 00:05:00,740
+so while the President puts
+forward this unifying message,
+
+117
+00:05:00,740 --> 00:05:01,790
+there are people who are saying,
+
+118
+00:05:01,790 --> 00:05:03,560
+well, just look at what you tweeted today.
+
+119
+00:05:03,560 --> 00:05:06,050
+That's gonna be hurting
+that unifying message.
+
+120
+00:05:06,050 --> 00:05:08,440
+- And Lisa, we know that the other party
+
+121
+00:05:08,440 --> 00:05:10,840
+always prepares for what
+the President's gonna say.
+
+122
+00:05:10,840 --> 00:05:14,130
+What are Democrats saying
+about how they plan to handle,
+
+123
+00:05:14,130 --> 00:05:15,540
+what they expect the President to say
+
+124
+00:05:15,540 --> 00:05:17,230
+and how they're gonna respond to it?
+
+125
+00:05:17,230 --> 00:05:18,210
+- I have to tell you, Judy,
+
+126
+00:05:18,210 --> 00:05:20,420
+Democrats are more excited
+about this response
+
+127
+00:05:20,420 --> 00:05:22,290
+than I've heard them in some time.
+
+128
+00:05:22,290 --> 00:05:24,400
+Stacey Abrams, to them, represents a
+
+129
+00:05:24,400 --> 00:05:26,510
+shift away from playing it safe.
+
+130
+00:05:26,510 --> 00:05:27,540
+In fact, there's one long-time
+
+131
+00:05:27,540 --> 00:05:29,008
+progressive who told me tonight,
+
+132
+00:05:29,008 --> 00:05:31,310
+we've been playing it
+too safe as Democrats.
+
+133
+00:05:31,310 --> 00:05:35,320
+We want someone who has a
+clear, aggressive agenda
+
+134
+00:05:35,320 --> 00:05:38,010
+like Stacey Abrams, who
+talks about voter rights.
+
+135
+00:05:38,010 --> 00:05:39,230
+She also represents some other
+
+136
+00:05:39,230 --> 00:05:40,820
+important themes for Democrats tonight.
+
+137
+00:05:40,820 --> 00:05:43,220
+Diversity, in two ways.
+
+138
+00:05:43,220 --> 00:05:45,660
+One, she will be the first
+African-American woman
+
+139
+00:05:45,660 --> 00:05:47,630
+to give a major party response.
+
+140
+00:05:47,630 --> 00:05:50,830
+Also, though, she will be the
+first non-elected official.
+
+141
+00:05:50,830 --> 00:05:52,240
+She no longer holds office,
+
+142
+00:05:52,240 --> 00:05:54,540
+having lost the
+gubernatorial race last fall.
+
+143
+00:05:54,540 --> 00:05:56,160
+She'll be the first non-elected official
+
+144
+00:05:56,160 --> 00:05:58,970
+to give this kind of response,
+so a sort of outsider
+
+145
+00:05:58,970 --> 00:06:01,410
+and also a core part
+of the Democratic base.
+
+146
+00:06:01,410 --> 00:06:03,140
+This also speaks to a theme
+
+147
+00:06:03,140 --> 00:06:04,660
+that we'll see visually
+on the floor, Judy.
+
+148
+00:06:04,660 --> 00:06:08,370
+Democratic women in the House
+will be wearing all white.
+
+149
+00:06:08,370 --> 00:06:10,250
+They say that is to show kind of a sign,
+
+150
+00:06:10,250 --> 00:06:11,760
+reference to the suffragettes,
+
+151
+00:06:11,760 --> 00:06:14,880
+but it also, one of them told
+me, is a smart visual cue.
+
+152
+00:06:14,880 --> 00:06:16,520
+They want to highlight the difference
+
+153
+00:06:16,520 --> 00:06:19,260
+between Democrats and
+their increased diversity
+
+154
+00:06:19,260 --> 00:06:21,190
+in this Congress, and Republicans who have
+
+155
+00:06:21,190 --> 00:06:22,810
+less diversity this Congress.
+
+156
+00:06:22,810 --> 00:06:24,071
+- And Lisa, staying with you,
+
+157
+00:06:24,071 --> 00:06:26,480
+Yamiche mentioned the
+President is supposed
+
+158
+00:06:26,480 --> 00:06:28,990
+to talk tonight about border security.
+
+159
+00:06:28,990 --> 00:06:30,550
+What do we know at this point about
+
+160
+00:06:30,550 --> 00:06:31,770
+where the conference committee
+
+161
+00:06:31,770 --> 00:06:35,230
+working on that issue for
+the last several days.
+
+162
+00:06:35,230 --> 00:06:36,580
+They have a deadline facing them.
+
+163
+00:06:36,580 --> 00:06:38,880
+I talked today to Speaker Pelosi
+
+164
+00:06:38,880 --> 00:06:40,570
+and Minority Leader Schumer,
+
+165
+00:06:40,570 --> 00:06:43,540
+they said they think
+progress is being made.
+
+166
+00:06:43,540 --> 00:06:44,560
+What are you hearing?
+
+167
+00:06:44,560 --> 00:06:46,310
+- My reporting is the same.
+
+168
+00:06:46,310 --> 00:06:48,220
+Talking to other leaders
+and people who are
+
+169
+00:06:48,220 --> 00:06:50,580
+on the conference committee,
+there is real progress.
+
+170
+00:06:50,580 --> 00:06:52,490
+On the staff level, they think they could
+
+171
+00:06:52,490 --> 00:06:53,711
+come up with a deal if it is just left
+
+172
+00:06:53,711 --> 00:06:55,962
+to the members of the
+Appropriations Committee alone.
+
+173
+00:06:55,962 --> 00:06:58,120
+Judy, the conference committee will have
+
+174
+00:06:58,120 --> 00:07:00,332
+an unusual meeting tomorrow morning,
+
+175
+00:07:00,332 --> 00:07:04,450
+closed doors, with career
+Border Patrol officials.
+
+176
+00:07:04,450 --> 00:07:06,660
+Now, it's not clear why
+that's to be closed doors,
+
+177
+00:07:06,660 --> 00:07:09,400
+but one staffer told me
+they think it's because
+
+178
+00:07:09,400 --> 00:07:12,060
+they want the questions and answers to be
+
+179
+00:07:12,060 --> 00:07:13,424
+as forthright as possible.
+
+180
+00:07:13,424 --> 00:07:16,900
+They are looking at trying
+to get a conference report
+
+181
+00:07:16,900 --> 00:07:19,064
+by the end of this week or
+this weekend at the latest.
+
+182
+00:07:19,064 --> 00:07:22,330
+They think it's doable, but
+there are many X-factors,
+
+183
+00:07:22,330 --> 00:07:23,980
+one of the biggest being the President
+
+184
+00:07:23,980 --> 00:07:26,770
+and what he says tonight
+about border security.
+
+185
+00:07:26,770 --> 00:07:29,500
+- And finally, Yamiche,
+what do we know about
+
+186
+00:07:29,500 --> 00:07:32,700
+how the President is planning for tonight,
+
+187
+00:07:32,700 --> 00:07:34,334
+and also traditionally the President
+
+188
+00:07:34,334 --> 00:07:36,383
+has guests come to the Capitol.
+
+189
+00:07:36,383 --> 00:07:38,980
+Who do we know those to be?
+
+190
+00:07:38,980 --> 00:07:40,280
+- Well, the President is going to be using
+
+191
+00:07:40,280 --> 00:07:42,310
+this national stage to make the case
+
+192
+00:07:42,310 --> 00:07:44,370
+that the state of the union is great,
+
+193
+00:07:44,370 --> 00:07:46,387
+but that it would be better
+if there were concerns met
+
+194
+00:07:46,387 --> 00:07:48,540
+and concerns, and people paid attention
+
+195
+00:07:48,540 --> 00:07:49,940
+to the concerns that he had.
+
+196
+00:07:49,940 --> 00:07:51,060
+Right behind me at the White House,
+
+197
+00:07:51,060 --> 00:07:52,700
+the President has been preparing
+
+198
+00:07:52,700 --> 00:07:55,427
+and really using this speech as a way to
+
+199
+00:07:55,427 --> 00:07:57,955
+prepare himself to talk on a teleprompter.
+
+200
+00:07:57,955 --> 00:08:00,660
+He had a teleprompter
+actually brought into
+
+201
+00:08:00,660 --> 00:08:02,060
+the White House so he's gonna be trying to
+
+202
+00:08:02,060 --> 00:08:03,570
+make sure that he's reading properly.
+
+203
+00:08:03,570 --> 00:08:04,860
+The other thing that he's gonna be doing
+
+204
+00:08:04,860 --> 00:08:05,999
+is bringing in guests here.
+
+205
+00:08:05,999 --> 00:08:07,479
+The guests that he's bringing in are
+
+206
+00:08:07,479 --> 00:08:09,960
+one, a family that was,
+whose family member
+
+207
+00:08:09,960 --> 00:08:13,380
+was murdered or killed by
+an undocumented immigrant.
+
+208
+00:08:13,380 --> 00:08:15,050
+The President's also going to be bringing
+
+209
+00:08:15,050 --> 00:08:16,720
+a little boy named Joshua Trump
+
+210
+00:08:16,720 --> 00:08:18,220
+who was bullied because of his last name
+
+211
+00:08:18,220 --> 00:08:20,130
+who, of course, he shares
+with the President,
+
+212
+00:08:20,130 --> 00:08:22,260
+and the President's also
+going to be bringing
+
+213
+00:08:22,260 --> 00:08:25,688
+someone who was freed by the
+Criminal Justice Reform Act
+
+214
+00:08:25,688 --> 00:08:28,040
+that was passed by both
+parties, of course,
+
+215
+00:08:28,040 --> 00:08:30,190
+supporting that bill, so the
+President's gonna be saying,
+
+216
+00:08:30,190 --> 00:08:32,120
+we want bipartisanship
+and look at this person
+
+217
+00:08:32,120 --> 00:08:34,270
+who came out of prison, he is embodying
+
+218
+00:08:34,270 --> 00:08:36,551
+what we could be doing in the future.
+
+219
+00:08:36,551 --> 00:08:38,690
+- Yamiche Alcindor at the White House,
+
+220
+00:08:38,690 --> 00:08:40,040
+Lisa Desjardins at the Capitol,
+
+221
+00:08:40,040 --> 00:08:41,270
+and we'll certainly be
+coming back to the two of you
+
+222
+00:08:41,270 --> 00:08:43,649
+as the State of the Union gets underway
+
+223
+00:08:43,649 --> 00:08:46,450
+later tonight when we
+have our special coverage.
+
+224
+00:08:46,450 --> 00:08:47,283
+Thanks,
+
+225
+00:08:47,283 --> 00:08:49,780
+and we wanna hear from lawmakers now.
+
+226
+00:08:49,780 --> 00:08:52,300
+Representative James
+Clyburn of South Carolina
+
+227
+00:08:52,300 --> 00:08:55,990
+is the third highest ranking
+Democrat in the U.S. House,
+
+228
+00:08:55,990 --> 00:08:57,959
+and he joins us from Capitol Hill.
+
+229
+00:08:57,959 --> 00:09:01,560
+Representative Clyburn, thank
+you very much for joining us.
+
+230
+00:09:01,560 --> 00:09:02,393
+- Thank you.
+
+231
+00:09:02,393 --> 00:09:03,260
+- Thank you.
+
+232
+00:09:03,260 --> 00:09:05,919
+What are you looking for
+President Trump to say tonight?
+
+233
+00:09:05,919 --> 00:09:09,871
+- Well, the President is
+asking us to choose greatness,
+
+234
+00:09:09,871 --> 00:09:14,850
+and I would hope that we
+hear some greatness from him,
+
+235
+00:09:14,850 --> 00:09:18,359
+but you know, I have been
+reading a lot of Joyce,
+
+236
+00:09:18,359 --> 00:09:22,320
+of Alexis de Tocqueville of late,
+
+237
+00:09:22,320 --> 00:09:25,560
+and Alexis de Tocqueville,
+in one of his writings,
+
+238
+00:09:25,560 --> 00:09:28,050
+Democracy in America, told us that
+
+239
+00:09:28,050 --> 00:09:31,230
+America's greatness is not because
+
+240
+00:09:31,230 --> 00:09:34,770
+we are more enlightened
+than any other country,
+
+241
+00:09:34,770 --> 00:09:39,190
+but because we've always been
+able to repair our faults.
+
+242
+00:09:39,190 --> 00:09:42,060
+I would hope that the President tonight
+
+243
+00:09:42,060 --> 00:09:45,140
+will demonstrate that kind of greatness,
+
+244
+00:09:45,140 --> 00:09:50,140
+propose some things that we
+can do to repair our faults.
+
+245
+00:09:51,190 --> 00:09:53,730
+They have been highlighted quite a bit
+
+246
+00:09:53,730 --> 00:09:56,620
+in the last several
+months, and I am hopeful
+
+247
+00:09:56,620 --> 00:09:59,940
+that whatever he says tonight
+will bring us together
+
+248
+00:09:59,940 --> 00:10:03,800
+as a people, move us forward as a country,
+
+249
+00:10:03,800 --> 00:10:08,050
+and make us really the
+genius of greatness.
+
+250
+00:10:08,050 --> 00:10:10,080
+- Well, where do you
+see, Congressman Clyburn,
+
+251
+00:10:10,080 --> 00:10:11,280
+there could be common ground,
+
+252
+00:10:11,280 --> 00:10:12,821
+because what the White House says is,
+
+253
+00:10:12,821 --> 00:10:15,160
+we've tried to make overtures
+
+254
+00:10:15,160 --> 00:10:17,749
+to Democrats on border security.
+
+255
+00:10:17,749 --> 00:10:20,500
+We haven't, they haven't
+met eye to eye with us,
+
+256
+00:10:20,500 --> 00:10:22,870
+and they tick off a number of other issues
+
+257
+00:10:22,870 --> 00:10:24,930
+where they say Democrats haven't
+
+258
+00:10:24,930 --> 00:10:26,340
+been able to meet them halfway.
+
+259
+00:10:26,340 --> 00:10:30,090
+What do you, where do you
+see potential common ground?
+
+260
+00:10:30,090 --> 00:10:32,330
+- Well, I think there's common ground
+
+261
+00:10:32,330 --> 00:10:36,290
+to be had on border security.
+
+262
+00:10:36,290 --> 00:10:38,330
+The President seems to have backed away
+
+263
+00:10:38,330 --> 00:10:42,421
+from his concrete 30-foot high wall
+
+264
+00:10:42,421 --> 00:10:47,410
+and is now talking about
+more border security,
+
+265
+00:10:47,410 --> 00:10:49,270
+he's talking about barriers,
+
+266
+00:10:49,270 --> 00:10:54,270
+and we too have backed
+away from our positions
+
+267
+00:10:56,230 --> 00:11:00,170
+of no money for any kind of wall.
+
+268
+00:11:00,170 --> 00:11:02,850
+We are advocating a smart wall,
+
+269
+00:11:02,850 --> 00:11:07,850
+using 21st century
+technology to make this wall
+
+270
+00:11:08,330 --> 00:11:12,760
+as smart as we've made our
+telephones and our televisions,
+
+271
+00:11:12,760 --> 00:11:17,180
+so we can have a smart wall,
+one that would use drones
+
+272
+00:11:17,180 --> 00:11:20,440
+to keep anybody from flying over it,
+
+273
+00:11:20,440 --> 00:11:24,170
+use X-ray equipment to keep
+anybody from getting around it,
+
+274
+00:11:24,170 --> 00:11:26,190
+use scanners to keep anybody
+
+275
+00:11:26,190 --> 00:11:28,910
+from burrowing under it undetected.
+
+276
+00:11:28,910 --> 00:11:31,453
+So we can do this in a smart way.
+
+277
+00:11:31,453 --> 00:11:35,040
+I just came back from Brownsville, Texas.
+
+278
+00:11:35,040 --> 00:11:37,350
+We were at a port of entry,
+
+279
+00:11:37,350 --> 00:11:42,350
+and I saw a port in dire
+need of retrofitting.
+
+280
+00:11:45,610 --> 00:11:48,381
+I saw the fencing that's already there
+
+281
+00:11:48,381 --> 00:11:51,130
+in dire need of repairing.
+
+282
+00:11:51,130 --> 00:11:54,540
+I do believe that we can do
+
+283
+00:11:54,540 --> 00:11:57,320
+what is necessary to secure our border.
+
+284
+00:11:57,320 --> 00:11:59,230
+Just do it in a smart way,
+
+285
+00:11:59,230 --> 00:12:01,140
+not to build a monument to anybody.
+
+286
+00:12:01,140 --> 00:12:03,860
+- So to be clear, you're saying Democrats,
+
+287
+00:12:03,860 --> 00:12:05,840
+and obviously as we said,
+you're third in line
+
+288
+00:12:05,840 --> 00:12:07,240
+in the leadership in the House,
+
+289
+00:12:07,240 --> 00:12:10,410
+the Democrats are prepared to support
+
+290
+00:12:10,410 --> 00:12:14,735
+the money for some sort
+of physical barrier?
+
+291
+00:12:14,735 --> 00:12:17,506
+- I said so long as it's done smartly.
+
+292
+00:12:17,506 --> 00:12:19,730
+I believe that we will vote for
+
+293
+00:12:19,730 --> 00:12:22,430
+whatever that committee comes out.
+
+294
+00:12:22,430 --> 00:12:25,900
+If they come out with
+a bipartisan approach
+
+295
+00:12:25,900 --> 00:12:30,470
+to get this done, irrespective
+of how they put it together,
+
+296
+00:12:30,470 --> 00:12:34,060
+I do believe you'll get extensive support
+
+297
+00:12:34,060 --> 00:12:35,750
+among Democrats for it.
+
+298
+00:12:35,750 --> 00:12:39,420
+It may not be unanimous,
+but it'll be a lot of unity.
+
+299
+00:12:39,420 --> 00:12:42,380
+- Are Democrats prepared to show
+
+300
+00:12:42,380 --> 00:12:44,010
+respect to the President tonight?
+
+301
+00:12:44,010 --> 00:12:47,330
+I ask that because we remember
+under President Obama,
+
+302
+00:12:47,330 --> 00:12:49,241
+there were State of the Union addresses
+
+303
+00:12:49,241 --> 00:12:52,330
+when members called out to him,
+
+304
+00:12:52,330 --> 00:12:54,191
+once one of them calling him a liar.
+
+305
+00:12:54,191 --> 00:12:57,280
+How do you see tonight going?
+
+306
+00:12:57,280 --> 00:12:59,360
+- I think you'll see us
+being very respectful.
+
+307
+00:12:59,360 --> 00:13:02,360
+You know, my dad used
+to teach us all the time
+
+308
+00:13:02,360 --> 00:13:05,080
+that the first sign of a good education
+
+309
+00:13:05,080 --> 00:13:07,670
+is good manners and so I try to put
+
+310
+00:13:07,670 --> 00:13:11,430
+my education on display every time I walk
+
+311
+00:13:11,430 --> 00:13:14,010
+into the halls of the Congress,
+
+312
+00:13:14,010 --> 00:13:15,780
+or the House of Representatives.
+
+313
+00:13:15,780 --> 00:13:19,680
+You may remember, when that yell was made,
+
+314
+00:13:19,680 --> 00:13:22,780
+I'm the one that led the charge
+
+315
+00:13:22,780 --> 00:13:25,060
+to get a resolution of disapproval
+
+316
+00:13:25,060 --> 00:13:27,898
+for what my colleague said that night
+
+317
+00:13:27,898 --> 00:13:30,940
+and it passed the House of Representatives
+
+318
+00:13:30,940 --> 00:13:34,270
+and I think that we showed then
+
+319
+00:13:34,270 --> 00:13:36,340
+that we disapprove of such actions
+
+320
+00:13:36,340 --> 00:13:39,132
+and we certainly are
+not going to do anything
+
+321
+00:13:39,132 --> 00:13:42,750
+to violate what we did last year.
+
+322
+00:13:42,750 --> 00:13:43,859
+- Congressman Clyburn, finally,
+
+323
+00:13:43,859 --> 00:13:48,073
+what other areas do you see
+Democrats and Republicans
+
+324
+00:13:48,073 --> 00:13:51,830
+and the White House working
+together on this year?
+
+325
+00:13:51,830 --> 00:13:53,040
+- Oh, I think that we can do
+
+326
+00:13:53,040 --> 00:13:56,130
+a comprehensive infrastructure deal.
+
+327
+00:13:56,130 --> 00:13:59,140
+I think we know that it's necessary
+
+328
+00:13:59,140 --> 00:14:01,970
+for us to develop our rural communities.
+
+329
+00:14:01,970 --> 00:14:04,380
+We need to be putting in water and sewage.
+
+330
+00:14:04,380 --> 00:14:06,690
+We need to be repairing roads and bridges.
+
+331
+00:14:06,690 --> 00:14:10,470
+We need to be building
+schools in our rural areas.
+
+332
+00:14:10,470 --> 00:14:15,470
+We can do a comprehensive
+bill that would have
+
+333
+00:14:15,560 --> 00:14:19,320
+broadband deployment going
+into these rural communities.
+
+334
+00:14:19,320 --> 00:14:21,430
+Too many of them are being left behind.
+
+335
+00:14:21,430 --> 00:14:23,300
+We need to make this investment.
+
+336
+00:14:23,300 --> 00:14:26,290
+It will pay off handsomely if we do,
+
+337
+00:14:26,290 --> 00:14:30,910
+and I really believe it can
+be done in a bipartisan way.
+
+338
+00:14:30,910 --> 00:14:33,920
+- Congressman James
+Clyburn, who is the whip
+
+339
+00:14:33,920 --> 00:14:35,900
+for the Democrats in the
+House of Representatives.
+
+340
+00:14:35,900 --> 00:14:36,900
+Thank you very much.
+
+341
+00:14:36,900 --> 00:14:38,321
+- Thank you.
+
+342
+00:14:38,321 --> 00:14:41,460
+- And as we heard,
+President Trump is expected
+
+343
+00:14:41,460 --> 00:14:43,460
+to double down in his speech tonight,
+
+344
+00:14:43,460 --> 00:14:45,760
+calling on Congress to fund a wall,
+
+345
+00:14:45,760 --> 00:14:47,860
+a barrier along the southern border.
+
+346
+00:14:47,860 --> 00:14:49,802
+One option he has not ruled out,
+
+347
+00:14:49,802 --> 00:14:53,280
+declaring a national
+emergency to build the wall.
+
+348
+00:14:53,280 --> 00:14:56,280
+That is causing a split
+among Senate Republicans.
+
+349
+00:14:56,280 --> 00:14:58,270
+Senator Lindsey Graham warned yesterday
+
+350
+00:14:58,270 --> 00:15:01,350
+that there could be a war
+within the GOP over the wall.
+
+351
+00:15:01,350 --> 00:15:02,650
+We turn now to one of the President's
+
+352
+00:15:02,650 --> 00:15:04,520
+most loyal allies in Congress.
+
+353
+00:15:04,520 --> 00:15:07,550
+He is Senator David Perdue of Georgia.
+
+354
+00:15:07,550 --> 00:15:10,560
+Senator, thank you very
+much for joining us,
+
+355
+00:15:10,560 --> 00:15:11,970
+and I think you are there.
+
+356
+00:15:11,970 --> 00:15:12,803
+There you are.
+
+357
+00:15:12,803 --> 00:15:17,640
+Senator, how much of a
+divide is there still,
+
+358
+00:15:17,640 --> 00:15:20,202
+do you think, between
+Republicans and Democrats,
+
+359
+00:15:20,202 --> 00:15:22,309
+between Democrats and the White House
+
+360
+00:15:22,309 --> 00:15:24,830
+over what is going to happen with regard
+
+361
+00:15:24,830 --> 00:15:27,503
+to a barrier, a wall
+at the southern border?
+
+362
+00:15:27,503 --> 00:15:30,030
+- Well, I hope that it's narrowing, Judy.
+
+363
+00:15:30,030 --> 00:15:32,010
+I mean, this is a situation
+where we're dealing
+
+364
+00:15:32,010 --> 00:15:34,961
+with a topic that both sides
+are making the same argument.
+
+365
+00:15:34,961 --> 00:15:37,060
+This is the fifth President in a row
+
+366
+00:15:37,060 --> 00:15:41,030
+that's asked Congress for
+border funding to build a wall.
+
+367
+00:15:41,030 --> 00:15:42,890
+H.W. Bush built the first miles,
+
+368
+00:15:42,890 --> 00:15:45,650
+even Barack Obama built 135 miles of wall.
+
+369
+00:15:45,650 --> 00:15:49,200
+Both parties agree that this
+is a national security issue,
+
+370
+00:15:49,200 --> 00:15:50,740
+and we need to do it now.
+
+371
+00:15:50,740 --> 00:15:52,900
+The problem is the hypocrisy of politics
+
+372
+00:15:52,900 --> 00:15:54,520
+have brought us to this point.
+
+373
+00:15:54,520 --> 00:15:56,970
+I'm hopeful that this conference committee
+
+374
+00:15:56,970 --> 00:15:59,800
+is going to get to a
+bipartisan solution here
+
+375
+00:15:59,800 --> 00:16:00,760
+that we can all support,
+
+376
+00:16:00,760 --> 00:16:02,210
+and I'm hopeful they will, Judy.
+
+377
+00:16:02,210 --> 00:16:03,290
+- Well, as you know Senator,
+
+378
+00:16:03,290 --> 00:16:05,240
+during the campaign over two years ago,
+
+379
+00:16:05,240 --> 00:16:07,700
+the President was talking about a wall.
+
+380
+00:16:07,700 --> 00:16:10,210
+At times he spoke about a concrete wall,
+
+381
+00:16:10,210 --> 00:16:12,943
+at times he spoke about
+sea to shining sea.
+
+382
+00:16:12,943 --> 00:16:17,572
+The President has changed
+what he's asking for,
+
+383
+00:16:17,572 --> 00:16:19,530
+isn't that fair to say?
+
+384
+00:16:19,530 --> 00:16:21,610
+- Well, this is a man who's, number one,
+
+385
+00:16:21,610 --> 00:16:24,000
+trying to protect the American people.
+
+386
+00:16:24,000 --> 00:16:25,647
+He's fighting for our national security.
+
+387
+00:16:25,647 --> 00:16:28,480
+There's 2,000 miles of
+that southern border.
+
+388
+00:16:28,480 --> 00:16:32,340
+650 miles, Judy, already have
+some sort of barrier on it,
+
+389
+00:16:32,340 --> 00:16:35,630
+and he's asking for a
+little more than 200 miles,
+
+390
+00:16:35,630 --> 00:16:37,440
+so I think that puts it in perspective,
+
+391
+00:16:37,440 --> 00:16:39,070
+but he wants it to be put in positions
+
+392
+00:16:39,070 --> 00:16:41,480
+where drug trafficking, human trafficking,
+
+393
+00:16:41,480 --> 00:16:43,520
+and illegal immigration is happening
+
+394
+00:16:43,520 --> 00:16:46,030
+in the most severe manner right now.
+
+395
+00:16:46,030 --> 00:16:48,159
+- Do you see the Democrat,
+from what you know,
+
+396
+00:16:48,159 --> 00:16:51,200
+we just heard Congressman Clyburn say
+
+397
+00:16:51,200 --> 00:16:53,700
+he believes there can be success
+
+398
+00:16:53,700 --> 00:16:55,120
+in that conference committee,
+
+399
+00:16:55,120 --> 00:16:56,500
+that left to their own devices
+
+400
+00:16:56,500 --> 00:16:58,050
+they can come up with an agreement?
+
+401
+00:16:58,050 --> 00:17:00,520
+Do you, are you optimistic
+that's gonna happen as well?
+
+402
+00:17:00,520 --> 00:17:01,353
+- Well, I'm hopeful.
+
+403
+00:17:01,353 --> 00:17:02,780
+I'm not sure I'm optimistic yet,
+
+404
+00:17:02,780 --> 00:17:03,710
+but I'm very hopeful.
+
+405
+00:17:03,710 --> 00:17:06,500
+We'll know tomorrow, because
+some experts from the border,
+
+406
+00:17:06,500 --> 00:17:09,280
+these are non-political bent people
+
+407
+00:17:09,280 --> 00:17:12,150
+who are coming up to give
+some advice to the committee,
+
+408
+00:17:12,150 --> 00:17:14,130
+I'm hopeful tomorrow
+we'll hear some statements
+
+409
+00:17:14,130 --> 00:17:15,470
+coming out of that conference committee
+
+410
+00:17:15,470 --> 00:17:17,210
+that'll give us some optimism
+
+411
+00:17:17,210 --> 00:17:18,980
+about getting past this impasse.
+
+412
+00:17:18,980 --> 00:17:21,270
+Look, the other thing, Judy,
+is that this is ridiculous.
+
+413
+00:17:21,270 --> 00:17:24,120
+This is a appropriation
+issue that should have
+
+414
+00:17:24,120 --> 00:17:26,330
+been dealt with before
+September 30th of last year.
+
+415
+00:17:26,330 --> 00:17:28,970
+We're in the fifth month
+of our new fiscal year,
+
+416
+00:17:28,970 --> 00:17:31,640
+so I'm hopeful that
+everybody will sober up here
+
+417
+00:17:31,640 --> 00:17:34,030
+in Congress and get this done this week.
+
+418
+00:17:34,030 --> 00:17:35,076
+- I think you know,
+Senator, the President is
+
+419
+00:17:35,076 --> 00:17:37,580
+still not ruling out the idea of
+
+420
+00:17:37,580 --> 00:17:39,670
+declaring a national emergency in order to
+
+421
+00:17:39,670 --> 00:17:40,726
+go ahead and build the wall,
+
+422
+00:17:40,726 --> 00:17:43,580
+put money aside to build the wall
+
+423
+00:17:43,580 --> 00:17:46,120
+if there's no agreement in Congress,
+
+424
+00:17:46,120 --> 00:17:48,670
+but he's been told by
+Senate Majority Leader,
+
+425
+00:17:48,670 --> 00:17:52,080
+your colleague, Senator
+McConnell, Mitch McConnell,
+
+426
+00:17:52,080 --> 00:17:53,686
+that that's not a good idea.
+
+427
+00:17:53,686 --> 00:17:56,217
+Do you think the President still
+
+428
+00:17:56,217 --> 00:17:59,116
+would seriously consider doing that?
+
+429
+00:17:59,116 --> 00:18:01,560
+- Well, he has said he
+would and I take him
+
+430
+00:18:01,560 --> 00:18:03,720
+at his word, but, again, this is a man.
+
+431
+00:18:03,720 --> 00:18:05,370
+I think tonight in the State of the Union,
+
+432
+00:18:05,370 --> 00:18:07,580
+you'll hear President Trump offer a little
+
+433
+00:18:07,580 --> 00:18:10,190
+more conciliatory tone
+because he's a dealmaker
+
+434
+00:18:10,190 --> 00:18:12,150
+first and last, we all know that.
+
+435
+00:18:12,150 --> 00:18:14,310
+He just wants to get border security
+
+436
+00:18:14,310 --> 00:18:15,690
+moving in the right direction
+
+437
+00:18:15,690 --> 00:18:17,330
+and both parties actually want that,
+
+438
+00:18:17,330 --> 00:18:19,060
+so I'm hopeful that tonight,
+
+439
+00:18:19,060 --> 00:18:20,200
+we'll see a little more of that
+
+440
+00:18:20,200 --> 00:18:22,150
+and then over the next week or so,
+
+441
+00:18:22,150 --> 00:18:24,349
+we'll see something come out
+of this conference committee
+
+442
+00:18:24,349 --> 00:18:27,060
+that will preclude the
+need for the President
+
+443
+00:18:27,060 --> 00:18:28,420
+to do something extreme like that.
+
+444
+00:18:28,420 --> 00:18:29,850
+He certainly has the right to do it,
+
+445
+00:18:29,850 --> 00:18:32,650
+but I'm hopeful Congress will
+step in here and do its job.
+
+446
+00:18:32,650 --> 00:18:35,810
+- Senator, how much, how does it change
+
+447
+00:18:35,810 --> 00:18:39,660
+what the President can do because
+
+448
+00:18:39,660 --> 00:18:41,700
+Democrats have now won the majority
+
+449
+00:18:41,700 --> 00:18:43,100
+in the House of Representatives,
+
+450
+00:18:43,100 --> 00:18:44,711
+that he's dealing with
+a different Congress
+
+451
+00:18:44,711 --> 00:18:46,250
+than he was last year?
+
+452
+00:18:46,250 --> 00:18:48,230
+- Well, we have a historic opportunity.
+
+453
+00:18:48,230 --> 00:18:51,000
+If you think about Tip O'Neill and Reagan,
+
+454
+00:18:51,000 --> 00:18:53,223
+you think about Newt
+Gingrich and Bill Clinton,
+
+455
+00:18:53,223 --> 00:18:55,020
+when you had split government is when
+
+456
+00:18:55,020 --> 00:18:56,620
+really big things did happen here,
+
+457
+00:18:56,620 --> 00:19:00,980
+so the answer is, Nancy Pelosi
+has a choice as the Speaker.
+
+458
+00:19:00,980 --> 00:19:02,430
+Either she's gonna work
+with this President,
+
+459
+00:19:02,430 --> 00:19:04,180
+who's been proven that
+he will make a deal.
+
+460
+00:19:04,180 --> 00:19:07,620
+I mean, we did a historic
+bipartisan Dodd-Frank bill
+
+461
+00:19:07,620 --> 00:19:10,590
+just this past year, Judy,
+that really helped small banks.
+
+462
+00:19:10,590 --> 00:19:12,100
+I'm looking for more of that,
+
+463
+00:19:12,100 --> 00:19:13,940
+so I think the Speaker
+has to make a decision.
+
+464
+00:19:13,940 --> 00:19:15,680
+Is she gonna legislate
+with this President,
+
+465
+00:19:15,680 --> 00:19:17,230
+who's more than willing to do that,
+
+466
+00:19:17,230 --> 00:19:18,670
+or is she just gonna investigate
+
+467
+00:19:18,670 --> 00:19:21,137
+going into the Presidential
+election in 2020?
+
+468
+00:19:21,137 --> 00:19:23,160
+- But my question is how does it change
+
+469
+00:19:23,160 --> 00:19:25,810
+what the President is able to do?
+
+470
+00:19:25,810 --> 00:19:27,930
+- Well, if they don't operate with us,
+
+471
+00:19:27,930 --> 00:19:29,741
+then it moves back in the Senate,
+
+472
+00:19:29,741 --> 00:19:32,091
+and all we're gonna be
+focused on are confirmations
+
+473
+00:19:32,091 --> 00:19:34,642
+and Leader McConnell has talked about
+
+474
+00:19:34,642 --> 00:19:36,990
+being more aggressive about getting
+
+475
+00:19:36,990 --> 00:19:38,870
+the confirmations done this year and next,
+
+476
+00:19:38,870 --> 00:19:40,170
+so we know we can do that.
+
+477
+00:19:40,170 --> 00:19:41,760
+That's in the hands of the Senate.
+
+478
+00:19:41,760 --> 00:19:44,230
+I just implore the Senate,
+or the House members,
+
+479
+00:19:44,230 --> 00:19:46,710
+to put pressure on leadership there to,
+
+480
+00:19:46,710 --> 00:19:48,660
+let's get together and legislate,
+
+481
+00:19:48,660 --> 00:19:51,650
+which is why the people in
+America sent us up here.
+
+482
+00:19:51,650 --> 00:19:54,950
+- There's a report out in
+the last few days, Senator,
+
+483
+00:19:54,950 --> 00:19:58,080
+about the Trump administration still not
+
+484
+00:19:58,080 --> 00:20:00,830
+having submitted names for hundreds of
+
+485
+00:20:00,830 --> 00:20:04,111
+empty positions inside the administration.
+
+486
+00:20:04,111 --> 00:20:07,150
+Do you have an explanation
+for why that is?
+
+487
+00:20:07,150 --> 00:20:07,983
+- Well, yeah.
+
+488
+00:20:07,983 --> 00:20:10,511
+We've had a historic level
+of obstruction, first of all.
+
+489
+00:20:10,511 --> 00:20:11,344
+Let's put it.
+
+490
+00:20:11,344 --> 00:20:12,177
+- [Judy] No, I'm talk.
+
+491
+00:20:12,177 --> 00:20:13,010
+- No, I understand.
+
+492
+00:20:13,010 --> 00:20:14,700
+The good news is is
+that we have done over,
+
+493
+00:20:14,700 --> 00:20:16,580
+we've confirmed over 85 judges,
+
+494
+00:20:16,580 --> 00:20:19,660
+30 Courts of Appeal judges,
+and two Supreme Court Justices
+
+495
+00:20:19,660 --> 00:20:21,360
+because the party was set there,
+
+496
+00:20:21,360 --> 00:20:25,040
+but this is a historic situation, Judy,
+
+497
+00:20:25,040 --> 00:20:26,810
+where this is the first
+time in U.S. history
+
+498
+00:20:26,810 --> 00:20:28,280
+the minority party has not waived
+
+499
+00:20:28,280 --> 00:20:29,570
+the 30-hour rule in the Senate.
+
+500
+00:20:29,570 --> 00:20:31,216
+Now, having said that, there are over
+
+501
+00:20:31,216 --> 00:20:33,860
+300 nominations at the end of last year
+
+502
+00:20:33,860 --> 00:20:35,710
+waiting to be confirmed.
+
+503
+00:20:35,710 --> 00:20:37,160
+We just need to get down to business
+
+504
+00:20:37,160 --> 00:20:39,829
+and get past this and stop
+playing partisan politics.
+
+505
+00:20:39,829 --> 00:20:42,910
+This President is, if we
+don't change the rule,
+
+506
+00:20:42,910 --> 00:20:44,090
+and we don't move past this,
+
+507
+00:20:44,090 --> 00:20:45,190
+this President won't even be able to
+
+508
+00:20:45,190 --> 00:20:46,950
+put his full complement of government
+
+509
+00:20:46,950 --> 00:20:49,080
+together in the first term of his office.
+
+510
+00:20:49,080 --> 00:20:51,240
+- Yeah, I'm asking about those positions
+
+511
+00:20:51,240 --> 00:20:53,650
+for which names have not
+even put forward yet.
+
+512
+00:20:53,650 --> 00:20:55,710
+- Well, first of all, Judy,
+there are plenty of names
+
+513
+00:20:55,710 --> 00:20:57,490
+that have been put
+forward that have not been
+
+514
+00:20:57,490 --> 00:20:59,670
+brought forward because
+we can't get to them
+
+515
+00:20:59,670 --> 00:21:02,260
+because of the obstruction of
+the Democrats in the Senate,
+
+516
+00:21:02,260 --> 00:21:03,269
+and when that happens I can promise you
+
+517
+00:21:03,269 --> 00:21:05,555
+this President will
+line 'em up in terms of
+
+518
+00:21:05,555 --> 00:21:08,460
+the nominees waiting to be confirmed.
+
+519
+00:21:08,460 --> 00:21:11,760
+- Senator David Perdue of
+Georgia, thank you very much.
+
+520
+00:21:11,760 --> 00:21:13,290
+- Thanks, Judy.
+
+521
+00:21:13,290 --> 00:21:15,580
+- So, let's take a step back now
+
+522
+00:21:15,580 --> 00:21:17,210
+and put this moment in tonight's address
+
+523
+00:21:17,210 --> 00:21:19,340
+in context with Presidential historian
+
+524
+00:21:19,340 --> 00:21:21,430
+and NewsHour regular Michael Beschloss.
+
+525
+00:21:21,430 --> 00:21:23,060
+Michael Beschloss, wonderful to see you.
+
+526
+00:21:23,060 --> 00:21:23,893
+- Wonderful to see you always.
+
+527
+00:21:23,893 --> 00:21:24,991
+- Thank you for being here.
+
+528
+00:21:24,991 --> 00:21:25,824
+- Thank you, Judy.
+
+529
+00:21:25,824 --> 00:21:28,248
+- So, you've looked at how
+Presidents have handled
+
+530
+00:21:28,248 --> 00:21:31,805
+times of stress, times when
+they are facing opposition,
+
+531
+00:21:31,805 --> 00:21:33,661
+whether new or long-standing.
+
+532
+00:21:33,661 --> 00:21:35,810
+That seems to be, certainly,
+
+533
+00:21:35,810 --> 00:21:37,830
+what President Trump is facing tonight.
+
+534
+00:21:37,830 --> 00:21:39,870
+How have other Presidents handled it?
+
+535
+00:21:39,870 --> 00:21:42,000
+- Well, oftentimes they've made a pivot.
+
+536
+00:21:42,000 --> 00:21:43,530
+I mean, Bill Clinton, for instance,
+
+537
+00:21:43,530 --> 00:21:47,340
+in 1996 was about to run for reelection
+
+538
+00:21:47,340 --> 00:21:50,010
+and two years earlier,
+he had lost Congress
+
+539
+00:21:50,010 --> 00:21:52,800
+to the Republicans,
+first time in 40 years.
+
+540
+00:21:52,800 --> 00:21:55,620
+That was a very big event, so he said,
+
+541
+00:21:55,620 --> 00:22:00,020
+we remember it now, the era
+of big government is over.
+
+542
+00:22:00,020 --> 00:22:02,020
+That worked for him because people knew
+
+543
+00:22:02,020 --> 00:22:04,040
+that for the year since the election,
+
+544
+00:22:04,040 --> 00:22:06,180
+he had been moving steadily to the right
+
+545
+00:22:06,180 --> 00:22:07,540
+or at least to the center,
+
+546
+00:22:07,540 --> 00:22:10,341
+so when he said those
+words it had some meaning,
+
+547
+00:22:10,341 --> 00:22:14,240
+helped to position him to run
+successfully for reelection
+
+548
+00:22:14,240 --> 00:22:16,430
+and also, I was so interested
+that Senator Perdue
+
+549
+00:22:16,430 --> 00:22:19,400
+was talking about Newt
+Gingrich and Bill Clinton.
+
+550
+00:22:19,400 --> 00:22:21,480
+That State of the Union set that up
+
+551
+00:22:21,480 --> 00:22:24,960
+for Clinton and Gingrich,
+by the summer of 1996,
+
+552
+00:22:24,960 --> 00:22:28,360
+to do welfare reform together,
+to balance the budget.
+
+553
+00:22:28,360 --> 00:22:30,350
+It really changed the
+political atmosphere.
+
+554
+00:22:30,350 --> 00:22:33,490
+- So is there a precedent,
+Michael Beschloss,
+
+555
+00:22:33,490 --> 00:22:35,900
+for Presidents who've been at loggerheads
+
+556
+00:22:35,900 --> 00:22:38,470
+with a Congress turning the corner
+
+557
+00:22:38,470 --> 00:22:41,611
+and setting the stage
+for there to be real,
+
+558
+00:22:41,611 --> 00:22:44,020
+an ability to work together?
+
+559
+00:22:44,020 --> 00:22:45,099
+- Yeah, absolutely.
+
+560
+00:22:45,099 --> 00:22:49,300
+1947, Harry Truman went to
+give the State of the Union
+
+561
+00:22:49,300 --> 00:22:51,850
+after he lost Congress to the Republicans
+
+562
+00:22:51,850 --> 00:22:54,320
+for the first time in 16 years.
+
+563
+00:22:54,320 --> 00:22:56,970
+He knew that there was
+a big necessity for him
+
+564
+00:22:56,970 --> 00:22:59,190
+to make deals with the Republicans
+
+565
+00:22:59,190 --> 00:23:01,891
+to prepare the nation
+to fight the Cold War
+
+566
+00:23:01,891 --> 00:23:05,290
+and to try to get some of the
+domestic laws that he wanted.
+
+567
+00:23:05,290 --> 00:23:06,919
+He failed at the latter.
+
+568
+00:23:06,919 --> 00:23:10,020
+- Do you sense, again
+from you studied history,
+
+569
+00:23:10,020 --> 00:23:13,640
+studied so many Presidents,
+that there is a willingness,
+
+570
+00:23:13,640 --> 00:23:16,690
+a will, on the part of these two parties
+
+571
+00:23:16,690 --> 00:23:19,760
+that have been fighting each
+other for week after week,
+
+572
+00:23:19,760 --> 00:23:21,840
+day after day, to come together?
+
+573
+00:23:21,840 --> 00:23:24,510
+- I think they know that an awful lot
+
+574
+00:23:24,510 --> 00:23:26,810
+of Americans would like to see that.
+
+575
+00:23:26,810 --> 00:23:28,658
+That surely shows up in the polls,
+
+576
+00:23:28,658 --> 00:23:30,760
+but there hasn't been much sign of it
+
+577
+00:23:30,760 --> 00:23:33,390
+during the last month and we will see if
+
+578
+00:23:33,390 --> 00:23:35,530
+this speech changes the atmosphere.
+
+579
+00:23:35,530 --> 00:23:37,839
+I think rarely in
+history does that happen.
+
+580
+00:23:37,839 --> 00:23:39,220
+- And that's what I want
+to ask you about, too.
+
+581
+00:23:39,220 --> 00:23:41,840
+How much difference can one speech, one,
+
+582
+00:23:41,840 --> 00:23:43,930
+granted this is a big deal,
+
+583
+00:23:43,930 --> 00:23:45,131
+it's the State of the Union.
+
+584
+00:23:45,131 --> 00:23:49,459
+There's a whole lot of
+tradition wrapped around this.
+
+585
+00:23:49,459 --> 00:23:50,292
+- Sure.
+
+586
+00:23:50,292 --> 00:23:52,410
+- Can one address make a difference?
+
+587
+00:23:52,410 --> 00:23:54,810
+- If people have the feeling that lurking
+
+588
+00:23:54,810 --> 00:23:57,650
+within Donald Trump has
+been this deep desire
+
+589
+00:23:57,650 --> 00:23:59,780
+to make deals with the other side
+
+590
+00:23:59,780 --> 00:24:01,440
+that hasn't expressed itself,
+
+591
+00:24:01,440 --> 00:24:03,670
+and he talked about it a
+lot during the campaign.
+
+592
+00:24:03,670 --> 00:24:06,810
+2016, a lot of people
+voted for Trump did so
+
+593
+00:24:06,810 --> 00:24:09,130
+because he said, I know Chuck Schumer,
+
+594
+00:24:09,130 --> 00:24:10,520
+I can make deals with him,
+
+595
+00:24:10,520 --> 00:24:13,760
+and they feel in many cases
+that it hasn't been expressed,
+
+596
+00:24:13,760 --> 00:24:16,640
+if we begin to see signs
+of that Donald Trump
+
+597
+00:24:16,640 --> 00:24:18,120
+in the wake of this speech,
+
+598
+00:24:18,120 --> 00:24:19,610
+things could begin to change.
+
+599
+00:24:19,610 --> 00:24:20,980
+I'm not predicting that.
+
+600
+00:24:20,980 --> 00:24:22,177
+- Are you, why not?
+
+601
+00:24:22,177 --> 00:24:26,710
+- Because this speech was preceded by an
+
+602
+00:24:26,710 --> 00:24:29,350
+enormous confrontation, one of the biggest
+
+603
+00:24:29,350 --> 00:24:31,488
+in legislative White
+House relations history
+
+604
+00:24:31,488 --> 00:24:34,848
+that led to a shutdown, may yet again.
+
+605
+00:24:34,848 --> 00:24:38,180
+- And just very quickly, you've looked at
+
+606
+00:24:38,180 --> 00:24:40,200
+the language this President uses,
+
+607
+00:24:40,200 --> 00:24:43,016
+the way he communicates
+with the American people.
+
+608
+00:24:43,016 --> 00:24:48,016
+Do you, how much do you expect
+him to stay in that lane,
+
+609
+00:24:48,060 --> 00:24:49,930
+and how much might he?
+
+610
+00:24:49,930 --> 00:24:50,860
+- Not for long.
+
+611
+00:24:50,860 --> 00:24:53,950
+He doesn't enjoy it, we haven't
+seen many instances of it.
+
+612
+00:24:53,950 --> 00:24:56,250
+If we did, the time we would have seen it
+
+613
+00:24:56,250 --> 00:24:57,630
+would have been in the inauguration
+
+614
+00:24:57,630 --> 00:24:59,389
+when even the most partisan Presidents
+
+615
+00:24:59,389 --> 00:25:01,760
+usually give a really unifying speech.
+
+616
+00:25:01,760 --> 00:25:04,640
+He'd be the first to say he did not.
+
+617
+00:25:04,640 --> 00:25:06,600
+- Michael Beschloss, thank you.
+
+618
+00:25:06,600 --> 00:25:07,779
+- My pleasure.
+
+619
+00:25:07,779 --> 00:25:08,612
+- Nice to have you.
+
+620
+00:25:08,612 --> 00:25:09,445
+Appreciate it.
+
+621
+00:25:09,445 --> 00:25:11,360
+And now, some perspective
+on the run-up to tonight's
+
+622
+00:25:11,360 --> 00:25:13,130
+big address from opposite sides
+
+623
+00:25:13,130 --> 00:25:14,660
+of the American political spectrum.
+
+624
+00:25:14,660 --> 00:25:18,540
+Karine Jean-Pierre is a
+senior advisor for MoveOn.org
+
+625
+00:25:18,540 --> 00:25:20,450
+and Chris Buskirk is the editor of the
+
+626
+00:25:20,450 --> 00:25:23,130
+conservative journal and
+web site American Greatness.
+
+627
+00:25:23,130 --> 00:25:23,997
+Hello to both of you.
+
+628
+00:25:23,997 --> 00:25:24,899
+- Hi.
+- Hi, Judy.
+
+629
+00:25:24,899 --> 00:25:25,959
+- Great to have you back on the program.
+
+630
+00:25:25,959 --> 00:25:27,629
+Chris, to you first, Chris Buskirk.
+
+631
+00:25:27,629 --> 00:25:30,780
+What do you expect the
+President to do tonight?
+
+632
+00:25:30,780 --> 00:25:32,620
+- I think what the
+President's gonna do tonight
+
+633
+00:25:32,620 --> 00:25:35,250
+is he is going to do what he's done,
+
+634
+00:25:35,250 --> 00:25:37,260
+I think pretty well in
+some speeches before,
+
+635
+00:25:37,260 --> 00:25:41,070
+which he's going to go back to
+promises made, promises kept.
+
+636
+00:25:41,070 --> 00:25:42,610
+Here's what I talked about in my campaign,
+
+637
+00:25:42,610 --> 00:25:44,090
+here's what I've accomplished so far,
+
+638
+00:25:44,090 --> 00:25:45,398
+here's what I still need to do,
+
+639
+00:25:45,398 --> 00:25:46,909
+and I think that, here we are halfway
+
+640
+00:25:46,909 --> 00:25:48,810
+through the first term, right.
+
+641
+00:25:48,810 --> 00:25:51,690
+This has got to be the
+pivot to reelection,
+
+642
+00:25:51,690 --> 00:25:53,480
+so try to start to set the tone
+
+643
+00:25:53,480 --> 00:25:55,298
+and set the trajectory for a message
+
+644
+00:25:55,298 --> 00:25:58,020
+that's going to carry him
+through November of 2020,
+
+645
+00:25:58,020 --> 00:26:02,120
+and I think that needs to
+be one big unifying theme
+
+646
+00:26:02,120 --> 00:26:05,270
+that says, on immigration,
+on trade, on foreign policy,
+
+647
+00:26:05,270 --> 00:26:06,770
+how are all these things linked together?
+
+648
+00:26:06,770 --> 00:26:08,270
+What's that unifying theme?
+
+649
+00:26:08,270 --> 00:26:10,210
+And I think that that theme has to be
+
+650
+00:26:10,210 --> 00:26:11,859
+how do you rebuild the middle
+class, that's number one,
+
+651
+00:26:11,859 --> 00:26:14,010
+and I think that that's
+what he's gonna try and do.
+
+652
+00:26:14,010 --> 00:26:17,980
+- And if that's what he
+does, Karine Jean-Pierre,
+
+653
+00:26:17,980 --> 00:26:20,040
+how is that received by Democrats?
+
+654
+00:26:20,040 --> 00:26:22,830
+- So, I know that it's been reported that,
+
+655
+00:26:22,830 --> 00:26:24,233
+from the administration,
+from the White House,
+
+656
+00:26:24,233 --> 00:26:27,310
+that the President is going
+to give a speech on unity,
+
+657
+00:26:27,310 --> 00:26:29,750
+on greatness, on bipartisanship,
+
+658
+00:26:29,750 --> 00:26:32,640
+and that would be great
+if he was able to do that,
+
+659
+00:26:32,640 --> 00:26:34,520
+but we haven't seen
+that from this President
+
+660
+00:26:34,520 --> 00:26:36,669
+in the past, now going on three years,
+
+661
+00:26:36,669 --> 00:26:39,540
+and I just don't see the speech,
+
+662
+00:26:39,540 --> 00:26:42,210
+only because of his
+history, of his record,
+
+663
+00:26:42,210 --> 00:26:44,637
+being that impactful, so
+maybe, maybe he gets there
+
+664
+00:26:44,637 --> 00:26:46,059
+and he makes a unity speech,
+
+665
+00:26:46,059 --> 00:26:49,410
+but hours later, the
+moment he gets on Twitter,
+
+666
+00:26:49,410 --> 00:26:51,230
+it all, he steps on it.
+
+667
+00:26:51,230 --> 00:26:53,230
+So, I just, it's hard to believe
+
+668
+00:26:53,230 --> 00:26:55,370
+and let's not forget, a couple weeks ago,
+
+669
+00:26:55,370 --> 00:26:58,140
+he gave, he addressed the country
+
+670
+00:26:58,140 --> 00:27:00,950
+in a diplomatic reception room
+
+671
+00:27:00,950 --> 00:27:02,600
+where he talked about immigration,
+
+672
+00:27:02,600 --> 00:27:04,370
+and that was filled with division,
+
+673
+00:27:04,370 --> 00:27:06,510
+and then he did it weeks prior to that
+
+674
+00:27:06,510 --> 00:27:09,100
+in the Oval Office
+behind the Resolute desk
+
+675
+00:27:09,100 --> 00:27:11,670
+and that was filled
+with division and hate,
+
+676
+00:27:11,670 --> 00:27:13,589
+so I just don't see how that's possible
+
+677
+00:27:13,589 --> 00:27:14,930
+coming from this President.
+
+678
+00:27:14,930 --> 00:27:16,120
+- And in fact, Chris Buskirk,
+
+679
+00:27:16,120 --> 00:27:18,370
+I had a chance today
+to spend a little bit,
+
+680
+00:27:18,370 --> 00:27:19,920
+a few minutes with Speaker Pelosi
+
+681
+00:27:19,920 --> 00:27:22,130
+and the Senate Minority
+Leader, Chuck Schumer,
+
+682
+00:27:22,130 --> 00:27:23,410
+and Mr. Schumer made a point,
+
+683
+00:27:23,410 --> 00:27:25,310
+Senator Schumer made a point of saying,
+
+684
+00:27:25,310 --> 00:27:27,450
+we hope the President's
+going to appeal to unity,
+
+685
+00:27:27,450 --> 00:27:31,240
+but in the past, when
+he's spoken at a moment
+
+686
+00:27:31,240 --> 00:27:33,537
+whether it's the State
+of the Union address
+
+687
+00:27:33,537 --> 00:27:35,330
+or another speech, he's made promises
+
+688
+00:27:35,330 --> 00:27:36,800
+or made declarations that he then
+
+689
+00:27:36,800 --> 00:27:39,020
+turned around and didn't fulfill,
+
+690
+00:27:39,020 --> 00:27:40,899
+so what makes you convinced
+
+691
+00:27:40,899 --> 00:27:43,170
+that tonight is gonna be different?
+
+692
+00:27:43,170 --> 00:27:44,117
+- Well, I think part of that's
+
+693
+00:27:44,117 --> 00:27:46,040
+in the eye of the beholder, right.
+
+694
+00:27:46,040 --> 00:27:46,873
+What is unity?
+
+695
+00:27:46,873 --> 00:27:47,937
+I mean, there's part of it that is
+
+696
+00:27:47,937 --> 00:27:50,387
+the art of persuasion,
+which is to talk about it
+
+697
+00:27:50,387 --> 00:27:52,130
+and to use the rhetoric of unity
+
+698
+00:27:52,130 --> 00:27:54,139
+and to talk about how do we,
+
+699
+00:27:54,139 --> 00:27:56,120
+how are we Americans together,
+
+700
+00:27:56,120 --> 00:27:58,230
+what does that mean and how
+do we build things together,
+
+701
+00:27:58,230 --> 00:27:59,908
+make this a better society.
+
+702
+00:27:59,908 --> 00:28:02,740
+How that translates
+into practice, I think,
+
+703
+00:28:02,740 --> 00:28:04,880
+is where the President
+needs to be very concrete.
+
+704
+00:28:04,880 --> 00:28:06,790
+He needs to use that
+rhetoric, but then say,
+
+705
+00:28:06,790 --> 00:28:08,520
+look, these are the
+policies we're gonna pursue
+
+706
+00:28:08,520 --> 00:28:11,060
+in my administration to try
+and make this a reality,
+
+707
+00:28:11,060 --> 00:28:13,150
+and that's what everybody's
+really looking for.
+
+708
+00:28:13,150 --> 00:28:14,276
+It's nice to hear the good speech,
+
+709
+00:28:14,276 --> 00:28:15,749
+but then what are you gonna do about it?
+
+710
+00:28:15,749 --> 00:28:19,300
+- But you have a sense
+that now, Chris Buskirk,
+
+711
+00:28:19,300 --> 00:28:21,060
+the President's prepared to do that?
+
+712
+00:28:21,060 --> 00:28:23,340
+- I think he has to, and I think that's
+
+713
+00:28:23,340 --> 00:28:24,657
+what he's gonna try and do.
+
+714
+00:28:24,657 --> 00:28:25,517
+- But, Karine,
+
+715
+00:28:25,517 --> 00:28:26,650
+(laughing)
+
+716
+00:28:26,650 --> 00:28:28,760
+you're expressing doubt.
+
+717
+00:28:28,760 --> 00:28:30,910
+- I, he just doesn't have
+a record of it, Judy.
+
+718
+00:28:30,910 --> 00:28:32,037
+We have not seen that.
+
+719
+00:28:32,037 --> 00:28:34,160
+A year ago, he talked about unity.
+
+720
+00:28:34,160 --> 00:28:35,330
+What did we get months later?
+
+721
+00:28:35,330 --> 00:28:39,840
+We got the zero policy situation
+
+722
+00:28:39,840 --> 00:28:42,450
+where children were being
+ripped away from their parents,
+
+723
+00:28:42,450 --> 00:28:44,170
+children of undocumented immigrants
+
+724
+00:28:44,170 --> 00:28:45,740
+coming through the southern border,
+
+725
+00:28:45,740 --> 00:28:47,350
+and that was devastating to see
+
+726
+00:28:47,350 --> 00:28:48,860
+and now we're hearing many of them
+
+727
+00:28:48,860 --> 00:28:50,210
+will never be reunited,
+
+728
+00:28:50,210 --> 00:28:52,350
+and the year before that, in 2017,
+
+729
+00:28:52,350 --> 00:28:54,660
+in the joint address, the same thing,
+
+730
+00:28:54,660 --> 00:28:56,509
+and what did we see?
+
+731
+00:28:56,509 --> 00:28:57,342
+We heard about Charlottesville
+
+732
+00:28:57,342 --> 00:28:58,175
+and what did he do there?
+
+733
+00:28:58,175 --> 00:29:01,010
+He said, very fine people on both sides.
+
+734
+00:29:01,010 --> 00:29:02,570
+I just don't see it.
+
+735
+00:29:02,570 --> 00:29:04,610
+- When you hear this, Chris Buskirk,
+
+736
+00:29:04,610 --> 00:29:05,530
+what do you think?
+
+737
+00:29:05,530 --> 00:29:09,200
+- I think that unity does not
+mean agreement on everything
+
+738
+00:29:09,200 --> 00:29:11,597
+and that's okay, that's
+what politics is for.
+
+739
+00:29:11,597 --> 00:29:16,200
+I think what unity means is
+not that Donald Trump says,
+
+740
+00:29:16,200 --> 00:29:18,130
+well, to Speaker Pelosi,
+
+741
+00:29:18,130 --> 00:29:19,469
+okay whatever you want, that's fine.
+
+742
+00:29:19,469 --> 00:29:21,540
+I think what it means is how do we
+
+743
+00:29:21,540 --> 00:29:23,437
+identify the problems
+that the country faces
+
+744
+00:29:23,437 --> 00:29:25,970
+and then how do we work together
+
+745
+00:29:25,970 --> 00:29:27,389
+where there's agreement
+and then we can disagree
+
+746
+00:29:27,389 --> 00:29:30,030
+on other things too, but
+let's do that in a way
+
+747
+00:29:30,030 --> 00:29:32,836
+where we at least try and set
+the table on common goals.
+
+748
+00:29:32,836 --> 00:29:36,273
+- And I guess the flip
+side of the question,
+
+749
+00:29:36,273 --> 00:29:38,468
+Karine Jean-Pierre, is are Democrats
+
+750
+00:29:38,468 --> 00:29:42,878
+or people like you who work
+hard with organizations.
+
+751
+00:29:42,878 --> 00:29:43,711
+- Yeah.
+
+752
+00:29:43,711 --> 00:29:44,788
+- Who oppose so much of
+the President's policies,
+
+753
+00:29:44,788 --> 00:29:46,340
+are you willing to give the President
+
+754
+00:29:46,340 --> 00:29:47,173
+the benefit of the doubt?
+
+755
+00:29:47,173 --> 00:29:48,370
+- There are things that we can work on
+
+756
+00:29:48,370 --> 00:29:50,690
+that's bipartisanship, which is DACA,
+
+757
+00:29:50,690 --> 00:29:52,250
+infrastructure, improving.
+
+758
+00:29:52,250 --> 00:29:53,083
+- [Judy] Which is immigration.
+
+759
+00:29:53,083 --> 00:29:57,530
+- Immigration, right, for
+young undocumented folks
+
+760
+00:29:57,530 --> 00:30:00,937
+who came here with their parents
+when they were really young
+
+761
+00:30:00,937 --> 00:30:03,990
+and there's also the
+criminal justice, right?
+
+762
+00:30:03,990 --> 00:30:05,590
+That was done in a bipartisan way.
+
+763
+00:30:05,590 --> 00:30:07,857
+It was a first step, and
+there's more to be done.
+
+764
+00:30:07,857 --> 00:30:10,300
+The problem is, and what we said earlier,
+
+765
+00:30:10,300 --> 00:30:12,420
+he declares things in his speech
+
+766
+00:30:12,420 --> 00:30:14,430
+but then he doesn't stick to them
+
+767
+00:30:14,430 --> 00:30:16,090
+and I think Democrats are ready
+
+768
+00:30:16,090 --> 00:30:18,270
+to work on those things I just mentioned,
+
+769
+00:30:18,270 --> 00:30:19,828
+but he doesn't stick to it.
+
+770
+00:30:19,828 --> 00:30:23,140
+- I want to look at this,
+step back a little bit,
+
+771
+00:30:23,140 --> 00:30:25,200
+Chris Buskirk, because part
+of what's going on here
+
+772
+00:30:25,200 --> 00:30:27,297
+is that many of the people
+who support the President
+
+773
+00:30:27,297 --> 00:30:30,350
+don't seem to want him to cooperate
+
+774
+00:30:30,350 --> 00:30:31,440
+with the other side and Karine,
+
+775
+00:30:31,440 --> 00:30:32,930
+I think you could say that about
+
+776
+00:30:32,930 --> 00:30:34,640
+a number of progressive liberal Democrats
+
+777
+00:30:34,640 --> 00:30:37,160
+who don't want to see
+their party cooperate.
+
+778
+00:30:37,160 --> 00:30:38,160
+What about that, Chris?
+
+779
+00:30:38,160 --> 00:30:41,360
+- Well, the best way for me,
+at least, to think about it
+
+780
+00:30:41,360 --> 00:30:43,240
+is to use a concrete illustration.
+
+781
+00:30:43,240 --> 00:30:45,440
+So you think about the immigration issue.
+
+782
+00:30:45,440 --> 00:30:47,140
+I mean, this is a place where people like
+
+783
+00:30:47,140 --> 00:30:49,580
+Speaker Pelosi and
+Minority Leader Schumer,
+
+784
+00:30:49,580 --> 00:30:51,090
+you know, 10 years ago, 12 years ago,
+
+785
+00:30:51,090 --> 00:30:52,180
+they were talking, yes we need a wall,
+
+786
+00:30:52,180 --> 00:30:53,126
+we need border security.
+
+787
+00:30:53,126 --> 00:30:54,880
+I think what the President needs to do
+
+788
+00:30:54,880 --> 00:30:56,940
+is explain why that's important
+
+789
+00:30:56,940 --> 00:30:59,320
+and how that is something that protects,
+
+790
+00:30:59,320 --> 00:31:02,810
+how border security
+protects working families,
+
+791
+00:31:02,810 --> 00:31:03,909
+American working families.
+
+792
+00:31:03,909 --> 00:31:07,340
+Why, because it protects
+their most valuable asset,
+
+793
+00:31:07,340 --> 00:31:09,400
+which is their asymmetric access
+
+794
+00:31:09,400 --> 00:31:11,160
+to the American labor market.
+
+795
+00:31:11,160 --> 00:31:12,963
+Make that argument, maybe in a more.
+
+796
+00:31:13,950 --> 00:31:16,110
+- [Judy] In other words,
+immigrants take jobs away from you?
+
+797
+00:31:16,110 --> 00:31:17,088
+Is that, I mean?
+
+798
+00:31:17,088 --> 00:31:19,530
+- Take jobs away, lower wages.
+
+799
+00:31:19,530 --> 00:31:23,100
+I mean, more supply equals,
+more supply lowers prices.
+
+800
+00:31:23,100 --> 00:31:23,933
+That's basic.
+
+801
+00:31:23,933 --> 00:31:26,080
+You explain that to people and say,
+
+802
+00:31:26,080 --> 00:31:29,230
+look, this is why
+immigration's important to me,
+
+803
+00:31:29,230 --> 00:31:31,320
+or this is why trade
+policy's important to me,
+
+804
+00:31:31,320 --> 00:31:33,210
+'cause I want middle income families
+
+805
+00:31:33,210 --> 00:31:34,925
+to be secure economically
+
+806
+00:31:34,925 --> 00:31:36,440
+and they to be able to prosper.
+
+807
+00:31:36,440 --> 00:31:38,500
+- And Karine, the flip side of that.
+
+808
+00:31:38,500 --> 00:31:40,896
+Liberal Democrats don't
+want their party leaders
+
+809
+00:31:40,896 --> 00:31:42,780
+to work together with the President.
+
+810
+00:31:42,780 --> 00:31:46,860
+- Well, they want Democrats,
+in particular in the House
+
+811
+00:31:46,860 --> 00:31:47,900
+now that it's the majority,
+
+812
+00:31:47,900 --> 00:31:49,530
+to hold this President accountable,
+
+813
+00:31:49,530 --> 00:31:52,880
+and that's one of the reasons
+that we took back the House,
+
+814
+00:31:52,880 --> 00:31:53,940
+and so that's really important,
+
+815
+00:31:53,940 --> 00:31:55,904
+and that looks in very
+different ways, right?
+
+816
+00:31:55,904 --> 00:31:57,976
+That's looking at this Mueller report.
+
+817
+00:31:57,976 --> 00:32:01,420
+That's also looking at, as I mentioned,
+
+818
+00:32:01,420 --> 00:32:03,180
+the children being
+separated at the border,
+
+819
+00:32:03,180 --> 00:32:05,160
+Puerto Rico, 3,000 people died,
+
+820
+00:32:05,160 --> 00:32:07,350
+but they also want to see Democrats
+
+821
+00:32:07,350 --> 00:32:09,100
+moving the country forward, right,
+
+822
+00:32:09,100 --> 00:32:11,090
+and they've done that with voting rights
+
+823
+00:32:11,090 --> 00:32:13,370
+and dealing with corruption and so
+
+824
+00:32:13,370 --> 00:32:16,263
+those are things that
+they actually want to see,
+
+825
+00:32:18,635 --> 00:32:19,468
+but we need Republicans
+on the other side to do,
+
+826
+00:32:19,468 --> 00:32:21,166
+to also in there with us, too.
+
+827
+00:32:21,166 --> 00:32:22,680
+- All right, we're gonna have a chance
+
+828
+00:32:22,680 --> 00:32:24,560
+to talk about all this again later tonight
+
+829
+00:32:24,560 --> 00:32:26,870
+when we've heard what
+the President has to say.
+
+830
+00:32:26,870 --> 00:32:29,250
+Thank you so much, Karine
+Jean-Pierre, Chris Buskirk.
+
+831
+00:32:29,250 --> 00:32:30,083
+- Thank you.
+- Thank you.
+
+832
+00:32:30,083 --> 00:32:32,470
+(upbeat music)
+
+833
+00:32:39,260 --> 00:32:42,190
+- And now for a roundup of
+today's other main headlines.
+
+834
+00:32:42,190 --> 00:32:43,090
+Here's Amna Nawaz.
+
+835
+00:32:44,115 --> 00:32:47,020
+- In the non-State of
+the Union news today,
+
+836
+00:32:47,020 --> 00:32:49,340
+the White House played
+down a federal subpoena
+
+837
+00:32:49,340 --> 00:32:50,715
+seeking a host of documents
+
+838
+00:32:50,715 --> 00:32:53,370
+from President Trump's
+inaugural committee.
+
+839
+00:32:53,370 --> 00:32:55,520
+Federal prosecutors in
+New York are investigating
+
+840
+00:32:55,520 --> 00:32:57,110
+who gave the money and what they
+
+841
+00:32:57,110 --> 00:32:58,840
+might have received in return.
+
+842
+00:32:58,840 --> 00:33:00,886
+White House spokeswoman
+Sarah Sanders called it
+
+843
+00:33:00,886 --> 00:33:05,130
+"hysteria over the fact
+that Mr. Trump was elected."
+
+844
+00:33:05,130 --> 00:33:06,865
+- This doesn't have anything
+to do with the White House,
+
+845
+00:33:06,865 --> 00:33:09,690
+and I think the biggest focus
+
+846
+00:33:09,690 --> 00:33:11,254
+and the thing that most
+Americans care about
+
+847
+00:33:11,254 --> 00:33:13,060
+has nothing to do with the inaugural
+
+848
+00:33:13,060 --> 00:33:14,275
+and it has everything to do
+
+849
+00:33:14,275 --> 00:33:16,753
+with what the path forward looks like.
+
+850
+00:33:16,753 --> 00:33:19,240
+- Investigators are also
+looking into whether
+
+851
+00:33:19,240 --> 00:33:21,730
+any foreign donors illegally contributed
+
+852
+00:33:21,730 --> 00:33:23,620
+to the inaugural committee.
+
+853
+00:33:23,620 --> 00:33:25,760
+One of President Trump's judicial nominees
+
+854
+00:33:25,760 --> 00:33:27,806
+voiced regrets today
+for her past statements
+
+855
+00:33:27,806 --> 00:33:30,830
+on rape, race, and equal rights.
+
+856
+00:33:30,830 --> 00:33:33,840
+Neomi Rao appeared before the
+Senate Judiciary Committee.
+
+857
+00:33:33,840 --> 00:33:36,010
+Senators on both sides criticized her
+
+858
+00:33:36,010 --> 00:33:38,785
+for writing in college
+that women bear some blame
+
+859
+00:33:38,785 --> 00:33:42,700
+if they're sexually
+assaulted while intoxicated.
+
+860
+00:33:42,700 --> 00:33:44,990
+- To be honest, looking back
+at some of those writings
+
+861
+00:33:44,990 --> 00:33:46,730
+and rereading them, I cringe at some
+
+862
+00:33:46,730 --> 00:33:47,870
+of the language that I used.
+
+863
+00:33:47,870 --> 00:33:51,600
+Now, I've had a lot of
+experience since that time
+
+864
+00:33:51,600 --> 00:33:55,023
+writing in college, and
+I don't think I would
+
+865
+00:33:55,023 --> 00:33:56,350
+express myself in the same way.
+
+866
+00:33:56,350 --> 00:33:57,590
+These are horrible crimes,
+
+867
+00:33:57,590 --> 00:33:59,935
+and I wouldn't write
+anything that might be
+
+868
+00:33:59,935 --> 00:34:01,775
+implied to blame a victim or make it
+
+869
+00:34:01,775 --> 00:34:04,730
+less likely for a victim to come forward.
+
+870
+00:34:04,730 --> 00:34:06,810
+- Rao currently leads
+the White House office
+
+871
+00:34:06,810 --> 00:34:08,550
+overseeing deregulation.
+
+872
+00:34:08,550 --> 00:34:11,020
+If confirmed, she'd take the
+federal Appeals Court seat
+
+873
+00:34:11,020 --> 00:34:14,940
+held by Brett Kavanaugh before
+he joined the Supreme Court.
+
+874
+00:34:14,940 --> 00:34:17,125
+Overseas, in Afghanistan,
+Taliban attacks killed
+
+875
+00:34:17,125 --> 00:34:21,130
+nearly 50 people in
+two northern provinces.
+
+876
+00:34:21,130 --> 00:34:23,815
+A pre-dawn raid killed
+26 soldiers and police
+
+877
+00:34:23,815 --> 00:34:25,990
+at an army base in Kunduz province,
+
+878
+00:34:25,990 --> 00:34:27,850
+on the outskirts of Kunduz City.
+
+879
+00:34:27,850 --> 00:34:31,010
+Attacks in neighboring
+provinces killed 21 others.
+
+880
+00:34:31,010 --> 00:34:33,873
+The Taliban have kept up their offensive,
+
+881
+00:34:33,873 --> 00:34:37,000
+even amid early stages of
+peace talks with the U.S.
+
+882
+00:34:37,000 --> 00:34:39,090
+The top U.S. commander
+in the Middle East says
+
+883
+00:34:39,090 --> 00:34:40,833
+President Trump did not talk to him
+
+884
+00:34:40,833 --> 00:34:44,990
+before announcing American
+forces will withdraw from Syria.
+
+885
+00:34:44,990 --> 00:34:47,460
+Army General Joseph Votel testified
+
+886
+00:34:47,460 --> 00:34:49,770
+at a Senate hearing
+today and was questioned
+
+887
+00:34:49,770 --> 00:34:52,030
+by Maine Senator Angus King.
+
+888
+00:34:52,030 --> 00:34:54,320
+- General, were you aware
+of the President's intention
+
+889
+00:34:54,320 --> 00:34:56,590
+to order the withdrawal
+of our troops from Syria
+
+890
+00:34:56,590 --> 00:34:59,600
+before that was publicly announced?
+
+891
+00:34:59,600 --> 00:35:04,290
+- I was not aware of the
+specific announcement.
+
+892
+00:35:04,290 --> 00:35:09,090
+Certainly we are aware that
+he had expressed a desire
+
+893
+00:35:09,090 --> 00:35:12,300
+and intent in the past to
+depart Iraq, er, I meant Syria.
+
+894
+00:35:12,300 --> 00:35:14,147
+- So you weren't consulted
+
+895
+00:35:14,147 --> 00:35:15,770
+before that decision was announced?
+
+896
+00:35:15,770 --> 00:35:17,980
+- [Votel] We were not,
+I was not consulted.
+
+897
+00:35:17,980 --> 00:35:19,920
+- Votel's remarks came a day after
+
+898
+00:35:19,920 --> 00:35:21,280
+the Defense Department warned that
+
+899
+00:35:21,280 --> 00:35:23,590
+Islamic State fighters could resurge
+
+900
+00:35:23,590 --> 00:35:25,681
+in Syria after the U.S. withdraws,
+
+901
+00:35:25,681 --> 00:35:27,670
+and this afternoon the Senate approved
+
+902
+00:35:27,670 --> 00:35:29,420
+a Middle East security bill that warns
+
+903
+00:35:29,420 --> 00:35:32,473
+against any sudden pullout
+from Syria or Afghanistan.
+
+904
+00:35:32,473 --> 00:35:35,663
+It also calls for new sanctions on Syria.
+
+905
+00:35:35,663 --> 00:35:38,740
+Pope Francis has celebrated the first ever
+
+906
+00:35:38,740 --> 00:35:40,903
+Papal mass on the Arabian peninsula.
+
+907
+00:35:40,903 --> 00:35:44,030
+Some 180,000 people gathered today
+
+908
+00:35:44,030 --> 00:35:45,940
+at a sports stadium in Abu Dhabi,
+
+909
+00:35:45,940 --> 00:35:48,090
+capital of the United Arab Emirates.
+
+910
+00:35:48,090 --> 00:35:49,612
+Francis preached humility
+
+911
+00:35:49,612 --> 00:35:51,921
+in one of the world's richest nations.
+
+912
+00:35:51,921 --> 00:35:56,343
+(speaking foreign language)
+
+913
+00:35:56,343 --> 00:35:57,921
+- [Papal Translator] For
+Jesus on the other hand,
+
+914
+00:35:57,921 --> 00:36:00,142
+blessed are the poor, the meek,
+
+915
+00:36:00,142 --> 00:36:02,623
+those who remain just, even at the cost
+
+916
+00:36:02,623 --> 00:36:06,430
+of appearing in a bad light,
+those who are persecuted.
+
+917
+00:36:06,430 --> 00:36:09,193
+He taught us that greatness
+is not found in having
+
+918
+00:36:09,193 --> 00:36:11,320
+but rather in giving.
+
+919
+00:36:11,320 --> 00:36:13,651
+- Later, the Pope acknowledged,
+for the first time,
+
+920
+00:36:13,651 --> 00:36:17,140
+the scandal of priests
+sexually abusing nuns.
+
+921
+00:36:17,140 --> 00:36:19,760
+He said he's committed
+to fighting the problem.
+
+922
+00:36:19,760 --> 00:36:22,790
+Millions of people, meanwhile,
+in Asia and around the world
+
+923
+00:36:22,790 --> 00:36:24,810
+marked the Lunar New Year today.
+
+924
+00:36:24,810 --> 00:36:28,250
+In Taiwan, thousands gathered
+to pray at a Buddhist temple.
+
+925
+00:36:28,250 --> 00:36:30,640
+In the Philippines,
+people bought roasted pig,
+
+926
+00:36:30,640 --> 00:36:33,460
+a delicacy, to usher
+in the Year of the Pig,
+
+927
+00:36:33,460 --> 00:36:36,220
+and all across China,
+crowds visited temples
+
+928
+00:36:36,220 --> 00:36:38,193
+and took part in festivals.
+
+929
+00:36:38,193 --> 00:36:40,660
+Back in this country, Texas lawmakers
+
+930
+00:36:40,660 --> 00:36:43,530
+complained today the state
+still has not received
+
+931
+00:36:43,530 --> 00:36:45,800
+Hurricane Harvey recovery funds.
+
+932
+00:36:45,800 --> 00:36:49,460
+The storm did major damage
+in 2017 and last February,
+
+933
+00:36:49,460 --> 00:36:53,230
+Congress earmarked some
+$4.4 billion for Texas,
+
+934
+00:36:53,230 --> 00:36:55,260
+but no grants have actually been made.
+
+935
+00:36:55,260 --> 00:36:58,090
+The state's Republican
+senators plus 10 House members
+
+936
+00:36:58,090 --> 00:37:01,220
+from both parties say
+federal budget bureaucracy
+
+937
+00:37:01,220 --> 00:37:03,460
+is what's standing in the way.
+
+938
+00:37:03,460 --> 00:37:06,710
+An outspoken critic of the
+World Bank, David Malpass,
+
+939
+00:37:06,710 --> 00:37:08,430
+looks like he'll be President Trump's
+
+940
+00:37:08,430 --> 00:37:10,500
+choice to lead the agency.
+
+941
+00:37:10,500 --> 00:37:11,970
+It was widely reported today that
+
+942
+00:37:11,970 --> 00:37:14,040
+the President will nominate him this week.
+
+943
+00:37:14,040 --> 00:37:16,670
+The World Bank provides loans
+and projects around the world,
+
+944
+00:37:16,670 --> 00:37:18,390
+but Malpass has complained it's
+
+945
+00:37:18,390 --> 00:37:20,810
+piling up debt without results.
+
+946
+00:37:20,810 --> 00:37:22,780
+Also today, Andrew Wheeler won
+
+947
+00:37:22,780 --> 00:37:25,760
+a Senate Committee's approval
+to be head of the EPA.
+
+948
+00:37:25,760 --> 00:37:28,223
+His nomination now goes
+to the full Senate,
+
+949
+00:37:28,223 --> 00:37:32,390
+and on Wall Street, a series
+of strong earnings reports
+
+950
+00:37:32,390 --> 00:37:33,833
+gave stocks another boost.
+
+951
+00:37:33,833 --> 00:37:37,300
+The Dow Jones industrial
+average gained 172 points
+
+952
+00:37:37,300 --> 00:37:40,030
+to close at 25,411.
+
+953
+00:37:40,030 --> 00:37:41,993
+The NASDAQ rose 54 points,
+
+954
+00:37:41,993 --> 00:37:45,660
+and the S&P 500 added 12.
+
+955
+00:37:45,660 --> 00:37:47,073
+Still to come on the NewsHour,
+
+956
+00:37:47,073 --> 00:37:49,550
+reaction to the President's comments
+
+957
+00:37:49,550 --> 00:37:51,410
+that the U.S. will use a base in Iraq
+
+958
+00:37:51,410 --> 00:37:53,091
+to keep eyes on Iran.
+
+959
+00:37:53,091 --> 00:37:57,300
+A rigorous program prepares
+Black undergraduates
+
+960
+00:37:57,300 --> 00:37:59,212
+to go on to medical school.
+
+961
+00:37:59,212 --> 00:38:02,870
+Plus, SAS Rachel Kaadzi Ghansah gives her
+
+962
+00:38:02,870 --> 00:38:05,703
+brief but spectacular
+take on fearlessness.
+
+963
+00:38:05,703 --> 00:38:08,286
+(upbeat music)
+
+964
+00:38:16,140 --> 00:38:19,050
+- As we reported, the top
+U.S. military commander
+
+965
+00:38:19,050 --> 00:38:21,530
+for the Middle East was
+on Capitol Hill today.
+
+966
+00:38:21,530 --> 00:38:23,302
+In addition to the fight against ISIS,
+
+967
+00:38:23,302 --> 00:38:26,660
+he was asked about recent
+comments by President Trump
+
+968
+00:38:26,660 --> 00:38:29,070
+suggesting American troops in Iraq
+
+969
+00:38:29,070 --> 00:38:30,900
+could shift their mission,
+
+970
+00:38:30,900 --> 00:38:32,220
+and as Nick Schifrin reports,
+
+971
+00:38:32,220 --> 00:38:35,470
+those comments about
+U.S. troops watching Iran
+
+972
+00:38:35,470 --> 00:38:37,690
+have sparked deep concern in Iraq.
+
+973
+00:38:39,268 --> 00:38:41,982
+- [Schifrin] Near the Iraqi-Syrian border,
+
+974
+00:38:41,982 --> 00:38:44,810
+(yelling in foreign language)
+
+975
+00:38:44,810 --> 00:38:47,690
+an Iraqi soldier and his American advisor
+
+976
+00:38:47,690 --> 00:38:49,990
+line up artillery to strike ISIS.
+
+977
+00:38:49,990 --> 00:38:50,823
+(mortar firing)
+
+978
+00:38:50,823 --> 00:38:53,300
+Outside Baghdad, U.S.
+Special Operations forces
+
+979
+00:38:53,300 --> 00:38:55,510
+train Iraq's elite
+counterterrorism service,
+
+980
+00:38:55,510 --> 00:38:57,080
+(gun rapidly firing)
+
+981
+00:38:57,080 --> 00:38:59,840
+and Iraqi soldiers learn
+to fire American rifles
+
+982
+00:38:59,840 --> 00:39:02,290
+from anti-ISIS coalition troops.
+
+983
+00:39:02,290 --> 00:39:03,750
+These scenes of partnership,
+
+984
+00:39:03,750 --> 00:39:06,250
+filmed by the U.S. military
+over the past year,
+
+985
+00:39:06,250 --> 00:39:08,710
+show what Iraq has invited the U.S. to do.
+
+986
+00:39:08,710 --> 00:39:09,543
+- [Soldier] Fire!
+
+987
+00:39:09,543 --> 00:39:10,853
+(gun booming)
+
+988
+00:39:10,853 --> 00:39:14,490
+- [Schifren] 5,200 troops
+train Iraqi security forces
+
+989
+00:39:14,490 --> 00:39:16,810
+and target ISIS fighters
+who lost territory
+
+990
+00:39:16,810 --> 00:39:18,760
+but resumed insurgent tactics,
+
+991
+00:39:18,760 --> 00:39:20,810
+but this weekend, President Trump
+
+992
+00:39:20,810 --> 00:39:23,680
+told CBS's Margaret Brennan
+the mission should expand.
+
+993
+00:39:23,680 --> 00:39:25,060
+- And one of the reasons I want to keep it
+
+994
+00:39:25,060 --> 00:39:28,460
+is because I want to be
+looking a little bit at Iran,
+
+995
+00:39:28,460 --> 00:39:30,440
+because Iran is a real problem.
+
+996
+00:39:30,440 --> 00:39:31,740
+- Whoa, that's news.
+
+997
+00:39:31,740 --> 00:39:33,160
+You're keeping troops in Iraq
+
+998
+00:39:33,160 --> 00:39:35,310
+because you want to be
+able to strike in Iran?
+
+999
+00:39:35,310 --> 00:39:37,550
+- No, because I want to
+be able to watch Iran.
+
+1000
+00:39:37,550 --> 00:39:39,270
+All I want to do is be able to watch.
+
+1001
+00:39:39,270 --> 00:39:41,150
+- [Schifren] But even watching Iran
+
+1002
+00:39:41,150 --> 00:39:43,800
+exceeds the tasks Iraq has approved.
+
+1003
+00:39:43,800 --> 00:39:46,260
+Today Iraqi Prime
+Minister Adil Abdul-Mahdi,
+
+1004
+00:39:46,260 --> 00:39:48,029
+who has been working
+with the United States,
+
+1005
+00:39:48,029 --> 00:39:50,022
+criticized President Trump.
+
+1006
+00:39:50,022 --> 00:39:51,779
+(speaking foreign language)
+
+1007
+00:39:51,779 --> 00:39:52,612
+- [Iraqi Translator] I don't think
+
+1008
+00:39:52,612 --> 00:39:53,445
+that such statements are useful.
+
+1009
+00:39:53,445 --> 00:39:54,720
+In fact, they won't help much
+
+1010
+00:39:54,720 --> 00:39:56,887
+and I hope that he would
+back down from them.
+
+1011
+00:39:56,887 --> 00:39:59,430
+- [Schifren] In a statement,
+First Deputy Speaker
+
+1012
+00:39:59,430 --> 00:40:01,190
+Hassan al-Kaabi repeated a vow
+
+1013
+00:40:01,190 --> 00:40:02,847
+that Parliament would pass a law
+
+1014
+00:40:02,847 --> 00:40:05,387
+"terminating the security
+agreement with America,
+
+1015
+00:40:05,387 --> 00:40:07,057
+"in addition to ending the presence
+
+1016
+00:40:07,057 --> 00:40:09,387
+"of American military
+trainers and advisors
+
+1017
+00:40:09,387 --> 00:40:11,622
+"and foreigners on Iraqi soil,"
+
+1018
+00:40:11,622 --> 00:40:12,455
+(speaking foreign language)
+
+1019
+00:40:12,455 --> 00:40:14,340
+and on a Lebanon-based
+TV network on Sunday,
+
+1020
+00:40:14,340 --> 00:40:17,460
+Iranian-backed militia
+spokesman Jaafar al-Husseini
+
+1021
+00:40:17,460 --> 00:40:20,020
+hinted militias had the
+capacity to evict the U.S.
+
+1022
+00:40:20,020 --> 00:40:21,070
+(speaking foreign language)
+
+1023
+00:40:21,070 --> 00:40:22,580
+- [Iranian Translator] All of our options
+
+1024
+00:40:22,580 --> 00:40:23,970
+are open in front of us.
+
+1025
+00:40:23,970 --> 00:40:26,850
+We have the ability and
+resources to execute them.
+
+1026
+00:40:26,850 --> 00:40:28,890
+- What the President's remarks have done
+
+1027
+00:40:28,890 --> 00:40:30,671
+is to make it more difficult for
+
+1028
+00:40:30,671 --> 00:40:34,670
+even America's closest allies
+and the Iraqi political class
+
+1029
+00:40:34,670 --> 00:40:38,920
+to continue to advocate for
+the American presence in Iraq.
+
+1030
+00:40:38,920 --> 00:40:40,803
+- [Schifren] Feisal Istrabadi
+is a former Iraqi diplomat
+
+1031
+00:40:40,803 --> 00:40:43,580
+and directs Indiana University's Center
+
+1032
+00:40:43,580 --> 00:40:45,240
+for the Study of the Middle East.
+
+1033
+00:40:45,240 --> 00:40:47,460
+The Iraqi Parliament was
+already debating a bill
+
+1034
+00:40:47,460 --> 00:40:49,000
+that would evict the U.S.
+
+1035
+00:40:49,000 --> 00:40:51,360
+That momentum will
+increase and put pressure
+
+1036
+00:40:51,360 --> 00:40:53,390
+on Prime Minister Adil Abdul-Mahdi,
+
+1037
+00:40:53,390 --> 00:40:55,654
+who leads a government
+considered technically capable
+
+1038
+00:40:55,654 --> 00:40:58,170
+but has no natural constituency.
+
+1039
+00:40:58,170 --> 00:41:01,574
+- He was turned to by the
+political parties in Parliament
+
+1040
+00:41:01,574 --> 00:41:04,139
+and asked to form a government.
+
+1041
+00:41:04,139 --> 00:41:06,662
+He is in that sense a
+relatively weak Prime Minister
+
+1042
+00:41:06,662 --> 00:41:09,030
+and you don't want the Prime Minister
+
+1043
+00:41:09,030 --> 00:41:10,970
+in a political battle with Parliament
+
+1044
+00:41:10,970 --> 00:41:13,540
+because in the Iraqi system,
+
+1045
+00:41:13,540 --> 00:41:16,083
+the Prime Minister will always lose.
+
+1046
+00:41:16,083 --> 00:41:18,140
+- [Schifren] Today the top
+commander in the Middle East,
+
+1047
+00:41:18,140 --> 00:41:21,040
+General Joseph Votel, tried
+to reassure that the U.S.
+
+1048
+00:41:21,040 --> 00:41:23,150
+Respected Iraqi wishes.
+
+1049
+00:41:23,150 --> 00:41:24,590
+- Our military mission on the ground
+
+1050
+00:41:24,590 --> 00:41:27,710
+remains very focused on the reason
+
+1051
+00:41:27,710 --> 00:41:29,847
+that the government of Iraq
+asked us to come there.
+
+1052
+00:41:29,847 --> 00:41:31,820
+- [Schiffren] And he suggested
+the President's comments
+
+1053
+00:41:31,820 --> 00:41:33,860
+had not become a military order.
+
+1054
+00:41:33,860 --> 00:41:36,300
+Virginia Democrat Senator Tim Kaine.
+
+1055
+00:41:36,300 --> 00:41:37,240
+- And as far as you know,
+
+1056
+00:41:37,240 --> 00:41:40,070
+there is not a change in the
+definition of the mission,
+
+1057
+00:41:40,070 --> 00:41:41,850
+at least as far as the
+Pentagon is concerned?
+
+1058
+00:41:41,850 --> 00:41:43,752
+- I have no additional tasks that have
+
+1059
+00:41:43,752 --> 00:41:46,380
+been given to me with regard to that.
+
+1060
+00:41:46,380 --> 00:41:48,580
+- If the U.S. were to
+change its definition
+
+1061
+00:41:48,580 --> 00:41:50,630
+of the mission in Iraq to be a mission
+
+1062
+00:41:50,630 --> 00:41:53,370
+about watching Iran, wouldn't
+it be pretty important
+
+1063
+00:41:53,370 --> 00:41:56,120
+to have Iraq agree that that would be
+
+1064
+00:41:56,120 --> 00:41:57,460
+the focus of the mission if we were
+
+1065
+00:41:57,460 --> 00:41:59,720
+to be having troops in their country
+
+1066
+00:41:59,720 --> 00:42:01,050
+to carry out such a mission?
+
+1067
+00:42:01,050 --> 00:42:02,760
+- Senator, we are in
+Iraq at the invitation
+
+1068
+00:42:02,760 --> 00:42:04,950
+of the government, so yes I agree.
+
+1069
+00:42:04,950 --> 00:42:07,860
+- I think that this
+statement is not enough.
+
+1070
+00:42:07,860 --> 00:42:10,090
+- [Schiffren] Abbas Kadhim
+leads the Atlantic Council's
+
+1071
+00:42:10,090 --> 00:42:12,643
+Iraq Initiative and recently
+met with President Salih.
+
+1072
+00:42:12,643 --> 00:42:15,551
+Kadhim says thanks to
+President Trump's statement,
+
+1073
+00:42:15,551 --> 00:42:19,870
+Iran's powerful allies can
+now use the Iraqi constitution
+
+1074
+00:42:19,870 --> 00:42:22,040
+to argue against U.S. presence,
+
+1075
+00:42:22,040 --> 00:42:23,337
+because it requires Iraq to
+
+1076
+00:42:23,337 --> 00:42:25,737
+"adhere to the principle
+of noninterference
+
+1077
+00:42:25,737 --> 00:42:28,240
+"in the internal affairs of other states."
+
+1078
+00:42:28,240 --> 00:42:32,874
+- Iran has more friends
+inside Iraqi Parliament,
+
+1079
+00:42:32,874 --> 00:42:37,874
+and also inside the government
+and inside even the public
+
+1080
+00:42:38,227 --> 00:42:42,700
+and these friends are
+willing to indulge Iran.
+
+1081
+00:42:42,700 --> 00:42:45,970
+Before Sunday, they
+did not have the votes.
+
+1082
+00:42:45,970 --> 00:42:49,270
+Now I am told by some Parliament members
+
+1083
+00:42:49,270 --> 00:42:50,960
+that they have the votes at least
+
+1084
+00:42:50,960 --> 00:42:53,840
+to have it pass through the first reading.
+
+1085
+00:42:53,840 --> 00:42:55,563
+That is a major shift.
+
+1086
+00:42:55,563 --> 00:42:56,396
+(rotors whirring)
+
+1087
+00:42:56,396 --> 00:42:57,240
+- [Schiffren] Iraqi leaders admit
+
+1088
+00:42:57,240 --> 00:42:58,923
+they knew all along U.S. troops in Iraq
+
+1089
+00:42:58,923 --> 00:43:01,120
+were likely conducting extra missions,
+
+1090
+00:43:01,120 --> 00:43:03,610
+even watching Iran, but until Sunday
+
+1091
+00:43:03,610 --> 00:43:05,170
+that was never made public.
+
+1092
+00:43:05,170 --> 00:43:07,810
+- That veil of plausible deniability
+
+1093
+00:43:07,810 --> 00:43:10,120
+or willful ignorance,
+whatever you want to call it,
+
+1094
+00:43:10,120 --> 00:43:11,270
+that's been lifted.
+
+1095
+00:43:11,270 --> 00:43:12,770
+The President of the United States
+
+1096
+00:43:12,770 --> 00:43:14,100
+has blatantly announced
+
+1097
+00:43:14,100 --> 00:43:16,197
+what his agenda actually is.
+
+1098
+00:43:16,197 --> 00:43:17,240
+- [Schiffren] And that means,
+
+1099
+00:43:17,240 --> 00:43:19,550
+for the U.S. and Iraqi
+officials whose agenda
+
+1100
+00:43:19,550 --> 00:43:22,859
+is to improve Iraq, their
+mission became much harder.
+
+1101
+00:43:22,859 --> 00:43:23,692
+(gun firing)
+
+1102
+00:43:23,692 --> 00:43:25,558
+For the PBS NewsHour, I'm Nick Schiffren.
+
+1103
+00:43:25,558 --> 00:43:28,141
+(upbeat music)
+
+1104
+00:43:35,150 --> 00:43:37,180
+While Virginia's governor Ralph Northam
+
+1105
+00:43:37,180 --> 00:43:38,677
+weighs whether to resign,
+
+1106
+00:43:38,677 --> 00:43:41,140
+reaction and anger keeps building
+
+1107
+00:43:41,140 --> 00:43:44,450
+over the racist photo in
+his medical school yearbook.
+
+1108
+00:43:44,450 --> 00:43:47,040
+One important part of
+that is how it serves
+
+1109
+00:43:47,040 --> 00:43:50,330
+as a reminder of racism
+in medicine historically.
+
+1110
+00:43:50,330 --> 00:43:52,460
+We reported on the importance of training
+
+1111
+00:43:52,460 --> 00:43:54,980
+more African-Americans to become doctors,
+
+1112
+00:43:54,980 --> 00:43:56,860
+and tonight we have a second look
+
+1113
+00:43:56,860 --> 00:43:59,267
+at a story on Xavier University.
+
+1114
+00:43:59,267 --> 00:44:01,650
+It's a small, historically Black college
+
+1115
+00:44:01,650 --> 00:44:04,250
+in New Orleans that's
+helping lead the way.
+
+1116
+00:44:04,250 --> 00:44:07,208
+Hari Sreenivasan reports on
+what sets the school apart
+
+1117
+00:44:07,208 --> 00:44:10,033
+for our education
+series, Making the Grade.
+
+1118
+00:44:11,080 --> 00:44:13,050
+- Can any of y'all come up to the board
+
+1119
+00:44:13,050 --> 00:44:16,000
+and describe the glycolysis
+cycle, like write it out?
+
+1120
+00:44:16,000 --> 00:44:17,810
+- [Sreenivasan] On the
+campus of Xavier University,
+
+1121
+00:44:17,810 --> 00:44:20,650
+18-year old Chris Webb
+leads a biology review
+
+1122
+00:44:20,650 --> 00:44:22,830
+the night before a major test.
+
+1123
+00:44:22,830 --> 00:44:23,787
+- All you really need to know.
+
+1124
+00:44:23,787 --> 00:44:25,970
+- [Sreenivasan] Webb is
+helping fellow freshmen who,
+
+1125
+00:44:25,970 --> 00:44:29,019
+like him, are enrolled in a
+rigorous pre-medical program.
+
+1126
+00:44:29,019 --> 00:44:32,100
+- I want them to do as best as they can.
+
+1127
+00:44:32,100 --> 00:44:33,550
+- [Sreenivasan] The
+scene is a familiar one
+
+1128
+00:44:33,550 --> 00:44:36,470
+on the campus of Xavier, a
+historically Black college
+
+1129
+00:44:36,470 --> 00:44:37,303
+in the heart of New Orleans.
+
+1130
+00:44:37,303 --> 00:44:40,650
+- So what's the second stage
+in aerobic respiration?
+
+1131
+00:44:40,650 --> 00:44:44,118
+- The second stage is
+formation of acetyl coenzyme A.
+
+1132
+00:44:44,118 --> 00:44:44,951
+- Okay.
+
+1133
+00:44:44,951 --> 00:44:46,240
+- [Sreenivasan] Students
+quiz each other on material
+
+1134
+00:44:46,240 --> 00:44:48,359
+from tough science classes,
+the kind of courses
+
+1135
+00:44:48,359 --> 00:44:50,980
+that often weed out pre-medical students.
+
+1136
+00:44:50,980 --> 00:44:52,880
+- I don't want them to do better than me,
+
+1137
+00:44:52,880 --> 00:44:55,020
+but when they do, that
+just makes me realize,
+
+1138
+00:44:55,020 --> 00:44:57,540
+okay this competition is really serious.
+
+1139
+00:44:57,540 --> 00:45:01,180
+While we're having fun,
+it's also very real.
+
+1140
+00:45:01,180 --> 00:45:04,870
+- There are just over 3,000
+students at Xavier University,
+
+1141
+00:45:04,870 --> 00:45:08,340
+but the school manages to
+graduate more African-Americans
+
+1142
+00:45:08,340 --> 00:45:11,670
+who go on to become doctors
+than any other school.
+
+1143
+00:45:11,670 --> 00:45:13,860
+That includes elite public universities
+
+1144
+00:45:13,860 --> 00:45:15,730
+and the Ivy Leagues.
+
+1145
+00:45:15,730 --> 00:45:17,790
+That number is even more striking
+
+1146
+00:45:17,790 --> 00:45:21,060
+given a drop in Black males
+applying to medical schools.
+
+1147
+00:45:21,060 --> 00:45:22,910
+According to a recent report from the
+
+1148
+00:45:22,910 --> 00:45:25,150
+Association of American Medical Colleges,
+
+1149
+00:45:25,150 --> 00:45:26,850
+fewer Black males are applying to
+
+1150
+00:45:26,850 --> 00:45:30,300
+medical schools now than in 1978.
+
+1151
+00:45:30,300 --> 00:45:33,000
+Reynold Verret, Xavier's president.
+
+1152
+00:45:33,000 --> 00:45:36,100
+- We do not compete to say who's better.
+
+1153
+00:45:36,100 --> 00:45:37,890
+It's almost like a relay race.
+
+1154
+00:45:37,890 --> 00:45:39,990
+The goal is to finish together,
+
+1155
+00:45:39,990 --> 00:45:41,640
+so our students actually embrace
+
+1156
+00:45:41,640 --> 00:45:43,050
+and encourage each other to achieve.
+
+1157
+00:45:43,050 --> 00:45:47,050
+- That turns on its head
+traditional pre-med programs.
+
+1158
+00:45:47,050 --> 00:45:48,180
+- Oh yes, it does.
+
+1159
+00:45:48,180 --> 00:45:51,470
+- Which is look to the
+left, look to the right.
+
+1160
+00:45:51,470 --> 00:45:52,470
+- One of you's gone.
+
+1161
+00:45:52,470 --> 00:45:53,303
+- [Sreenivasan] Right?
+
+1162
+00:45:53,303 --> 00:45:54,136
+- Yes.
+
+1163
+00:45:54,136 --> 00:45:56,250
+We want to get through
+because the competition
+
+1164
+00:45:56,250 --> 00:45:58,557
+is actually after we
+leave Xavier, not here.
+
+1165
+00:45:58,557 --> 00:46:00,333
+The point is to get out there together.
+
+1166
+00:46:00,333 --> 00:46:01,390
+- [Student] Glucose make two.
+
+1167
+00:46:01,390 --> 00:46:03,720
+- [Sreenivasan] Call it
+competitive collaboration.
+
+1168
+00:46:03,720 --> 00:46:06,110
+Head of student advising
+Quo Vadis Webster.
+
+1169
+00:46:06,110 --> 00:46:07,160
+- At some schools, you say
+
+1170
+00:46:07,160 --> 00:46:08,210
+look to your left, look to your right,
+
+1171
+00:46:08,210 --> 00:46:09,370
+this person may not be here.
+
+1172
+00:46:09,370 --> 00:46:11,750
+Here, we say look to your
+left, look to your right,
+
+1173
+00:46:11,750 --> 00:46:12,883
+you better help the person next to you
+
+1174
+00:46:12,883 --> 00:46:15,380
+so that we can all make it.
+
+1175
+00:46:15,380 --> 00:46:18,150
+- [Sreenivasan] The intense
+student advising starts early.
+
+1176
+00:46:18,150 --> 00:46:19,320
+- How are you, my dear?
+
+1177
+00:46:19,320 --> 00:46:20,153
+- [Student] I'm great, how are you?
+
+1178
+00:46:20,153 --> 00:46:22,350
+- Good, everything is filled out?
+
+1179
+00:46:22,350 --> 00:46:23,650
+- [Sreenivasan] Incoming freshmen begin
+
+1180
+00:46:23,650 --> 00:46:25,210
+crafting medical school applications,
+
+1181
+00:46:25,210 --> 00:46:28,760
+even before their first
+day as an undergraduate.
+
+1182
+00:46:28,760 --> 00:46:31,720
+- Before classes start, we
+go over a different aspect
+
+1183
+00:46:31,720 --> 00:46:33,820
+of the process of preparing a competitive
+
+1184
+00:46:33,820 --> 00:46:35,010
+application to medical school.
+
+1185
+00:46:35,010 --> 00:46:38,280
+- And you're starting before
+they actually walk in the door?
+
+1186
+00:46:38,280 --> 00:46:39,113
+- Have to.
+
+1187
+00:46:39,113 --> 00:46:41,250
+You need six semesters at least,
+
+1188
+00:46:41,250 --> 00:46:43,490
+'cause that's six
+semesters before you apply.
+
+1189
+00:46:43,490 --> 00:46:46,830
+You need every last one of
+those semesters and summers
+
+1190
+00:46:46,830 --> 00:46:49,700
+to put into making yourself
+a competitive applicant.
+
+1191
+00:46:49,700 --> 00:46:52,070
+- One of the phosphates is broken off.
+
+1192
+00:46:52,070 --> 00:46:53,840
+- [Sreenivasan] The
+pre-med program also relies
+
+1193
+00:46:53,840 --> 00:46:56,191
+heavily on tutoring by upperclassmen.
+
+1194
+00:46:56,191 --> 00:46:58,870
+Bradley Dunn says he
+could not have made it
+
+1195
+00:46:58,870 --> 00:47:01,599
+through his first semester
+without the free tutoring center.
+
+1196
+00:47:01,599 --> 00:47:03,850
+Dunn's student tutor, Chinyere Jones.
+
+1197
+00:47:03,850 --> 00:47:05,330
+- Basically, whenever he had a break,
+
+1198
+00:47:05,330 --> 00:47:07,100
+he was in the tutoring center.
+
+1199
+00:47:07,100 --> 00:47:09,031
+I was like, geez.
+
+1200
+00:47:09,031 --> 00:47:11,710
+- [Sreenivasan] Dunn believes
+students helping students
+
+1201
+00:47:11,710 --> 00:47:14,870
+comes in part from shared
+experiences about race.
+
+1202
+00:47:14,870 --> 00:47:16,431
+- They're able to understand
+
+1203
+00:47:16,431 --> 00:47:19,250
+the plight of African-Americans.
+
+1204
+00:47:19,250 --> 00:47:21,101
+It's more relatable
+and it's more intimate,
+
+1205
+00:47:21,101 --> 00:47:26,101
+and we all know the pitfalls
+that we may face as people,
+
+1206
+00:47:26,260 --> 00:47:28,170
+and together we're a unit,
+
+1207
+00:47:28,170 --> 00:47:30,920
+and I'm actually taking
+pride in that blackness.
+
+1208
+00:47:30,920 --> 00:47:31,962
+- The second part of that question,
+
+1209
+00:47:31,962 --> 00:47:36,810
+that's the one I didn't
+necessarily understand.
+
+1210
+00:47:36,810 --> 00:47:38,310
+- [Sreenivasan] Race is
+also an important factor
+
+1211
+00:47:38,310 --> 00:47:41,600
+for Chris Webb, who chose
+Xavier over full scholarships
+
+1212
+00:47:41,600 --> 00:47:44,450
+to other universities including
+Vanderbilt and Tulane.
+
+1213
+00:47:44,450 --> 00:47:45,750
+- Seeing people that looked like me
+
+1214
+00:47:45,750 --> 00:47:47,981
+and getting to med school
+and through med school,
+
+1215
+00:47:47,981 --> 00:47:51,191
+it motivates me more competing
+with people that are like me.
+
+1216
+00:47:51,191 --> 00:47:52,690
+- [Sreenivasan] One of those role models
+
+1217
+00:47:52,690 --> 00:47:53,930
+is Dr. Ryan Jupiter.
+
+1218
+00:47:53,930 --> 00:47:55,550
+- All right, if you don't mind,
+
+1219
+00:47:55,550 --> 00:47:57,000
+I'm gonna take a listen to you right now.
+
+1220
+00:47:57,000 --> 00:47:58,240
+- [Sreenivasan] Jupiter
+is a resident doctor
+
+1221
+00:47:58,240 --> 00:47:59,410
+in the emergency department of
+
+1222
+00:47:59,410 --> 00:48:01,101
+New Orleans University Medical Center.
+
+1223
+00:48:01,101 --> 00:48:04,470
+A Xavier alumni, he
+visits campus regularly
+
+1224
+00:48:04,470 --> 00:48:05,949
+to tell students his own story
+
+1225
+00:48:05,949 --> 00:48:08,750
+as the first in his
+family to go to college.
+
+1226
+00:48:08,750 --> 00:48:11,930
+- I wanted to make sure
+that I could look like I do
+
+1227
+00:48:11,930 --> 00:48:15,450
+and still be able to
+become what I want to be.
+
+1228
+00:48:15,450 --> 00:48:16,580
+- [Sreenivasan] How important is that?
+
+1229
+00:48:16,580 --> 00:48:19,252
+I mean, do you think that young black men
+
+1230
+00:48:19,252 --> 00:48:22,210
+don't see that enough?
+
+1231
+00:48:22,210 --> 00:48:24,722
+- Definitely, I don't
+think they do at all.
+
+1232
+00:48:24,722 --> 00:48:27,990
+It's a long journey, and
+when you see other people
+
+1233
+00:48:27,990 --> 00:48:29,847
+who put in the time and the work
+
+1234
+00:48:29,847 --> 00:48:31,730
+and see the results of it,
+
+1235
+00:48:31,730 --> 00:48:36,620
+then it kinda helps with the
+long struggle that it takes.
+
+1236
+00:48:36,620 --> 00:48:37,970
+- [Sreenivasan] When we met Dr. Jupiter,
+
+1237
+00:48:37,970 --> 00:48:39,640
+he had his monogrammed jacket on,
+
+1238
+00:48:39,640 --> 00:48:41,490
+which he took off for our interview,
+
+1239
+00:48:41,490 --> 00:48:43,050
+but he explained how he normally wears
+
+1240
+00:48:43,050 --> 00:48:44,810
+the jacket in the hospital because
+
+1241
+00:48:44,810 --> 00:48:47,220
+it is one more visual cue to patients
+
+1242
+00:48:47,220 --> 00:48:49,030
+that he is a physician,
+
+1243
+00:48:49,030 --> 00:48:51,010
+something he says people
+don't always expect
+
+1244
+00:48:51,010 --> 00:48:52,520
+from a young black male.
+
+1245
+00:48:52,520 --> 00:48:53,400
+- [Sreenivasan] Have you been mistaken
+
+1246
+00:48:53,400 --> 00:48:54,520
+for something other than a doctor?
+
+1247
+00:48:54,520 --> 00:48:55,502
+- All the time.
+
+1248
+00:48:55,502 --> 00:48:56,480
+(laughing)
+
+1249
+00:48:56,480 --> 00:48:57,313
+It happens.
+
+1250
+00:48:57,313 --> 00:48:58,540
+I don't think it's intentional.
+
+1251
+00:48:58,540 --> 00:48:59,960
+I would like to think
+it's not intentional,
+
+1252
+00:48:59,960 --> 00:49:02,820
+but it's very rare that
+you can walk into a room
+
+1253
+00:49:02,820 --> 00:49:04,570
+as a patient and when you see
+
+1254
+00:49:04,570 --> 00:49:08,533
+a Black, African-American
+male with dreads in his hair,
+
+1255
+00:49:08,533 --> 00:49:11,440
+that this is my doctor until you
+
+1256
+00:49:11,440 --> 00:49:12,421
+formally introduce yourself,
+
+1257
+00:49:12,421 --> 00:49:14,231
+or you will get the comments.
+
+1258
+00:49:14,231 --> 00:49:17,790
+Nurse, or can you get this for me,
+
+1259
+00:49:17,790 --> 00:49:20,431
+or are you here to clean
+the room, so to speak,
+
+1260
+00:49:20,431 --> 00:49:23,640
+those things have all happened.
+
+1261
+00:49:23,640 --> 00:49:24,710
+- [Sreenivasan] Students at Xavier hope
+
+1262
+00:49:24,710 --> 00:49:26,250
+to change those stereotypes.
+
+1263
+00:49:26,250 --> 00:49:29,810
+- We all recognize that
+people don't truly see us
+
+1264
+00:49:29,810 --> 00:49:31,640
+for who we are, and we use that
+
+1265
+00:49:31,640 --> 00:49:33,810
+to motivate ourselves and
+to try to show people,
+
+1266
+00:49:33,810 --> 00:49:36,710
+we're a lot more than
+what you take us for.
+
+1267
+00:49:36,710 --> 00:49:39,480
+- As African-Americans, we're
+known to be great at sports,
+
+1268
+00:49:39,480 --> 00:49:42,280
+but we can be so much
+greater in other areas,
+
+1269
+00:49:42,280 --> 00:49:44,581
+and I just feel like we
+need to be more represented.
+
+1270
+00:49:44,581 --> 00:49:47,290
+(jazzy music)
+
+1271
+00:49:47,290 --> 00:49:48,123
+- [Sreenivasan] There's a bright spot
+
+1272
+00:49:48,123 --> 00:49:49,970
+for minority trends in the field.
+
+1273
+00:49:49,970 --> 00:49:51,470
+The number of Black women applying
+
+1274
+00:49:51,470 --> 00:49:53,530
+to medical school is on the rise.
+
+1275
+00:49:53,530 --> 00:49:55,730
+- Black women have something to prove.
+
+1276
+00:49:55,730 --> 00:49:57,180
+- [Sreenivasan] Xavier
+sophomore Rachel Hitchens
+
+1277
+00:49:57,180 --> 00:49:58,540
+has already been accepted into the
+
+1278
+00:49:58,540 --> 00:50:00,490
+University of Rochester medical school.
+
+1279
+00:50:00,490 --> 00:50:03,021
+- We've been objectified
+for so many years.
+
+1280
+00:50:03,021 --> 00:50:08,021
+We have to prove that we can
+be more than video dancers.
+
+1281
+00:50:08,650 --> 00:50:11,700
+We can actually use our brain,
+
+1282
+00:50:11,700 --> 00:50:15,000
+and I think that is,
+that's the motivating force
+
+1283
+00:50:15,000 --> 00:50:18,373
+that's deep down within so
+many Black women like myself.
+
+1284
+00:50:18,373 --> 00:50:20,770
+- [Sreenivasan] And like
+Hitchens, the students we spoke to
+
+1285
+00:50:20,770 --> 00:50:23,750
+at this small New Orleans
+college had big plans.
+
+1286
+00:50:23,750 --> 00:50:25,530
+- I want to be an orthopedic surgeon.
+
+1287
+00:50:25,530 --> 00:50:27,670
+- I want to be a pediatric cardiologist.
+
+1288
+00:50:27,670 --> 00:50:31,402
+- I want to be a rural
+family practice physician.
+
+1289
+00:50:31,402 --> 00:50:33,720
+- [Sreenivasan] Paving the
+way for another generation
+
+1290
+00:50:33,720 --> 00:50:35,510
+of African-American doctors.
+
+1291
+00:50:35,510 --> 00:50:37,130
+In New Orleans, for the PBS NewsHour,
+
+1292
+00:50:37,130 --> 00:50:38,901
+I'm Hari Sreenivasan.
+
+1293
+00:50:38,901 --> 00:50:41,484
+(upbeat music)
+
+1294
+00:50:47,900 --> 00:50:50,380
+- Finally tonight, a
+generous journalism prize
+
+1295
+00:50:50,380 --> 00:50:53,840
+was awarded by the
+Heising Simons Foundation.
+
+1296
+00:50:53,840 --> 00:50:55,850
+The American Mosaic Prize is given
+
+1297
+00:50:55,850 --> 00:50:59,230
+to two freelance journalists
+for long-form reporting
+
+1298
+00:50:59,230 --> 00:51:01,210
+that highlights underrepresented groups
+
+1299
+00:51:01,210 --> 00:51:02,750
+in the American landscape.
+
+1300
+00:51:02,750 --> 00:51:05,230
+The two recipients this
+year are Abe Streep
+
+1301
+00:51:05,230 --> 00:51:07,830
+and Rachel Kaadzi Ghansah, whose work
+
+1302
+00:51:07,830 --> 00:51:10,510
+also received the
+Pulitzer Prize last year.
+
+1303
+00:51:10,510 --> 00:51:13,980
+Ghansah was featured in our
+Brief but Spectacular series
+
+1304
+00:51:13,980 --> 00:51:17,820
+in 2016, and so we
+bring that to you again,
+
+1305
+00:51:17,820 --> 00:51:19,870
+and we congratulate her and
+Abe Streep for this honor
+
+1306
+00:51:19,870 --> 00:51:23,973
+with encouragement to continue
+doing meaningful journalism.
+
+1307
+00:51:24,980 --> 00:51:26,440
+- I like writing about
+people who look like me
+
+1308
+00:51:26,440 --> 00:51:29,210
+and the people I know who don't
+
+1309
+00:51:29,210 --> 00:51:31,200
+have good pieces written about them,
+
+1310
+00:51:31,200 --> 00:51:32,781
+because we deserve it.
+
+1311
+00:51:32,781 --> 00:51:34,391
+(clapping)
+
+1312
+00:51:34,391 --> 00:51:37,058
+(serious music)
+
+1313
+00:51:39,040 --> 00:51:42,430
+I've written about Jimi
+Hendrix, Electric Lady Studios,
+
+1314
+00:51:42,430 --> 00:51:43,430
+Toni Morrison,
+
+1315
+00:51:43,430 --> 00:51:44,350
+Kendrick Lamar,
+
+1316
+00:51:44,350 --> 00:51:45,410
+the Watts riots,
+
+1317
+00:51:45,410 --> 00:51:46,340
+Trayvon Martin,
+
+1318
+00:51:46,340 --> 00:51:47,370
+Rachel Jeantel,
+
+1319
+00:51:47,370 --> 00:51:48,610
+Dave Chappelle.
+
+1320
+00:51:48,610 --> 00:51:50,653
+We don't always hear about the people
+
+1321
+00:51:50,653 --> 00:51:53,630
+who we know as legends, the ways that
+
+1322
+00:51:53,630 --> 00:51:55,000
+they were very true to themselves.
+
+1323
+00:51:55,000 --> 00:51:56,520
+I'm more interested in the moments
+
+1324
+00:51:56,520 --> 00:51:58,100
+when they were uncompromising
+
+1325
+00:51:58,100 --> 00:52:00,250
+and they were fearless because what I hope
+
+1326
+00:52:00,250 --> 00:52:02,580
+is that that fearlessness tells us
+
+1327
+00:52:02,580 --> 00:52:04,950
+a little bit about how we can be fearless.
+
+1328
+00:52:04,950 --> 00:52:06,640
+What was interesting to
+me about Dave Chappelle
+
+1329
+00:52:06,640 --> 00:52:08,340
+was that here's a moment where
+
+1330
+00:52:08,340 --> 00:52:10,682
+typically walking away
+from Comedy Central,
+
+1331
+00:52:10,682 --> 00:52:14,180
+walking away from your career
+would be a bad decision,
+
+1332
+00:52:14,180 --> 00:52:16,190
+and anyone would tell you don't do that.
+
+1333
+00:52:16,190 --> 00:52:19,940
+The common understanding
+of it is is that he felt
+
+1334
+00:52:19,940 --> 00:52:21,800
+that the show had
+started to cross the line
+
+1335
+00:52:21,800 --> 00:52:25,020
+and that it was actually becoming
+a source of embarrassment,
+
+1336
+00:52:25,020 --> 00:52:28,090
+and so walking away from $50 million
+
+1337
+00:52:28,090 --> 00:52:31,890
+was pretty heroic and pretty
+decent and full of integrity.
+
+1338
+00:52:31,890 --> 00:52:33,933
+Well, you know, I couldn't
+read until I was 12.
+
+1339
+00:52:33,933 --> 00:52:36,660
+Maybe I wasn't 12, but I was older.
+
+1340
+00:52:36,660 --> 00:52:38,570
+I think people start reading
+when they're five or something,
+
+1341
+00:52:38,570 --> 00:52:42,790
+and so books were kind of
+this phantasmagorical space
+
+1342
+00:52:42,790 --> 00:52:45,630
+that I couldn't enter
+because my mom could read,
+
+1343
+00:52:45,630 --> 00:52:48,080
+my dad was an academic,
+everyone was so intelligent,
+
+1344
+00:52:48,080 --> 00:52:51,000
+and I couldn't go there,
+and the moment I could,
+
+1345
+00:52:51,000 --> 00:52:52,870
+I just started to read ravenously.
+
+1346
+00:52:52,870 --> 00:52:54,741
+One of the books that I remember
+
+1347
+00:52:54,741 --> 00:52:59,010
+changing everyone's lives was Beloved.
+
+1348
+00:52:59,010 --> 00:53:02,021
+That was the first time
+people who had been silenced,
+
+1349
+00:53:02,021 --> 00:53:07,021
+enslaved people became
+human, and at that moment
+
+1350
+00:53:07,230 --> 00:53:10,293
+I said, this is what a
+writer can do and so for me,
+
+1351
+00:53:10,293 --> 00:53:13,570
+Toni Morrison doesn't
+exist on a human plane.
+
+1352
+00:53:13,570 --> 00:53:17,890
+She almost exists in this
+odd, spiritual other world
+
+1353
+00:53:17,890 --> 00:53:22,690
+in terms of her work, and
+when she won that Nobel Prize,
+
+1354
+00:53:22,690 --> 00:53:23,842
+what was interesting is that
+
+1355
+00:53:23,842 --> 00:53:27,830
+a lot of prominent newspapers asked,
+
+1356
+00:53:27,830 --> 00:53:28,922
+does this woman deserve it?
+
+1357
+00:53:28,922 --> 00:53:30,773
+So when I had the moment to take
+
+1358
+00:53:30,773 --> 00:53:33,589
+the New York Times Magazine cover,
+
+1359
+00:53:33,589 --> 00:53:35,670
+I decided I'm gonna take that cover
+
+1360
+00:53:35,670 --> 00:53:37,640
+to lay flowers at the feet of this woman
+
+1361
+00:53:37,640 --> 00:53:41,338
+and say not only did you
+deserve it, but thank you.
+
+1362
+00:53:41,338 --> 00:53:43,640
+My name is Rachel Kaadzi Ghansah,
+
+1363
+00:53:43,640 --> 00:53:46,122
+and this is my brief but spectacular take
+
+1364
+00:53:46,122 --> 00:53:48,413
+on fearlessness and black art.
+
+1365
+00:53:49,260 --> 00:53:51,040
+- Congratulations again,
+and you can catch up
+
+1366
+00:53:51,040 --> 00:53:53,160
+on other Brief but Spectacular episodes
+
+1367
+00:53:53,160 --> 00:53:58,160
+on our website, pbs.org/newshour/brief,
+
+1368
+00:53:58,370 --> 00:54:01,450
+and a reminder, join us
+tonight at nine pm Eastern
+
+1369
+00:54:01,450 --> 00:54:03,810
+for special coverage of President Trump's
+
+1370
+00:54:03,810 --> 00:54:05,190
+State of the Union address
+
+1371
+00:54:05,190 --> 00:54:07,440
+and the Democratic Party response.
+
+1372
+00:54:07,440 --> 00:54:10,621
+We'll be carrying both
+speeches live on air and online
+
+1373
+00:54:10,621 --> 00:54:15,621
+at pbs.org/newshour, along with
+analysis and fact-checking.
+
+1374
+00:54:16,000 --> 00:54:17,910
+Plus, you'll want to listen to a special
+
+1375
+00:54:17,910 --> 00:54:20,390
+State of the Union episode of our podcast
+
+1376
+00:54:20,390 --> 00:54:23,459
+with insights and conversation
+you won't get anywhere else.
+
+1377
+00:54:23,459 --> 00:54:26,500
+Listen to this special
+episode when you subscribe
+
+1378
+00:54:26,500 --> 00:54:28,532
+to any of our PBS NewsHour podcasts,
+
+1379
+00:54:28,532 --> 00:54:30,420
+which are available on our web site
+
+1380
+00:54:30,420 --> 00:54:33,642
+at pbs.org/newshour/podcasts,
+
+1381
+00:54:33,642 --> 00:54:36,190
+or wherever you like to listen,
+
+1382
+00:54:36,190 --> 00:54:38,040
+and that's the NewsHour for now.
+
+1383
+00:54:38,040 --> 00:54:38,873
+I'm Judy Woodruff.
+
+1384
+00:54:38,873 --> 00:54:40,550
+For all of us at the PBS NewsHour,
+
+1385
+00:54:40,550 --> 00:54:43,221
+thank you and we'll be
+back at nine pm Eastern.
+
+1386
+00:54:43,221 --> 00:54:45,900
+(serious music)
+
+1387
+00:54:45,900 --> 00:54:48,870
+- [Announcer] Major funding
+for the PBS NewsHour
+
+1388
+00:54:48,870 --> 00:54:51,210
+has been provided by:
+
+1389
+00:54:51,210 --> 00:54:52,710
+- [Narrator] Babbel, a language program
+
+1390
+00:54:52,710 --> 00:54:56,351
+that teaches Spanish, French,
+Italian, German, and more.
+
+1391
+00:54:56,351 --> 00:54:58,493
+- [Announcer] Consumer Cellular.
+
+1392
+00:54:59,431 --> 00:55:01,483
+American Cruise Lines.
+
+1393
+00:55:03,202 --> 00:55:06,223
+BNSF Railway.
+
+1394
+00:55:08,025 --> 00:55:12,580
+The Ford Foundation,
+working with visionaries
+
+1395
+00:55:12,580 --> 00:55:16,283
+on the front lines of
+social change worldwide.
+
+1396
+00:55:19,300 --> 00:55:21,460
+Carnegie Corporation of New York,
+
+1397
+00:55:21,460 --> 00:55:23,800
+supporting innovations and education,
+
+1398
+00:55:23,800 --> 00:55:26,330
+democratic engagement, and the advancement
+
+1399
+00:55:26,330 --> 00:55:29,967
+of international peace and
+security, at carnegie.org,
+
+1400
+00:55:33,190 --> 00:55:35,160
+and with the ongoing support of
+
+1401
+00:55:35,160 --> 00:55:37,461
+these individuals and institutions.
+
+1402
+00:55:37,461 --> 00:55:40,128
+(serious music)
+
+1403
+00:55:53,210 --> 00:55:55,020
+This program was made possible
+
+1404
+00:55:55,020 --> 00:55:57,301
+by the Corporation for Public Broadcasting
+
+1405
+00:55:57,301 --> 00:56:01,540
+and by contributions to your PBS station
+
+1406
+00:56:01,540 --> 00:56:03,882
+from viewers like you.
+
+1407
+00:56:03,882 --> 00:56:04,802
+Thank you.
+
+1408
+00:56:04,802 --> 00:56:07,469
+(serious music)
+
+1409
+00:56:52,530 --> 00:56:54,762
+- [Narrator] You're watching PBS.
+
+1410
+00:56:54,762 --> 00:56:57,730
+(ringing)
+
+1411
+00:56:57,730 --> 00:56:59,670
+- [Announcer] Celebrities
+take an emotional trip
+
+1412
+00:56:59,670 --> 00:57:03,300
+through their ancestry, filled
+with secrets and surprises.
+
+1413
+00:57:03,300 --> 00:57:07,790
+A new season of Finding
+Your Roots is next on TV26.
+
+1414
+00:57:07,790 --> 00:57:09,920
+- [Trump] This is national
+security we're talking about.
+
+1415
+00:57:09,920 --> 00:57:12,051
+We're not talking about games.
+
+1416
+00:57:12,051 --> 00:57:13,640
+- [Pelosi] We're not doing a wall.
+
+1417
+00:57:13,640 --> 00:57:17,619
+Let there not be any doubt
+that we're not doing a wall.
+
+1418
+00:57:17,619 --> 00:57:19,539
+(bell ringing)
+
+1419
+00:57:19,539 --> 00:57:20,380
+- [Trump] They're incredible job numbers,
+
+1420
+00:57:20,380 --> 00:57:22,183
+beyond anybody's expectation.
+
+1421
+00:57:23,210 --> 00:57:24,270
+- [Announcer] Live coverage of the
+
+1422
+00:57:24,270 --> 00:57:26,813
+State of the Union
+address, tonight at nine.
+
+1423
+00:57:28,100 --> 00:57:29,511
+- [Narrator] Vast, frozen,
+
+1424
+00:57:29,511 --> 00:57:32,620
+this is no place to be a lone wolf.
+
+1425
+00:57:32,620 --> 00:57:36,360
+Here, prey are fierce
+and five times your size.
+
+1426
+00:57:36,360 --> 00:57:39,490
+To succeed, you need family,
+because in the Arctic,
+
+1427
+00:57:39,490 --> 00:57:42,621
+strength in numbers is
+the only way to survive.
+
+1428
+00:57:42,621 --> 00:57:44,090
+(wolf howling)
+
+1429
+00:57:44,090 --> 00:57:46,463
+- [Announcer] Wednesday at eight on TV26.
+
+1430
+00:57:47,950 --> 00:57:50,530
+- [Narrator] The mysteries
+of Egypt's great pyramid.
+
+1431
+00:57:50,530 --> 00:57:52,660
+- We need to know about
+the people who built them.
+
+1432
+00:57:52,660 --> 00:57:54,580
+Where's their settlement?
+
+1433
+00:57:54,580 --> 00:57:56,640
+- [Narrator] Now, stunning discoveries.
+
+1434
+00:57:56,640 --> 00:57:58,990
+- There's a void right through this wall.
+
+1435
+00:57:58,990 --> 00:58:01,271
+- [Narrator] Are decoding
+the great pyramid.
+
+1436
+00:58:01,271 --> 00:58:02,104
+(rock clinking)
+
+1437
+00:58:02,104 --> 00:58:03,760
+On Nova.
+
+1438
+00:58:03,760 --> 00:58:05,760
+- [Announcer] Wednesday at nine on TV26.
+
+1439
+00:58:08,120 --> 00:58:11,050
+- Franco had an idea
+of the authentic Spain.
+
+1440
+00:58:11,050 --> 00:58:13,700
+All of these things were
+challenged by the left.
+
+1441
+00:58:13,700 --> 00:58:15,810
+- Franco believed that he should eliminate
+
+1442
+00:58:15,810 --> 00:58:17,800
+the left and their ideology.
+
+1443
+00:58:17,800 --> 00:58:20,100
+- [Historian] Franco never
+lost a minute's sleep
+
+1444
+00:58:20,100 --> 00:58:22,653
+over the crimes that were
+committed in his name.
+
+1445
+00:58:23,550 --> 00:58:25,700
+- [Announcer] Wednesday at 10 on TV26.
+
+1446
+00:58:27,642 --> 00:58:29,419
+(celestial music)
+
+1447
+00:58:29,419 --> 00:58:30,930
+- Won't you be my neighbor?
+
+1448
+00:58:30,930 --> 00:58:33,920
+It's an invitation to help somebody new.
+
+1449
+00:58:33,920 --> 00:58:36,410
+That was at the root of everything.
+
+1450
+00:58:36,410 --> 00:58:38,160
+Love or the lack of it.
+
+1451
+00:58:38,160 --> 00:58:39,960
+Thank you for whatever you do
+
+1452
+00:58:39,960 --> 00:58:44,960
+to bring joy and hope, light
+and love, to our world today.
+
+1453
+00:58:46,338 --> 00:58:47,791
+♪ Won't you please ♪
+
+1454
+00:58:47,791 --> 00:58:51,958
+♪ Please won't you be my neighbor ♪
+
+1455
+00:58:53,450 --> 00:58:55,470
+- [Announcer] Saturday at eight on TV26.
+
+1456
+00:58:58,110 --> 00:58:59,840
+- [Narrator] Today's
+programming is presented
+
+1457
+00:58:59,840 --> 00:59:03,202
+by WETA members and the following:
+
+1458
+00:59:03,202 --> 00:59:05,869
+(serious music)
+
+1459
+00:59:06,840 --> 00:59:08,470
+- I was able to turn the aircraft around
+
+1460
+00:59:08,470 --> 00:59:11,130
+and the mission around
+and was able to save
+
+1461
+00:59:11,130 --> 00:59:12,500
+two men's lives that night.
+
+1462
+00:59:12,500 --> 00:59:15,490
+- My first job helped me
+to grow up pretty quickly.
+
+1463
+00:59:15,490 --> 00:59:17,500
+That'll happen when you're
+asked to respond to a coup.
+
+1464
+00:59:17,500 --> 00:59:20,580
+- In 2001, I signed up for the Air Force.
+
+1465
+00:59:20,580 --> 00:59:22,962
+Two days later, 9/11 happened.
+
+1466
+00:59:22,962 --> 00:59:25,629
+(serious music)
+
+1467
+00:59:33,181 --> 00:59:36,014
+(energetic music)
+
+1468
+00:59:41,791 --> 00:59:42,950
+[Narrator] Tonight, a new season
+
+1469
+00:59:42,950 --> 00:59:44,910
+of Finding Your Roots at eight.
+
+1470
+00:59:44,910 --> 00:59:47,000
+Then join the NewsHour for live coverage
+
+1471
+00:59:47,000 --> 00:59:49,620
+of President Trump's State
+of the Union address.
+
+1472
+00:59:49,620 --> 00:59:53,300
+That's followed by Christiane
+Amanpour, tonight on TV26,
+
+1473
+00:59:55,421 --> 00:59:56,254
+(whooshing)
+
+1474
+00:59:56,254 --> 00:59:58,140
+and on our WETA UK channel,
+
+1475
+00:59:58,140 --> 01:00:00,140
+Doctor Blake and Doc Martin,
+
+1476
+01:00:00,140 --> 01:00:02,700
+then, she ruled the UK for decades.
+
+1477
+01:00:02,700 --> 01:00:05,120
+Don't miss a new season of Victoria.
+
+1478
+01:00:05,120 --> 01:00:07,231
+British television at its best.
+
+1479
+01:00:07,231 --> 01:00:09,731
+(light music)
+
+1480
+01:00:15,710 --> 01:00:17,322
+- I'm Henry Louis Gates, Jr.
+
+1481
+01:00:17,322 --> 01:00:18,155
+Welcome.
+
