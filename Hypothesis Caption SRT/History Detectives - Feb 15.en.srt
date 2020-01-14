@@ -1,0 +1,5960 @@
+﻿1
+00:00:14,047 --> 00:00:15,547
+            Elyse:              
+<i> WE'RE THE HISTORY DETECTIVES,</i>  
+
+2
+00:00:15,616 --> 00:00:16,982
+<i> AND WE'RE GOING TO INVESTIGATE</i> 
+
+3
+00:00:17,051 --> 00:00:19,952
+     <i> SOME UNTOLD STORIES</i>       
+     <i> FROM AMERICA'S PAST.</i>      
+
+4
+00:00:20,020 --> 00:00:21,620
+          Gwendolyn:            
+         <i> THIS WEEK...</i>          
+
+5
+00:00:21,689 --> 00:00:24,623
+  She has already been taken    
+   into custody by the FBI.     
+
+6
+00:00:24,692 --> 00:00:27,960
+      <i> WHAT EVIDENCE FROM</i>       
+<i> THE TREASON TRIAL OF TOKYO ROSE</i>
+
+7
+00:00:28,028 --> 00:00:30,396
+  <i> COULD THIS ODD DISC HOLD?</i>    
+
+8
+00:00:30,464 --> 00:00:33,065
+           IT BECAME A COVER-UP.
+
+9
+00:00:33,134 --> 00:00:36,368
+            Elyse:              
+    <i> IS THIS THE HOLY GRAIL</i>     
+      <i> OF THE WILD WEST?</i>        
+
+10
+00:00:36,437 --> 00:00:39,872
+<i> A PHOTOGRAPH OF THE LEGENDARY</i>  
+     <i> WARRIOR CRAZY HORSE.</i>      
+
+11
+00:00:39,940 --> 00:00:44,910
+  NOBODY HAS EVER PRODUCED A    
+PHOTOGRAPH OF CRAZY HORSE, EVER.
+
+12
+00:00:44,979 --> 00:00:48,313
+             Wes:               
+<i> AND IN AN ENCORE PRESENTATION,</i> 
+
+13
+00:00:48,382 --> 00:00:51,450
+ <i> DOES THIS DIARY HOLD THE KEY</i>  
+  <i> TO UNDERSTANDING THE FATE</i>    
+
+14
+00:00:51,519 --> 00:00:56,088
+  <i> OF A MISSING BOMBER PILOT</i>    
+      <i> FROM WORLD WAR II?</i>       
+
+15
+00:00:56,157 --> 00:00:59,958
+        Elvis Costello:         
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+16
+00:01:00,027 --> 00:01:03,562
+       ♪ I GET SO ANGRY         
+  WHEN THE TEARDROPS START ♪    
+
+17
+00:01:03,631 --> 00:01:08,066
+   ♪ BUT HE CAN'T BE WOUNDED    
+  'CAUSE HE'S GOT NO HEART ♪    
+
+18
+00:01:09,537 --> 00:01:12,237
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+19
+00:01:15,810 --> 00:01:19,511
+       ♪ IT'S JUST LIKE         
+   WATCHIN' THE DETECTIVES ♪    
+
+20
+00:01:19,580 --> 00:01:21,680
+          Gwendolyn:            
+<i> THIS PROGRAM WAS MADE POSSIBLE</i> 
+
+21
+00:01:21,749 --> 00:01:24,683
+       <i> BY CONTRIBUTIONS</i>        
+     <i> TO YOUR PBS STATION</i>       
+
+22
+00:01:24,752 --> 00:01:26,251
+    <i> FROM VIEWERS LIKE YOU.</i>     
+
+23
+00:01:30,624 --> 00:01:32,424
+   <i> OUR FIRST STORY EXPLORES</i>    
+
+24
+00:01:32,493 --> 00:01:35,794
+ <i> WHETHER THIS 1940s RECORDING</i>  
+   <i> MAY HAVE HELPED CONVICT</i>     
+
+25
+00:01:35,863 --> 00:01:39,097
+   <i> THE WOMAN ALLEGED TO BE</i>     
+         <i> TOKYO ROSE.</i>           
+
+26
+00:01:39,166 --> 00:01:42,801
+        <i> WORLD WAR II,</i>          
+     <i> THE LONELY PACIFIC:</i>       
+
+27
+00:01:42,870 --> 00:01:45,971
+<i> AS MANY AS 2 MILLION SERVICEMEN</i>
+       <i> LISTEN WISTFULLY</i>        
+
+28
+00:01:46,040 --> 00:01:49,041
+    <i> WHILE A WOMAN'S VOICE</i>      
+  <i> FLOATS OVER THE AIRWAVES.</i>    
+
+29
+00:01:49,109 --> 00:01:50,576
+     Greetings, everybody.      
+
+30
+00:01:50,644 --> 00:01:53,312
+This is your number-one enemy,  
+   your favorite playmate...    
+
+31
+00:01:53,380 --> 00:01:55,514
+        <i> THEY CALL HER</i>          
+         <i> TOKYO ROSE.</i>           
+
+32
+00:01:55,583 --> 00:01:58,050
+  <i> MANY G.I.s CONSIDERED HER</i>    
+          <i> A GODSEND,</i>           
+
+33
+00:01:58,118 --> 00:02:00,519
+  <i> A FAMILIAR AMERICAN VOICE</i>    
+     <i> KEEPING THEM COMPANY</i>      
+
+34
+00:02:00,588 --> 00:02:02,020
+        <i> FAR FROM HOME.</i>         
+
+35
+00:02:02,089 --> 00:02:04,690
+     <i> BUT IN A CELEBRATED</i>       
+        <i> POSTWAR TRIAL,</i>         
+
+36
+00:02:04,758 --> 00:02:07,826
+  <i> PROSECUTORS PORTRAYED HER</i>    
+    <i> AS AN AMERICAN DEVIL,</i>      
+
+37
+00:02:07,895 --> 00:02:10,495
+ <i> A SIREN WHO KNOWINGLY WORKED</i>  
+        <i> FOR THE ENEMY,</i>         
+
+38
+00:02:10,564 --> 00:02:12,564
+ <i> LURING SOLDIERS AND SAILORS,</i>  
+
+39
+00:02:12,633 --> 00:02:15,133
+       <i> THEN UNDERMINING</i>        
+    <i> THEIR FIGHTING SPIRIT.</i>     
+
+40
+00:02:15,202 --> 00:02:18,403
+      <i> IN 1948, THE WOMAN</i>       
+  <i> WHO TWICE SIGNED HER NAME</i>    
+
+41
+00:02:18,472 --> 00:02:21,006
+    <i> "THE ONE AND ORIGINAL</i>      
+         <i> TOKYO ROSE"</i>           
+
+42
+00:02:21,075 --> 00:02:24,009
+ <i> WAS BROUGHT BACK FROM JAPAN</i>   
+    <i> TO FACE A GRAND JURY.</i>      
+
+43
+00:02:24,078 --> 00:02:28,113
+      <i> THE WAR HAD ENDED,</i>       
+<i> BUT HER BATTLE HAD JUST BEGUN.</i> 
+
+44
+00:02:28,182 --> 00:02:31,450
+        <i> NOW BILL MOORE</i>         
+ <i> FROM SUN CITY WEST, ARIZONA,</i>  
+
+45
+00:02:31,518 --> 00:02:33,485
+<i> HAS AN OBJECT THAT MAY EXPLAIN</i> 
+
+46
+00:02:33,554 --> 00:02:36,054
+       <i> THE STORY BEHIND</i>        
+       <i> HER CONFESSION.</i>         
+
+47
+00:02:36,123 --> 00:02:39,358
+    MY UNCLE WENT TO JAPAN      
+      TO GET TOKYO ROSE.        
+
+48
+00:02:42,162 --> 00:02:43,795
+                HI, YOU'RE BILL?
+
+49
+00:02:43,864 --> 00:02:45,330
+      SO I HEAR YOU HAVE        
+      A RECORD TO SHOW ME.      
+
+50
+00:02:45,399 --> 00:02:46,498
+          IS THIS IT?           
+
+51
+00:02:46,567 --> 00:02:47,699
+                YES, THIS IS IT.
+
+52
+00:02:47,768 --> 00:02:48,900
+WOW, IT'S UNUSUAL.              
+
+53
+00:02:48,969 --> 00:02:50,902
+THIS MUST BE 16 INCHES ACROSS.  
+
+54
+00:02:50,971 --> 00:02:52,270
+        SIXTEEN INCHES, I THINK.
+
+55
+00:02:52,339 --> 00:02:54,906
+<i> SOMEONE'S WRITTEN "TOKYO ROSE"</i> 
+        <i> ON THE RECORD.</i>         
+
+56
+00:02:54,975 --> 00:02:58,043
+<i> BILL FOUND IT WITH HIS MOTHER'S</i>
+<i> THINGS AFTER SHE PASSED AWAY,</i>  
+
+57
+00:02:58,112 --> 00:03:00,612
+       <i> BUT HE BELIEVES</i>         
+    <i> IT ORIGINALLY BELONGED</i>     
+
+58
+00:03:00,681 --> 00:03:03,815
+<i> TO HIS LARGER-THAN-LIFE UNCLE,</i> 
+       <i> HARRY BRUNDIDGE.</i>        
+
+59
+00:03:03,884 --> 00:03:06,652
+          THIS IS MY UNCLE HARRY
+          AND MY AUNT JANET.    
+
+60
+00:03:06,720 --> 00:03:07,753
+WHAT DID HE DO?                 
+
+61
+00:03:07,821 --> 00:03:09,554
+             WELL, HE WAS       
+             A WAR CORRESPONDENT
+
+62
+00:03:09,623 --> 00:03:13,291
+       AND ASSOCIATE EDITOR     
+       OF<i> COSMOPOLITAN</i> MAGAZINE.
+
+63
+00:03:13,360 --> 00:03:15,394
+THIS IS YOU, IS THAT RIGHT?     
+                       OH, YEAH.
+
+64
+00:03:15,462 --> 00:03:17,262
+SO WERE YOU OUT                 
+IN THE PACIFIC?                 
+
+65
+00:03:17,331 --> 00:03:18,864
+                      TWO YEARS,
+
+66
+00:03:18,932 --> 00:03:22,401
+     AND WE USED TO LISTEN      
+     TO TOKYO ROSE ALL THE TIME.
+
+67
+00:03:22,469 --> 00:03:25,837
+<i> BILL HAD HEARD THAT HIS UNCLE</i>  
+ <i> MET TOKYO ROSE ON ASSIGNMENT</i>  
+
+68
+00:03:25,906 --> 00:03:29,541
+    <i> AND BELIEVES HE PLAYED</i>     
+<i> A KEY ROLE IN HER PROSECUTION.</i> 
+
+69
+00:03:29,610 --> 00:03:32,010
+      AFTER THE WAR,            
+      HE WENT BACK OVER TO JAPAN
+
+70
+00:03:32,079 --> 00:03:34,613
+          AND HE GOT TOKYO ROSE,
+
+71
+00:03:34,681 --> 00:03:37,282
+               BROUGHT HER BACK 
+               TO SAN FRANCISCO,
+
+72
+00:03:37,351 --> 00:03:39,818
+            AND HAD HER INDICTED
+            FOR TREASON.        
+
+73
+00:03:39,887 --> 00:03:41,820
+    <i> BILL THINKS THE RECORD</i>     
+      <i> MAY HAVE BEEN USED</i>       
+
+74
+00:03:41,889 --> 00:03:43,655
+         <i> AS EVIDENCE</i>           
+        <i> IN HER TRIAL,</i>          
+
+75
+00:03:43,724 --> 00:03:46,258
+   <i> BUT HE'S NEVER BEEN ABLE</i>    
+<i> TO HEAR WHAT'S ON THE RECORDING</i>
+
+76
+00:03:46,326 --> 00:03:49,227
+    <i> BECAUSE IT'S TOO LARGE</i>     
+<i> TO PLAY ON STANDARD EQUIPMENT.</i> 
+
+77
+00:03:49,296 --> 00:03:52,964
+ALL I KNOW IS THAT -- OF COURSE,
+WHAT I HEARD FROM MY FAMILY,    
+
+78
+00:03:53,033 --> 00:03:55,434
+              THAT THIS WAS     
+              PART OF THE TRIAL.
+
+79
+00:03:55,502 --> 00:03:57,602
+WHAT EXACTLY WOULD YOU LIKE     
+FOR ME TO FIND OUT              
+
+80
+00:03:57,671 --> 00:03:58,937
+ABOUT YOUR RECORD?              
+
+81
+00:03:59,006 --> 00:04:02,307
+        I'D LIKE TO FIND OUT    
+        WHAT'S ON IT, OF COURSE,
+
+82
+00:04:02,376 --> 00:04:05,310
+              AND ABOUT MY UNCLE
+              IN THE TRIAL.     
+
+83
+00:04:05,379 --> 00:04:07,279
+I'LL HAVE TO TAKE THIS          
+WITH ME, AND I'D LIKE TO TAKE   
+
+84
+00:04:07,347 --> 00:04:08,814
+THE PHOTOGRAPHS, TOO,           
+IF THAT'S OKAY.                 
+
+85
+00:04:08,882 --> 00:04:10,081
+              OH, YOU CAN, YEAH.
+
+86
+00:04:10,150 --> 00:04:11,716
+       <i> I FOUND A STUDIO</i>        
+       <i> WITH A TURNTABLE</i>        
+
+87
+00:04:11,785 --> 00:04:13,618
+        <i> THAT CAN PLAY</i>          
+     <i> THE OVERSIZED DISC.</i>       
+
+88
+00:04:13,687 --> 00:04:15,353
+   <i> I'M IN LONG ISLAND CITY,</i>    
+          <i> NEW YORK,</i>            
+
+89
+00:04:15,422 --> 00:04:19,324
+    <i> TO MEET AUDIO ENGINEER</i>     
+   <i> GUY ROSMARIN AT VIDIPAX.</i>    
+
+90
+00:04:19,393 --> 00:04:21,827
+OOH, WOW, I HAVEN'T SEEN        
+ONE OF THESE IN A WHILE.        
+
+91
+00:04:21,895 --> 00:04:23,695
+             WHAT IS IT MADE OF?
+
+92
+00:04:23,764 --> 00:04:25,530
+PROBABLY ALUMINUM-BASED.        
+
+93
+00:04:25,599 --> 00:04:27,332
+THEY STARTED USING IT AGAIN     
+AFTER THE WAR.                  
+
+94
+00:04:27,401 --> 00:04:28,900
+       YOU COULDN'T USE ALUMINUM
+       DURING THE WAR           
+
+95
+00:04:28,969 --> 00:04:30,202
+        FOR ANYTHING EXCEPT WAR.
+
+96
+00:04:30,270 --> 00:04:31,870
+THAT'S RIGHT.                   
+
+97
+00:04:31,939 --> 00:04:33,772
+         Female Voice:          
+    All right, take it now      
+          from five.            
+
+98
+00:04:33,841 --> 00:04:37,209
+     Tokyo Rose will touch      
+American soil in a few moments  
+
+99
+00:04:37,277 --> 00:04:39,311
+ and will immediately be taken  
+         into custody.          
+
+100
+00:04:39,379 --> 00:04:42,013
+ <i> WELL, THIS CERTAINLY DOESN'T</i>  
+<i> SOUND LIKE COURTROOM EVIDENCE,</i> 
+
+101
+00:04:42,082 --> 00:04:44,850
+<i> BUT BILL'S UNCLE IS DEFINITELY</i> 
+     <i> PART OF THE ACTION.</i>       
+
+102
+00:04:44,918 --> 00:04:48,787
+We're fortunate today in having 
+two very famous correspondents. 
+
+103
+00:04:48,856 --> 00:04:50,622
+      Harry Brundidge...        
+
+104
+00:04:50,691 --> 00:04:53,491
+<i> GUY HAS MADE A CD COPY FOR ME.</i> 
+
+105
+00:04:53,560 --> 00:04:56,127
+      <i> BILL'S UNCLE HARRY</i>       
+       <i> IS SPEAKING NOW.</i>        
+
+106
+00:04:56,196 --> 00:04:59,030
+ She just shook hands with me   
+   as she came off the boat     
+
+107
+00:04:59,099 --> 00:05:00,398
+      and recognized me.        
+
+108
+00:05:00,467 --> 00:05:01,900
+         Female Voice:          
+        I noticed that.         
+
+109
+00:05:01,969 --> 00:05:05,470
+    <i> IVA TOGURI, THE WOMAN</i>      
+ <i> WHO WAS TRIED AS TOKYO ROSE,</i>  
+
+110
+00:05:05,539 --> 00:05:07,205
+   <i> WAS BORN IN LOS ANGELES</i>     
+
+111
+00:05:07,274 --> 00:05:09,908
+     <i> TO FIRST-GENERATION</i>       
+     <i> JAPANESE IMMIGRANTS.</i>      
+
+112
+00:05:09,977 --> 00:05:12,177
+      <i> SHE LEFT THE U.S.</i>        
+     <i> IN THE SUMMER OF '41</i>      
+
+113
+00:05:12,246 --> 00:05:14,512
+   <i> TO CARE FOR A SICK AUNT</i>     
+          <i> IN TOKYO.</i>            
+
+114
+00:05:14,581 --> 00:05:17,482
+     <i> AFTER PEARL HARBOR,</i>       
+     <i> WARTIME BUREAUCRACY</i>       
+
+115
+00:05:17,551 --> 00:05:21,753
+  <i> MADE IT IMPOSSIBLE FOR HER</i>   
+    <i> TO RETURN TO THE U.S.</i>      
+
+116
+00:05:21,822 --> 00:05:24,222
+      <i> STRANDED IN JAPAN</i>        
+       <i> DURING THE WAR,</i>         
+
+117
+00:05:24,291 --> 00:05:26,791
+       <i> IVA FOUND A JOB</i>         
+  <i> AT RADIO TOKYO AS A TYPIST</i>   
+
+118
+00:05:26,860 --> 00:05:28,827
+     <i> UNTIL SHE WAS TAPPED</i>      
+           <i> TO HOST</i>             
+
+119
+00:05:28,895 --> 00:05:31,630
+        <i> A JAPANESE WAR</i>         
+     <i> PROPAGANDA PROGRAM.</i>       
+
+120
+00:05:31,698 --> 00:05:35,000
+  <i> IVA'S BROADCASTS WOULD BE</i>    
+<i> AT THE CENTER OF WHAT WAS THEN</i> 
+
+121
+00:05:35,068 --> 00:05:38,136
+ <i> ONE OF THE COSTLIEST TRIALS</i>   
+       <i> IN U.S. HISTORY.</i>        
+
+122
+00:05:38,205 --> 00:05:43,608
+        THAT TRIAL COST         
+ THE U.S. GOVERNMENT $750,000.  
+
+123
+00:05:43,677 --> 00:05:46,611
+       IN TODAY'S MONEY         
+   THAT'S ALMOST $7 MILLION.    
+
+124
+00:05:46,680 --> 00:05:49,014
+     <i> OF THE EIGHT COUNTS</i>       
+     <i> BROUGHT AGAINST HER,</i>      
+
+125
+00:05:49,082 --> 00:05:52,117
+<i> THE GRAND JURY FOUND HER GUILTY</i>
+         <i> OF ONLY ONE,</i>          
+
+126
+00:05:52,185 --> 00:05:56,755
+     <i> ANNOUNCING THE LOSS</i>       
+      <i> OF AMERICAN SHIPS.</i>       
+
+127
+00:05:56,823 --> 00:05:58,757
+    <i> I'M IN NEW YORK CITY,</i>      
+
+128
+00:05:58,825 --> 00:06:01,259
+ <i> MEETING WITH MEDIA HISTORIAN</i>  
+        <i> STEVEN PHIPPS.</i>         
+
+129
+00:06:01,328 --> 00:06:03,561
+               I'M EAGER FOR YOU
+               TO HEAR THIS.    
+
+130
+00:06:03,630 --> 00:06:05,330
+         Female Voice:          
+     There are crowds here      
+
+131
+00:06:05,399 --> 00:06:07,632
+    that have been standing     
+    since 9:00 this morning     
+
+132
+00:06:07,701 --> 00:06:09,834
+  waiting to see Tokyo Rose,    
+
+133
+00:06:09,903 --> 00:06:12,537
+    the girl who undermined     
+ the morale -- or tried to --   
+
+134
+00:06:12,606 --> 00:06:14,706
+          of our boys           
+        in the Pacific.         
+
+135
+00:06:14,775 --> 00:06:17,008
+WELL, THIS IS OBVIOUSLY         
+A NEWS REPORT,                  
+
+136
+00:06:17,077 --> 00:06:21,780
+AND IT'S CLEAR THAT IT MUST     
+HAVE BEEN SEPTEMBER 25, 1948.   
+
+137
+00:06:21,848 --> 00:06:24,649
+ <i> STEVEN SAYS THAT'S WHEN IVA</i>   
+<i> RETURNED TO THE UNITED STATES</i>  
+
+138
+00:06:24,718 --> 00:06:26,551
+     <i> BY MILITARY ESCORT.</i>       
+
+139
+00:06:26,620 --> 00:06:29,287
+<i> THE PRESS AND PUBLIC CLAMORED</i>  
+      <i> FOR A CLOSER LOOK</i>        
+
+140
+00:06:29,356 --> 00:06:31,623
+    <i> AT THE WOMAN THE MEDIA</i>     
+     <i> HAD ALREADY BRANDED</i>       
+
+141
+00:06:31,692 --> 00:06:34,492
+      <i> A WARTIME TRAITOR:</i>       
+         <i> TOKYO ROSE.</i>           
+
+142
+00:06:34,561 --> 00:06:37,962
+BUT THERE WAS NO EVIDENCE       
+THAT SHE WAS<i> THE</i> TOKYO ROSE.    
+
+143
+00:06:38,031 --> 00:06:42,067
+IN FACT, THERE WAS NO ONE PERSON
+WHO WAS<i> THE</i> TOKYO ROSE.         
+
+144
+00:06:42,135 --> 00:06:45,070
+   <i> AS BILL TOLD ME EARLIER,</i>    
+   <i> THE G.I.s USED THAT NAME</i>    
+
+145
+00:06:45,138 --> 00:06:47,238
+ <i> FOR ALL THE ENGLISH-SPEAKING</i>  
+         <i> FEMALE HOSTS</i>          
+
+146
+00:06:47,340 --> 00:06:49,240
+ <i> BROADCASTING IN THE PACIFIC.</i>  
+
+147
+00:06:49,309 --> 00:06:51,943
+THE JAPANESE FELT THAT          
+USING A WOMAN ANNOUNCER         
+
+148
+00:06:52,012 --> 00:06:55,013
+WOULD MAKE THE G.I.s            
+MORE PRONE TO LISTEN            
+
+149
+00:06:55,082 --> 00:06:57,916
+AND THAT IT WOULD TEND          
+TO MAKE THEM HOMESICK.          
+
+150
+00:06:57,984 --> 00:07:00,919
+   <i> WHY DID BRUNDIDGE CLAIM</i>     
+     <i> IVA WAS TOKYO ROSE?</i>       
+
+151
+00:07:00,987 --> 00:07:04,289
+ <i> STEVEN HAS DONE SOME DIGGING</i>  
+<i> ON THE REPORTER'S BACKGROUND.</i>  
+
+152
+00:07:04,357 --> 00:07:06,691
+I FOUND QUITE A FEW ARTICLES    
+ON BRUNDIDGE,                   
+
+153
+00:07:06,760 --> 00:07:08,726
+SINCE I KNOW THAT               
+YOU'RE INTERESTED IN HIM.       
+
+154
+00:07:08,795 --> 00:07:11,096
+   <i> MUCH OF HIS EARLY CAREER</i>    
+      <i> WAS IN ST. LOUIS,</i>        
+
+155
+00:07:11,164 --> 00:07:12,831
+    <i> REPORTING ON THE MOB.</i>      
+
+156
+00:07:12,899 --> 00:07:15,767
+ <i> STEVEN DISCOVERED BRUNDIDGE</i>   
+ <i> HAD A FLAIR FOR THE DRAMATIC</i>  
+
+157
+00:07:15,836 --> 00:07:18,336
+<i> AND OFTEN PLAYED FAST AND LOOSE</i>
+       <i> WITH THE FACTS.</i>         
+
+158
+00:07:18,405 --> 00:07:20,305
+HERE'S ONE FROM 1930.           
+
+159
+00:07:20,373 --> 00:07:23,641
+THIS ONE IS CALLED              
+"CALL BRUNDIDGE STORY HEARSAY." 
+
+160
+00:07:23,710 --> 00:07:26,010
+           SO FOR YEARS HE'D    
+           BEEN KNOWN AS SOMEONE
+
+161
+00:07:26,079 --> 00:07:27,712
+       WHO WAS PUSHING          
+       THE TRUTH ON HIS STORIES.
+
+162
+00:07:27,781 --> 00:07:29,180
+    WELL, YES.                  
+
+163
+00:07:29,249 --> 00:07:31,516
+   <i> WHAT WAS HIS INVOLVEMENT</i>    
+   <i> IN THE TOKYO ROSE STORY?</i>    
+
+164
+00:07:31,585 --> 00:07:33,551
+LET ME SHOW YOU                 
+IN THIS ARTICLE.                
+
+165
+00:07:33,620 --> 00:07:36,554
+       <i> IT'S A MAY 1948</i>         
+       <i> FRONT-PAGE STORY</i>        
+
+166
+00:07:36,623 --> 00:07:38,656
+<i> FROM</i> THE NASHVILLE TENNESSEAN. 
+
+167
+00:07:38,725 --> 00:07:41,593
+  <i> THAT'S FOUR MONTHS BEFORE</i>    
+  <i> THE DATE ON OUR RECORDING.</i>   
+
+168
+00:07:41,661 --> 00:07:44,395
+   <i> IN IT, BRUNDIDGE DETAILS</i>    
+      <i> HIS TIME IN JAPAN</i>        
+
+169
+00:07:44,464 --> 00:07:48,533
+<i> HUNTING FOR EMPEROR HIROHITO,</i>  
+     <i> THEN FOR TOKYO ROSE.</i>      
+
+170
+00:07:48,602 --> 00:07:52,470
+<i> IN HIS STORY, BRUNDIDGE TAKES</i>  
+  <i> CREDIT FOR HER INDICTMENT.</i>   
+
+171
+00:07:52,539 --> 00:07:55,240
+THERE'S A REFERENCE             
+TO SECRET WITNESSES             
+
+172
+00:07:55,308 --> 00:07:57,008
+THAT BRUNDIDGE CAME UP WITH.    
+
+173
+00:07:57,077 --> 00:07:58,510
+                  BUT DO WE KNOW
+                  WHO THEY WERE?
+
+174
+00:07:58,578 --> 00:08:00,011
+I HAVE NO CLUE.                 
+
+175
+00:08:00,080 --> 00:08:02,080
+   <i> STEVEN GIVES ME THE NAME</i>    
+       <i> OF A JOURNALIST</i>         
+
+176
+00:08:02,148 --> 00:08:04,983
+   <i> WHO REVISITED THIS STORY</i>    
+        <i> IN THE 1970s.</i>          
+
+177
+00:08:05,051 --> 00:08:07,418
+          <i> RON YATES,</i>           
+ <i> ONCE THE TOKYO BUREAU CHIEF</i>   
+
+178
+00:08:07,487 --> 00:08:09,020
+   <i> OF THE</i> CHICAGO TRIBUNE,     
+
+179
+00:08:09,089 --> 00:08:11,289
+  <i> WROTE A SERIES OF ARTICLES</i>   
+           <i> IN 1976</i>             
+
+180
+00:08:11,358 --> 00:08:13,224
+   <i> ON THE TOKYO ROSE TRIAL.</i>    
+
+181
+00:08:13,293 --> 00:08:14,726
+     <i> WE'VE AGREED TO MEET</i>      
+
+182
+00:08:14,794 --> 00:08:18,830
+   <i> AT THE JAPANESE AMERICAN</i>    
+<i> NATIONAL MUSEUM IN LOS ANGELES.</i>
+
+183
+00:08:18,899 --> 00:08:20,765
+   WELL, HERE'S THE RECORD      
+   I WAS TELLING YOU ABOUT, RON.
+
+184
+00:08:20,834 --> 00:08:22,433
+OH, WOW, LOOK AT THAT.          
+
+185
+00:08:22,502 --> 00:08:25,136
+         I'M INVESTIGATING A MAN
+         NAMED HARRY BRUNDIDGE. 
+
+186
+00:08:25,205 --> 00:08:26,971
+              THEY MENTION HIM  
+              ON THIS RECORDING.
+
+187
+00:08:27,040 --> 00:08:28,406
+         DO YOU KNOW WHO HE WAS?
+
+188
+00:08:28,475 --> 00:08:31,075
+OH, YEAH, HARRY BRUNDIDGE IS    
+A VERY INTERESTING CHARACTER.   
+
+189
+00:08:31,144 --> 00:08:33,077
+         <i> RON EXPLAINS</i>          
+     <i> HOW HARRY BRUNDIDGE</i>       
+
+190
+00:08:33,146 --> 00:08:35,179
+  <i> HAD FIRST BECOME INVOLVED</i>    
+       <i> WITH TOKYO ROSE</i>         
+
+191
+00:08:35,248 --> 00:08:36,948
+ <i> THREE YEARS BEFORE THE TRIAL</i>  
+
+192
+00:08:37,017 --> 00:08:39,550
+  <i> IN THE IMMEDIATE AFTERMATH</i>   
+       <i> OF WORLD WAR II.</i>        
+
+193
+00:08:39,619 --> 00:08:41,419
+    <i> THAT'S WHEN BRUNDIDGE</i>      
+        <i> HOOKED UP WITH</i>         
+
+194
+00:08:41,488 --> 00:08:43,588
+  <i> VETERAN WAR CORRESPONDENT</i>    
+          <i> CLARK LEE.</i>           
+
+195
+00:08:43,657 --> 00:08:45,924
+     <i> THEY HEADED TO JAPAN</i>      
+           <i> IN 1945</i>             
+
+196
+00:08:45,992 --> 00:08:48,927
+   <i> IN PURSUIT OF THE SCOOP</i>     
+        <i> OF A LIFETIME.</i>         
+
+197
+00:08:48,995 --> 00:08:52,664
+THEY THOUGHT, "WE'LL FIND TOKYO 
+ROSE AND THAT'LL BE OUR STORY." 
+
+198
+00:08:52,732 --> 00:08:55,333
+THEY SAID, "WE WILL PAY HER     
+$2,000 IF SHE'LL COME           
+
+199
+00:08:55,402 --> 00:08:57,735
+TO THE IMPERIAL HOTEL           
+TO BE INTERVIEWED."             
+
+200
+00:08:57,804 --> 00:09:00,838
+   <i> IN WAR-TORN TOKYO, WHERE</i>    
+  <i> MOST PEOPLE WERE STARVING,</i>   
+
+201
+00:09:00,907 --> 00:09:04,008
+<i> THAT MONEY MIGHT GET HER HOME</i>  
+    <i> TO THE UNITED STATES.</i>      
+
+202
+00:09:04,077 --> 00:09:05,843
+BUT WHEN SHE WALKED             
+INTO THE ROOM,                  
+
+203
+00:09:05,912 --> 00:09:07,712
+THIS WAS NOT                    
+WHAT THEY WERE EXPECTING.       
+
+204
+00:09:07,781 --> 00:09:10,014
+       <i> IN HER PIGTAILS</i>         
+      <i> AND SADDLE SHOES,</i>        
+
+205
+00:09:10,083 --> 00:09:12,583
+      <i> IVA NEITHER LOOKED</i>       
+     <i> NOR SOUNDED THE PART</i>      
+
+206
+00:09:12,652 --> 00:09:14,585
+ <i> OF THE MATAHARI OF THE EAST.</i>  
+
+207
+00:09:14,654 --> 00:09:18,156
+  <i> RON SHOWS ME A REENACTMENT</i>   
+   <i> OF A</i> ZERO HOUR<i> BROADCAST</i>    
+
+208
+00:09:18,224 --> 00:09:21,426
+ <i> THAT IVA LATER AGREED TO DO</i>   
+ <i> FOR THE U.S. ARMY IN TOKYO.</i>   
+
+209
+00:09:21,494 --> 00:09:22,960
+     Greetings, everybody.      
+
+210
+00:09:23,029 --> 00:09:25,496
+This is your number-one enemy,  
+    your favorite playmate,     
+
+211
+00:09:25,565 --> 00:09:27,465
+    Orphan Ann, ready again     
+
+212
+00:09:27,534 --> 00:09:29,901
+     for a vicious assault      
+        on your morale.         
+
+213
+00:09:29,969 --> 00:09:31,936
+      <i> RON EXPLAINS THAT</i>        
+       <i> ALL THE SCRIPTS</i>         
+
+214
+00:09:32,005 --> 00:09:34,105
+         <i> WERE WRITTEN</i>          
+      <i> BY ALLIED P.O.W.s,</i>       
+
+215
+00:09:34,174 --> 00:09:37,108
+   <i> WHO ALSO HAD BEEN FORCED</i>    
+   <i> TO WORK FOR RADIO TOKYO.</i>    
+
+216
+00:09:37,177 --> 00:09:39,944
+  <i> THE LANGUAGE WAS INTENDED</i>    
+    <i> TO BE TONGUE-IN-CHEEK,</i>     
+
+217
+00:09:40,013 --> 00:09:41,979
+     <i> THE KIND OF TEASING</i>       
+        <i> THAT AMERICANS</i>         
+
+218
+00:09:42,048 --> 00:09:43,748
+   <i> WOULD EASILY RECOGNIZE.</i>     
+
+219
+00:09:43,817 --> 00:09:45,483
+AND THEY'D ALWAYS GO OVER       
+THE SCRIPTS WITH HER AND SAY,   
+
+220
+00:09:45,552 --> 00:09:47,085
+"HERE'S WHAT WE WANT YOU        
+TO SAY, IVA."                   
+
+221
+00:09:47,153 --> 00:09:48,853
+AND THEN SHE WOULD SAY          
+THESE THINGS,                   
+
+222
+00:09:48,922 --> 00:09:51,589
+LIKE "HELLO, MY HONORABLE       
+BONEHEADS OF THE PACIFIC.       
+
+223
+00:09:51,658 --> 00:09:53,591
+"THIS IS YOUR FAVORITE ENEMY,   
+ORPHAN ANN.                     
+
+224
+00:09:53,660 --> 00:09:55,593
+I'M GOING TO SNEAK UP BEHIND YOU
+WITH MY NAIL FILE."             
+
+225
+00:09:55,662 --> 00:09:58,863
+YOU SEE IN HER FACE THAT        
+SHE KNOWS SHE'S SAYING THINGS   
+
+226
+00:09:58,932 --> 00:10:01,065
+THAT WOULD SOUND MEAN           
+TO THE JAPANESE                 
+
+227
+00:10:01,134 --> 00:10:04,102
+BUT THAT IT'S ACTUALLY AN INSIDE
+JOKE AMONG ALL THE AMERICANS.   
+
+228
+00:10:04,170 --> 00:10:06,170
+           RIGHT, THERE'S A REAL
+           FACETIOUSNESS TO IT. 
+
+229
+00:10:06,239 --> 00:10:09,340
+    <i> WHEN BRUNDIDGE AND LEE</i>     
+   <i> INTERVIEWED IVA IN 1945,</i>    
+
+230
+00:10:09,409 --> 00:10:12,810
+<i> THAT TEASING TONE NEVER MADE IT</i>
+      <i> INTO THEIR NOTES.</i>        
+
+231
+00:10:12,879 --> 00:10:14,645
+    <i> THEY HAD OTHER PLANS.</i>      
+
+232
+00:10:14,714 --> 00:10:16,347
+THE STORY JUST WASN'T THERE.    
+
+233
+00:10:16,416 --> 00:10:18,750
+THIS WAS NOT THE SIREN          
+OF THE PACIFIC.                 
+
+234
+00:10:18,818 --> 00:10:22,320
+<i> BRUNDIDGE TOOK OUT THE CONTRACT</i>
+         <i> FOR $2,000,</i>           
+
+235
+00:10:22,388 --> 00:10:25,123
+        <i> THEN ASKED IVA</i>         
+     <i> A FATEFUL QUESTION.</i>       
+
+236
+00:10:25,191 --> 00:10:26,991
+"JUST FOR THE HECK OF IT,       
+WOULD YOU JUST SIGN THIS        
+
+237
+00:10:27,060 --> 00:10:28,860
+AS TOKYO ROSE?"                 
+
+238
+00:10:28,928 --> 00:10:32,029
+AND SHE SAID, "SURE."           
+
+239
+00:10:32,098 --> 00:10:35,299
+WHAT HE DID WAS                 
+HE TOOK THOSE NOTES             
+
+240
+00:10:35,368 --> 00:10:38,636
+AND GAVE THEM TO THE            
+OCCUPATION FORCES, AUTHORITIES, 
+
+241
+00:10:38,705 --> 00:10:43,474
+AND SAID, "I HAVE THE SIGNED    
+CONFESSION OF TOKYO ROSE HERE." 
+
+242
+00:10:43,543 --> 00:10:46,911
+AND WITHIN A FEW DAYS           
+SHE WAS ARRESTED.               
+
+243
+00:10:46,980 --> 00:10:49,914
+   <i> SHE WAS FIRST IMPRISONED</i>    
+  <i> IN TOKYO UNDER MARTIAL LAW</i>   
+
+244
+00:10:49,983 --> 00:10:52,116
+     <i> AND HELD FOR A YEAR</i>       
+        <i> WHILE THE ARMY</i>         
+
+245
+00:10:52,185 --> 00:10:54,619
+  <i> COUNTER INTELLIGENCE CORPS</i>   
+        <i> INVESTIGATED.</i>          
+
+246
+00:10:54,687 --> 00:10:56,787
+     <i> FINDING NO EVIDENCE</i>       
+         <i> OF TREASON,</i>           
+
+247
+00:10:56,856 --> 00:10:59,557
+  <i> THE WAR DEPARTMENT CLEARED</i>   
+  <i> AND FINALLY RELEASED HER.</i>    
+
+248
+00:10:59,626 --> 00:11:01,659
+    <i> THAT SHOULD HAVE BEEN</i>      
+        <i> THE END OF IT.</i>         
+
+249
+00:11:01,728 --> 00:11:05,663
+ SO BRUNDIDGE MET HER IN '45,   
+ '46 SHE'S RELEASED FROM PRISON,
+
+250
+00:11:05,732 --> 00:11:08,199
+       HOW DID IT BECOME A STORY
+       AGAIN IN 1948?           
+
+251
+00:11:08,268 --> 00:11:10,034
+THAT IS A STORY IN ITSELF.      
+
+252
+00:11:10,103 --> 00:11:12,036
+      <i> AFTER BEING FREED</i>        
+      <i> BY THE U.S. ARMY,</i>        
+
+253
+00:11:12,105 --> 00:11:14,572
+       <i> IVA HAD APPLIED</i>         
+      <i> FOR REPATRIATION.</i>        
+
+254
+00:11:14,641 --> 00:11:17,441
+  <i> BUT THE POPULAR RADIO HOST</i>   
+       <i> WALTER WINCHELL</i>         
+
+255
+00:11:17,510 --> 00:11:20,244
+    <i> LEARNED OF THE REQUEST</i>     
+    <i> AND STARTED A CAMPAIGN</i>     
+
+256
+00:11:20,313 --> 00:11:23,814
+    <i> TO PREVENT HER RETURN</i>      
+   <i> AND TRY HER FOR TREASON.</i>    
+
+257
+00:11:23,883 --> 00:11:25,349
+GOLD STAR MOTHERS --            
+THESE ARE MOTHERS               
+
+258
+00:11:25,418 --> 00:11:27,919
+WHO HAD LOST THEIR SONS         
+FIGHTING IN THE PACIFIC --      
+
+259
+00:11:27,987 --> 00:11:29,754
+BEGAN WRITING                   
+TO WALTER WINCHELL,             
+
+260
+00:11:29,822 --> 00:11:31,756
+HE FORWARDED THOSE              
+TO THE TRUMAN ADMINISTRATION,   
+
+261
+00:11:31,824 --> 00:11:33,257
+AND THAT PRESSURE BEGAN         
+TO BUILD.                       
+
+262
+00:11:33,326 --> 00:11:34,792
+   <i> IT WAS AN ELECTION YEAR.</i>    
+
+263
+00:11:34,861 --> 00:11:37,862
+<i> RON SAYS CHARGES OF BEING SOFT</i> 
+  <i> ON COMMUNISTS AND TRAITORS</i>   
+
+264
+00:11:37,931 --> 00:11:39,630
+    <i> WAS A CRITICAL FACTOR</i>      
+
+265
+00:11:39,699 --> 00:11:42,600
+<i> IN TRUMAN'S CLOSE PRESIDENTIAL</i> 
+  <i> RACE AGAINST THOMAS DEWEY.</i>   
+
+266
+00:11:42,669 --> 00:11:44,635
+THE TRUMAN ADMINISTRATION       
+DOESN'T WANT TO BE PERCEIVED    
+
+267
+00:11:44,704 --> 00:11:46,370
+AS BEING SOFT ON TRAITORS.      
+
+268
+00:11:46,439 --> 00:11:49,440
+  <i> THE DEPARTMENT OF JUSTICE</i>    
+<i> ISSUED A REQUEST FOR WITNESSES</i> 
+
+269
+00:11:49,509 --> 00:11:52,376
+    <i> TO IVA'S ALLEGED ACTS</i>      
+         <i> OF TREASON.</i>           
+
+270
+00:11:52,445 --> 00:11:54,612
+SO HERE COMES BRUNDIDGE AGAIN.  
+
+271
+00:11:54,681 --> 00:11:57,415
+  <i> WHEN BRUNDIDGE MET UP WITH</i>   
+ <i> ATTORNEY GENERAL TOM CLARK,</i>   
+
+272
+00:11:57,483 --> 00:11:59,951
+      <i> HE OFFERED TO GET</i>        
+  <i> A NEW CONFESSION FROM IVA</i>    
+
+273
+00:12:00,019 --> 00:12:02,853
+    <i> AND TO FIND WITNESSES</i>      
+     <i> TO HELP CONVICT HER.</i>      
+
+274
+00:12:02,922 --> 00:12:05,656
+TOM CLARK ASSIGNS SOME OF       
+HIS MINIONS TO GO BACK TO TOKYO,
+
+275
+00:12:05,725 --> 00:12:07,625
+AND HARRY BRUNDIDGE             
+GOES WITH THEM.                 
+
+276
+00:12:07,694 --> 00:12:09,360
+   <i> RON SAYS IT WASN'T UNTIL</i>    
+
+277
+00:12:09,429 --> 00:12:11,629
+      <i> A QUARTER-CENTURY</i>        
+      <i> AFTER IVA'S TRIAL</i>        
+
+278
+00:12:11,698 --> 00:12:13,597
+       <i> THAT HE UNLOCKED</i>        
+       <i> A CRUCIAL PIECE</i>         
+
+279
+00:12:13,666 --> 00:12:15,633
+<i> OF THE GOVERNMENT'S STRATEGY.</i>  
+
+280
+00:12:15,702 --> 00:12:19,403
+ <i> RON ARRANGED TO MEET TWO MEN</i>  
+ <i> WHO HAD HELD ON TO A SECRET:</i>  
+
+281
+00:12:19,472 --> 00:12:22,239
+       <i> GEORGE MITSUSHIO</i>        
+         <i> AND KEN OKI,</i>          
+
+282
+00:12:22,308 --> 00:12:25,042
+       <i> IVA'S OLD BOSSES</i>        
+      <i> FROM RADIO TOKYO.</i>        
+
+283
+00:12:25,111 --> 00:12:28,813
+THEY SAID, "WE -- OUR TESTIMONY 
+IS WHAT CONVICTED HER,          
+
+284
+00:12:28,881 --> 00:12:30,548
+AND IT WAS ALL A LIE."          
+
+285
+00:12:30,616 --> 00:12:32,416
+THEY HAD BEEN COACHED           
+FOR TWO MONTHS                  
+
+286
+00:12:32,485 --> 00:12:33,818
+BY THE JUSTICE DEPARTMENT       
+
+287
+00:12:33,886 --> 00:12:35,553
+IN WHAT THEY SHOULD SAY         
+AT THE TRIAL.                   
+
+288
+00:12:35,621 --> 00:12:39,890
+AND THEIR TESTIMONY WAS         
+THE SIXTH OF THE EIGHT COUNTS   
+
+289
+00:12:39,959 --> 00:12:41,359
+WHICH SHE WAS INDICTED ON,      
+
+290
+00:12:41,427 --> 00:12:43,060
+THAT SHE DID SPEAK              
+INTO A MICROPHONE               
+
+291
+00:12:43,129 --> 00:12:44,295
+ABOUT THE LOSS OF SHIPS.        
+
+292
+00:12:44,364 --> 00:12:45,830
+        <i> BUT WHAT ABOUT</i>         
+      <i> BRUNDIDGE'S CLAIMS</i>       
+
+293
+00:12:45,898 --> 00:12:48,199
+    <i> OF FINDING ADDITIONAL</i>      
+      <i> SECRET WITNESSES?</i>        
+
+294
+00:12:48,267 --> 00:12:50,835
+I KNOW THE PERFECT PERSON       
+TO TELL YOU ABOUT THEM.         
+
+295
+00:12:50,903 --> 00:12:53,971
+   <i> I'M MEETING WITH BARBARA</i>    
+<i> TREMBLEY AT DARKWOOD STUDIOS.</i>  
+
+296
+00:12:54,040 --> 00:12:56,474
+       <i> BARBARA MET IVA</i>         
+        <i> 20 YEARS AGO.</i>          
+
+297
+00:12:56,542 --> 00:12:58,943
+<i> OVER TIME THEY BECAME FRIENDS.</i> 
+
+298
+00:12:59,011 --> 00:13:01,379
+      <i> IVA AGREED TO TELL</i>       
+        <i> HER FULL STORY</i>         
+
+299
+00:13:01,447 --> 00:13:03,114
+ <i> AND GAVE BARBARA THE RIGHTS</i>   
+
+300
+00:13:03,182 --> 00:13:05,383
+       <i> TO MAKE HER SAGA</i>        
+     <i> INTO A FEATURE FILM.</i>      
+
+301
+00:13:05,451 --> 00:13:08,018
+I HAVE A RECORDING              
+THAT IS DESCRIBING THE MOMENT   
+
+302
+00:13:08,087 --> 00:13:09,954
+WHEN IVA COMES BACK             
+TO THE UNITED STATES.           
+
+303
+00:13:10,022 --> 00:13:11,922
+     <i> I TELL BARBARA THAT</i>       
+      <i> ON THIS RECORDING</i>        
+
+304
+00:13:11,991 --> 00:13:15,126
+<i> BRUNDIDGE BOASTS OF GETTING IVA</i>
+  <i> TO SIGN A NEW CONFESSION.</i>    
+
+305
+00:13:15,194 --> 00:13:17,361
+WHY IS IVA EVEN WILLING         
+TO SEE HIM,                     
+
+306
+00:13:17,430 --> 00:13:19,230
+MUCH LESS TO SIGN               
+THIS DOCUMENT?                  
+
+307
+00:13:19,298 --> 00:13:21,098
+     SHE HAD JUST LOST HER BABY.
+
+308
+00:13:21,167 --> 00:13:24,268
+  <i> BARBARA EXPLAINS THAT IVA</i>    
+<i> HAD JUST SUFFERED A MISCARRIAGE</i>
+
+309
+00:13:24,337 --> 00:13:26,871
+    <i> AND DESPERATELY WANTED</i>     
+  <i> TO GET HOME TO THE STATES.</i>   
+
+310
+00:13:26,939 --> 00:13:30,241
+    <i> IVA TOLD BARBARA THAT</i>      
+  <i> BRUNDIDGE HAD ASSURED HER</i>    
+
+311
+00:13:30,309 --> 00:13:33,477
+  <i> THAT SIGNING THE DOCUMENT</i>    
+     <i> WAS A PASSPORT HOME.</i>      
+
+312
+00:13:33,546 --> 00:13:35,079
+               AND THEN AS SOON 
+               AS SHE SIGNED IT,
+
+313
+00:13:35,148 --> 00:13:36,914
+    BRUNDIDGE LEANED OVER TO IVA
+    AND HE SAID,                
+
+314
+00:13:36,983 --> 00:13:38,549
+           "YOU'VE DONE YOURSELF
+           A GOOD DEAL.         
+
+315
+00:13:38,618 --> 00:13:40,351
+           THEY'LL NEVER EXECUTE
+           A WOMAN."            
+
+316
+00:13:40,420 --> 00:13:43,821
+              SHE LOST HER HEART
+              AT THAT POINT.    
+
+317
+00:13:43,890 --> 00:13:46,824
+BRUNDIDGE HAD WRITTEN           
+ABOUT SECRET WITNESSES          
+
+318
+00:13:46,893 --> 00:13:48,826
+THAT WOULD PROVE THE CASE       
+AGAINST IVA.                    
+
+319
+00:13:48,895 --> 00:13:50,494
+                  YES, MR. YAGI.
+
+320
+00:13:50,563 --> 00:13:52,429
+       YAGI WAS ACTUALLY SOMEONE
+       THAT BRUNDIDGE HAD KNOWN 
+
+321
+00:13:52,498 --> 00:13:53,931
+                 BEFORE THE WAR.
+
+322
+00:13:54,000 --> 00:13:56,500
+    <i> BARBARA SAYS THAT WHEN</i>     
+ <i> BRUNDIDGE TRAVELED TO JAPAN,</i>  
+
+323
+00:13:56,569 --> 00:13:58,702
+ <i> HIROM YAGI ACTED AS A FIXER,</i>  
+
+324
+00:13:58,771 --> 00:14:01,071
+  <i> MAKING LOCAL INTRODUCTIONS</i>   
+     <i> FOR THE JOURNALIST.</i>       
+
+325
+00:14:01,140 --> 00:14:02,873
+ BRUNDIDGE LITERALLY BRIBED HIM.
+
+326
+00:14:02,942 --> 00:14:04,708
+          HE SAID, "YOU WILL GET
+          A TRIP TO THE U.S.    
+
+327
+00:14:04,777 --> 00:14:06,377
+               "AND WE'LL HAVE  
+               A WONDERFUL TIME.
+
+328
+00:14:06,445 --> 00:14:08,312
+  "ALL YOU HAVE TO DO IS TESTIFY
+  FOR THE GRAND JURY,           
+
+329
+00:14:08,381 --> 00:14:09,980
+               AND THIS IS ALL  
+               YOU HAVE TO SAY."
+
+330
+00:14:10,049 --> 00:14:12,283
+        <i> BARBARA FOUND</i>          
+  <i> THE HANDWRITTEN TESTIMONY</i>    
+
+331
+00:14:12,351 --> 00:14:16,086
+   <i> YAGI HAD GIVEN BRUNDIDGE</i>    
+<i> AND THE U.S. ATTORNEY GENERAL.</i> 
+
+332
+00:14:16,155 --> 00:14:17,955
+            "I HEARD HER SAY    
+            INTO THE MICROPHONE,
+
+333
+00:14:18,024 --> 00:14:20,224
+             'YOUR WIVES ARE OUT
+             WITH WAR WORKERS.'"
+
+334
+00:14:20,293 --> 00:14:22,226
+SO DOES HE TESTIFY              
+AT THE TRIAL                    
+
+335
+00:14:22,295 --> 00:14:23,327
+BEFORE THE GRAND JURY?          
+
+336
+00:14:23,396 --> 00:14:24,628
+                   YES, HE DOES.
+
+337
+00:14:24,697 --> 00:14:26,931
+     BUT AS SOON AS HE GETS BACK
+     TO JAPAN, HE RECANTS.      
+
+338
+00:14:26,999 --> 00:14:28,966
+       YAGI EVEN WRITES A LETTER
+       TO BRUNDIDGE             
+
+339
+00:14:29,035 --> 00:14:31,635
+  ASKING HIM TO PLEASE STOP THIS
+  BEFORE IT'S TOO LATE.         
+
+340
+00:14:31,704 --> 00:14:34,538
+    "DEAR MR. BRUNDIDGE, THIS IS
+    AN ELEVENTH HOUR APPEAL     
+
+341
+00:14:34,607 --> 00:14:36,607
+            "ASKING YOU TO USE  
+            YOUR GOOD INFLUENCES
+
+342
+00:14:36,676 --> 00:14:39,043
+   TO CALL OFF THE COMING TRIAL,
+   IF POSSIBLE."                
+
+343
+00:14:39,111 --> 00:14:41,111
+ <i> BARBARA EXPLAINS THAT BY NOW</i>  
+        <i> THE GOVERNMENT</i>         
+
+344
+00:14:41,180 --> 00:14:43,147
+      <i> HAD SERIOUS DOUBTS</i>       
+       <i> ABOUT BRUNDIDGE</i>         
+
+345
+00:14:43,216 --> 00:14:46,483
+<i> AND EVEN BEGAN TO INVESTIGATE</i>  
+  <i> HIM FOR WITNESS TAMPERING,</i>   
+
+346
+00:14:46,552 --> 00:14:50,120
+<i> BUT THEY HAD TOO MUCH INVESTED</i> 
+<i> IN THE TRIAL TO BACK OUT NOW.</i>  
+
+347
+00:14:50,189 --> 00:14:52,990
+      THE DEPARTMENT OF JUSTICE,
+      TOM CLARK, AND SO ON,     
+
+348
+00:14:53,059 --> 00:14:55,759
+       THEY PUT A LID ON IT     
+       AND IT BECAME A COVER-UP.
+
+349
+00:14:55,828 --> 00:14:57,861
+     <i> THE TRIAL PROCEEDED</i>       
+         <i> AS PLANNED,</i>           
+
+350
+00:14:57,930 --> 00:14:59,997
+       <i> BUT DID IT GO ON</i>        
+       <i> WITH BRUNDIDGE?</i>         
+
+351
+00:15:00,066 --> 00:15:02,233
+          THAT'S WHEN IT BECOMES
+          VERY INTERESTING.     
+
+352
+00:15:02,301 --> 00:15:05,736
+    <i> THE CONFIDENTIAL FILES</i>     
+<i> OF FBI DIRECTOR J. EDGAR HOOVER</i>
+
+353
+00:15:05,805 --> 00:15:08,005
+     <i> WERE OPENED IN 2005.</i>      
+
+354
+00:15:08,074 --> 00:15:10,207
+      <i> IN THOSE DOCUMENTS</i>       
+      <i> BARBARA HAS FOUND</i>        
+
+355
+00:15:10,276 --> 00:15:11,875
+    <i> SOME ANSWERS FOR BILL.</i>     
+
+356
+00:15:11,944 --> 00:15:14,044
+LET ME PLAY FOR YOU             
+WHAT'S ON YOUR RECORD,          
+
+357
+00:15:14,113 --> 00:15:17,114
+AND THEN WE HEAR A VOICE        
+YOU MAY RECOGNIZE.              
+
+358
+00:15:17,183 --> 00:15:20,284
+    Brundidge on recording:     
+  I went back at the request    
+    of the attorney general     
+
+359
+00:15:20,353 --> 00:15:23,787
+          last March,           
+ and Rose willingly signed it.  
+
+360
+00:15:23,856 --> 00:15:25,789
+          I RECOGNIZE HIS VOICE.
+
+361
+00:15:25,858 --> 00:15:27,658
+        THAT WAS MY UNCLE HARRY.
+
+362
+00:15:27,727 --> 00:15:29,693
+         <i> I TELL BILL</i>           
+    <i> ABOUT HIS UNCLE'S ROLE</i>     
+
+363
+00:15:29,762 --> 00:15:31,862
+          <i> IN LINKING</i>           
+   <i> THE REAL-LIFE IVA TOGURI</i>    
+
+364
+00:15:31,931 --> 00:15:34,298
+  <i> AND THE FABLED TOKYO ROSE.</i>   
+
+365
+00:15:34,367 --> 00:15:36,066
+           THAT'S SAD, ISN'T IT?
+
+366
+00:15:36,135 --> 00:15:37,534
+    YEAH.                       
+
+367
+00:15:37,603 --> 00:15:40,738
+   HE PROBABLY DID MOST ANYTHING
+   TO GET A STORY,              
+
+368
+00:15:40,806 --> 00:15:42,640
+       AND THAT WAS A BIG STORY.
+
+369
+00:15:42,708 --> 00:15:44,475
+YOU'D WANTED TO KNOW            
+WHAT PART                       
+
+370
+00:15:44,543 --> 00:15:46,276
+HARRY BRUNDIDGE PLAYED          
+IN THIS TRIAL.                  
+
+371
+00:15:46,345 --> 00:15:48,512
+WHEN HE MENTIONED THAT          
+THE ATTORNEY GENERAL'S OFFICE   
+
+372
+00:15:48,581 --> 00:15:50,014
+HAD SENT HIM BACK,              
+
+373
+00:15:50,082 --> 00:15:53,951
+THAT'S WHERE THE STORY BECOMES  
+LARGER THAN JUST YOUR UNCLE.    
+
+374
+00:15:54,020 --> 00:15:56,387
+SO WHAT WAS BRUNDIDGE'S ROLE    
+IN THE TRIAL?                   
+
+375
+00:15:56,455 --> 00:15:58,655
+     WELL, BRUNDIDGE HAD NO ROLE
+     IN THE TRIAL.              
+
+376
+00:15:58,724 --> 00:16:00,791
+           THEY DIDN'T ALLOW HIM
+           TO TESTIFY.          
+
+377
+00:16:00,860 --> 00:16:03,827
+      THE FBI,                  
+      THE DEPARTMENT OF JUSTICE:
+
+378
+00:16:03,896 --> 00:16:06,864
+  HE WAS SUCH A HOT POTATO,     
+  NOBODY WANTED TO GET NEAR HIM.
+
+379
+00:16:06,932 --> 00:16:08,999
+    <i> ON ONE INTERNAL MEMO,</i>      
+      <i> BARBARA DISCOVERED</i>       
+
+380
+00:16:09,068 --> 00:16:11,168
+     <i> THAT J. EDGAR HOOVER</i>      
+        <i> HAD WEIGHED IN</i>         
+
+381
+00:16:11,237 --> 00:16:12,836
+        <i> ON BRUNDIDGE'S</i>         
+      <i> SO-CALLED WITNESS</i>        
+
+382
+00:16:12,905 --> 00:16:14,505
+   <i> RECANTING HIS TESTIMONY.</i>    
+
+383
+00:16:14,573 --> 00:16:16,507
+              "I'M NOT SURPRISED
+              AT DEVELOPMENTS.  
+
+384
+00:16:16,575 --> 00:16:18,709
+       "IT WAS MOST UNWISE      
+       FOR DEPARTMENT OF JUSTICE
+
+385
+00:16:18,778 --> 00:16:21,645
+  TO USE SUCH A PERSON AS       
+  BRUNDIDGE IN THE FIRST PLACE."
+
+386
+00:16:21,714 --> 00:16:23,680
+    THEY REALIZED THE WHOLE CASE
+    COULD BE BLOWN UP           
+
+387
+00:16:23,749 --> 00:16:25,182
+                IF HE TESTIFIED.
+
+388
+00:16:25,251 --> 00:16:28,252
+HE FINALLY WENT TO THE DEFENSE  
+AND OFFERED TO TESTIFY FOR THEM,
+
+389
+00:16:28,320 --> 00:16:30,320
+     AND THEY WOULDN'T TOUCH HIM
+     EITHER.                    
+
+390
+00:16:30,389 --> 00:16:32,156
+     GEE, THAT'S SOMETHING ELSE.
+
+391
+00:16:32,224 --> 00:16:34,358
+    YOU KNOW, BACK IN WAR TIMES,
+
+392
+00:16:34,427 --> 00:16:37,161
+        PEOPLE LOOKED UPON      
+        THE JAPANESE REALLY BAD,
+
+393
+00:16:37,229 --> 00:16:39,363
+              AND IT DIDN'T MAKE
+              ANY DIFFERENCE    
+
+394
+00:16:39,432 --> 00:16:41,231
+     WHETHER THEY WERE AMERICANS
+     OR --                      
+
+395
+00:16:41,300 --> 00:16:45,202
+ LOOK AT ALL THE INTERNEES THEY 
+ HAD, AND THEY WERE GOOD PEOPLE.
+
+396
+00:16:45,271 --> 00:16:46,637
+THEY WERE.                      
+
+397
+00:16:46,705 --> 00:16:49,173
+BILL, I REALLY WANT TO THANK YOU
+FOR GIVING ME THIS RECORD       
+
+398
+00:16:49,241 --> 00:16:52,242
+AND GIVING ME A CHANCE          
+TO SEE THIS LARGER HISTORY.     
+
+399
+00:16:52,311 --> 00:16:53,544
+THANK YOU.                      
+
+400
+00:16:53,612 --> 00:16:54,845
+                      THANK<i> YOU.</i>
+
+401
+00:16:54,914 --> 00:16:56,914
+     I'M GLAD ALL THIS CAME OUT.
+
+402
+00:16:56,982 --> 00:17:00,217
+I APPRECIATE THE WISDOM         
+WITH WHICH YOU HEARD THE STORY. 
+
+403
+00:17:00,286 --> 00:17:02,252
+     <i> GIVEN THE NEW PUBLIC</i>      
+         <i> DISCLOSURES</i>           
+
+404
+00:17:02,321 --> 00:17:03,987
+    <i> ABOUT IVA'S INNOCENCE</i>      
+
+405
+00:17:04,056 --> 00:17:06,423
+  <i> AND THE PERJURED TESTIMONY</i>   
+         <i> AGAINST HER,</i>          
+
+406
+00:17:06,492 --> 00:17:09,626
+    <i> PRESIDENT FORD AGREED</i>      
+    <i> TO LOOK INTO HER CASE.</i>     
+
+407
+00:17:09,695 --> 00:17:12,463
+   <i> IN HIS LAST OFFICIAL ACT</i>    
+          <i> IN OFFICE,</i>           
+
+408
+00:17:12,531 --> 00:17:16,667
+ <i> HE GRANTED IVA TOGURI A FULL</i>  
+   <i> AND UNCONDITIONAL PARDON</i>    
+
+409
+00:17:16,735 --> 00:17:20,370
+     <i> ON JANUARY 19, 1977.</i>      
+
+410
+00:17:20,439 --> 00:17:23,540
+       <i> SHE PASSED AWAY</i>         
+           <i> IN 2006.</i>            
+
+411
+00:17:26,545 --> 00:17:28,679
+       TWELVE AMERICANS         
+    WERE TRIED FOR TREASON      
+
+412
+00:17:28,747 --> 00:17:30,347
+      AFTER WORLD WAR II.       
+
+413
+00:17:30,416 --> 00:17:32,816
+SEVEN WERE RADIO BROADCASTERS.  
+
+414
+00:17:32,885 --> 00:17:35,686
+     AXIS SALLY WAS ONE OF      
+      THE MOST INFAMOUS.        
+
+415
+00:17:35,754 --> 00:17:39,523
+BORN MILDRED GILLARS, SHE DREAMT
+    OF BECOMING A STARLET.      
+
+416
+00:17:39,592 --> 00:17:42,025
+ WITH LITTLE THEATER SUCCESS,   
+
+417
+00:17:42,094 --> 00:17:45,762
+   GILLARS MOVED TO GERMANY     
+       IN THE MID-1930s         
+
+418
+00:17:45,831 --> 00:17:48,765
+ AND WORKED FOR RADIO BERLIN.   
+
+419
+00:17:48,834 --> 00:17:53,036
+      FROM DECEMBER 1941        
+         TO MAY 1945,           
+
+420
+00:17:53,105 --> 00:17:56,073
+     GILLARS' SULTRY VOICE      
+    REACHED AMERICAN G.I.s      
+
+421
+00:17:56,141 --> 00:18:00,510
+  WITH PRO-GERMAN WAR UPDATES   
+  DESIGNED TO DEPLETE MORALE.   
+
+422
+00:18:00,579 --> 00:18:04,448
+GILLARS' BROADCASTS CAME UNDER  
+THE AUSPICES OF JOSEPH GOEBBELS,
+
+423
+00:18:04,516 --> 00:18:06,750
+ HITLER'S PROPAGANDA MINISTER.  
+
+424
+00:18:06,819 --> 00:18:09,820
+   SHE POSED AS AN AMERICAN     
+     RED CROSS VOLUNTEER,       
+
+425
+00:18:09,888 --> 00:18:14,157
+ INTERVIEWING AMERICAN P.O.W.s  
+BUT DISTORTING THEIR COMMENTS.  
+
+426
+00:18:14,226 --> 00:18:16,860
+   SHE CRITICIZED ROOSEVELT     
+         AND CHURCHILL          
+
+427
+00:18:16,929 --> 00:18:19,263
+        AND MUSED ABOUT         
+      THE UNFAITHFULNESS        
+
+428
+00:18:19,331 --> 00:18:22,599
+ OF G.I. WIVES AND GIRLFRIENDS  
+          BACK HOME.            
+
+429
+00:18:22,668 --> 00:18:25,802
+         AXIS SALLY'S           
+   MOST INFAMOUS BROADCAST,     
+
+430
+00:18:25,871 --> 00:18:27,504
+     "VISION OF INVASION,"      
+
+431
+00:18:27,573 --> 00:18:30,540
+   TARGETED AMERICAN TROOPS     
+        AWAITING D-DAY.         
+
+432
+00:18:30,609 --> 00:18:33,777
+ GILLARS PLAYED A G.I. MOTHER   
+ DREAMING OF HER SON'S DEATH.   
+
+433
+00:18:33,846 --> 00:18:36,313
+     CRIES OF THE WOUNDED       
+   PLAYED IN THE BACKGROUND,    
+
+434
+00:18:36,382 --> 00:18:39,116
+    CREATING THE IMPRESSION     
+    OF IMPENDING SLAUGHTER.     
+
+435
+00:18:39,184 --> 00:18:40,784
+    The boys will be killed     
+
+436
+00:18:40,853 --> 00:18:42,686
+   or crippled for the rest     
+        of their lives.         
+
+437
+00:18:42,755 --> 00:18:46,123
+  AFTER THE WAR, GILLARS WAS    
+    EXTRADITED TO THE U.S.      
+
+438
+00:18:46,191 --> 00:18:48,625
+     SHE WAS FOUND GUILTY       
+          OF TREASON            
+
+439
+00:18:48,694 --> 00:18:51,862
+AND SENTENCED TO 10 TO 30 YEARS 
+          IN PRISON.            
+
+440
+00:18:51,930 --> 00:18:55,899
+  IN 1961, GILLARS LEFT JAIL    
+     TO LIVE IN A CONVENT       
+
+441
+00:18:55,968 --> 00:18:57,701
+  AND TEACH CATHOLIC SCHOOL.    
+
+442
+00:18:57,770 --> 00:18:59,736
+       SHE DIED IN 1988.        
+
+443
+00:19:02,741 --> 00:19:07,344
+            Elyse:              
+<i> OUR NEXT STORY GOES IN SEARCH</i>  
+ <i> OF A NATIVE-AMERICAN LEGEND.</i>  
+
+444
+00:19:07,413 --> 00:19:11,648
+     <i> MORE THAN 125 YEARS</i>       
+       <i> AFTER HIS DEATH,</i>        
+
+445
+00:19:11,717 --> 00:19:14,351
+     <i> THE NAME CRAZY HORSE</i>      
+         <i> STILL ECHOES</i>          
+
+446
+00:19:14,420 --> 00:19:16,520
+      <i> IN THE BLACK HILLS</i>       
+       <i> OF SOUTH DAKOTA.</i>        
+
+447
+00:19:16,588 --> 00:19:19,723
+ <i> IN LIFE, THE LAKOTA WARRIOR</i>   
+      <i> AND SPIRITUAL MAN</i>        
+
+448
+00:19:19,792 --> 00:19:22,359
+       <i> VOWED TO PROTECT</i>        
+ <i> THESE SACRED HUNTING GROUNDS</i>  
+
+449
+00:19:22,428 --> 00:19:25,162
+  <i> FROM ENCROACHING SETTLERS</i>    
+       <i> AND GOLD MINERS.</i>        
+
+450
+00:19:25,230 --> 00:19:29,066
+   <i> IN 1876, HE HELPED CRUSH</i>    
+   <i> THE U.S. CAVALRY TROOPS</i>     
+
+451
+00:19:29,134 --> 00:19:32,602
+<i> OF GENERAL GEORGE CUSTER AT THE</i>
+<i> BATTLE OF THE LITTLE BIGHORN.</i>  
+
+452
+00:19:32,671 --> 00:19:35,906
+ <i> BUT IS THIS A TRUE LIKENESS</i>   
+       <i> OF THE WARRIOR?</i>         
+
+453
+00:19:35,974 --> 00:19:39,409
+<i> DESPITE HIS FAME, CRAZY HORSE</i>  
+ <i> REFUSED TO BE PHOTOGRAPHED,</i>   
+
+454
+00:19:39,478 --> 00:19:42,012
+       <i> SHUNNING WHITES</i>         
+   <i> AND THEIR TECHNOLOGIES.</i>     
+
+455
+00:19:42,081 --> 00:19:44,481
+      <i> FOR YEARS, RUMORS</i>        
+  <i> OF CRAZY HORSE PHOTOGRAPHS</i>   
+
+456
+00:19:44,550 --> 00:19:47,050
+ <i> HAVE TANTALIZED COLLECTORS.</i>   
+
+457
+00:19:47,119 --> 00:19:50,821
+     <i> MORE THAN 125 YEARS</i>       
+  <i> AFTER THE WARRIOR'S DEATH,</i>   
+
+458
+00:19:50,889 --> 00:19:53,390
+          <i> TIM GIAGO</i>            
+ <i> OF RAPID CITY, SOUTH DAKOTA,</i>  
+
+459
+00:19:53,459 --> 00:19:55,692
+      <i> HAS A FRAMED IMAGE</i>       
+         <i> WHICH MAY BE</i>          
+
+460
+00:19:55,761 --> 00:19:58,628
+ <i> THE ONLY PHOTOGRAPHIC IMAGE</i>   
+       <i> OF THIS LEGEND.</i>         
+
+461
+00:19:58,697 --> 00:20:01,998
+   IT SAID, "TASUNKA WITKO,"    
+       AND TASUNKA WITKO        
+
+462
+00:20:02,067 --> 00:20:04,835
+      IS THE LAKOTA NAME        
+    THAT MEANS CRAZY HORSE.     
+
+463
+00:20:04,903 --> 00:20:07,904
+ <i> I'M MEETING TIM AT HIS HOME</i>   
+      <i> TO FIND OUT MORE.</i>        
+
+464
+00:20:10,008 --> 00:20:11,808
+HI.                             
+            WELCOME TO MY HOUSE.
+
+465
+00:20:11,877 --> 00:20:13,110
+THANK YOU.                      
+
+466
+00:20:13,178 --> 00:20:15,078
+WELL, ABOUT 27 YEARS AGO,       
+
+467
+00:20:15,147 --> 00:20:18,915
+A CONSTRUCTION MANAGER CAME INTO
+MY NEWSPAPER,<i> THE LAKOTA TIMES,</i> 
+
+468
+00:20:18,984 --> 00:20:20,550
+AND HE HAD THIS WITH HIM.       
+
+469
+00:20:20,619 --> 00:20:22,586
+ONE OF HIS EMPLOYEES,           
+A LAKOTA MAN,                   
+
+470
+00:20:22,654 --> 00:20:24,821
+HAD PUT IT IN HOCK              
+AND SAID HE COULD HAVE IT       
+
+471
+00:20:24,890 --> 00:20:26,923
+IF HE WENT DOWN                 
+AND TOOK IT OUT OF PAWN.        
+
+472
+00:20:26,992 --> 00:20:29,626
+SO HE BROUGHT IT DOWN           
+TO MY NEWSPAPER.                
+
+473
+00:20:29,695 --> 00:20:32,996
+ALONG WITH THAT WAS THIS LETTER 
+WHICH IS DATED 1904.            
+
+474
+00:20:33,065 --> 00:20:37,501
+IT'S WRITTEN ENTIRELY           
+IN THE VERY OLD LAKOTA LANGUAGE.
+
+475
+00:20:37,569 --> 00:20:41,204
+IT SAYS THAT "TASUNKA WITKO,"   
+WHICH MEANS CRAZY HORSE.        
+
+476
+00:20:41,273 --> 00:20:43,573
+   WHAT DO YOU KNOW SPECIFICALLY
+   ABOUT CRAZY HORSE?           
+
+477
+00:20:43,642 --> 00:20:46,776
+CRAZY HORSE WAS REALLY          
+ONE OF THE GREAT WARRIORS       
+
+478
+00:20:46,845 --> 00:20:48,545
+OF THE LAKOTA.                  
+
+479
+00:20:48,614 --> 00:20:50,647
+PEOPLE SAID THAT BULLETS        
+COULDN'T HIT HIM.               
+
+480
+00:20:50,716 --> 00:20:53,483
+ONE OF THE REASONS              
+HE'S SO ADMIRED AND LOVED       
+
+481
+00:20:53,552 --> 00:20:57,120
+BY THE LAKOTA PEOPLE TODAY      
+IS HE WOULD NEVER SIGN A TREATY.
+
+482
+00:20:57,189 --> 00:21:00,190
+HE NEVER SOLD OUT ANY LAND      
+OR ANY OF HIS PEOPLE,           
+
+483
+00:21:00,259 --> 00:21:02,859
+AND TO ME THAT'S                
+HIGHLY ADMIRABLE.               
+
+484
+00:21:02,928 --> 00:21:06,196
+<i> BUT WHAT CRAZY HORSE LOOKS LIKE</i>
+   <i> HAS LONG BEEN A MYSTERY.</i>    
+
+485
+00:21:06,265 --> 00:21:08,732
+     DO YOU KNOW OF ANY OTHER   
+     PHOTOGRAPHS OF CRAZY HORSE?
+
+486
+00:21:08,800 --> 00:21:10,267
+I'VE NEVER SEEN ONE.            
+
+487
+00:21:10,335 --> 00:21:13,436
+I'VE SEEN PHOTOGRAPHS           
+THAT WERE DISPROVED,            
+
+488
+00:21:13,505 --> 00:21:14,971
+THAT THAT'S NOT CRAZY HORSE,    
+
+489
+00:21:15,040 --> 00:21:16,740
+ALWAYS PROVED TO BE             
+SOMEONE ELSE.                   
+
+490
+00:21:16,808 --> 00:21:18,808
+I WOULD LIKE YOU                
+TO FIND OUT VERY MUCH           
+
+491
+00:21:18,877 --> 00:21:22,312
+WHETHER THIS IS INDEED          
+A TRUE PICTURE OF CRAZY HORSE.  
+
+492
+00:21:22,381 --> 00:21:24,581
+            [ ♪♪♪ ]             
+
+493
+00:21:30,622 --> 00:21:32,622
+ <i> IT'S JUST AS TIM SUGGESTED.</i>   
+
+494
+00:21:32,691 --> 00:21:34,925
+      <i> THERE ARE A NUMBER</i>       
+      <i> OF DISPUTED IMAGES</i>       
+
+495
+00:21:34,993 --> 00:21:36,760
+ <i> CLAIMING TO BE CRAZY HORSE.</i>   
+
+496
+00:21:36,828 --> 00:21:39,062
+      <i> MOST OF THEM HAVE</i>        
+    <i> PRETTY SHAKY STORIES,</i>      
+
+497
+00:21:39,131 --> 00:21:40,997
+  <i> AND NONE RESEMBLE OUR GUY.</i>   
+
+498
+00:21:41,066 --> 00:21:43,300
+   <i> THERE'S NOTHING OBVIOUS</i>     
+      <i> TO SUGGEST OUR MAN</i>       
+
+499
+00:21:43,368 --> 00:21:45,068
+   <i> IS EVEN A WARRIOR CHIEF,</i>    
+
+500
+00:21:45,137 --> 00:21:47,604
+        <i> NO WAR BONNET</i>          
+   <i> OR ELABORATE DECORATION.</i>    
+
+501
+00:21:47,673 --> 00:21:49,839
+   HE DOES HAVE A COLLAR ON     
+     AND AN EAGLE FEATHER,      
+
+502
+00:21:49,908 --> 00:21:52,475
+       BUT BESIDES THAT,        
+ HE'S DRESSED PRETTY PLAINLY.   
+
+503
+00:21:52,544 --> 00:21:55,045
+      <i> I'M TRYING TO TAKE</i>       
+   <i> THE BACK OFF CAREFULLY.</i>     
+
+504
+00:21:55,113 --> 00:21:57,247
+    <i> IT LOOKS LIKE THERE'S</i>      
+     <i> MORE LAKOTA WRITING</i>       
+
+505
+00:21:57,316 --> 00:22:00,150
+  <i> ALONG WITH THE DATE, 1875.</i>   
+
+506
+00:22:02,020 --> 00:22:03,687
+   AH, NOW, THIS IS HELPFUL.    
+
+507
+00:22:03,755 --> 00:22:07,924
+  <i> HERE AGAIN, "CRAZY HORSE"</i>    
+  <i> AND "1875" IN HANDWRITING.</i>   
+
+508
+00:22:07,993 --> 00:22:10,694
+       <i> BUT THERE'S ALSO</i>        
+ <i> A STAMPED NAME AND ADDRESS.</i>   
+
+509
+00:22:10,762 --> 00:22:16,199
+"ALEX GARDNER, 921 PENNSYLVANIA 
+   AVENUE, WASHINGTON, D.C."    
+
+510
+00:22:16,268 --> 00:22:18,168
+   <i> LET ME DO SOME DIGGING.</i>     
+
+511
+00:22:18,236 --> 00:22:19,936
+<i> THERE WAS AN ALEXANDER GARDNER</i> 
+
+512
+00:22:20,005 --> 00:22:21,571
+     <i> WHO WAS A CELEBRATED</i>      
+         <i> PHOTOGRAPHER</i>          
+
+513
+00:22:21,640 --> 00:22:23,073
+     <i> IN THE 19th CENTURY.</i>      
+
+514
+00:22:23,141 --> 00:22:25,075
+       <i> HE PHOTOGRAPHED</i>         
+       <i> ABRAHAM LINCOLN.</i>        
+
+515
+00:22:25,143 --> 00:22:27,243
+       <i> I'M NOT CERTAIN</i>         
+  <i> THEY WERE THE SAME PERSON,</i>   
+
+516
+00:22:27,312 --> 00:22:29,879
+    <i> BUT ALEXANDER GARDNER</i>      
+   <i> WAS A SCOTTISH SOCIALIST</i>    
+
+517
+00:22:29,948 --> 00:22:31,948
+  <i> WHO HAD GOTTEN INTERESTED</i>    
+        <i> IN PHOTOGRAPHY</i>         
+
+518
+00:22:32,017 --> 00:22:34,351
+         <i> AFTER SEEING</i>          
+    <i> MATTHEW BRADY'S WORK.</i>      
+
+519
+00:22:34,419 --> 00:22:35,752
+   <i> BRADY AND GARDNER BECAME</i>    
+
+520
+00:22:35,821 --> 00:22:38,688
+      <i> THE TWO BEST KNOWN</i>       
+<i> PHOTOGRAPHERS OF THE CIVIL WAR.</i>
+
+521
+00:22:38,757 --> 00:22:41,458
+  <i> BUT IT SEEMS THAT A NUMBER</i>   
+<i> OF GARDNER'S BATTLEFIELD IMAGES</i>
+
+522
+00:22:41,526 --> 00:22:43,760
+         <i> FROM THE WAR</i>          
+     <i> WERE CONTROVERSIAL.</i>       
+
+523
+00:22:43,829 --> 00:22:46,563
+   HE ACTUALLY MOVED BODIES     
+ ON THE CIVIL WAR BATTLEFIELDS  
+
+524
+00:22:46,631 --> 00:22:49,299
+        TO BETTER SUIT          
+    HIS PHOTOGRAPHIC NEEDS.     
+
+525
+00:22:49,367 --> 00:22:51,000
+   <i> AND THIS IS INTERESTING:</i>    
+
+526
+00:22:51,069 --> 00:22:54,904
+     <i> GARDNER TRAVELED TO</i>       
+<i> THE LAKOTA TERRITORIES IN 1868</i> 
+
+527
+00:22:54,973 --> 00:22:58,141
+  <i> TO PHOTOGRAPH NEGOTIATIONS</i>   
+<i> BETWEEN NORTHERN PLAIN TRIBES</i>  
+
+528
+00:22:58,210 --> 00:22:59,509
+     <i> AND THE GOVERNMENT.</i>       
+
+529
+00:22:59,578 --> 00:23:01,311
+   <i> THE FORT LARAMIE TREATY</i>     
+         <i> ESTABLISHED</i>           
+
+530
+00:23:01,379 --> 00:23:03,012
+ <i> THE GREAT SIOUX RESERVATION</i>   
+
+531
+00:23:03,081 --> 00:23:05,315
+<i> AND PROTECTED THE BLACK HILLS</i>  
+       <i> FOR THE LAKOTA.</i>         
+
+532
+00:23:05,383 --> 00:23:09,119
+  <i> IT'S POSSIBLE THAT THIS IS</i>   
+<i> AN ALEXANDER GARDNER PHOTOGRAPH</i>
+
+533
+00:23:09,187 --> 00:23:11,454
+     <i> AND THAT GARDNER MET</i>      
+         <i> CRAZY HORSE,</i>          
+
+534
+00:23:11,523 --> 00:23:15,158
+  <i> BUT THE DATE ON OUR PHOTO,</i>   
+      <i> IF IT'S ACCURATE,</i>        
+
+535
+00:23:15,227 --> 00:23:17,894
+     <i> IS SEVEN YEARS AFTER</i>      
+     <i> GARDNER PHOTOGRAPHED</i>      
+
+536
+00:23:17,963 --> 00:23:19,529
+     <i> THE LAKOTA TREATIES.</i>      
+
+537
+00:23:19,598 --> 00:23:21,965
+    I THINK THE FIRST THING     
+       THAT I NEED TO DO        
+
+538
+00:23:22,033 --> 00:23:25,034
+     IS FIGURE OUT EXACTLY      
+     WHAT THIS NOTE SAYS.       
+
+539
+00:23:25,103 --> 00:23:27,370
+        <i> I'M HEADED TO</i>          
+    <i> OGLALA LAKOTA COLLEGE</i>      
+
+540
+00:23:27,439 --> 00:23:28,872
+        <i> IN RAPID CITY.</i>         
+
+541
+00:23:28,940 --> 00:23:32,041
+ <i> LAKOTA LANGUAGE AND CULTURE</i>   
+   <i> PROFESSOR WILMER MESTETH</i>    
+
+542
+00:23:32,110 --> 00:23:34,010
+  <i> IS SKEPTICAL OF OUR IMAGE.</i>   
+
+543
+00:23:34,079 --> 00:23:37,013
+ <i> HE EXPLAINS WHY CRAZY HORSE</i>   
+    <i> REJECTED PHOTOGRAPHY.</i>      
+
+544
+00:23:37,082 --> 00:23:39,349
+       IN ORAL HISTORY THEY SAID
+       HE MADE A STATEMENT      
+
+545
+00:23:39,417 --> 00:23:42,152
+          THAT THESE PHOTOGRAPHS
+          WERE EVIL             
+
+546
+00:23:42,220 --> 00:23:45,021
+     AND THAT ANYBODY           
+     THAT TOOK THEIR PHOTOGRAPH,
+
+547
+00:23:45,090 --> 00:23:47,624
+         THEIR SOUL WAS CAPTURED
+         IN THE PICTURE.        
+
+548
+00:23:47,692 --> 00:23:50,827
+   <i> CRAZY HORSE'S REJECTION</i>     
+<i> OF THE WHITE MAN'S TECHNOLOGY</i>  
+
+549
+00:23:50,896 --> 00:23:54,330
+<i> WAS PART OF HIS DEFENSE OF THE</i> 
+ <i> BESIEGED LAKOTA WAY OF LIFE.</i>  
+
+550
+00:23:54,399 --> 00:23:56,866
+       <i> THE 1868 TREATY</i>         
+       <i> OF FORT LARAMIE</i>         
+
+551
+00:23:56,935 --> 00:23:59,502
+  <i> HAD GUARANTEED THE LAKOTA</i>    
+     <i> THEIR TRIBAL LANDS,</i>       
+
+552
+00:23:59,571 --> 00:24:03,006
+  <i> BUT JUST SIX YEARS LATER,</i>    
+<i> THE TREATY WOULD BE VIOLATED.</i>  
+
+553
+00:24:03,074 --> 00:24:05,875
+         IN 1874,               
+         THERE WAS AN EXPEDITION
+
+554
+00:24:05,944 --> 00:24:09,245
+  THAT CAME DOWN INTO THE       
+  BLACK HILLS IN SEARCH OF GOLD,
+
+555
+00:24:09,314 --> 00:24:11,447
+          LED BY GENERAL CUSTER,
+
+556
+00:24:11,516 --> 00:24:13,883
+          AND THEY DID FIND GOLD
+          IN THE BLACK HILLS.   
+
+557
+00:24:13,952 --> 00:24:17,954
+       <i> TWO YEARS LATER,</i>        
+        <i> IN JUNE 1876,</i>          
+
+558
+00:24:18,023 --> 00:24:20,490
+  <i> CRAZY HORSE HELPED DEFEAT</i>    
+        <i> GENERAL CUSTER</i>         
+
+559
+00:24:20,559 --> 00:24:22,592
+        <i> AT THE BATTLE</i>          
+    <i> OF THE LITTLE BIGHORN.</i>     
+
+560
+00:24:22,661 --> 00:24:26,129
+<i> IT WAS THE WORST U.S. MILITARY</i> 
+  <i> DEFEAT OF THE INDIAN WARS.</i>   
+
+561
+00:24:26,197 --> 00:24:27,830
+        <i> ALTHOUGH MANY</i>          
+     <i> SIOUX CONTEMPORARIES</i>      
+
+562
+00:24:27,899 --> 00:24:29,332
+      <i> WERE PHOTOGRAPHED,</i>       
+
+563
+00:24:29,401 --> 00:24:31,401
+    <i> THE LAKOTA HAVE RELIED</i>     
+       <i> ON ORAL HISTORY</i>         
+
+564
+00:24:31,469 --> 00:24:33,436
+      <i> FOR A DESCRIPTION</i>        
+       <i> OF CRAZY HORSE.</i>         
+
+565
+00:24:33,505 --> 00:24:36,739
+               THEY SAID HE WAS 
+               OF MEDIUM HEIGHT,
+
+566
+00:24:36,808 --> 00:24:42,211
+   HIS HAIR WAS LIGHT IN COLOR, 
+   AND HIS COMPLEXION WAS LIGHT.
+
+567
+00:24:42,280 --> 00:24:45,615
+    AND HE HAD A MYSTERIOUS AURA
+    ABOUT HIM.                  
+
+568
+00:24:45,684 --> 00:24:48,651
+ THEY SAID YOU COULD ALMOST FEEL
+ HIS PRESENCE AND HIS STRENGTH  
+
+569
+00:24:48,720 --> 00:24:50,420
+              AS A POWERFUL MAN.
+
+570
+00:24:50,488 --> 00:24:53,589
+THIS IS THE LETTER              
+THAT CAME WITH THE PHOTOGRAPH.  
+
+571
+00:24:53,658 --> 00:24:55,725
+WHAT DO YOU THINK?              
+
+572
+00:24:55,794 --> 00:24:59,362
+      THIS LETTER IS WRITTEN    
+      IN OLD LAKOTA ORTHOGRAPHY,
+
+573
+00:24:59,431 --> 00:25:00,863
+             IN LAKOTA LANGUAGE.
+
+574
+00:25:00,932 --> 00:25:03,900
+<i> WILMER TELLS ME THAT OLD LAKOTA</i>
+<i> WAS USED FOR A HUNED YEARS,</i>    
+
+575
+00:25:03,969 --> 00:25:06,336
+      <i> UNTIL ABOUT 1960.</i>        
+
+576
+00:25:06,404 --> 00:25:10,273
+     [ reading in Lakota ]      
+
+577
+00:25:10,342 --> 00:25:14,677
+   "THIS PHOTOGRAPH IS          
+   A PHOTOGRAPH OF CRAZY HORSE."
+
+578
+00:25:14,746 --> 00:25:16,145
+WHAT ELSE DOES IT SAY?          
+
+579
+00:25:16,214 --> 00:25:21,284
+     [ reading in Lakota ]      
+
+580
+00:25:21,353 --> 00:25:24,253
+    "THE WAY YOU WOULD RECOGNIZE
+    THAT THIS IS HE             
+
+581
+00:25:24,322 --> 00:25:27,190
+             IS THERE IS A SCAR 
+             ON HIS LEFT CHEEK."
+
+582
+00:25:27,258 --> 00:25:29,492
+IS IT TRUE THAT CRAZY HORSE     
+HAD A SCAR?                     
+
+583
+00:25:29,561 --> 00:25:33,896
+       YES, CRAZY HORSE WAS SHOT
+       BY A MAN CALLED NO WATER 
+
+584
+00:25:33,965 --> 00:25:35,431
+              IN A JEALOUS RAGE.
+
+585
+00:25:35,500 --> 00:25:37,700
+     HE SHOT TO KILL CRAZY HORSE
+
+586
+00:25:37,769 --> 00:25:41,804
+ BUT GRAZED HIM ON THE LEFT SIDE
+ OF THE CHEEK.                  
+
+587
+00:25:41,873 --> 00:25:44,240
+     <i> THE MAN ON THE PHOTO</i>      
+    <i> IS FAVORING HIS RIGHT.</i>     
+
+588
+00:25:44,309 --> 00:25:47,110
+<i> IF THERE'S A SCAR ON THE LEFT,</i> 
+        <i> I CAN'T TELL.</i>          
+
+589
+00:25:47,178 --> 00:25:50,947
+     THEN IT SAYS, "WE WERE WITH
+     CRAZY HORSE WAY BACK THEN. 
+
+590
+00:25:51,015 --> 00:25:53,750
+       THIS IS ME, DEWEY BEARD."
+
+591
+00:25:53,818 --> 00:25:55,518
+      <i> WILMER THINKS THAT</i>       
+         <i> DEWEY BEARD</i>           
+
+592
+00:25:55,587 --> 00:25:57,687
+ <i> MAY HAVE DICTATED THE STORY</i>   
+         <i> TO SOMEONE,</i>           
+
+593
+00:25:57,756 --> 00:26:00,723
+   <i> POSSIBLY TO THIS B.B.E.</i>     
+    <i> SIGNED AT THE BOTTOM.</i>      
+
+594
+00:26:00,792 --> 00:26:02,325
+AND WHO WAS DEWEY BEARD?        
+
+595
+00:26:02,394 --> 00:26:04,594
+           DEWEY BEARD WAS THERE
+           AT THE LITTLE BIGHORN
+
+596
+00:26:04,662 --> 00:26:06,295
+     AT THE AGE OF 10 YEARS OLD.
+
+597
+00:26:06,364 --> 00:26:08,030
+AND POSSIBLY KNEW               
+CRAZY HORSE.                    
+
+598
+00:26:08,099 --> 00:26:11,033
+     I'M PRETTY SURE THIS PERSON
+     KNEW CRAZY HORSE, YES.     
+
+599
+00:26:11,102 --> 00:26:13,469
+IN YOUR OPINION, DO YOU THINK   
+THERE'S ANY POSSIBILITY         
+
+600
+00:26:13,538 --> 00:26:14,871
+THAT THIS COULD BE              
+CRAZY HORSE?                    
+
+601
+00:26:14,939 --> 00:26:16,672
+               I DON'T THINK SO.
+
+602
+00:26:16,741 --> 00:26:21,310
+  THIS PERSON IN THIS PHOTOGRAPH
+  IS OF DARKER COMPLEXION.      
+
+603
+00:26:21,379 --> 00:26:23,946
+          CRAZY HORSE HIMSELF   
+          WAS LIGHT-COMPLECTED. 
+
+604
+00:26:24,015 --> 00:26:25,715
+      <i> I'M NOT SURE WHAT</i>        
+       <i> TO MAKE OF THIS.</i>        
+
+605
+00:26:25,784 --> 00:26:27,717
+    <i> WILMER THINKS THE NOTE</i>     
+        <i> IS LEGITIMATE.</i>         
+
+606
+00:26:27,786 --> 00:26:30,753
+   <i> STILL, HISTORY'S VERDICT</i>    
+      <i> STANDS IN OUR WAY.</i>       
+
+607
+00:26:30,822 --> 00:26:34,590
+NOBODY'S EVER PRODUCED A        
+PHOTOGRAPH OF CRAZY HORSE, EVER.
+
+608
+00:26:38,096 --> 00:26:40,696
+   <i> WILMER SUGGESTED I VISIT</i>    
+   <i> THE CRAZY HORSE MEMORIAL</i>    
+
+609
+00:26:40,765 --> 00:26:42,465
+     <i> IN THE BLACK HILLS.</i>       
+
+610
+00:26:42,534 --> 00:26:45,768
+ <i> SCULPTOR KORCZAK ZIOLKOWSKI</i>   
+  <i> BEGAN THE MASSIVE CARVING</i>    
+
+611
+00:26:45,837 --> 00:26:50,439
+       <i> IN THE 1940s...</i>         
+
+612
+00:26:50,508 --> 00:26:53,109
+     <i> AND TODAY IT REMAINS</i>      
+     <i> THE WORLD'S LARGEST</i>       
+
+613
+00:26:53,178 --> 00:26:55,611
+      <i> MOUNTAIN SCULPTURE</i>       
+         <i> IN PROGRESS.</i>          
+
+614
+00:26:55,680 --> 00:27:00,583
+<i> THE MONUMENT IS A TESTAMENT TO</i> 
+<i> THE IMPORTANCE OF HIS MEMORY,</i>  
+
+615
+00:27:00,652 --> 00:27:04,153
+<i> BUT WHERE IS THE PHYSICAL MODEL</i>
+    <i> FOR THE MASSIVE FACE?</i>      
+
+616
+00:27:04,222 --> 00:27:06,956
+      <i> DOUG WAR EAGLE IS</i>        
+   <i> CRAZY HORSE'S GRANDSON.</i>     
+
+617
+00:27:07,025 --> 00:27:08,424
+     HOW WAS THE MONUMENT BUILT?
+
+618
+00:27:08,493 --> 00:27:10,193
+          I MEAN, HOW DO WE KNOW
+          WHAT HE LOOKS LIKE?   
+
+619
+00:27:10,261 --> 00:27:13,196
+IT'S JUST THE CLOSEST REPLICA   
+OF HIM.                         
+
+620
+00:27:13,264 --> 00:27:16,365
+THERE NEVER WAS A PHOTO         
+EVER TAKEN OF OUR GRANDFATHER.  
+
+621
+00:27:16,434 --> 00:27:19,502
+<i> HE SAYS THE MONUMENT REPRESENTS</i>
+     <i> CRAZY HORSE'S SPIRIT</i>      
+
+622
+00:27:19,571 --> 00:27:21,704
+ <i> RATHER THAN HIS EXACT IMAGE.</i>  
+
+623
+00:27:21,773 --> 00:27:25,141
+ <i> WHEN I SHOW DOUG OUR PHOTO,</i>   
+  <i> RIGHT AWAY HE'S SKEPTICAL.</i>   
+
+624
+00:27:25,210 --> 00:27:28,244
+THIS MAN HAS AN EAGLE FEATHER   
+IN HIS HAIR.                    
+
+625
+00:27:28,313 --> 00:27:31,581
+OUR GRANDFATHER NEVER WORE      
+AN EAGLE FEATHER IN HIS HAIR.   
+
+626
+00:27:31,649 --> 00:27:35,651
+OUR GRANDPA WEARS               
+THE RED-TAILED HAWK FEATHER     
+
+627
+00:27:35,720 --> 00:27:37,520
+WITH THE BUFFALO BONE.          
+
+628
+00:27:37,589 --> 00:27:39,155
+   <i> DOUG'S BROUGHT SOMETHING</i>    
+          <i> TO SHOW ME</i>           
+
+629
+00:27:39,224 --> 00:27:41,557
+ <i> THAT FEW OUTSIDE HIS FAMILY</i>   
+          <i> HAVE SEEN.</i>           
+
+630
+00:27:41,626 --> 00:27:44,794
+I'VE BROUGHT TWO SKETCHES       
+OF OUR GRANDFATHER'S.           
+
+631
+00:27:44,862 --> 00:27:48,464
+THE FIRST ONE IS WAGLULA,       
+OLD MAN CRAZY HORSE.            
+
+632
+00:27:48,533 --> 00:27:50,299
+     <i> HE SAYS THE WARRIOR</i>       
+         <i> CRAZY HORSE</i>           
+
+633
+00:27:50,368 --> 00:27:52,969
+  <i> WAS ACTUALLY THE THIRD MAN</i>   
+     <i> TO CARRY THAT NAME.</i>       
+
+634
+00:27:53,037 --> 00:27:55,204
+        <i> IN ACCORDANCE</i>          
+    <i> WITH LAKOTA TRADITION,</i>     
+
+635
+00:27:55,273 --> 00:27:59,041
+<i> CRAZY HORSE INHERITED THE NAME</i> 
+  <i> FROM THIS MAN, HIS FATHER,</i>   
+
+636
+00:27:59,110 --> 00:28:00,810
+  <i> WHEN HE BECAME A WARRIOR.</i>    
+
+637
+00:28:00,878 --> 00:28:05,281
+AND THE OTHER SKETCH I HAVE HERE
+IS OF THE WARRIOR.              
+
+638
+00:28:05,350 --> 00:28:08,551
+  <i> IT WAS SKETCHED LONG AFTER</i>   
+      <i> HIS DEATH IN 1934,</i>       
+
+639
+00:28:08,620 --> 00:28:10,686
+      <i> WHEN CRAZY HORSE'S</i>       
+        <i> YOUNGER SISTER</i>         
+
+640
+00:28:10,755 --> 00:28:13,522
+   <i> DESCRIBED HIS APPEARANCE</i>    
+    <i> TO A FORENSIC ARTIST.</i>      
+
+641
+00:28:13,591 --> 00:28:16,092
+    <i> THE LIKENESS TRIGGERED</i>     
+    <i> AN EMOTIONAL REACTION.</i>     
+
+642
+00:28:16,160 --> 00:28:19,095
+SHE CRIED, BECAUSE SHE SAID     
+THAT'S THE CLOSEST LIKENESS     
+
+643
+00:28:19,163 --> 00:28:22,131
+THAT YOU WILL EVER HAVE         
+OF HIM.                         
+
+644
+00:28:22,200 --> 00:28:23,833
+                 IT'S BEAUTIFUL.
+
+645
+00:28:23,901 --> 00:28:27,203
+      WELL, HE CERTAINLY DOESN'T
+      LOOK LIKE OUR PHOTOGRAPH. 
+
+646
+00:28:27,271 --> 00:28:29,605
+     SO IT HAS THE TWO FEATHERS,
+     THE LONG, FLOWING HAIR,    
+
+647
+00:28:29,674 --> 00:28:31,974
+                AND A LITTLE BIT
+                OF A SCAR.      
+
+648
+00:28:32,043 --> 00:28:33,709
+THAT'S THE CLOSEST              
+WE'LL EVER GET                  
+
+649
+00:28:33,778 --> 00:28:35,578
+OF OUR GRANDFATHER,             
+THE WARRIOR,                    
+
+650
+00:28:35,647 --> 00:28:37,947
+THE ONE THAT FOUGHT             
+THE BATTLE OF LITTLE BIGHORN.   
+
+651
+00:28:38,016 --> 00:28:40,783
+ <i> DOUG IS CONVINCED OUR IMAGE</i>   
+      <i> ISN'T CRAZY HORSE.</i>       
+
+652
+00:28:40,852 --> 00:28:42,952
+       <i> BUT THIS SKETCH</i>         
+     <i> WAS MADE BY SOMEONE</i>       
+
+653
+00:28:43,021 --> 00:28:47,323
+  <i> WHO NEVER MET CRAZAZY HORSE,</i> 
+  <i> SIX DECADES AFTER HE DIED.</i>   
+
+654
+00:28:47,392 --> 00:28:50,059
+     <i> I'M TAKING THE IMAGE</i>      
+     <i> TO THE SMITHSONIAN,</i>       
+
+655
+00:28:50,128 --> 00:28:52,428
+         <i> WHICH HOUSES</i>          
+ <i> THE WORLD'S LARGEST ARCHIVE</i>   
+
+656
+00:28:52,497 --> 00:28:54,630
+<i> OF NATIVE-AMERICAN PHOTOGRAPHS.</i>
+
+657
+00:28:54,699 --> 00:28:57,199
+   <i> I WANT TO SHOW IT TO ONE</i>    
+<i> OF THE SMITHSONIAN'S CURATORS.</i> 
+
+658
+00:28:57,268 --> 00:28:58,901
+          <i> BUT FIRST,</i>           
+   <i> BECAUSE THERE HAVE BEEN</i>     
+
+659
+00:28:58,970 --> 00:29:00,803
+          <i> MANY BOGUS</i>           
+    <i> CRAZY HORSE PICTURES,</i>      
+
+660
+00:29:00,872 --> 00:29:03,039
+       <i> WHILE I'M HERE,</i>         
+    <i> I ALSO WANT TO SHOW IT</i>     
+
+661
+00:29:03,107 --> 00:29:05,674
+    <i> TO STAFF PHOTOGRAPHER</i>      
+        <i> DON HURLBURT.</i>          
+
+662
+00:29:05,743 --> 00:29:08,077
+WELCOME TO THE DARKROOM.        
+
+663
+00:29:11,416 --> 00:29:12,782
+                    WOW.        
+
+664
+00:29:12,850 --> 00:29:16,185
+   OKAY, SO HERE'S MY PIECE,    
+   AND ON THE BACK IT SAYS 1875.
+
+665
+00:29:16,254 --> 00:29:18,087
+  I WAS WONDERING IF YOU THOUGHT
+  IT WAS PERIOD.                
+
+666
+00:29:18,156 --> 00:29:19,822
+IT DEFINITELY HAS               
+CHARACTERISTICS                 
+
+667
+00:29:19,891 --> 00:29:21,557
+FROM THAT TIME FRAME.           
+
+668
+00:29:21,626 --> 00:29:24,727
+IT'S YELLOWING, IT'S GOT        
+A GOOD GOLD TONE TO IT.         
+
+669
+00:29:24,796 --> 00:29:27,029
+IT HAS THE SHININESS            
+ON THE SURFACE OF THE PRINT     
+
+670
+00:29:27,098 --> 00:29:29,465
+THAT A MODERN PRINT             
+WOULD NOT HAVE                  
+
+671
+00:29:29,534 --> 00:29:31,066
+BUT PRINTS OF THAT AGE DO.      
+
+672
+00:29:31,135 --> 00:29:34,136
+    HOW WOULD A PRINT LIKE THIS 
+    HAVE BEEN MADE IN THE 1870s?
+
+673
+00:29:34,205 --> 00:29:37,306
+IT WAS DEFINITELY A MULTI-DAY,  
+MULTI-STEP PROCESS              
+
+674
+00:29:37,375 --> 00:29:38,874
+TO MAKE ONE OF THESE PRINTS.    
+
+675
+00:29:38,943 --> 00:29:42,278
+THESE GUYS DID A LOT OF WORK    
+TO GET THESE PHOTOGRAPHS.       
+
+676
+00:29:42,346 --> 00:29:44,380
+THESE PRINTS CAME               
+FROM GLASS PLATE NEGATIVES      
+
+677
+00:29:44,449 --> 00:29:47,683
+THAT WERE MADE, PRODUCED FROM   
+ABOUT THE 1850s TO 1880s.       
+
+678
+00:29:47,752 --> 00:29:49,251
+WELL, I CAN SHOW YOU.           
+
+679
+00:29:49,320 --> 00:29:52,054
+<i> THE INVENTION OF GLASS PLATES</i>  
+<i> MEANT THAT FOR THE FIRST TIME,</i> 
+
+680
+00:29:52,123 --> 00:29:54,990
+  <i> PHOTOGRAPHERS LIKE GARDNER</i>   
+  <i> HAD A PHOTOGRAPHIC MEDIUM</i>    
+
+681
+00:29:55,059 --> 00:29:57,760
+      <i> FROM WHICH TO MAKE</i>       
+ <i> UNLIMITED NUMBERS OF PRINTS.</i>  
+
+682
+00:29:57,829 --> 00:30:00,496
+ <i> GLASS PLATES REVOLUTIONIZED</i>   
+         <i> PHOTOGRAPHY.</i>          
+
+683
+00:30:00,565 --> 00:30:03,499
+        NOW THAT I'VE CLEANED IT
+        AND CHECKED IT,         
+
+684
+00:30:03,568 --> 00:30:06,735
+         WE'RE GOING TO BRING IT
+         OVER HERE, SET IT DOWN,
+
+685
+00:30:06,804 --> 00:30:10,239
+GET A SHEET OF MODERN PAPER OUT,
+BECAUSE WE DO NOT HAVE          
+
+686
+00:30:10,308 --> 00:30:13,475
+        ANY OF THE ALBUMEN PAPER
+        WITH US ANYMORE.        
+
+687
+00:30:13,544 --> 00:30:16,645
+ <i> DON SAYS GARDNER, OR WHOEVER</i>  
+     <i> TOOK THE PHOTOGRAPH,</i>      
+
+688
+00:30:16,714 --> 00:30:18,814
+       <i> WOULD HAVE MADE</i>         
+    <i> ALBUMEN SILVER PRINTS,</i>     
+
+689
+00:30:18,883 --> 00:30:20,983
+        <i> WHICH EXPOSED</i>          
+         <i> IN SUNLIGHT.</i>          
+
+690
+00:30:21,052 --> 00:30:23,219
+     <i> TODAY, USING MODERN</i>       
+         <i> PHOTO PAPER,</i>          
+
+691
+00:30:23,287 --> 00:30:26,322
+  <i> DEVELOPING A PRINT IN THE</i>    
+ <i> DARKROOM TAKES MERE MINUTES.</i>  
+
+692
+00:30:26,390 --> 00:30:27,923
+                   THAT'S GREAT.
+
+693
+00:30:27,992 --> 00:30:30,726
+ <i> I LEARN MORE ABOUT THE PRINT</i>  
+    <i> FROM FORMER ARCHIVIST</i>      
+
+694
+00:30:30,795 --> 00:30:33,929
+  <i> AND SMITHSONIAN VOLUNTEER</i>    
+        <i> PAULA FLEMING.</i>         
+
+695
+00:30:33,998 --> 00:30:37,499
+<i> SHE SAYS THE IMAGE WAS ALMOST</i>  
+  <i> CERTAINLY TAKEN BY GARDNER</i>   
+
+696
+00:30:37,568 --> 00:30:40,135
+         <i> NOT OUT WEST</i>          
+    <i> BUT ON THE EAST COAST</i>      
+
+697
+00:30:40,204 --> 00:30:42,638
+        <i> AT THE ADDRESS</i>         
+<i> ON THE BACK OF OUR PHOTOGRAPH.</i> 
+
+698
+00:30:42,707 --> 00:30:44,974
+HE HAD A STUDIO                 
+IN WASHINGTON, D.C.,            
+
+699
+00:30:45,042 --> 00:30:47,543
+AND HE TOOK MOST OF HIS         
+INDIAN PORTRAITS THERE.         
+
+700
+00:30:47,612 --> 00:30:49,545
+     WELL, WHAT WOULD BRING THEM
+     TO WASHINGTON, D.C.?       
+
+701
+00:30:49,614 --> 00:30:51,647
+AFTER THE CIVIL WAR,            
+THE UNITED STATES GOVERNMENT    
+
+702
+00:30:51,716 --> 00:30:54,383
+RENEWED ITS EFFORTS             
+TO DEAL WITH THE INDIANS        
+
+703
+00:30:54,452 --> 00:30:57,653
+TO RESOLVE ISSUES OF LAND       
+ACQUISITION AND ANNUITIES.      
+
+704
+00:30:57,722 --> 00:30:59,888
+     <i> PAULA SAYS HUNDREDS</i>       
+     <i> OF AMERICAN INDIANS</i>       
+
+705
+00:30:59,957 --> 00:31:03,025
+  <i> WERE INVITED TO WASHINGTON</i>   
+    <i> AS TRIBAL DELEGATIONS.</i>     
+
+706
+00:31:03,094 --> 00:31:05,094
+THE GOVERNMENT WANTED           
+TO SHOW THE INDIANS             
+
+707
+00:31:05,162 --> 00:31:06,829
+THE BENEFITS OF CIVILIZATION,   
+
+708
+00:31:06,897 --> 00:31:09,431
+SO THEY TOOK THEM ON TRAINS     
+AND THEY TOOK THEM TO BIG CITIES
+
+709
+00:31:09,500 --> 00:31:12,334
+TO SHOW THEM WHAT IT WAS LIKE   
+TO BE CIVILIZED.                
+
+710
+00:31:12,403 --> 00:31:14,770
+       <i> ON THE SURFACE,</i>         
+    <i> THE WASHINGTON VISITS</i>      
+
+711
+00:31:14,839 --> 00:31:17,172
+  <i> WERE EFFORTS TO PEACEFULLY</i>   
+    <i> RESOLVE LAND DISPUTES</i>      
+
+712
+00:31:17,241 --> 00:31:18,974
+       <i> AND DEMONSTRATE</i>         
+       <i> THAT THE INDIANS</i>        
+
+713
+00:31:19,043 --> 00:31:20,809
+      <i> WERE BEING TREATED</i>       
+        <i> RESPECTFULLY,</i>          
+
+714
+00:31:20,878 --> 00:31:23,612
+  <i> BUT PAULA SAYS THE VISITS</i>    
+    <i> OFTEN INCLUDED A STOP</i>      
+
+715
+00:31:23,681 --> 00:31:25,581
+<i> WHICH HAD A POLITICAL AGENDA.</i>  
+
+716
+00:31:25,650 --> 00:31:27,783
+       THEY WOULD ALSO TAKE THEM
+       TO THE ARSENAL           
+
+717
+00:31:27,852 --> 00:31:29,618
+            AND THEY'D SHOW THEM
+            STOCKPILES          
+
+718
+00:31:29,687 --> 00:31:32,087
+      OF WEAPONS AND CANNONBALLS
+
+719
+00:31:32,156 --> 00:31:35,824
+    AND THEY WOULD HAVE DISPLAYS
+    OF MILITARY MIGHT.          
+
+720
+00:31:35,893 --> 00:31:37,493
+           THE GOVERNMENT WANTED
+           TO SHOW THEM         
+
+721
+00:31:37,561 --> 00:31:39,795
+     THAT IT WAS ACTUALLY FUTILE
+     TO FIGHT FOR THEIR LANDS.  
+
+722
+00:31:39,864 --> 00:31:41,063
+THEY WERE GOING TO LOSE?        
+
+723
+00:31:41,132 --> 00:31:42,398
+        THEY WERE GOING TO LOSE.
+
+724
+00:31:42,466 --> 00:31:44,299
+    <i> CRAZY HORSE'S GRANDSON</i>     
+         <i> HAD TOLD ME</i>           
+
+725
+00:31:44,368 --> 00:31:46,335
+      <i> THAT THE CLOTHING</i>        
+ <i> AND DECORATION IN OUR IMAGE</i>   
+
+726
+00:31:46,404 --> 00:31:48,404
+       <i> WAS NOT TYPICAL</i>         
+       <i> FOR THE WARRIOR.</i>        
+
+727
+00:31:48,472 --> 00:31:51,607
+  <i> BUT PAULA SAYS NOT ALL THE</i>   
+<i> PHOTOGRAPHS TAKEN IN WASHINGTON</i>
+
+728
+00:31:51,676 --> 00:31:53,442
+<i> WERE WHAT THEY APPEARED TO BE.</i> 
+
+729
+00:31:53,511 --> 00:31:55,778
+SOME PHOTOGRAPHERS              
+ACTUALLY KEPT PROPS             
+
+730
+00:31:55,846 --> 00:31:58,080
+TO MAKE SURE THAT THE INDIANS   
+LOOKED EXOTIC ENOUGH,           
+
+731
+00:31:58,149 --> 00:32:00,416
+AND SOMETIMES THEY PUT          
+THE IMPROPER COSTUMES           
+
+732
+00:32:00,484 --> 00:32:02,651
+ON THE WRONG CULTURES.          
+
+733
+00:32:02,720 --> 00:32:04,920
+ <i> PAULA HAS A SURPRISE FOR ME.</i>  
+
+734
+00:32:04,989 --> 00:32:07,222
+WITH THOUSANDS OF PHOTOGRAPHS   
+IN THE ARCHIVES,                
+
+735
+00:32:07,291 --> 00:32:09,591
+IT CAN BE A LITTLE DAUNTING     
+IF YOU DON'T HAVE A NAME.       
+
+736
+00:32:09,660 --> 00:32:11,960
+BUT I DID A LITTLE BIT          
+OF RESEARCH, AND COME HERE,     
+
+737
+00:32:12,029 --> 00:32:13,862
+I'VE GOT SOMETHING              
+TO SHOW YOU.                    
+
+738
+00:32:13,931 --> 00:32:15,564
+        WOW!                    
+
+739
+00:32:15,633 --> 00:32:17,066
+ <i> IT'S A GLASS PLATE NEGATIVE,</i>  
+
+740
+00:32:17,134 --> 00:32:19,068
+      <i> JUST LIKE THE ONE</i>        
+        <i> DON SHOWED ME.</i>         
+
+741
+00:32:19,136 --> 00:32:20,436
+IT'S THE EXACT SAME IMAGE.      
+
+742
+00:32:20,504 --> 00:32:21,704
+                        SURE IS.
+
+743
+00:32:21,772 --> 00:32:24,273
+          THIS NEGATIVE WAS USED
+          TO PRINT THAT IMAGE.  
+
+744
+00:32:24,341 --> 00:32:25,841
+IS IT CRAZY HORSE?              
+
+745
+00:32:25,910 --> 00:32:28,777
+   <i> WHAT PAULA TELLS ME NEXT</i>    
+       <i> CLOSES THE CASE.</i>        
+
+746
+00:32:28,846 --> 00:32:30,913
+    WELL, TIM, IT WAS           
+    AN INCREDIBLE INVESTIGATION.
+
+747
+00:32:30,981 --> 00:32:34,450
+<i> I TELL HIM HE HAS AN AUTHENTIC</i> 
+   <i> ALEXANDER GARDNER PHOTO,</i>    
+
+748
+00:32:34,518 --> 00:32:36,318
+     <i> ONE OF THE NATION'S</i>       
+       <i> MOST CELEBRATED</i>         
+
+749
+00:32:36,387 --> 00:32:37,786
+    <i> PERIOD PHOTOGRAPHERS.</i>      
+
+750
+00:32:37,855 --> 00:32:40,322
+      THERE ARE A LOT OF EXPERTS
+      THAT DON'T BELIEVE        
+
+751
+00:32:40,391 --> 00:32:42,558
+          THAT CRAZY HORSE      
+          WAS EVER PHOTOGRAPHED,
+
+752
+00:32:42,626 --> 00:32:44,526
+               AND THAT MADE IT 
+               REALLY DIFFICULT.
+
+753
+00:32:44,595 --> 00:32:46,462
+          FINALLY, THOUGH,      
+          I WAS ABLE TO IDENTIFY
+
+754
+00:32:46,530 --> 00:32:48,197
+      THE MAN IN YOUR PHOTOGRAPH
+
+755
+00:32:48,265 --> 00:32:50,165
+            BY TRAVELING        
+            TO WASHINGTON, D.C.,
+
+756
+00:32:50,234 --> 00:32:53,202
+                JUST LIKE HE DID
+                150 YEARS AGO.  
+
+757
+00:32:53,270 --> 00:32:55,838
+THERE WAS AN ENGLISHMAN BY THE  
+NAME OF WILLIAM HENRY BLACKMORE,
+
+758
+00:32:55,906 --> 00:32:58,040
+     AND HE COMMISSIONED GARDNER
+     TO PHOTOGRAPH              
+
+759
+00:32:58,109 --> 00:32:59,675
+     THE DELEGATIONS OF INDIANS.
+
+760
+00:32:59,743 --> 00:33:01,610
+           AND HE ALSO PUBLISHED
+           THE IMAGES.          
+
+761
+00:33:01,679 --> 00:33:03,412
+THAT'S OUR GUY.                 
+
+762
+00:33:03,481 --> 00:33:05,681
+       THE MAN IN THE PHOTOGRAPH
+       IS VUA-SHA-PEH,          
+
+763
+00:33:05,749 --> 00:33:07,516
+              WHOSE ENGLISH NAME
+              IS STABBER,       
+
+764
+00:33:07,585 --> 00:33:10,886
+   AND HE WAS AN OGLALA LAKOTA  
+   WHO CAME TO WASHINGTON, D.C.,
+
+765
+00:33:10,955 --> 00:33:13,288
+                WITH RED CLOUD  
+                ON A DELEGATION.
+
+766
+00:33:13,357 --> 00:33:15,290
+ <i> THE MAN IN THIS PHOTOGRAPHED</i>  
+        <i> HAD WITNESSED</i>          
+
+767
+00:33:15,359 --> 00:33:17,559
+       <i> ONE OF THE LAST</i>         
+    <i> PEACEFUL NEGOTIATIONS</i>      
+
+768
+00:33:17,628 --> 00:33:19,895
+      <i> BETWEEN THE LAKOTA</i>       
+  <i> AND THE FEDERAL GOVERNMENT</i>   
+
+769
+00:33:19,964 --> 00:33:22,464
+  <i> BEFORE GOLD WAS DISCOVERED</i>   
+     <i> IN THE BLACK HILLS.</i>       
+
+770
+00:33:22,533 --> 00:33:25,567
+        HE WAS AN IMPORTANT PART
+        OF LAKOTA HISTORY.      
+
+771
+00:33:25,636 --> 00:33:28,103
+     I THINK IT'S GREAT         
+     THAT WE KNOW WHO HE IS NOW.
+
+772
+00:33:28,172 --> 00:33:29,972
+   <i> VUA-SHA-PEH HAD TRAVELED</i>    
+        <i> TO WASHINGTON</i>          
+
+773
+00:33:30,040 --> 00:33:32,474
+        <i> WITH RED CLOUD</i>         
+  <i> AND THE LAKOTA DELEGATION.</i>   
+
+774
+00:33:32,543 --> 00:33:36,011
+   <i> IN CONTRAST, CRAZY HORSE</i>    
+      <i> REJECTED DIPLOMACY</i>       
+
+775
+00:33:36,080 --> 00:33:39,581
+<i> AND DEFENDED LAKOTA TRADITIONS</i> 
+   <i> AS A WARRIOR TO THE END.</i>    
+
+776
+00:33:39,650 --> 00:33:42,050
+  EXPERTS SAY THAT HE NEVER WENT
+  TO WASHINGTON;                
+
+777
+00:33:42,119 --> 00:33:44,486
+         HE STAYED ON HIS LAND  
+         TO FIGHT FOR HIS PEOPLE
+
+778
+00:33:44,555 --> 00:33:46,488
+              AND TO FIGHT      
+              THE U.S. MILITARY.
+
+779
+00:33:46,557 --> 00:33:48,524
+I'M A GREAT ADMIRER             
+OF CRAZY HORSE,                 
+
+780
+00:33:48,592 --> 00:33:51,226
+AND I REALLY HOPED              
+THAT THIS WAS HIM.              
+
+781
+00:33:51,295 --> 00:33:56,932
+WELL, I GUESS WE'LL NEVER KNOW  
+WHAT CRAZY HORSE LOOKED LIKE.   
+
+782
+00:33:57,001 --> 00:33:59,401
+I HOPE THAT I CAN TAKE          
+THE PHOTOGRAPH                  
+
+783
+00:33:59,470 --> 00:34:01,370
+AND FIND HIS DESCENDANTS        
+
+784
+00:34:01,438 --> 00:34:03,605
+AND PASS THE PHOTOGRAPH         
+DOWN TO THEM.                   
+
+785
+00:34:03,674 --> 00:34:05,641
+WE THANK YOU FOR COMING         
+ALL THE WAY OUT HERE            
+
+786
+00:34:05,709 --> 00:34:08,277
+TO GIVE US THE NEWS.            
+
+787
+00:34:08,345 --> 00:34:10,779
+      <i> AFTER HIS VICTORY</i>        
+    <i> AT THE LITTLE BIGHORN,</i>     
+
+788
+00:34:10,848 --> 00:34:14,483
+    <i> CRAZY HORSE FOUGHT ON</i>      
+  <i> UNTIL THE SPRING OF 1877.</i>    
+
+789
+00:34:14,551 --> 00:34:17,319
+  <i> THEN, HIS PEOPLE WEAKENED</i>    
+      <i> BY WAR AND HUNGER,</i>       
+
+790
+00:34:17,388 --> 00:34:20,622
+        <i> HE SURRENDERED</i>         
+ <i> AT CAMP ROBINSON, NEBRASKA.</i>   
+
+791
+00:34:20,691 --> 00:34:23,592
+    <i> ON SEPTEMBER 5, 1877,</i>      
+
+792
+00:34:23,661 --> 00:34:26,295
+ <i> HE WAS ARRESTED AND BROUGHT</i>   
+    <i> INTO THE GUARD HOUSE.</i>      
+
+793
+00:34:26,363 --> 00:34:28,463
+       <i> REALIZING HE WAS</i>        
+    <i> ABOUT TO BE LOCKED UP,</i>     
+
+794
+00:34:28,532 --> 00:34:30,432
+    <i> CRAZY HORSE STRUGGLED</i>      
+       <i> AND WAS STABBED</i>         
+
+795
+00:34:30,501 --> 00:34:32,501
+         <i> BY A SOLDIER</i>          
+       <i> WITH A BAYONET.</i>         
+
+796
+00:34:32,569 --> 00:34:34,937
+   <i> HE DIED LATE THAT NIGHT,</i>    
+       <i> AND SOON AFTER,</i>         
+
+797
+00:34:35,005 --> 00:34:37,572
+    <i> HIS BODY WAS RETURNED</i>      
+   <i> TO HIS ELDERLY PARENTS.</i>     
+
+798
+00:34:37,641 --> 00:34:40,709
+    <i> TO THIS DAY, HIS FINAL</i>     
+   <i> BURIAL PLACE IS UNKNOWN,</i>    
+
+799
+00:34:40,778 --> 00:34:44,546
+   <i> BUT HIS SPIRIT LIVES ON</i>     
+     <i> IN THE BLACK HILLS.</i>       
+
+800
+00:34:48,385 --> 00:34:50,552
+      REPATRIATION RAISES       
+        COMPLEX ISSUES          
+
+801
+00:34:50,621 --> 00:34:53,221
+    ABOUT CULTURAL HERITAGE     
+       AND WHO OWNS IT.         
+
+802
+00:34:53,290 --> 00:34:56,758
+   TODAY, LITERALLY MILLIONS    
+ OF AMERICAN INDIAN ARTIFACTS   
+
+803
+00:34:56,827 --> 00:35:00,696
+ARE HOUSED IN NON-NATIVE MUSEUMS
+   AND PRIVATE COLLECTIONS.     
+
+804
+00:35:00,764 --> 00:35:04,499
+  MANY OF THESE OBJECTS, LIKE   
+ TOOLS, WEAPONS, AND CLOTHES,   
+
+805
+00:35:04,568 --> 00:35:07,336
+     WERE ACQUIRED THROUGH      
+    PERFECTLY LEGAL MEANS.      
+
+806
+00:35:07,404 --> 00:35:11,206
+ OTHERS, HOWEVER, WERE BOUGHT   
+    FOR PENNIES OR STOLEN.      
+
+807
+00:35:11,275 --> 00:35:13,575
+    THE U.S. GOVERNMENT SAW     
+   NOTHING WRONG WITH THIS,     
+
+808
+00:35:13,644 --> 00:35:16,111
+  SINCE ITS OFFICIAL POSITION   
+         ON THE TRIBES          
+
+809
+00:35:16,180 --> 00:35:19,681
+ WAS TO TRY TO ASSIMILATE THEM  
+     INTO THE MAINSTREAM.       
+
+810
+00:35:19,750 --> 00:35:22,751
+      BUT NATIVE PEOPLES        
+      ARE STILL WITH US,        
+
+811
+00:35:22,820 --> 00:35:26,388
+AND SOME HAVE BEGUN TO ASK FOR  
+       -- EVEN DEMAND --        
+
+812
+00:35:26,457 --> 00:35:28,957
+     THEIR MOST IMPORTANT       
+        ARTIFACTS BACK.         
+
+813
+00:35:29,026 --> 00:35:32,360
+SO IN 1990, THE U.S. GOVERNMENT 
+        SIGNED INTO LAW         
+
+814
+00:35:32,429 --> 00:35:34,930
+      THE NATIVE AMERICAN       
+       GRAVE PROTECTION         
+
+815
+00:35:34,998 --> 00:35:38,133
+     AND REPATRIATION ACT,      
+          OR NAGPRA.            
+
+816
+00:35:38,202 --> 00:35:41,269
+        NAGPRA REQUIRES         
+FEDERALLY FUNDED ORGANIZATIONS  
+
+817
+00:35:41,338 --> 00:35:45,307
+TO RETURN SKELETONS AND OBJECTS 
+     OF CULTURAL PATRIMONY      
+
+818
+00:35:45,375 --> 00:35:46,942
+   TO TRIBAL REPRESENTATIVES    
+
+819
+00:35:47,010 --> 00:35:49,144
+        IF THEY FOLLOW          
+    THE CORRECT PROCEDURES.     
+
+820
+00:35:49,213 --> 00:35:52,647
+    NAGPRA ONLY APPLIES TO      
+FEDERALLY FUNDED ORGANIZATIONS. 
+
+821
+00:35:52,716 --> 00:35:55,183
+      PRIVATE COLLECTIONS       
+       OR MUSEUMS ABROAD        
+
+822
+00:35:55,252 --> 00:35:57,619
+       DON'T FALL UNDER         
+       ITS JURISDICTION.        
+
+823
+00:35:57,688 --> 00:36:00,789
+   DESPITE THESE CHALLENGES,    
+  BOTH THE TRIBES AND MUSEUMS   
+
+824
+00:36:00,858 --> 00:36:03,725
+ SEE NAGPRA AS A STEP FORWARD.  
+
+825
+00:36:07,364 --> 00:36:09,498
+             Wes:               
+  <i> IN AN ENCORE PRESENTATION,</i>   
+
+826
+00:36:09,566 --> 00:36:12,968
+<i> OUR FINAL STORY TURNS THE PAGES</i>
+     <i> OF A LONG-LOST DIARY</i>      
+
+827
+00:36:13,036 --> 00:36:16,538
+     <i> FROM A WORLD WAR II</i>       
+        <i> BOMBER PILOT.</i>          
+
+828
+00:36:16,607 --> 00:36:19,608
+      <i> DECEMBER 13, 1943:</i>       
+
+829
+00:36:19,676 --> 00:36:23,111
+   <i> THE U.S. ARMY AIR FORCE</i>     
+       <i> 445th BOMB GROUP</i>        
+
+830
+00:36:23,180 --> 00:36:24,880
+   <i> ATTACKS ENEMY SHIPYARDS</i>     
+
+831
+00:36:24,948 --> 00:36:27,415
+      <i> BENEATH THE SKIES</i>        
+      <i> OF KIEL, GERMANY.</i>        
+
+832
+00:36:27,484 --> 00:36:31,052
+       <i> IT'S THEIR FIRST</i>        
+   <i> OF 280 AIR-RAID MISSIONS</i>    
+
+833
+00:36:31,121 --> 00:36:34,856
+     <i> INSIDE A NEW BOMBER</i>       
+  <i> CALLED THE B-24 LIBERATOR.</i>   
+
+834
+00:36:34,925 --> 00:36:38,093
+        <i> THE BOMBER IS</i>          
+   <i> THE ALLIES' GREAT HOPE,</i>     
+
+835
+00:36:38,162 --> 00:36:41,263
+   <i> FLYING FARTHER, LONGER,</i>     
+   <i> AND CARRYING MORE BOMBS</i>     
+
+836
+00:36:41,331 --> 00:36:43,165
+      <i> DEEP INTO HITLER'S</i>       
+           <i> GERMANY.</i>            
+
+837
+00:36:43,233 --> 00:36:45,800
+  <i> NOT A SINGLE PLANE IS LOST</i>   
+       <i> ON THIS MISSION,</i>        
+
+838
+00:36:45,869 --> 00:36:50,305
+  <i> BUT THE 445th WILL RARELY</i>    
+      <i> BE SO LUCKY AGAIN.</i>       
+
+839
+00:36:50,374 --> 00:36:53,508
+  <i> THE LIBERATOR EARNS ITSELF</i>   
+<i> ANOTHER MORE OMINOUS NICKNAME:</i> 
+
+840
+00:36:53,577 --> 00:36:55,377
+      <i> THE FLYING COFFIN,</i>       
+
+841
+00:36:55,445 --> 00:36:58,914
+<i> DUE TO THE HIGH CASUALTY RATE</i>  
+      <i> AMONG B-24 PILOTS.</i>       
+
+842
+00:36:58,982 --> 00:37:02,417
+   <i> WHY WERE THESE MISSIONS</i>     
+          <i> SO DEADLY,</i>           
+
+843
+00:37:02,486 --> 00:37:06,021
+<i> AND WHAT CONVINCED THEIR CREW</i>  
+<i> TO ACCEPT SUCH TERRIBLE ODDS?</i>  
+
+844
+00:37:09,359 --> 00:37:11,826
+  <i> SIXTY YEARS AFTER THE LAST</i>   
+      <i> OF THOSE MISSIONS,</i>       
+
+845
+00:37:11,895 --> 00:37:14,563
+         <i> JIM CHAPMAN</i>           
+<i> OF LEXINGTON, NORTH CAROLINA,</i>  
+
+846
+00:37:14,631 --> 00:37:17,299
+ <i> HAS A DIARY THAT MAY REVEAL</i>   
+       <i> NEW INFORMATION</i>         
+
+847
+00:37:17,367 --> 00:37:21,636
+  <i> ABOUT THESE PLANES AND MEN</i>   
+   <i> WHO HELD HITLER AT BAY.</i>     
+
+848
+00:37:21,705 --> 00:37:25,173
+        <i> I'M WES COWAN,</i>         
+ <i> AND I'M HEADING TO MEET JIM.</i>  
+
+849
+00:37:25,242 --> 00:37:26,708
+    NICE TO MEET YOU.           
+
+850
+00:37:26,777 --> 00:37:28,410
+LET'S TAKE A LOOK               
+AT THIS DIARY.                  
+
+851
+00:37:28,478 --> 00:37:30,478
+             MY DAD BROUGHT THIS
+             HOME WITH HIM      
+
+852
+00:37:30,547 --> 00:37:32,447
+               AFTER HE FINISHED
+               HIS TOUR OF DUTY 
+
+853
+00:37:32,516 --> 00:37:34,182
+            DURING WORLD WAR II.
+
+854
+00:37:34,251 --> 00:37:36,551
+AND THE OBVIOUS QUESTION        
+TO ME IS,                       
+
+855
+00:37:36,620 --> 00:37:38,420
+IT'S NOT YOUR DAD'S DIARY.      
+
+856
+00:37:38,488 --> 00:37:39,821
+                 THAT'S CORRECT.
+
+857
+00:37:39,890 --> 00:37:43,458
+   THE DIARY BELONGED TO HIS    
+   CO-PILOT NAMED WILLIAM MORAN.
+
+858
+00:37:43,527 --> 00:37:46,227
+          BOTH SERVED ON A B-24.
+
+859
+00:37:46,296 --> 00:37:49,464
+     <i> BOTH MEN FLEW PLANES</i>      
+   <i> IN THE 445th BOMB GROUP</i>     
+
+860
+00:37:49,533 --> 00:37:51,433
+         <i> STATIONED IN</i>          
+      <i> TIBENHAM, ENGLAND.</i>       
+
+861
+00:37:51,501 --> 00:37:53,201
+HOW DID YOUR DAD                
+GET IT?                         
+
+862
+00:37:53,270 --> 00:37:55,036
+                WELL, THAT'S    
+                A GOOD QUESTION.
+
+863
+00:37:55,105 --> 00:37:57,505
+           I ACTUALLY DISCOVERED
+           THE DIARY            
+
+864
+00:37:57,574 --> 00:38:00,075
+        IN A BOX                
+        OF MY FATHER'S MEMENTOS.
+
+865
+00:38:00,143 --> 00:38:03,745
+    <i> HE DISCOVERED IT AFTER</i>     
+<i> HIS FATHER DIED 20 YEARS AGO.</i>  
+
+866
+00:38:03,814 --> 00:38:05,413
+CAN YOU READ ME                 
+SOME ENTRIES?                   
+
+867
+00:38:05,482 --> 00:38:07,816
+            YES, I'D BE GLAD TO.
+
+868
+00:38:07,884 --> 00:38:09,684
+            "SURE DREADED GOING,
+
+869
+00:38:09,753 --> 00:38:12,854
+       "ESPECIALLY AFTER I FOUND
+       THE TARGET TO BE HAMBURG.
+
+870
+00:38:12,923 --> 00:38:15,557
+            "FELT SURE          
+            I WOULDN'T GET BACK.
+
+871
+00:38:15,625 --> 00:38:18,593
+      "AT LEAST I KNOW NOW THAT 
+      I'LL BE ABLE TO FACE DEATH
+
+872
+00:38:18,662 --> 00:38:20,628
+            "WHEN MY TIME COMES.
+
+873
+00:38:20,697 --> 00:38:24,032
+   "THE ONLY THING THAT I FEARED
+   WAS LEAVING JAYNE.           
+
+874
+00:38:24,101 --> 00:38:26,801
+      I ADORE HER EVERY BREATH."
+
+875
+00:38:26,870 --> 00:38:29,471
+          <i> MARY JAYNE</i>           
+      <i> WAS MORAN'S WIFE.</i>        
+
+876
+00:38:29,539 --> 00:38:33,241
+ <i> IT'S THESE PERSONAL DETAILS</i>   
+ <i> IN THE DIARY THAT HAUNT JIM.</i>  
+
+877
+00:38:33,310 --> 00:38:35,610
+                   "MAY 9, 1944.
+
+878
+00:38:35,679 --> 00:38:37,846
+              "AN AIRMAIL LETTER
+              FROM MY ANGEL.    
+
+879
+00:38:37,914 --> 00:38:40,782
+         "MY BABY IS PRETTY SURE
+         SHE IS PREGNANT.       
+
+880
+00:38:40,851 --> 00:38:43,051
+                     "THANK GOD!
+
+881
+00:38:43,120 --> 00:38:45,320
+      "BOUGHT THE BOYS BEER     
+      WITH MY LAST SIX SHILLINGS
+
+882
+00:38:45,389 --> 00:38:46,755
+                  TO CELEBRATE."
+
+883
+00:38:46,823 --> 00:38:48,957
+THAT'S REALLY GREAT.            
+
+884
+00:38:49,025 --> 00:38:51,893
+ <i> THERE'S SOMETHING IMPORTANT</i>   
+   <i> MISSING FROM THIS DIARY:</i>    
+
+885
+00:38:51,962 --> 00:38:53,495
+          <i> AN ENDING.</i>           
+
+886
+00:38:53,563 --> 00:38:56,431
+      <i> THE LAST ENTRY IS</i>        
+      <i> FROM OCTOBER 29th,</i>       
+
+887
+00:38:56,500 --> 00:38:59,267
+ <i> SEVEN MONTHS BEFORE THE END</i>   
+    <i> OF THE WAR IN EUROPE.</i>      
+
+888
+00:38:59,336 --> 00:39:00,802
+WHAT CAN I DO FOR YOU?          
+
+889
+00:39:00,871 --> 00:39:04,272
+ WELL, WES, I'D LIKE TO FIND OUT
+ WHAT HAPPENED TO BILL MORAN,   
+
+890
+00:39:04,341 --> 00:39:08,009
+            IF HE CAME BACK HOME
+            OR IF HE WAS KILLED.
+
+891
+00:39:08,078 --> 00:39:10,411
+         I'D LIKE TO REALLY KNOW
+         WHAT HAPPENED TO HIM.  
+
+892
+00:39:10,480 --> 00:39:12,881
+         <i> JIM IS EAGER</i>          
+      <i> TO KNOW MORE ABOUT</i>       
+
+893
+00:39:12,949 --> 00:39:15,984
+ <i> WHAT THE MEN HIS FATHER FLEW</i>  
+       <i> WITH SAW AND DID</i>        
+
+894
+00:39:16,052 --> 00:39:17,852
+      <i> DURING THEIR TIME</i>        
+         <i> IN ENGLAND.</i>           
+
+895
+00:39:17,921 --> 00:39:20,355
+      <i> AND HE WANTS HELP</i>        
+ <i> WITH ANOTHER QUESTION, TOO.</i>   
+
+896
+00:39:20,423 --> 00:39:22,891
+         I WOULD LIKE TO BE ABLE
+         TO REUNITE THE DIARY   
+
+897
+00:39:22,959 --> 00:39:25,026
+       WITH BILL MORAN'S FAMILY.
+
+898
+00:39:25,095 --> 00:39:28,596
+    I THINK IT'S VERY IMPORTANT 
+    FOR THE FAMILY TO HAVE THIS.
+
+899
+00:39:28,665 --> 00:39:31,099
+I'M GOING TO HAVE TO TAKE       
+THE DIARY WITH ME,              
+
+900
+00:39:31,168 --> 00:39:33,668
+AND I'M READY TO GET GOING.     
+
+901
+00:39:33,737 --> 00:39:36,237
+       WELL, LET'S SEE.         
+
+902
+00:39:36,306 --> 00:39:38,473
+     EVERY TIME I READ ONE      
+  OF THESE SOLDIER'S DIARIES,   
+
+903
+00:39:38,542 --> 00:39:40,208
+     I JUST GET THE SENSE       
+
+904
+00:39:40,277 --> 00:39:43,578
+   THAT I'M HOLDING A PIECE     
+    OF HISTORY IN MY HAND.      
+
+905
+00:39:43,647 --> 00:39:45,747
+       <i> THE DIARY COVERS</i>        
+        <i> ABOUT A YEAR,</i>          
+
+906
+00:39:45,816 --> 00:39:50,451
+      <i> FROM OCTOBER 1943</i>        
+       <i> TO OCTOBER 1944.</i>        
+
+907
+00:39:50,520 --> 00:39:52,387
+          <i> MUCH OF IT</i>           
+   <i> IS WRITTEN MECHANICALLY,</i>    
+
+908
+00:39:52,455 --> 00:39:55,323
+       <i> MORE LIKE A LOG</i>         
+   <i> THAN A PERSONAL JOURNAL.</i>    
+
+909
+00:39:55,392 --> 00:39:58,459
+  <i> BUT IT'S CLEAR HIS UNIT IS</i>   
+ <i> IN THE THICK OF THE ACTION.</i>   
+
+910
+00:39:58,528 --> 00:40:01,162
+          HERE'S ONE,           
+        SEPTEMBER 27th.         
+
+911
+00:40:01,231 --> 00:40:02,830
+       "STARTED A LETTER        
+         TO MY ANGEL,           
+
+912
+00:40:02,899 --> 00:40:05,433
+     "BUT BAHN STOPPED IN       
+          TO TELL ME            
+
+913
+00:40:05,502 --> 00:40:07,769
+        "OUR SQUAD LOST         
+       FOUR OUT OF NINE.        
+
+914
+00:40:07,837 --> 00:40:10,271
+  IT WAS WITHEY'S LAST ONE."    
+
+915
+00:40:10,340 --> 00:40:13,308
+  <i> A LOT OF BOMBERS WENT DOWN</i>   
+     <i> WITH MEN MORAN KNEW.</i>      
+
+916
+00:40:13,376 --> 00:40:15,743
+   <i> IF HE'S SHAKEN BY THIS,</i>     
+      <i> I WOULDN'T KNOW IT</i>       
+
+917
+00:40:15,812 --> 00:40:18,146
+   <i> FROM THE MATTER-OF-FACT</i>     
+          <i> LANGUAGE.</i>            
+
+918
+00:40:18,215 --> 00:40:20,782
+   <i> AND HERE'S BILL MORAN'S</i>     
+         <i> LAST ENTRY,</i>           
+
+919
+00:40:20,850 --> 00:40:23,851
+      <i> OCTOBER 29, 1944.</i>        
+
+920
+00:40:23,920 --> 00:40:27,689
+     <i> MORE DEATH AND MORE</i>       
+   <i> MATTER-OF-FACT LANGUAGE.</i>    
+
+921
+00:40:27,757 --> 00:40:30,258
+         BILL WRITES,           
+     "MASS AND COMMUNION.       
+
+922
+00:40:30,327 --> 00:40:32,160
+      "PUT A COUPLE HOURS       
+          ON A SHIP.            
+
+923
+00:40:32,229 --> 00:40:34,929
+"HEARD A ROTTEN GERMAN BROADCAST
+        LATE LAST NIGHT         
+
+924
+00:40:34,998 --> 00:40:37,298
+      CALLING EISENHOWER        
+            A RAT."             
+
+925
+00:40:37,367 --> 00:40:40,501
+    <i> BUT THERE ARE NO CLUES</i>     
+  <i> WHY MORAN STOPPED WRITING.</i>   
+
+926
+00:40:40,570 --> 00:40:44,372
+  <i> DID HE GO BACK HOME OR WAS</i>   
+   <i> HIS NEXT MISSION FATAL?</i>     
+
+927
+00:40:46,876 --> 00:40:48,776
+       <i> THERE ARE PLENTY</i>        
+        <i> OF NAMES HERE.</i>         
+
+928
+00:40:48,845 --> 00:40:51,746
+   <i> MAYBE SOMEONE BILL MORAN</i>    
+  <i> WROTE ABOUT IS STILL ALIVE</i>   
+
+929
+00:40:51,815 --> 00:40:55,383
+       <i> AND CAN FILL IN</i>         
+  <i> THESE BLANK PAGES FOR ME.</i>    
+
+930
+00:40:55,452 --> 00:40:59,053
+    "LENNY," IT LOOKS LIKE.     
+
+931
+00:40:59,122 --> 00:41:01,155
+           "GOLDEN."            
+
+932
+00:41:01,224 --> 00:41:06,694
+    "CHAPPY, PELTON, AND I      
+    WERE LUCKY NOT TO GO."      
+
+933
+00:41:06,763 --> 00:41:10,031
+ <i> I'LL CALL MY OFFICE AND ASK</i>   
+  <i> THEM TO TRY TO TRACK DOWN</i>    
+
+934
+00:41:10,100 --> 00:41:12,734
+     <i> SOME OF BILL MORAN'S</i>      
+         <i> WAR BUDDIES.</i>          
+
+935
+00:41:12,802 --> 00:41:14,302
+                      WES COWAN.
+    BILL OLDSON.                
+
+936
+00:41:14,371 --> 00:41:15,837
+GLAD TO MEET YOU, WES.          
+
+937
+00:41:15,905 --> 00:41:17,639
+   <i> WHILE THEY'RE SEARCHING,</i>    
+     <i> I'VE COME TO FLORIDA</i>      
+
+938
+00:41:17,707 --> 00:41:19,507
+    <i> TO MEET WITH PROFESSOR</i>     
+        <i> WILLIAM OLDSON</i>         
+
+939
+00:41:19,576 --> 00:41:21,576
+      <i> FROM THE INSTITUTE</i>       
+       <i> ON WORLD WAR II</i>         
+
+940
+00:41:21,645 --> 00:41:23,344
+  <i> AND THE HUMAN EXPERIENCE.</i>    
+
+941
+00:41:23,413 --> 00:41:26,014
+HERE'S THE DIARY THAT I SENT YOU
+THE TRANSCRIPT OF.              
+
+942
+00:41:26,082 --> 00:41:27,915
+                       OH, NICE.
+
+943
+00:41:27,984 --> 00:41:29,450
+             VERY UNUSUAL COVER.
+
+944
+00:41:29,519 --> 00:41:31,152
+              AND IF I MUST SAY,
+
+945
+00:41:31,221 --> 00:41:33,688
+          HIS HANDWRITING'S     
+          BETTER THAN MOST, TOO.
+
+946
+00:41:33,757 --> 00:41:36,257
+   <i> WILLIAM SAYS UNEARTHING</i>     
+<i> JOURNALS FROM THE BATTLEFRONT</i>  
+
+947
+00:41:36,326 --> 00:41:38,726
+          <i> IS ALWAYS</i>            
+   <i> AN IMPORTANT DISCOVERY,</i>     
+
+948
+00:41:38,795 --> 00:41:42,563
+  <i> A UNIQUE WINDOW ON THE MEN</i>   
+<i> WHO ACTUALLY DID THE FIGHTING.</i> 
+
+949
+00:41:42,632 --> 00:41:44,198
+     IT'S THE UNVARNISHED TRUTH,
+
+950
+00:41:44,267 --> 00:41:46,768
+  AND IT'S THE YARDSTICK YOU CAN
+  HOLD UP TO EVERYTHING ELSE -- 
+
+951
+00:41:46,836 --> 00:41:48,903
+            TO THE LETTERS HOME,
+            TO THE PROPAGANDA,  
+
+952
+00:41:48,972 --> 00:41:50,304
+              TO THE NEWSREEL --
+
+953
+00:41:50,373 --> 00:41:52,140
+                AND SAY, "HERE'S
+                WHAT HE FELT."  
+
+954
+00:41:52,208 --> 00:41:54,809
+   <i> AND THERE CERTAINLY WAS</i>     
+    <i> A LOT TO WRITE ABOUT.</i>      
+
+955
+00:41:54,878 --> 00:41:58,046
+    <i> WILLIAM EXPLAINS THAT</i>      
+           <i> IN 1943,</i>            
+
+956
+00:41:58,114 --> 00:42:01,349
+<i> ALLIED BOMBING RAIDS ON GERMANY</i>
+    <i> ARE OFTEN INEFFECTUAL</i>      
+
+957
+00:42:01,418 --> 00:42:04,452
+     <i> AT HITTING MILITARY</i>       
+   <i> AND INDUSTRIAL TARGETS.</i>     
+
+958
+00:42:04,521 --> 00:42:09,724
+<i> BUT BY 1944, WITH FORD CRANKING</i>
+  <i> OUT A NEW B-24 EVERY HOUR,</i>   
+
+959
+00:42:09,793 --> 00:42:12,693
+     <i> THE AMERICAN BOMBERS</i>      
+  <i> ARE SUCCESSFULLY TARGETING</i>   
+
+960
+00:42:12,762 --> 00:42:15,096
+      <i> HITLER'S FACTORIES</i>       
+      <i> AND FUEL SUPPLIES</i>        
+
+961
+00:42:15,165 --> 00:42:18,099
+   <i> AND HELPING TURN THE WAR</i>    
+    <i> IN THE ALLIES' FAVOR.</i>      
+
+962
+00:42:18,168 --> 00:42:21,469
+    <i> BUT THE CARNAGE AMONG</i>      
+ <i> FLIGHT CREWS IS HORRENDOUS.</i>   
+
+963
+00:42:21,538 --> 00:42:24,238
+              IN '43, WE LOST   
+              OVER 3,000 PLANES.
+
+964
+00:42:24,307 --> 00:42:26,974
+             '44, WE LOSE       
+             OVER 11,000 PLANES.
+
+965
+00:42:27,043 --> 00:42:28,843
+       <i> WILLIAM BELIEVES</i>        
+    <i> THERE'S A GOOD CHANCE</i>      
+
+966
+00:42:28,912 --> 00:42:31,145
+       <i> MORAN WAS KILLED</i>        
+        <i> OVER GERMANY.</i>          
+
+967
+00:42:31,214 --> 00:42:34,282
+    <i> FLYING DAYLIGHT RAIDS</i>      
+  <i> MADE THE BOMBERS EASY PREY</i>   
+
+968
+00:42:34,350 --> 00:42:37,218
+  <i> FOR GERMAN FIGHTER PLANES</i>    
+   <i> AND ANTI-AIRCRAFT GUNS.</i>     
+
+969
+00:42:37,287 --> 00:42:39,153
+    IF YOU WERE FLYING          
+    WITH BRITISH BOMBER COMMAND,
+
+970
+00:42:39,222 --> 00:42:42,023
+            YOU HAD A 65% CHANCE
+            OF BEING A CASUALTY.
+
+971
+00:42:42,091 --> 00:42:44,525
+     IF YOU'RE FLYING IN        
+     THE AMERICAN 8th AIR FORCE,
+
+972
+00:42:44,594 --> 00:42:47,495
+  YOU'VE GOT A 40% TO 60% CHANCE
+  OF BEING A CASUALTY.          
+
+973
+00:42:47,564 --> 00:42:50,064
+    IF YOU'RE LUCKY ENOUGH TO BE
+    IN THAT KAMIKAZE SQUADRON,  
+
+974
+00:42:50,133 --> 00:42:53,167
+    YOU'VE ONLY GOT A 53% CHANCE
+    OF BEING A CASUALTY.        
+
+975
+00:42:53,236 --> 00:42:54,802
+YOU'RE KIDDING ME.              
+
+976
+00:42:54,871 --> 00:42:56,370
+   <i> WHILE LOGISTICS PROBLEMS</i>    
+
+977
+00:42:56,439 --> 00:42:59,473
+ <i> OFTEN KEPT JAPANESE KAMIKAZE</i>  
+     <i> SQUADRONS GROUNDED,</i>       
+
+978
+00:42:59,542 --> 00:43:01,943
+          <i> IN EUROPE,</i>           
+    <i> THE BIG ALLIED BOMBERS</i>     
+
+979
+00:43:02,011 --> 00:43:04,378
+      <i> WERE SEEING COMBAT</i>       
+        <i> ALMOST DAILY.</i>          
+
+980
+00:43:04,447 --> 00:43:08,349
+SO A KAMIKAZE PILOT             
+WHO'S SUPPOSED TO KILL HIMSELF  
+
+981
+00:43:08,418 --> 00:43:11,152
+STOOD A BETTER CHANCE           
+OF SURVIVING                    
+
+982
+00:43:11,221 --> 00:43:13,621
+THAN A B-24 BOMBER PILOT?       
+
+983
+00:43:13,690 --> 00:43:15,223
+                HARD TO BELIEVE,
+                ISN'T IT?       
+
+984
+00:43:15,291 --> 00:43:18,259
+<i> WILLIAM SAYS THE OFTEN REMOTE,</i> 
+   <i> MATTER-OF-FACT LANGUAGE</i>     
+
+985
+00:43:18,328 --> 00:43:20,027
+   <i> IN SUCH WARTIME WRITING</i>     
+
+986
+00:43:20,096 --> 00:43:22,430
+   <i> WAS A WAY OF WALLING OFF</i>    
+         <i> OR ESCAPING</i>           
+
+987
+00:43:22,498 --> 00:43:24,498
+          <i> THE HORROR</i>           
+      <i> OF EVERYDAY LIFE.</i>        
+
+988
+00:43:24,567 --> 00:43:26,634
+  I THINK IT'S NOT ONLY TYPICAL,
+  IT'S NECESSARY.               
+
+989
+00:43:26,703 --> 00:43:28,169
+                THEY CAN'T BROOD
+                ABOUT IT.       
+
+990
+00:43:28,238 --> 00:43:30,538
+     IT'S GOING TO INTERFERE    
+     WITH THEIR OWN PERFORMANCE,
+
+991
+00:43:30,607 --> 00:43:32,440
+     IT'S GOING TO DEPRESS THEM.
+
+992
+00:43:32,508 --> 00:43:35,042
+    <i> THE WRITING IS A FORM</i>      
+       <i> OF SELF-DEFENSE.</i>        
+
+993
+00:43:35,111 --> 00:43:36,978
+        WHAT'S UNUSUAL          
+        ABOUT THE DIARY YOU HAVE
+
+994
+00:43:37,046 --> 00:43:39,513
+          IS THE ROMANTIC ASPECT
+          OF IT.                
+
+995
+00:43:39,582 --> 00:43:41,649
+    I DON'T KNOW ANY OTHER DIARY
+    THAT I'VE SEEN              
+
+996
+00:43:41,718 --> 00:43:45,019
+      WHERE SOMEBODY'S REFERRING
+      TO HIS WIFE AS "ANGEL."   
+
+997
+00:43:45,088 --> 00:43:47,822
+  AND WE HAVE LOTS OF LETTERS   
+  WHERE IT SAYS, "HELLO, HONEY,"
+
+998
+00:43:47,890 --> 00:43:50,491
+      OR SOMETHING OF THAT SORT,
+      BUT NOT IN THE DIARIES.   
+
+999
+00:43:50,560 --> 00:43:52,727
+THANKS VERY MUCH                
+FOR SHARING THIS WITH ME.       
+
+1000
+00:43:52,795 --> 00:43:54,161
+        THANK YOU FOR LETTING ME
+        SEE THIS.               
+
+1001
+00:43:54,230 --> 00:43:55,997
+          THIS IS A VERY SPECIAL
+          DOCUMENT.             
+
+1002
+00:43:56,065 --> 00:43:57,898
+      <i> I STILL DON'T KNOW</i>       
+         <i> EXACTLY WHY</i>           
+
+1003
+00:43:57,967 --> 00:44:00,268
+  <i> BILL MORAN STOPPED WRITING</i>   
+       <i> IN THE JOURNAL,</i>         
+
+1004
+00:44:00,336 --> 00:44:02,236
+        <i> BUT MY OFFICE</i>          
+        <i> HAS BEEN ABLE</i>          
+
+1005
+00:44:02,305 --> 00:44:04,505
+        <i> TO TRACK DOWN</i>          
+    <i> HIS MILITARY RECORDS,</i>      
+
+1006
+00:44:04,574 --> 00:44:06,674
+    <i> AND THEY'VE SENT THEM</i>      
+    <i> TO ME AT THE LIBRARY.</i>      
+
+1007
+00:44:09,512 --> 00:44:11,145
+     <i> IT'S SOBERING NEWS.</i>       
+
+1008
+00:44:11,214 --> 00:44:14,215
+     <i> ON OCTOBER 31, 1944,</i>      
+
+1009
+00:44:14,284 --> 00:44:17,051
+    <i> BILL MORAN WAS FLYING</i>      
+   <i> WITH PILOT EDWARD SPEERS</i>    
+
+1010
+00:44:17,120 --> 00:44:19,687
+      <i> AND SIX OTHER MEN</i>        
+<i> WHEN THEIR PLANE DISAPPEARED.</i>  
+
+1011
+00:44:19,756 --> 00:44:23,024
+          THIS REPORT           
+     OF AIRCRAFT ACCIDENT       
+
+1012
+00:44:23,092 --> 00:44:27,495
+  OR MISSING AIRCRAFT REPORT    
+CONFIRMS THAT MORAN WAS KILLED  
+
+1013
+00:44:27,563 --> 00:44:29,830
+        IN SOME SORT OF         
+     A TRAINING ACCIDENT.       
+
+1014
+00:44:29,899 --> 00:44:32,333
+   THEY'RE NOT CLEAR EXACTLY    
+        WHAT HAPPENED.          
+
+1015
+00:44:32,402 --> 00:44:33,834
+          HE TOOK OFF           
+       IN THE FORMATION.        
+
+1016
+00:44:33,903 --> 00:44:35,369
+      AFTER HE TOOK OFF,        
+
+1017
+00:44:35,438 --> 00:44:38,239
+  NOBODY ELSE IN THE AIRCRAFT   
+ FORMATION EVER SAW HIM AGAIN.  
+
+1018
+00:44:38,307 --> 00:44:41,842
+<i> THE WRECKAGE AND MORAN'S BODY</i>  
+       <i> ARE NEVER FOUND.</i>        
+
+1019
+00:44:41,911 --> 00:44:46,747
+THIS TOOK PLACE TWO DAYS AFTER  
+ THE LAST ENTRY IN HIS DIARY.   
+
+1020
+00:44:46,816 --> 00:44:50,951
+ <i> MARY JAYNE WAS SEVEN MONTHS</i>   
+   <i> PREGNANT WHEN BILL DIED.</i>    
+
+1021
+00:44:51,020 --> 00:44:53,988
+<i> IF I'M GOING TO HELP JIM RETURN</i>
+<i> THE JOURNAL TO BILL'S FAMILY,</i>  
+
+1022
+00:44:54,057 --> 00:44:57,024
+    <i> I'M GOING TO NEED HELP</i>     
+<i> TRACKING DOWN HIS DESCENDANTS.</i> 
+
+1023
+00:44:57,093 --> 00:44:59,593
+    <i> MY OFFICE HAS LOCATED</i>      
+         <i> JACK PELTON,</i>          
+
+1024
+00:44:59,662 --> 00:45:02,229
+    <i> ONE OF MORAN'S BUDDIES</i>     
+   <i> MENTIONED IN THE DIARY.</i>     
+
+1025
+00:45:02,298 --> 00:45:03,364
+HEY, JACK.                      
+
+1026
+00:45:03,433 --> 00:45:04,565
+                   HEY, WES.    
+
+1027
+00:45:04,634 --> 00:45:06,033
+    <i> JACK AGREES TO MEET ME</i>     
+
+1028
+00:45:06,102 --> 00:45:08,602
+<i> AT THE AMERICAN AERO SERVICES</i>  
+      <i> HANGAR IN FLORIDA,</i>       
+
+1029
+00:45:08,671 --> 00:45:12,840
+<i> WHERE THE COLLINGS FOUNDATION</i>  
+   <i> MAINTAINS A B-24 BOMBER.</i>    
+
+1030
+00:45:12,909 --> 00:45:14,642
+BOY, THIS IS QUITE A PIECE      
+OF MACHINERY, ISN'T IT?         
+
+1031
+00:45:14,710 --> 00:45:16,977
+      OH, IT REALLY IS,         
+      IT'S A WONDERFUL AIRPLANE.
+
+1032
+00:45:17,046 --> 00:45:18,712
+AND YOU WERE A PILOT            
+OF ONE OF THESE BIRDS.          
+
+1033
+00:45:18,781 --> 00:45:20,214
+               I WAS A PILOT,   
+               FLEW 32 MISSIONS.
+
+1034
+00:45:20,283 --> 00:45:21,582
+HOW'D YOU LIKE TO GET UP        
+IN THE COCKPIT?                 
+
+1035
+00:45:21,651 --> 00:45:22,650
+           LOVE TO.             
+
+1036
+00:45:22,718 --> 00:45:23,984
+        OH, WONDERFUL.          
+
+1037
+00:45:24,053 --> 00:45:25,653
+ <i> IT'S BEEN MORE THAN 50 YEARS</i>  
+
+1038
+00:45:25,721 --> 00:45:28,022
+  <i> SINCE JACK'S TAKEN A SEAT</i>    
+       <i> AT THE CONTROLS.</i>        
+
+1039
+00:45:28,091 --> 00:45:30,791
+SO WHAT WAS IT LIKE             
+TO FLY ONE OF THESE BABIES?     
+
+1040
+00:45:30,860 --> 00:45:32,560
+           IT WAS VERY EXCITING,
+           REALLY.              
+
+1041
+00:45:32,628 --> 00:45:34,395
+        <i> JACK TELLS ME</i>          
+      <i> IN ORDER TO ATTACK</i>       
+
+1042
+00:45:34,464 --> 00:45:36,197
+  <i> HEAVILY DEFENDED TARGETS,</i>    
+
+1043
+00:45:36,265 --> 00:45:38,065
+        <i> PILOTS LIKE HE</i>         
+     <i> AND BILL MORAN FLEW</i>       
+
+1044
+00:45:38,134 --> 00:45:40,801
+         <i> AT ALTITUDES</i>          
+      <i> OVER 20,000 FEET,</i>        
+
+1045
+00:45:40,870 --> 00:45:44,438
+  <i> WHERE TEMPERATURES REACHED</i>   
+      <i> MINUS 30 DEGREES.</i>        
+
+1046
+00:45:44,507 --> 00:45:46,907
+  SO IT WAS COLD,               
+  YOU'RE WEARING AN OXYGEN MASK.
+
+1047
+00:45:46,976 --> 00:45:49,443
+       THERE ARE NO HYDRAULICS  
+       IN THESE STEERING WHEELS.
+
+1048
+00:45:49,512 --> 00:45:52,813
+               IT MUST HAVE BEEN
+               A HELL OF A JOB. 
+
+1049
+00:45:52,882 --> 00:45:55,216
+       IT WAS A STRANGE FEELING.
+
+1050
+00:45:55,284 --> 00:45:56,984
+               YOU WERE         
+               IN ANOTHER WORLD.
+
+1051
+00:45:57,053 --> 00:45:59,086
+      <i> JACK EXPLAINS THAT</i>       
+    <i> THE LIGHTWEIGHT FRAME</i>      
+
+1052
+00:45:59,155 --> 00:46:01,922
+      <i> THAT MADE THE B-24</i>       
+   <i> SUCH AN EFFICIENT BOMBER</i>    
+
+1053
+00:46:01,991 --> 00:46:04,792
+   <i> ALSO MADE IT VULNERABLE</i>     
+        <i> TO ENEMY FIRE.</i>         
+
+1054
+00:46:04,861 --> 00:46:07,495
+   WE BROUGHT ONE PLANE HOME    
+     WITH 153 HOLES IN IT.      
+
+1055
+00:46:07,563 --> 00:46:09,296
+    [ machine gun firing ]      
+
+1056
+00:46:09,365 --> 00:46:11,565
+      <i> BULLETS AND SHELLS</i>       
+  <i> FROM GERMAN FIGHTER PLANES</i>   
+
+1057
+00:46:11,634 --> 00:46:13,801
+         <i> TORE THROUGH</i>          
+    <i> THE AMERICAN AIRCRAFT</i>      
+
+1058
+00:46:13,870 --> 00:46:16,537
+   <i> AND HELPED EARN THE B-24</i>    
+        <i> ITS REPUTATION</i>         
+
+1059
+00:46:16,606 --> 00:46:19,073
+     <i> AS A FLYING COFFIN.</i>       
+
+1060
+00:46:19,141 --> 00:46:22,476
+        YOU KNOW, I'VE GOT      
+        BILL MORAN'S DIARY HERE.
+
+1061
+00:46:22,545 --> 00:46:24,245
+              WHAT KIND OF A GUY
+              WAS BILL MORAN?   
+
+1062
+00:46:24,313 --> 00:46:25,646
+WHAT WAS HE LIKE?               
+
+1063
+00:46:25,715 --> 00:46:27,348
+               BILL MORAN WAS   
+               A GREAT CO-PILOT,
+
+1064
+00:46:27,416 --> 00:46:30,084
+           GREAT SENSE OF HUMOR,
+           IRISHMAN ALL THE WAY.
+
+1065
+00:46:30,152 --> 00:46:32,753
+      <i> JACK HAS A PICTURE</i>       
+   <i> OF BILL AND MARY JAYNE,</i>     
+
+1066
+00:46:32,822 --> 00:46:34,388
+    <i> BILL'S PREGNANT WIFE,</i>      
+
+1067
+00:46:34,457 --> 00:46:37,124
+      <i> TAKEN RIGHT BEFORE</i>       
+ <i> THE AIRMAN LEFT THE STATES.</i>   
+
+1068
+00:46:37,193 --> 00:46:39,526
+                 SO THAT'S BILL.
+    BILL.                       
+
+1069
+00:46:39,595 --> 00:46:40,895
+              THAT'S MARY JAYNE.
+
+1070
+00:46:40,963 --> 00:46:43,063
+            AND LOOK AT THEM    
+            HOLDING HANDS THERE.
+
+1071
+00:46:43,132 --> 00:46:45,199
+               I'D RECOGNIZE YOU
+               ANYWHERE.        
+
+1072
+00:46:45,268 --> 00:46:46,901
+        IT LOOKS LIKE YOU GUYS  
+        ARE HAVING A LOT OF FUN.
+
+1073
+00:46:46,969 --> 00:46:48,836
+YEAH, WE DID,                   
+HAD A GREAT EVENING.            
+
+1074
+00:46:48,905 --> 00:46:51,605
+LAST TIME WE SAW OUR WIVES      
+FOR A YEAR.                     
+
+1075
+00:46:51,674 --> 00:46:55,175
+      ONE MORE QUESTION:        
+      WHERE WAS BILL MORAN FROM?
+
+1076
+00:46:55,244 --> 00:46:56,944
+PITTSBURGH, PENNSYLVANIA.       
+
+1077
+00:46:57,013 --> 00:46:58,579
+MARY JAYNE WAS FROM THERE,      
+TOO, THEN?                      
+
+1078
+00:46:58,648 --> 00:46:59,847
+                   YES, SHE WAS.
+
+1079
+00:46:59,916 --> 00:47:01,482
+WHAT EVER HAPPENED TO           
+MARY JAYNE, DO YOU KNOW?        
+
+1080
+00:47:01,550 --> 00:47:02,950
+                   I DON'T KNOW.
+
+1081
+00:47:03,019 --> 00:47:04,885
+  I TRIED TO FIND HER           
+  WHEN I GOT BACK IN THE STATES,
+
+1082
+00:47:04,954 --> 00:47:06,186
+                      COULD NOT.
+
+1083
+00:47:06,255 --> 00:47:08,255
+      ONE TIME WHEN I WAS       
+      ON BUSINESS IN PITTSBURGH,
+
+1084
+00:47:08,324 --> 00:47:10,124
+          I HEARD SHE WAS THERE,
+
+1085
+00:47:10,192 --> 00:47:12,760
+            BUT I STILL COULDN'T
+            TRACK HER DOWN.     
+
+1086
+00:47:12,828 --> 00:47:14,261
+         <i> SO I'M BACK</i>           
+        <i> AT THE LIBRARY</i>         
+
+1087
+00:47:14,330 --> 00:47:17,097
+      <i> TO SEARCH THROUGH</i>        
+    <i> GENEALOGICAL RECORDS.</i>      
+
+1088
+00:47:17,166 --> 00:47:22,102
+   <i> AT FIRST, I DRAW A BLANK</i>    
+   <i> LOOKING FOR MARY JAYNE.</i>     
+
+1089
+00:47:22,171 --> 00:47:25,472
+ <i> MAYBE I CAN GET INFORMATION</i>   
+ <i> FROM ANOTHER FAMILY MEMBER.</i>   
+
+1090
+00:47:25,541 --> 00:47:26,907
+    <i> I FINALLY GET A BREAK</i>      
+
+1091
+00:47:26,976 --> 00:47:28,709
+   <i> WITH THE SOCIAL SECURITY</i>    
+         <i> DEATH INDEX</i>           
+
+1092
+00:47:28,778 --> 00:47:30,544
+ <i> FOR BILL'S MOTHER VERONICA.</i>   
+
+1093
+00:47:30,613 --> 00:47:32,212
+      BINGO, HERE SHE IS.       
+
+1094
+00:47:32,281 --> 00:47:38,385
+    SHE DIED IN MARCH 1967      
+      IN MIAMI, FLORIDA.        
+
+1095
+00:47:38,454 --> 00:47:40,454
+         <i> HER OBITUARY</i>          
+     <i> EVENTUALLY LEADS US</i>       
+
+1096
+00:47:40,523 --> 00:47:43,223
+     <i> TO THE NAMES OF TWO</i>       
+ <i> OF BILL'S SURVIVING SISTERS:</i>  
+
+1097
+00:47:43,292 --> 00:47:45,693
+        <i> ADELAIDE YOUNG</i>         
+      <i> AND JEANIE KIMBROW</i>       
+
+1098
+00:47:45,761 --> 00:47:48,062
+     <i> OF SEBRING, FLORIDA.</i>      
+
+1099
+00:47:48,130 --> 00:47:52,232
+ <i> IF THERE'S A LOCAL LISTING,</i>   
+   <i> MAYBE WE'RE IN BUSINESS.</i>    
+
+1100
+00:47:52,301 --> 00:47:55,636
+      <i> IT TAKES A WHILE,</i>        
+ <i> BUT EVENTUALLY I GET LUCKY.</i>   
+
+1101
+00:47:55,705 --> 00:47:57,604
+        ADELAIDE YOUNG,         
+   THERE'S HER PHONE NUMBER,    
+
+1102
+00:47:57,673 --> 00:48:00,674
+           ADDRESS,             
+       BORN AUGUST 1930.        
+
+1103
+00:48:00,743 --> 00:48:02,042
+      IT'S GOT TO BE HER.       
+
+1104
+00:48:02,111 --> 00:48:04,211
+  I CAN'T BELIEVE I'VE FOUND    
+      A LIVING RELATIVE.        
+
+1105
+00:48:04,280 --> 00:48:05,746
+      HELLO, MRS. YOUNG?        
+
+1106
+00:48:05,815 --> 00:48:08,282
+     <i> ADELAIDE IS EXCITED</i>       
+    <i> BY NEWS OF THE DIARY,</i>      
+
+1107
+00:48:08,350 --> 00:48:10,384
+      <i> AND WE MAKE PLANS</i>        
+           <i> TO MEET.</i>            
+
+1108
+00:48:10,453 --> 00:48:11,885
+YOU KNOW WHY                    
+I'VE COME TO SEE YOU.           
+
+1109
+00:48:11,954 --> 00:48:13,420
+                    YES.        
+
+1110
+00:48:13,489 --> 00:48:18,492
+I HAVE A DIARY THAT WAS WRITTEN 
+BY YOUR BROTHER.                
+
+1111
+00:48:18,561 --> 00:48:23,530
+                OH, "MY LIFE    
+                IN THE SERVICE."
+
+1112
+00:48:23,599 --> 00:48:25,332
+DO YOU RECOGNIZE                
+THAT HANDWRITING?               
+
+1113
+00:48:25,401 --> 00:48:27,634
+                  OH, OF COURSE.
+
+1114
+00:48:27,703 --> 00:48:29,970
+ <i> IT'S THE CONSTANT REFERENCES</i>  
+        <i> TO BILL'S WIFE</i>         
+
+1115
+00:48:30,039 --> 00:48:31,872
+  <i> THAT CATCH ADELAIDE'S EYE.</i>   
+
+1116
+00:48:31,941 --> 00:48:36,410
+         HE ALWAYS SPEAKS OF HER
+         IN SUCH A GENTLE WAY.  
+
+1117
+00:48:36,479 --> 00:48:38,912
+YOU GET THE SENSE THAT          
+THEY WERE REALLY IN LOVE.       
+
+1118
+00:48:38,981 --> 00:48:42,349
+               OH, FROM THE TIME
+               THEY MET.        
+
+1119
+00:48:42,418 --> 00:48:45,853
+       <i> ADELAIDE WAS 14</i>         
+    <i> WHEN HER BROTHER DIED.</i>     
+
+1120
+00:48:45,921 --> 00:48:48,422
+       THE TELEGRAM WAS LAYING  
+       ON THE DINING ROOM TABLE,
+
+1121
+00:48:48,491 --> 00:48:51,458
+    AND WE KEPT SAYING, "THEY'LL
+    FIND HIM, THEY'LL FIND HIM. 
+
+1122
+00:48:51,527 --> 00:48:53,861
+      SOMEDAY THEY'LL FIND HIM."
+
+1123
+00:48:53,929 --> 00:48:56,663
+    THERE WAS NEVER ANY         
+    MEMORIAL SERVICE OR ANYTHING
+
+1124
+00:48:56,732 --> 00:48:58,932
+              BECAUSE "SOMEDAY  
+              THEY'LL FIND HIM."
+
+1125
+00:48:59,001 --> 00:49:01,502
+  <i> AT FIRST THE VERY PREGNANT</i>   
+          <i> MARY JAYNE</i>           
+
+1126
+00:49:01,570 --> 00:49:04,071
+       <i> WASN'T EVEN TOLD</i>        
+   <i> HER HUSBAND WAS MISSING.</i>    
+
+1127
+00:49:04,140 --> 00:49:06,173
+       <i> SHE LEARNED BILL</i>        
+       <i> HAD BEEN KILLED</i>         
+
+1128
+00:49:06,242 --> 00:49:07,875
+        <i> FROM A FRIEND</i>          
+       <i> WHO VISITED HER</i>         
+
+1129
+00:49:07,943 --> 00:49:10,744
+<i> RIGHT AFTER SHE'D GIVEN BIRTH</i>  
+      <i> TO THEIR DAUGHTER.</i>       
+
+1130
+00:49:10,813 --> 00:49:12,880
+           SHE WAS INCONSOLABLE.
+
+1131
+00:49:12,948 --> 00:49:17,117
+          SHE WAS JUST          
+          UNBELIEVABLY IN GRIEF.
+
+1132
+00:49:17,186 --> 00:49:20,587
+   <i> MARY JAYNE DIED ROUGHLY</i>     
+ <i> 20 YEARS AFTER HER HUSBAND,</i>   
+
+1133
+00:49:20,656 --> 00:49:22,656
+      <i> BUT WHAT ADELAIDE</i>        
+        <i> REVEALED NEXT</i>          
+
+1134
+00:49:22,725 --> 00:49:25,125
+  <i> WILL BE EXTRAORDINARY NEWS</i>   
+           <i> FOR JIM.</i>            
+
+1135
+00:49:25,194 --> 00:49:27,761
+     THIS HAS BEEN              
+     AN INCREDIBLE STORY FOR ME.
+
+1136
+00:49:27,830 --> 00:49:30,164
+   <i> I TELL JIM ABOUT SOME OF</i>    
+   <i> THE THINGS I'VE LEARNED</i>     
+
+1137
+00:49:30,232 --> 00:49:32,132
+        <i> WHILE WORKING</i>          
+       <i> ON BILL'S DIARY.</i>        
+
+1138
+00:49:32,201 --> 00:49:34,535
+   I'VE GOT TO TELL YOU, THOUGH,
+   THAT I HAVE SOME BAD NEWS.   
+
+1139
+00:49:34,603 --> 00:49:37,604
+<i> I LET JIM KNOW THAT BILL MORAN</i> 
+  <i> DIED IN A TRAINING MISSION</i>   
+
+1140
+00:49:37,673 --> 00:49:40,807
+   <i> AND HIS WIFE PASSED AWAY</i>    
+      <i> OVER 40 YEARS AGO,</i>       
+
+1141
+00:49:40,876 --> 00:49:43,176
+        <i> BUT THE STORY</i>          
+      <i> DOESN'T END THERE.</i>       
+
+1142
+00:49:43,245 --> 00:49:45,345
+            THERE'S SOMEONE I DO
+            WANT YOU TO MEET,   
+
+1143
+00:49:45,414 --> 00:49:48,849
+    SO IF YOU WANT TO FOLLOW ME,
+    WE'LL GO MEET THAT PERSON.  
+
+1144
+00:49:48,918 --> 00:49:50,517
+I'D LIKE TO DO THAT.            
+
+1145
+00:49:50,586 --> 00:49:52,686
+       <i> ADELAIDE TOLD ME</i>        
+        <i> THAT THE BABY</i>          
+
+1146
+00:49:52,755 --> 00:49:55,022
+        <i> THAT BILL WAS</i>          
+     <i> SO EAGERLY EXPECTING</i>      
+
+1147
+00:49:55,090 --> 00:49:58,191
+       <i> WAS BORN 32 DAYS</i>        
+        <i> AFTER HE DIED.</i>         
+
+1148
+00:49:58,260 --> 00:49:59,760
+     <i> HER NAME WAS JANIE.</i>       
+
+1149
+00:49:59,828 --> 00:50:01,194
+                  SHE'S MARRIED.
+
+1150
+00:50:01,263 --> 00:50:04,131
+         SHE HAS TWO CHILDREN   
+         AND FOUR GRANDCHILDREN.
+
+1151
+00:50:04,199 --> 00:50:08,268
+  <i> BILL MORAN WOULD HAVE BEEN</i>   
+     <i> A GREAT-GRANDFATHER.</i>      
+
+1152
+00:50:08,337 --> 00:50:09,436
+HEY, GUYS.                      
+
+1153
+00:50:09,505 --> 00:50:10,637
+                          HI.   
+
+1154
+00:50:10,706 --> 00:50:12,706
+I WANT YOU TO MEET SOMEBODY,    
+JIM.                            
+
+1155
+00:50:12,775 --> 00:50:14,241
+THIS IS JIM CHAPMAN.            
+
+1156
+00:50:14,310 --> 00:50:15,776
+THIS IS CHAPPY'S SON.           
+
+1157
+00:50:15,844 --> 00:50:18,011
+                HI, HOW ARE YOU?
+
+1158
+00:50:18,080 --> 00:50:19,780
+THIS IS ADELAIDE YOUNG.         
+
+1159
+00:50:19,848 --> 00:50:21,548
+THIS IS BILL'S SISTER.          
+
+1160
+00:50:21,617 --> 00:50:23,050
+              I REMEMBER HIM    
+              TALKING ABOUT --  
+
+1161
+00:50:23,118 --> 00:50:24,418
+OH, HI, ADELAIDE.               
+
+1162
+00:50:24,486 --> 00:50:26,887
+    HE TALKED ABOUT BILL CHAPMAN
+    ALL THE TIME.               
+
+1163
+00:50:26,956 --> 00:50:28,755
+OH, IT'S SO NICE                
+TO MEET YOU.                    
+
+1164
+00:50:28,824 --> 00:50:30,924
+                 OH, I'M SO GLAD
+                 TO MEET YOU.   
+
+1165
+00:50:30,993 --> 00:50:35,028
+    AND THIS IS BILL'S DAUGHTER,
+    JANIE.                      
+
+1166
+00:50:35,097 --> 00:50:37,898
+          HI, JIM,              
+          IT'S NICE TO MEET YOU.
+
+1167
+00:50:37,967 --> 00:50:40,500
+       THANK YOU FOR TAKING CARE
+       OF THE JOURNAL.          
+
+1168
+00:50:46,342 --> 00:50:49,376
+I'M SO GLAD                     
+TO HAVE FOUND YOU.              
+
+1169
+00:50:49,445 --> 00:50:50,811
+        <i> THANKS TO JIM,</i>         
+
+1170
+00:50:50,879 --> 00:50:54,081
+    <i> BILL MORAN'S THOUGHTS</i>      
+  <i> ARE NOW FINALLY GOING HOME</i>   
+
+1171
+00:50:54,149 --> 00:50:56,416
+       <i> TO THE DAUGHTER</i>         
+        <i> HE NEVER KNEW.</i>         
+
+1172
+00:50:56,485 --> 00:51:00,320
+I JUST FEEL LIKE I KNOW         
+SO MUCH ABOUT YOU ALREADY.      
+
+1173
+00:51:00,389 --> 00:51:02,222
+[ clears throat ]               
+EXCUSE ME.                      
+
+1174
+00:51:10,199 --> 00:51:11,331
+    SORRY.                      
+
+1175
+00:51:11,400 --> 00:51:14,501
+THE DIARY'S BEEN IN OUR FAMILY  
+FOR 63 YEARS.                   
+
+1176
+00:51:14,570 --> 00:51:18,105
+WHAT WAS SO FASCINATING         
+WAS READING IN THE DIARY        
+
+1177
+00:51:18,173 --> 00:51:21,141
+ABOUT YOUR MOTHER               
+CARRYING YOU                    
+
+1178
+00:51:21,210 --> 00:51:24,144
+AND YOUR DAD BEING              
+SO HAPPY AND EXCITED            
+
+1179
+00:51:24,213 --> 00:51:27,314
+ABOUT YOUR MOM                  
+BEING PREGNANT.                 
+
+1180
+00:51:27,383 --> 00:51:30,183
+IN THE DIARY ITSELF,            
+IT JUST COMES THROUGH           
+
+1181
+00:51:30,252 --> 00:51:34,688
+THAT HE LOVES YOUR MOTHER       
+VERY MUCH.                      
+
+1182
+00:51:34,757 --> 00:51:36,757
+ <i> MORAN AND HIS FELLOW PILOTS</i>   
+
+1183
+00:51:36,825 --> 00:51:40,227
+   <i> HAD HELPED DEAL HITLER'S</i>    
+<i> WAR MACHINE A CRIPPLING BLOW,</i>  
+
+1184
+00:51:40,295 --> 00:51:42,896
+      <i> AND THEIR CHILDREN</i>       
+   <i> AND CHILDREN'S CHILDREN</i>     
+
+1185
+00:51:42,965 --> 00:51:45,699
+    <i> WOULD LIVE IN A WORLD</i>      
+    <i> THEY HAD TRANSFORMED.</i>      
+
+1186
+00:51:45,768 --> 00:51:49,403
+THIS IS A GLIMPSE               
+INTO YOUR FATHER'S LIFE.        
+
+1187
+00:51:49,471 --> 00:51:52,506
+       THANK YOU VERY MUCH, JIM,
+       FOR TREASURING IT        
+
+1188
+00:51:52,574 --> 00:51:55,208
+           AND TAKING CARE OF IT
+           FOR ALL THOSE YEARS. 
+
+1189
+00:51:57,746 --> 00:51:59,946
+      TO HEAR MORE ABOUT        
+   JACK PELTON'S EXPERIENCES    
+
+1190
+00:52:00,015 --> 00:52:01,982
+       AS A WORLD WAR II        
+         BOMBER PILOT,          
+
+1191
+00:52:02,050 --> 00:52:06,319
+   VISIT<i> HISTORY DETECTIVES</i>     
+     ON THE WEB AT pbs.org.     
+
+1192
+00:52:10,159 --> 00:52:12,192
+            Tukufu:             
+     BILL MORAN ALSO WROTE      
+         IN HIS DIARY           
+
+1193
+00:52:12,261 --> 00:52:13,894
+   ABOUT THE KASSEL MISSION.    
+
+1194
+00:52:13,962 --> 00:52:17,097
+ IT'S THE BIGGEST SINGLE LOSS   
+ FOR AN AMERICAN BOMBER GROUP   
+
+1195
+00:52:17,166 --> 00:52:19,733
+       IN THE COUNTRY'S         
+       MILITARY HISTORY.        
+
+1196
+00:52:19,802 --> 00:52:22,969
+          "WEDNESDAY,           
+      SEPTEMBER 27, 1944.       
+
+1197
+00:52:23,038 --> 00:52:27,574
+  "BAHN STOPPED IN TO TELL ME   
+THAT WE LOST 22 OUT OF 35 SHIPS.
+
+1198
+00:52:27,643 --> 00:52:31,711
+   "WITHEY, GOLDEN, BOECHER,    
+    ROBINSON, AND REYNOLDS      
+
+1199
+00:52:31,780 --> 00:52:33,246
+       DIDN'T GET BACK."        
+
+1200
+00:52:33,315 --> 00:52:35,682
+     JACK PELTON REMEMBERS      
+        THAT DAY WELL.          
+
+1201
+00:52:35,751 --> 00:52:37,217
+THEY CALLED ME                  
+FOR THAT MISSION                
+
+1202
+00:52:37,286 --> 00:52:39,019
+AND I HAD A PASS                
+TO GO TO LONDON.                
+
+1203
+00:52:39,087 --> 00:52:41,555
+AND I SHOWED THE SERGEANT       
+MY PASS, AND HE SAID, "OKAY,"   
+
+1204
+00:52:41,623 --> 00:52:43,056
+TOOK THE GUY                    
+IN THE NEXT BUNK,               
+
+1205
+00:52:43,125 --> 00:52:44,791
+AND HE NEVER CAME HOME.         
+
+1206
+00:52:44,860 --> 00:52:48,195
+      THIRTY-NINE PLANES        
+   FROM THE 445th BOMB GROUP    
+
+1207
+00:52:48,263 --> 00:52:51,831
+SET OUT TO ATTACK A TANK FACTORY
+      IN KASSEL, GERMANY.       
+
+1208
+00:52:51,900 --> 00:52:54,434
+      BUT THE LEAD PLANE        
+      MAKES A WRONG TURN,       
+
+1209
+00:52:54,503 --> 00:52:57,304
+         AND THE 445th          
+        GETS SEPARATED          
+
+1210
+00:52:57,372 --> 00:52:59,306
+         FROM THE REST          
+      OF THE COMBAT WING.       
+
+1211
+00:52:59,374 --> 00:53:03,310
+  ALONE OVER ENEMY TERRITORY,   
+  THE LIBERATORS ARE AMBUSHED   
+
+1212
+00:53:03,378 --> 00:53:07,948
+ BY OVER 100 GERMAN FIGHTERS.   
+
+1213
+00:53:08,016 --> 00:53:13,019
+  IN LESS THAN FOUR MINUTES,    
+ 116 AMERICAN PILOTS ARE DEAD.  
+
+1214
+00:53:13,088 --> 00:53:16,656
+  SURVIVORS RETURNING TO BASE   
+      RECOUNT THE HORROR.       
+
+1215
+00:53:16,725 --> 00:53:19,392
+      THE AIR WAS FILLED        
+    WITH BOMBERS BLOWING UP     
+
+1216
+00:53:19,461 --> 00:53:20,894
+   AND FALLING BOMBER PARTS,    
+
+1217
+00:53:20,963 --> 00:53:23,129
+    PARACHUTES, AND BODIES,     
+        AND BODY PARTS.         
+
+1218
+00:53:23,198 --> 00:53:25,665
+   IT WAS A REAL HOLOCAUST.     
+
+1219
+00:53:25,734 --> 00:53:27,734
+  SOME OF THE GUYS CAME BACK,   
+ THEY WERE ALMOST HYSTERICAL.   
+
+1220
+00:53:27,803 --> 00:53:29,302
+       THEY COULD HARDLY        
+      CONTAIN THEMSELVES.       
+
+1221
+00:53:29,371 --> 00:53:32,038
+  THOUGH THE LOSS IS TRAGIC,    
+       THE WAR GOES ON.         
+
+1222
+00:53:32,107 --> 00:53:34,841
+  THE NEXT DAY, THE MILITARY    
+  SENDS ANOTHER BOMBER GROUP    
+
+1223
+00:53:34,910 --> 00:53:37,477
+        BACK TO KASSEL          
+      TO FINISH THE JOB.        
+
+1224
+00:53:37,546 --> 00:53:40,914
+      ALL OF THOSE PLANES       
+       RETURNED SAFELY.         
+
+1225
+00:53:42,083 --> 00:53:45,218
+HISTORY DETECTIVES<i> WILL RETURN</i>  
+  <i> IN A MOMENT, BUT FIRST...</i>    
+
+1226
+00:53:46,387 --> 00:53:48,321
+            Tukufu:             
+    <i> BE A HISTORY DETECTIVE</i>     
+          <i> YOURSELF.</i>            
+
+1227
+00:53:48,390 --> 00:53:50,156
+        <i> GO TO pbs.org</i>          
+
+1228
+00:53:50,225 --> 00:53:52,692
+     <i> AND LEARN MORE ABOUT</i>      
+   <i> INVESTIGATIVE TECHNIQUES</i>    
+
+1229
+00:53:52,761 --> 00:53:55,195
+  <i> OR SUBMIT YOUR OWN MYSTERY</i>   
+         <i> TO THE TEAM.</i>          
+
+1230
+00:53:55,263 --> 00:53:58,565
+  <i> YOU CAN ALSO FIND OUT MORE</i>   
+<i> ABOUT TONIGHT'S INVESTIGATIONS</i> 
+
+1231
+00:53:58,634 --> 00:54:00,734
+       <i> ONLY AT pbs.org.</i>        
+
+1232
+00:54:02,236 --> 00:54:05,238
+   <i> THIS EPISODE OF</i> HISTORY     
+DETECTIVES<i> IS AVAILABLE ON DVD.</i> 
+
+1233
+00:54:05,307 --> 00:54:08,408
+    <i> THE COMPANION BOOK TO</i>      
+<i> THE PROGRAM IS ALSO AVAILABLE.</i> 
+
+1234
+00:54:08,477 --> 00:54:11,177
+          <i> TO ORDER,</i>            
+  <i> CALL PBS HOME VIDEO AT...</i>    
+
+1235
+00:54:13,215 --> 00:54:15,048
+   <i> OR VISIT US ONLINE AT...</i>    
+
+1236
+00:54:19,921 --> 00:54:23,690
+  <font color="#ff0000"> Captions by LNS Captioning</font>   
+       <font color="#ff0000"> Portland, Oregon</font>        
+    <font color="#00ffff"> www.LNScaptioning.com</font>      
+
+1237
+00:54:47,282 --> 00:54:50,083
+        Elvis Costello:         
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+1238
+00:54:53,455 --> 00:54:58,024
+       ♪ IT'S JUST LIKE         
+   WATCHIN' THE DETECTIVES ♪    
+
+1239
+00:54:58,093 --> 00:55:01,361
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+1240
+00:55:01,430 --> 00:55:02,962
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+1241
+00:55:03,031 --> 00:55:06,232
+          Gwendolyn:            
+<i> THIS PROGRAM WAS MADE POSSIBLE</i> 
+       <i> BY CONTRIBUTIONS</i>        
+
+1242
+00:55:06,301 --> 00:55:09,502
+     <i> TO YOUR PBS STATION</i>       
+    <i> FROM VIEWERS LIKE YOU.</i>     
+
+1243
+01:00:13,874 --> 01:00:15,441
+            Elyse:              
+<i> WE'RE THE HISTORY DETECTIVES,</i>  
+
+1244
+01:00:15,510 --> 01:00:16,776
+<i> AND WE'RE GOING TO INVESTIGATE</i> 
+
+1245
+01:00:16,844 --> 01:00:19,911
+     <i> SOME UNTOLD STORIES</i>       
+     <i> FROM AMERICA'S PAST.</i>      
+

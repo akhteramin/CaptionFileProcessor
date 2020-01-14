@@ -1,0 +1,5965 @@
+﻿1
+00:00:14,215 --> 00:00:17,049
+<i> WE'RE THE HISTORY DETECTIVES,</i>  
+<i> AND WE'RE GOING TO INVESTIGATE</i> 
+
+2
+00:00:17,118 --> 00:00:20,119
+     <i> SOME UNTOLD STORIES</i>       
+     <i> FROM AMERICA'S PAST.</i>      
+
+3
+00:00:20,187 --> 00:00:21,453
+          Gwendolyn:<i> </i>           
+          <i> THIS WEEK,</i>           
+
+4
+00:00:21,522 --> 00:00:23,622
+      <i> THIS NAVY SCHOONER</i>       
+      <i> ONCE FLEW THE FLAG</i>       
+
+5
+00:00:23,691 --> 00:00:26,525
+     <i> IN A BORDER DISPUTE</i>       
+<i> WITH THE MIGHTY BRITISH EMPIRE.</i>
+
+6
+00:00:26,594 --> 00:00:28,594
+        <i> ARE THESE HER</i>          
+        <i> LAST REMAINS?</i>          
+
+7
+00:00:28,662 --> 00:00:30,629
+OH, MY.                         
+
+8
+00:00:30,698 --> 00:00:32,798
+            Elyse:              
+   <i> HOW IS THIS CONNECTICUT</i>     
+     <i> FARMHOUSE CONNECTED</i>       
+
+9
+00:00:32,867 --> 00:00:37,836
+     <i> TO THE ASSASSINATION</i>      
+      <i> OF A RUSSIAN CZAR?</i>       
+
+10
+00:00:37,905 --> 00:00:41,039
+            Tukufu:             
+     <i> AND IS THIS PAINTING</i>      
+       <i> AN UNKNOWN WORK</i>         
+
+11
+00:00:41,108 --> 00:00:43,475
+     <i> BY AN IMMIGRANT POET</i>      
+     <i> WHOSE WORDS INSPIRED</i>      
+
+12
+00:00:43,544 --> 00:00:45,210
+   <i> AN AMERICAN GENERATION?</i>     
+
+13
+00:00:45,279 --> 00:00:47,646
+       People chanting:         
+   END THE WAR! END THE WAR!    
+
+14
+00:00:47,715 --> 00:00:51,583
+        Elvis Costello:         
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+15
+00:00:51,652 --> 00:00:55,220
+       ♪ I GET SO ANGRY         
+  WHEN THE TEARDROPS START ♪    
+
+16
+00:00:55,289 --> 00:01:01,026
+   ♪ BUT HE CAN'T BE WOUNDED    
+  'CAUSE HE'S GOT NO HEART ♪    
+
+17
+00:01:01,095 --> 00:01:03,996
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+18
+00:01:07,568 --> 00:01:10,936
+       ♪ IT'S JUST LIKE         
+   WATCHIN' THE DETECTIVES ♪    
+
+19
+00:01:11,005 --> 00:01:13,939
+          Gwendolyn:            
+<i> THIS PROGRAM WAS MADE POSSIBLE</i> 
+       <i> BY CONTRIBUTIONS</i>        
+
+20
+00:01:14,008 --> 00:01:16,909
+     <i> TO YOUR PBS STATION</i>       
+    <i> FROM VIEWERS LIKE YOU.</i>     
+
+21
+00:01:20,881 --> 00:01:24,216
+ <i> OUR FIRST STORY INVESTIGATES</i>  
+      <i> A MARITIME MYSTERY</i>       
+
+22
+00:01:24,285 --> 00:01:28,120
+         <i> WASHED UP ON</i>          
+       <i> AN OREGON BEACH.</i>        
+
+23
+00:01:31,192 --> 00:01:34,893
+    <i> 1846: TENSIONS BETWEEN</i>     
+     <i> THE U.S. AND BRITAIN</i>      
+
+24
+00:01:34,962 --> 00:01:36,895
+       <i> ARE APPROACHING</i>         
+       <i> A BOILING POINT.</i>        
+
+25
+00:01:36,964 --> 00:01:38,764
+     <i> ALL EYES ARE FOCUSED</i>      
+
+26
+00:01:38,833 --> 00:01:40,899
+    <i> ON THE DISPUTED BORDER</i>     
+       <i> BETWEEN THE U.S.</i>        
+
+27
+00:01:40,968 --> 00:01:44,436
+   <i> AND THE BRITISH COLONIAL</i>    
+     <i> TERRITORY OF CANADA.</i>      
+
+28
+00:01:44,505 --> 00:01:46,838
+    <i> AT STAKE IS OWNERSHIP</i>      
+    <i> OF THE ENORMOUS RICHES</i>     
+
+29
+00:01:46,907 --> 00:01:51,577
+ <i> OF SOME 300,000 SQUARE MILES</i>  
+  <i> OF THE PACIFIC NORTHWEST.</i>    
+
+30
+00:01:51,645 --> 00:01:53,612
+        <i> THE U.S. NEEDS</i>         
+        <i> RECONNAISSANCE</i>         
+
+31
+00:01:53,681 --> 00:01:56,114
+        <i> AND DISPATCHES</i>         
+    <i> AN ARMED NAVAL VESSEL,</i>     
+
+32
+00:01:56,183 --> 00:01:58,383
+        <i> THE</i> USS SHARK.         
+
+33
+00:01:58,452 --> 00:02:00,786
+     <i> BUT THAT SEPTEMBER,</i>       
+      <i> DISASTER STRIKES.</i>        
+
+34
+00:02:00,854 --> 00:02:02,888
+       <i> THE</i> SHARK<i> WRECKS</i>        
+          <i> AND SINKS</i>            
+
+35
+00:02:02,957 --> 00:02:06,325
+   <i> AT THE TREACHEROUS MOUTH</i>    
+    <i> OF THE COLUMBIA RIVER.</i>     
+
+36
+00:02:06,393 --> 00:02:08,794
+     <i> MORE THAN A CENTURY</i>       
+      <i> AND A HALF LATER,</i>        
+
+37
+00:02:08,862 --> 00:02:10,963
+         <i> 14-YEAR-OLD</i>           
+       <i> MIRANDA PETRONE</i>         
+
+38
+00:02:11,031 --> 00:02:13,999
+    <i> FROM TUALATIN, OREGON,</i>     
+  <i> THINKS SHE MAY HAVE FOUND</i>    
+
+39
+00:02:14,068 --> 00:02:16,235
+       <i> A PIECE OF THIS</i>         
+        <i> HISTORIC SHIP.</i>         
+
+40
+00:02:16,303 --> 00:02:18,637
+  ME AND MY DAD WERE WALKING    
+       ALONG THE BEACH,         
+
+41
+00:02:18,706 --> 00:02:20,739
+   AND I SAW THIS BIG THING     
+          WITH RUST,            
+
+42
+00:02:20,808 --> 00:02:22,574
+         AND I'M LIKE,          
+    "HEY, DAD, COME HERE."      
+
+43
+00:02:22,643 --> 00:02:23,709
+HI.                             
+
+44
+00:02:23,777 --> 00:02:26,011
+               I'M GWEN WRIGHT, 
+               NICE TO MEET YOU.
+
+45
+00:02:26,080 --> 00:02:28,246
+ SO I HEAR YOU FOUND SOMETHING  
+ PRETTY INTERESTING AROUND HERE.
+
+46
+00:02:28,315 --> 00:02:29,615
+YEAH, I DID.                    
+
+47
+00:02:29,683 --> 00:02:31,483
+                    WHAT WAS IT?
+I FOUND A CANNON.               
+
+48
+00:02:31,552 --> 00:02:33,085
+               NOW, ARE YOU SURE
+               IT WAS A CANNON? 
+
+49
+00:02:33,153 --> 00:02:34,620
+WELL, NOT AT FIRST.             
+
+50
+00:02:34,688 --> 00:02:36,455
+ME AND MY DAD WERE WALKING      
+ALONG THE BEACH                 
+
+51
+00:02:36,523 --> 00:02:39,024
+AND THERE WAS THIS              
+BIG BLACK ROCKY THING,          
+
+52
+00:02:39,093 --> 00:02:41,393
+SO I WENT UP A LITTLE CLOSER    
+AND EVENTUALLY SAW RUST.        
+
+53
+00:02:41,462 --> 00:02:43,996
+I THOUGHT, "ROCKS AREN'T        
+SUPPOSED TO HAVE RUST,"         
+
+54
+00:02:44,064 --> 00:02:45,430
+AND SO I CALLED                 
+MY DAD OVER.                    
+
+55
+00:02:45,499 --> 00:02:46,932
+HE CAME AND                     
+CHECKED IT OUT.                 
+
+56
+00:02:47,001 --> 00:02:48,767
+HE WAS LIKE, "HUH,              
+MAYBE IT'S A CANNON."           
+
+57
+00:02:48,836 --> 00:02:51,003
+HE WAS JUST JOKING, THOUGH,     
+BUT I STILL WENT OUT THERE,     
+
+58
+00:02:51,071 --> 00:02:52,971
+AND IT WAS, SO...               
+
+59
+00:02:53,040 --> 00:02:54,906
+       NOW, I'M HOPING THOSE ARE
+       SOME PICTURES YOU TOOK.  
+
+60
+00:02:54,975 --> 00:02:56,875
+                  IS THAT RIGHT?
+YES.                            
+
+61
+00:02:56,944 --> 00:02:58,310
+                 SO THIS IS YOU.
+
+62
+00:02:58,379 --> 00:02:59,778
+          ARE THESE YOUR SISTERS
+          OR FRIENDS?           
+
+63
+00:02:59,847 --> 00:03:02,247
+WELL, THAT ONE'S MY SISTER      
+AND THAT ONE'S MY FRIEND.       
+
+64
+00:03:02,316 --> 00:03:05,117
+  WHAT DID YOU NOTICE, ACTUALLY,
+  WAS IT THIS RUST HERE?        
+
+65
+00:03:05,185 --> 00:03:07,919
+YEAH, I WALKED UP CLOSER        
+AND SAW THERE WAS RUST.         
+
+66
+00:03:07,988 --> 00:03:10,756
+AND THEN THIS FRIEND OF OURS    
+FOUND THE SECOND ONE.           
+
+67
+00:03:10,824 --> 00:03:13,692
+    <i> MIRANDA'S FRIEND MADE</i>      
+       <i> A SIMILAR FIND,</i>         
+
+68
+00:03:13,761 --> 00:03:16,595
+         <i> ANOTHER BIG</i>           
+    <i> STONE-COVERED OBJECT.</i>      
+
+69
+00:03:16,663 --> 00:03:18,130
+       WAS IT IN THE SAME PLACE?
+
+70
+00:03:18,198 --> 00:03:20,665
+UM, NO, IT WAS PROBABLY         
+A LITTLE BIT FARTHER OUT.       
+
+71
+00:03:20,734 --> 00:03:25,070
+<i> MIRANDA'S DISCOVERY GENERATED</i>  
+  <i> A LOT OF LOCAL EXCITEMENT.</i>   
+
+72
+00:03:25,139 --> 00:03:27,406
+     <i> THE MEDIA SPECULATED</i>      
+     <i> SHE'D FOUND A RELIC</i>       
+
+73
+00:03:27,474 --> 00:03:31,343
+ <i> FROM THE SHIPWRECK OF AN OLD</i>  
+<i> NAVY VESSEL CALLED THE</i> SHARK.  
+
+74
+00:03:31,412 --> 00:03:33,512
+IT WAS MADE IN 1821,            
+
+75
+00:03:33,580 --> 00:03:35,947
+AND IT CRASHED IN 1846          
+AROUND THIS AREA.               
+
+76
+00:03:36,016 --> 00:03:37,716
+           WHAT DID YOU DO NEXT?
+
+77
+00:03:37,785 --> 00:03:39,618
+MY DAD, HE LOOKED               
+AT THIS BOOK,                   
+
+78
+00:03:39,686 --> 00:03:41,653
+AND IT SHOWED PICTURES          
+OF THE<i> SHARK,</i>                   
+
+79
+00:03:41,722 --> 00:03:43,355
+KIND OF LOOKED AT THEM,         
+WE WERE LIKE,                   
+
+80
+00:03:43,424 --> 00:03:45,190
+"OKAY, WELL, THIS HAS           
+SOME SIMILARITIES."             
+
+81
+00:03:45,259 --> 00:03:47,159
+      <i> MIRANDA'S RESEARCH</i>       
+          <i> INDICATED</i>            
+
+82
+00:03:47,227 --> 00:03:49,428
+     <i> THAT THE</i> SHARK<i> SANK</i>       
+    <i> IN THE COLUMBIA RIVER</i>      
+
+83
+00:03:49,496 --> 00:03:52,431
+        <i> 60 TO 75 MILES</i>         
+        <i> NORTH OF HERE</i>          
+
+84
+00:03:52,499 --> 00:03:55,133
+    <i> AND THAT SOME WRECKAGE</i>     
+   <i> COULD HAVE DRIFTED SOUTH</i>    
+
+85
+00:03:55,202 --> 00:03:56,835
+        <i> TO THIS BEACH.</i>         
+
+86
+00:03:56,904 --> 00:03:59,504
+  CAN YOU TELL ME EXACTLY WHAT  
+  YOU'D LIKE FOR ME TO FIND OUT?
+
+87
+00:03:59,573 --> 00:04:01,640
+I'D LIKE TO FIND OUT            
+IF IT REALLY IS A CANNON        
+
+88
+00:04:01,708 --> 00:04:04,042
+AND IF IT REALLY DID            
+COME FROM THE<i> SHARK.</i>            
+
+89
+00:04:04,111 --> 00:04:05,610
+        I'LL SEE WHAT I CAN FIND
+        FOR YOU, OKAY?          
+
+90
+00:04:05,679 --> 00:04:07,579
+    OKAY.                       
+
+91
+00:04:07,648 --> 00:04:10,415
+  <i> WHATEVER IT IS SHE'S FOUND</i>   
+    <i> IS NOW BEING PROTECTED</i>     
+
+92
+00:04:10,484 --> 00:04:13,051
+     <i> BY THE OREGON PARKS</i>       
+  <i> AND RECREATION DEPARTMENT</i>    
+
+93
+00:04:13,120 --> 00:04:15,353
+        <i> AT NEHALEM BAY</i>         
+         <i> STATE PARK.</i>           
+
+94
+00:04:15,422 --> 00:04:17,022
+        HI, ARE YOU CHRIS HAVEL?
+I AM.                           
+
+95
+00:04:17,090 --> 00:04:19,224
+            GWEN WRIGHT,        
+            SO NICE TO MEET YOU.
+
+96
+00:04:19,293 --> 00:04:21,493
+        <i> CHRIS HAVEL IS</i>         
+   <i> THE PROJECT COORDINATOR</i>     
+
+97
+00:04:21,562 --> 00:04:23,962
+     <i> FOR THE DEPARTMENT'S</i>      
+     <i> CANNON CONSERVATION.</i>      
+
+98
+00:04:24,031 --> 00:04:26,531
+              LET'S TAKE A LOOK.
+OH, MY.                         
+
+99
+00:04:26,600 --> 00:04:29,201
+IT'S ACTUALLY BEAUTIFUL,        
+ALL THESE COLORS.               
+
+100
+00:04:29,269 --> 00:04:32,471
+WELL, I CAN SEE THAT THIS ONE   
+CERTAINLY LOOKS LIKE A CANNON,  
+
+101
+00:04:32,539 --> 00:04:34,372
+ALTHOUGH THE OTHER ONE,         
+NOT AT ALL.                     
+
+102
+00:04:34,441 --> 00:04:37,042
+           SO WHAT IS THIS STUFF
+           THAT'S ALL OVER IT   
+
+103
+00:04:37,110 --> 00:04:39,644
+           BEYOND THE ROCKS     
+           AND STONES I CAN SEE?
+
+104
+00:04:39,713 --> 00:04:41,580
+WELL, THESE ARE CONCRETIONS.    
+
+105
+00:04:41,648 --> 00:04:43,748
+THIS IS A NATURAL FORM          
+OF CONCRETE                     
+
+106
+00:04:43,817 --> 00:04:46,585
+THAT FORMS AROUND ANYTHING      
+THAT'S LEFT ON THE OCEAN SHORE  
+
+107
+00:04:46,653 --> 00:04:49,487
+IN CONTACT WITH THE SAND        
+FOR A LONG PERIOD OF TIME.      
+
+108
+00:04:49,556 --> 00:04:52,858
+    DOES THIS KIND OF CONCRETION
+    GIVE YOU ANY IDEA ABOUT AGE?
+
+109
+00:04:52,926 --> 00:04:56,228
+  IT'S DIFFICULT TO TELL THE AGE
+  JUST BASED ON THE CONCRETION. 
+
+110
+00:04:56,296 --> 00:04:59,664
+  THE KIND OF CHEMICALS THAT ARE
+  ON THE BEACH, THE WEATHERING, 
+
+111
+00:04:59,733 --> 00:05:02,234
+        HOW MUCH WATER IS THERE,
+        THE SALINITY,           
+
+112
+00:05:02,302 --> 00:05:04,970
+          ALL OF THESE THINGS   
+          CAN AFFECT HOW QUICKLY
+
+113
+00:05:05,038 --> 00:05:06,738
+                 THE CONCRETIONS
+                 BUILD UP.      
+
+114
+00:05:06,807 --> 00:05:08,840
+          <i> CHRIS SAYS</i>           
+     <i> MIRANDA'S DISCOVERY</i>       
+
+115
+00:05:08,909 --> 00:05:12,077
+  <i> HAS THE DEPARTMENT EXCITED</i>   
+    <i> BECAUSE 100 YEARS AGO,</i>     
+
+116
+00:05:12,145 --> 00:05:16,081
+<i> ANOTHER CANNON, ALSO PRESUMED</i>  
+  <i> TO BE FROM THE</i> USS SHARK,    
+
+117
+00:05:16,149 --> 00:05:19,184
+      <i> WAS RETRIEVED FROM</i>       
+     <i> THE VERY SAME BEACH.</i>      
+
+118
+00:05:19,253 --> 00:05:21,219
+        I'VE GOT A DRAWING HERE.
+
+119
+00:05:21,288 --> 00:05:24,189
+<i> CHRIS COMPARES THE SOAKING MASS</i>
+     <i> OF SEDIMENT AND RUST</i>      
+
+120
+00:05:24,258 --> 00:05:27,559
+      <i> TO A DIAGRAM OF A </i>       
+      SHARK-ERA<i> CARRONADE,</i>      
+
+121
+00:05:27,628 --> 00:05:31,463
+<i> OR SHORT-BARRELED CANNON, THAT</i> 
+ <i> COULD BE HIDDEN BENEATH IT.</i>   
+
+122
+00:05:31,531 --> 00:05:34,299
+   <i> BUT IF I'M TO DETERMINE</i>     
+   <i> WHETHER MIRANDA'S CANNON</i>    
+
+123
+00:05:34,368 --> 00:05:35,967
+    <i> IS FROM THE</i> USS SHARK,     
+
+124
+00:05:36,036 --> 00:05:38,303
+      <i> I'LL NEED TO LEARN</i>       
+  <i> ALL I CAN ABOUT THE SHIP,</i>    
+
+125
+00:05:38,372 --> 00:05:41,539
+        <i> STARTING WITH</i>          
+      <i> ITS FINAL VOYAGE.</i>        
+
+126
+00:05:41,608 --> 00:05:43,508
+        <i> I'M RETRACING</i>          
+      <i> THE</i> SHARK'S<i> ROUTE</i>        
+
+127
+00:05:43,577 --> 00:05:45,844
+    <i> UP THE COLUMBIA RIVER</i>      
+      <i> TO FORT VANCOUVER,</i>       
+
+128
+00:05:45,912 --> 00:05:48,179
+   <i> WHERE THE SHIP ANCHORED</i>     
+    <i> WHEN IT FIRST ARRIVED</i>      
+
+129
+00:05:48,248 --> 00:05:50,181
+  <i> IN THE PACIFIC NORTHWEST.</i>    
+
+130
+00:05:50,250 --> 00:05:52,284
+       <i> THE FORT, NOW IN</i>        
+      <i> WASHINGTON STATE,</i>        
+
+131
+00:05:52,352 --> 00:05:54,586
+     <i> THEN OPERATED UNDER</i>       
+      <i> AN ENGLISH CHARTER</i>       
+
+132
+00:05:54,655 --> 00:05:56,855
+       <i> AND BELONGED TO</i>         
+  <i> THE HUDSON'S BAY COMPANY,</i>    
+
+133
+00:05:56,923 --> 00:05:59,758
+    <i> THE FIRST CORPORATION</i>      
+      <i> IN NORTH AMERICA.</i>        
+
+134
+00:05:59,826 --> 00:06:01,593
+          <i> GREG SHINE</i>           
+       <i> IS CHIEF RANGER.</i>        
+
+135
+00:06:01,662 --> 00:06:03,094
+      WELCOME TO FORT VANCOUVER.
+
+136
+00:06:03,163 --> 00:06:04,796
+                 HERE'S AN IMAGE
+                 OF THE<i> SHARK.</i>  
+
+137
+00:06:04,865 --> 00:06:08,600
+   THE<i> SHARK</i> WAS A SCHOONER,    
+   AND SHE WAS LAUNCHED IN 1821.
+
+138
+00:06:08,669 --> 00:06:10,769
+              AND A FORE-AND-AFT
+              RIGGED SCHOONER,  
+
+139
+00:06:10,837 --> 00:06:13,705
+    WHICH MEANT IT HAD TWO MASTS
+    HERE SLIGHTLY RAKED BACK.   
+
+140
+00:06:13,774 --> 00:06:15,373
+        <i> THE</i> SHARK<i> WAS</i>          
+         <i> WELL-ARMED,</i>           
+
+141
+00:06:15,442 --> 00:06:17,208
+        <i> HAVING POLICED</i>         
+     <i> WEST AFRICAN WATERS</i>       
+
+142
+00:06:17,277 --> 00:06:18,877
+   <i> AGAINST THE SLAVE TRADE,</i>    
+
+143
+00:06:18,945 --> 00:06:22,280
+<i> SAFELY CONDUCTED FREED SLAVES</i>  
+  <i> TO NEWLY FOUNDED LIBERIA,</i>    
+
+144
+00:06:22,349 --> 00:06:24,382
+        <i> AND PROTECTED</i>          
+      <i> AMERICAN MERCHANTS</i>       
+
+145
+00:06:24,451 --> 00:06:26,317
+       <i> AGAINST PIRATES</i>         
+      <i> IN THE CARIBBEAN.</i>        
+
+146
+00:06:26,386 --> 00:06:30,121
+BUT I CAN'T SEE ANY CANNONS     
+IN THIS PICTURE.                
+
+147
+00:06:30,190 --> 00:06:32,524
+DO YOU KNOW HOW MANY            
+SHE WAS CARRYING?               
+
+148
+00:06:32,592 --> 00:06:34,926
+             YES, THE<i> SHARK</i>     
+              HAD TEN CARRONADES
+
+149
+00:06:34,995 --> 00:06:39,197
+    AND TWO LONG GUNS, AND THESE
+    LITTLE OPEN AREAS HERE      
+
+150
+00:06:39,266 --> 00:06:41,533
+              WERE CANNON PORTS.
+
+151
+00:06:41,601 --> 00:06:44,869
+    <i> THIS EXPERIENCED SHIP</i>      
+      <i> WAS CHOSEN TO SAIL</i>       
+
+152
+00:06:44,938 --> 00:06:48,339
+  <i> FOR THE PACIFIC NORTHWEST</i>    
+           <i> IN 1846.</i>            
+
+153
+00:06:48,408 --> 00:06:51,309
+  <i> AS THE U.S. BORDER DISPUTE</i>   
+  <i> WITH BRITAIN INTENSIFIED,</i>    
+
+154
+00:06:51,378 --> 00:06:54,012
+    <i> THE</i> SHARK'S<i> COMMANDER,</i>     
+      <i> LT. NEIL HOWISON,</i>        
+
+155
+00:06:54,081 --> 00:06:56,281
+        <i> WAS INSTRUCTED</i>         
+      <i> TO RALLY AMERICANS</i>       
+
+156
+00:06:56,349 --> 00:06:58,149
+        <i> WITH A DISPLAY</i>         
+         <i> OF THE FLAG,</i>          
+
+157
+00:06:58,218 --> 00:07:00,151
+            <i> SURVEY</i>             
+    <i> THE OREGON TERRITORY,</i>      
+
+158
+00:07:00,220 --> 00:07:02,387
+    <i> AND TALK WITH BRITISH</i>      
+  <i> AND AMERICAN HOMESTEADERS</i>    
+
+159
+00:07:02,456 --> 00:07:03,922
+        <i> LIVING THERE.</i>          
+
+160
+00:07:03,990 --> 00:07:05,623
+                 HIS ORDERS WERE
+                 VERY DIRECT:   
+
+161
+00:07:05,692 --> 00:07:07,892
+       HE WAS TO COME IN TO     
+       OBTAIN THEIR DISPOSITION,
+
+162
+00:07:07,961 --> 00:07:10,762
+   WHETHER IT WAS FOR THE UNITED
+   STATES OR FOR GREAT BRITAIN, 
+
+163
+00:07:10,831 --> 00:07:13,298
+             AND ALSO TO REPORT 
+             ON THE AGRICULTURE,
+
+164
+00:07:13,366 --> 00:07:15,033
+       THE COMMERCE OF THE AREA,
+
+165
+00:07:15,102 --> 00:07:18,069
+     AND GIVE A GENERAL OVERVIEW
+     OF THE OREGON COUNTRY.     
+
+166
+00:07:18,138 --> 00:07:19,737
+    <i> HOWISON KNEW A MISSTEP</i>     
+
+167
+00:07:19,806 --> 00:07:22,640
+ <i> COULD EASILY IGNITE TENSIONS</i>  
+         <i> IN THE AREA.</i>          
+
+168
+00:07:22,709 --> 00:07:24,275
+       <i> PRESIDENT POLK'S</i>        
+       <i> DEMOCRATIC PARTY</i>        
+
+169
+00:07:24,344 --> 00:07:26,511
+  <i> WAS PUSHING TO LEGITIMIZE</i>    
+     <i> AMERICAN SETTLEMENTS</i>      
+
+170
+00:07:26,580 --> 00:07:28,179
+    <i> ACROSS THE CONTINENT.</i>      
+
+171
+00:07:28,248 --> 00:07:31,082
+     <i> ONLY A YEAR EARLIER,</i>      
+           <i> IN 1845,</i>            
+
+172
+00:07:31,151 --> 00:07:34,185
+    <i> THIS DRIVE WAS DUBBED</i>      
+     <i> "MANIFEST DESTINY,"</i>       
+
+173
+00:07:34,254 --> 00:07:35,920
+       <i> IMPLYING THAT IT</i>        
+        <i> WAS GOD'S WILL</i>         
+
+174
+00:07:35,989 --> 00:07:39,591
+    <i> FOR THE UNITED STATES</i>      
+<i> TO EXPAND ACROSS THE CONTINENT</i> 
+
+175
+00:07:39,659 --> 00:07:43,361
+     <i> WEST TO THE PACIFIC,</i>      
+  <i> SOUTH INTO LATIN AMERICA,</i>    
+
+176
+00:07:43,430 --> 00:07:46,464
+        <i> AND NORTH INTO</i>         
+       <i> BRITISH CANADA.</i>         
+
+177
+00:07:46,533 --> 00:07:50,134
+  <i> THIS BELIEF HELPED INFLAME</i>   
+  <i> THE POLITICAL RALLYING CRY</i>   
+
+178
+00:07:50,203 --> 00:07:52,270
+     <i> OF "54-40 OR FIGHT,"</i>      
+
+179
+00:07:52,339 --> 00:07:54,772
+       <i> A CALL TO EXTEND</i>        
+       <i> AMERICA'S REACH</i>         
+
+180
+00:07:54,841 --> 00:07:56,841
+    <i> THROUGH BRITISH CANADA</i>     
+         <i> ALL THE WAY</i>           
+
+181
+00:07:56,910 --> 00:08:00,445
+    <i> TO LATITUDE 54 DEGREES</i>     
+       <i> AND 40 MINUTES.</i>         
+
+182
+00:08:00,514 --> 00:08:03,615
+  <i> THE OREGON SETTLERS NEEDED</i>   
+    <i> LITTLE ENCOURAGEMENT.</i>      
+
+183
+00:08:03,683 --> 00:08:05,917
+          THERE WERE CERTAINLY  
+          SOME AMERICAN SETTLERS
+
+184
+00:08:05,986 --> 00:08:08,486
+     THAT WERE HERE THAT WERE   
+     CROSSING THE COLUMBIA RIVER
+
+185
+00:08:08,555 --> 00:08:10,421
+                   AND BEGINNING
+                   TO HOMESTEAD,
+
+186
+00:08:10,490 --> 00:08:12,757
+    OR, IN THE EYES             
+    OF THE HUDSON'S BAY COMPANY,
+
+187
+00:08:12,826 --> 00:08:15,360
+   JUMPED LAND CLAIMS           
+   THAT THE HUDSON'S BAY COMPANY
+
+188
+00:08:15,428 --> 00:08:16,794
+                HAD ESTABLISHED.
+
+189
+00:08:16,863 --> 00:08:19,497
+WHAT WAS THE BRITISH RESPONSE   
+TO THE<i> SHARK</i> ARRIVING?          
+
+190
+00:08:19,566 --> 00:08:22,033
+        THE HUDSON'S BAY COMPANY
+        WELCOMED THE<i> SHARK</i>      
+
+191
+00:08:22,102 --> 00:08:24,702
+   AND LT. HOWISON              
+   AND WELCOMED AN AMERICAN SHIP
+
+192
+00:08:24,771 --> 00:08:27,071
+         INTO THE COLUMBIA RIVER
+         BECAUSE THEY PROVIDED  
+
+193
+00:08:27,140 --> 00:08:28,740
+             SOME LAW AND ORDER,
+             REALLY,            
+
+194
+00:08:28,808 --> 00:08:30,708
+     TO AN AREA THAT DIDN'T HAVE
+     MUCH LAW AND ORDER.        
+
+195
+00:08:30,777 --> 00:08:33,077
+        <i> WITH THE LAND</i>          
+  <i> AND TEMPERAMENT SURVEYED,</i>    
+
+196
+00:08:33,146 --> 00:08:35,380
+       <i> HOWISON SET SAIL</i>        
+      <i> FOR SAN FRANCISCO</i>        
+
+197
+00:08:35,448 --> 00:08:36,981
+     <i> TO FILE HIS REPORT.</i>       
+
+198
+00:08:37,050 --> 00:08:38,449
+                 WHEN THEY LEFT 
+                 FORT VANCOUVER,
+
+199
+00:08:38,518 --> 00:08:40,018
+               THEY WERE ALREADY
+               BEHIND SCHEDULE. 
+
+200
+00:08:40,086 --> 00:08:41,686
+               THE WINTER CAN BE
+               VERY FEROCIOUS,  
+
+201
+00:08:41,755 --> 00:08:43,488
+       AND ESPECIALLY           
+       AT THE MOUTH OF THE RIVER
+
+202
+00:08:43,556 --> 00:08:45,657
+    NEAR THE COLUMBIA RIVER BAR.
+
+203
+00:08:45,725 --> 00:08:48,393
+         <i> AS THE</i> SHARK          
+    <i> HEADED FOR OPEN SEAS,</i>      
+
+204
+00:08:48,461 --> 00:08:50,495
+        <i> IT WRECKED ON</i>          
+     <i> AN UNCHARTED SANDBAR</i>      
+
+205
+00:08:50,563 --> 00:08:52,397
+         <i> AT THE MOUTH</i>          
+       <i> OF THE COLUMBIA.</i>        
+
+206
+00:08:52,465 --> 00:08:56,000
+   LUCKILY, ALL OF THE PERSONNEL
+   WERE ABLE TO SURVIVE.        
+
+207
+00:08:56,069 --> 00:08:59,570
+   <i> GREG SHOWS ME HOWISON'S</i>     
+ <i> REPORT TO THE U.S. CONGRESS.</i>  
+
+208
+00:08:59,639 --> 00:09:03,608
+<i> ONE PASSAGE MAY RELATE DIRECTLY</i>
+   <i> TO MIRANDA'S DISCOVERY.</i>     
+
+209
+00:09:03,677 --> 00:09:06,210
+   <i> IT SAYS HOWISON IS EAGER</i>    
+          <i> TO RECOVER</i>           
+
+210
+00:09:06,279 --> 00:09:08,446
+          <i> THE SHIP'S</i>           
+        <i> LOST WEAPONS.</i>          
+
+211
+00:09:08,515 --> 00:09:11,015
+"RECEIVING INFORMATIONS         
+THAT PART OF THE HULL           
+
+212
+00:09:11,084 --> 00:09:13,551
+"WITH GUNS UPON IT              
+HAD COME ASHORE,                
+
+213
+00:09:13,620 --> 00:09:16,387
+"I SENT MIDSHIPMAN SIMES,       
+AN ENTERPRISING YOUTH,          
+
+214
+00:09:16,456 --> 00:09:17,922
+TO VISIT THE SPOT."             
+
+215
+00:09:17,991 --> 00:09:19,590
+         <i> IN THE WATER</i>          
+     <i> JUST OFF THE BEACH,</i>       
+
+216
+00:09:19,659 --> 00:09:21,559
+         <i> SIMES FOUND</i>           
+   <i> A BROKEN SECTION OF DECK</i>    
+
+217
+00:09:21,628 --> 00:09:24,729
+  <i> WITH THREE OF THE</i> SHARK'S    
+     <i> ONE-TON CARRONADES.</i>       
+
+218
+00:09:24,798 --> 00:09:28,232
+"HE SUCCEEDED IN GETTING ONE    
+ABOVE THE HIGH-WATER MARK,      
+
+219
+00:09:28,301 --> 00:09:30,201
+"BUT THE OTHER TWO              
+WERE INACCESSIBLE               
+
+220
+00:09:30,270 --> 00:09:32,637
+ON ACCOUNT OF THE SURF."        
+
+221
+00:09:32,706 --> 00:09:34,706
+          <i> GREG SAYS</i>            
+    <i> THE RESCUED CARRONADE</i>      
+
+222
+00:09:34,774 --> 00:09:36,441
+         <i> WAS DRAGGED</i>           
+       <i> TOWARD THE SHORE</i>        
+
+223
+00:09:36,509 --> 00:09:38,409
+   <i> BUT HAD TO BE ABANDONED.</i>    
+
+224
+00:09:38,478 --> 00:09:41,346
+ <i> IN 1898, IT WAS REDISCOVERED</i>  
+        <i> AFTER A STORM</i>          
+
+225
+00:09:41,414 --> 00:09:43,348
+    <i> AND IS NOW ON EXHIBIT</i>      
+
+226
+00:09:43,416 --> 00:09:46,718
+     <i> AT THE CANNON BEACH</i>       
+  <i> HISTORICAL SOCIETY MUSEUM.</i>   
+
+227
+00:09:46,786 --> 00:09:48,986
+     <i> DID MIRANDA DISCOVER</i>      
+        <i> ONE OF THE TWO</i>         
+
+228
+00:09:49,055 --> 00:10:01,165
+      <i> LEFT IN THE SURF?</i>        
+
+229
+00:10:01,234 --> 00:10:03,034
+EOLOGIST                        
+        <i> DENNIS GRIFFIN</i>         
+
+230
+00:10:03,103 --> 00:10:06,170
+   <i> SAYS THE COLUMBIA RIVER</i>     
+  <i> WAS A NOTORIOUS GRAVEYARD</i>    
+
+231
+00:10:06,239 --> 00:10:09,140
+    <i> FOR HUNDREDS OF SHIPS,</i>     
+     <i> NOT JUST THE</i> SHARK.       
+
+232
+00:10:09,209 --> 00:10:12,543
+WHAT WE SEE TODAY IS A SMALL    
+GLIMPSE OF WHAT IT ONCE WAS.    
+
+233
+00:10:12,612 --> 00:10:14,545
+IT WAS THE MIGHTY COLUMBIA      
+BEFORE ALL THE DAMS.            
+
+234
+00:10:14,614 --> 00:10:16,914
+BUT THE MOUTH OF THE COLUMBIA   
+WAS A VERY WICKED PLACE.        
+
+235
+00:10:16,983 --> 00:10:19,450
+YOU HAD TIDES COMING UP THERE   
+OR STORMS COMING UP THERE       
+
+236
+00:10:19,519 --> 00:10:21,486
+FROM 35 TO 50 FEET WAVES        
+TO CRASH.                       
+
+237
+00:10:21,554 --> 00:10:23,421
+               FIFTY FEET WAVES!
+HUGE WAVES.                     
+
+238
+00:10:23,490 --> 00:10:25,389
+THEY CALL THIS THE              
+GRAVEYARD OF THE PACIFIC.       
+
+239
+00:10:25,458 --> 00:10:28,626
+    <i> THE MOUTH OF THE RIVER</i>     
+  <i> WAS KNOWN TO BE DANGEROUS,</i>   
+
+240
+00:10:28,695 --> 00:10:31,829
+<i> BUT DENNIS SAYS IF YOU WANTED</i>  
+<i> A PIECE OF THE REGION'S WEALTH,</i>
+
+241
+00:10:31,898 --> 00:10:34,499
+        <i> YOU HAD TO RUN</i>         
+   <i> THE COLUMBIA'S GAUNTLET.</i>    
+
+242
+00:10:34,567 --> 00:10:36,868
+YOU HAD THE HUDSON'S BAY COMPANY
+IN CANADA                       
+
+243
+00:10:36,936 --> 00:10:38,469
+COMING ACROSS FOR FURS.         
+
+244
+00:10:38,538 --> 00:10:40,104
+LOTS AND LOTS                   
+OF SALMON.                      
+
+245
+00:10:40,173 --> 00:10:42,573
+SAN FRANCISCO AND THE           
+BIG CITIES, THEY NEEDED WOOD.   
+
+246
+00:10:42,642 --> 00:10:45,109
+PEOPLE CAME UP THE COAST,       
+FOUND LOTS OF TREES.            
+
+247
+00:10:45,178 --> 00:10:49,280
+ <i> ALL THAT SHIP TRAFFIC MEANT</i>   
+<i> A LOT OF WRECKS OVER THE YEARS.</i>
+
+248
+00:10:49,349 --> 00:10:53,384
+OF THE 308 I KNOW, I HAVE 104   
+THAT I THINK WERE WRECKED       
+
+249
+00:10:53,453 --> 00:10:55,520
+EITHER AT THE MOUTH             
+OF THE COLUMBIA                 
+
+250
+00:10:55,588 --> 00:10:57,488
+AND DOWN TO ARCH CAPE,          
+IN THAT AREA.                   
+
+251
+00:10:57,557 --> 00:10:59,757
+NOW, OF THOSE 104,              
+WE HAVE TO NARROW IT DOWN,      
+
+252
+00:10:59,826 --> 00:11:01,292
+WHICH ONES CARRIED CANNON,      
+
+253
+00:11:01,361 --> 00:11:03,194
+AND WE DON'T KNOW THAT,         
+AND THAT'S A BIG IMPORTANT PART.
+
+254
+00:11:03,263 --> 00:11:04,729
+               WHAT DO YOU THINK
+               ARE THE ODDS     
+
+255
+00:11:04,797 --> 00:11:06,931
+        THAT THE CANNONS WE HAVE
+        ARE FROM THE<i> SHARK?</i>     
+
+256
+00:11:07,000 --> 00:11:08,599
+EVERYONE WANTS TO SAY           
+IT'S THE<i> SHARK.</i>                 
+
+257
+00:11:08,668 --> 00:11:09,800
+                    I KNOW.     
+
+258
+00:11:09,869 --> 00:11:11,836
+AND I'D LIKE TO THINK           
+OF IT BEING THE<i> SHARK,</i>          
+
+259
+00:11:11,905 --> 00:11:13,738
+BUT YOU DON'T KNOW.             
+
+260
+00:11:13,806 --> 00:11:16,407
+<i> DENNIS SUGGESTS THE RECOVERED</i>  
+        SHARK<i> CARRONADE</i>         
+
+261
+00:11:16,476 --> 00:11:19,710
+      <i> COULD HELP RESOLVE</i>       
+         <i> OUR MYSTERY.</i>          
+
+262
+00:11:19,779 --> 00:11:23,147
+  <i> I'M MEETING COLUMBIA RIVER</i>   
+   <i> MARITIME MUSEUM CURATOR</i>     
+
+263
+00:11:23,216 --> 00:11:25,650
+        <i> DAVID PEARSON</i>          
+      <i> FOR A CLOSER LOOK.</i>       
+
+264
+00:11:25,718 --> 00:11:28,686
+SO THIS IS IT, THE CANNON       
+THAT WAS FOUND IN 1898?         
+
+265
+00:11:28,755 --> 00:11:31,289
+              THIS IS IT, RIGHT,
+              JANUARY OF 1898.  
+
+266
+00:11:31,357 --> 00:11:34,191
+  <i> DAVE SAYS THIS CANNON WAS</i>    
+ <i> RECOVERED ON THE SAME BEACH,</i>  
+
+267
+00:11:34,260 --> 00:11:38,129
+  <i> ABOUT 200 FEET FROM WHERE</i>    
+ <i> MIRANDA MADE HER DISCOVERY.</i>   
+
+268
+00:11:38,197 --> 00:11:40,131
+WAS THIS THE ORIGINAL BASE,     
+BY THE WAY?                     
+
+269
+00:11:40,199 --> 00:11:42,400
+ THIS ONE THAT WE'RE LOOKING AT 
+ HERE IS ACTUALLY A REPRODUCTION
+
+270
+00:11:42,468 --> 00:11:44,302
+            FROM NAVAL DRAWINGS 
+            THAT ARE WELL KNOWN.
+
+271
+00:11:44,370 --> 00:11:46,737
+    <i> IF MIRANDA'S DISCOVERY</i>     
+     <i> HAS A SIMILAR BASE,</i>       
+
+272
+00:11:46,806 --> 00:11:48,806
+      <i> THAT WOULD CONFIRM</i>       
+       <i> IT'S A CARRONADE</i>        
+
+273
+00:11:48,875 --> 00:11:51,909
+     <i> FROM THE RIGHT ERA,</i>       
+<i> BUT NOT NECESSARILY THE</i> SHARK  
+
+274
+00:11:51,978 --> 00:11:54,245
+  <i> OR EVEN AN AMERICAN SHIP.</i>    
+
+275
+00:11:54,314 --> 00:11:57,815
+  <i> THE CARRONADE WAS INVENTED</i>   
+<i> BY THE BRITISH FOR THEIR NAVY.</i> 
+
+276
+00:11:57,884 --> 00:11:59,951
+             THEIR CARRONADE WAS
+             ACTUALLY ATTACHED  
+
+277
+00:12:00,019 --> 00:12:01,652
+                    TO THE DECK 
+                    OF THE SHIP.
+
+278
+00:12:01,721 --> 00:12:03,688
+       AND IT WOULD ACTUALLY BE 
+       PINNED AT THE FRONT OF IT
+
+279
+00:12:03,756 --> 00:12:05,389
+                 AND THEN SWIVEL
+                 ON THAT PIN    
+
+280
+00:12:05,458 --> 00:12:07,625
+       TO PREVENT IT FROM MOVING
+       AROUND ON THE SHIP.      
+
+281
+00:12:07,694 --> 00:12:09,460
+      IT WAS THE OLD EXPRESSION,
+      "LOOSE CANNONS,"          
+
+282
+00:12:09,529 --> 00:12:10,995
+        AND THAT WAS EXACTLY IT,
+
+283
+00:12:11,064 --> 00:12:12,697
+         THAT WAS THE LAST THING
+         YOU WANTED ON A SHIP   
+
+284
+00:12:12,765 --> 00:12:14,598
+   HEAVING IN THE WAVES         
+   WAS A CANNON BOUNCING AROUND.
+
+285
+00:12:14,667 --> 00:12:16,367
+             SO THE NAVY TOOK   
+             THE ADDITIONAL STEP
+
+286
+00:12:16,436 --> 00:12:18,436
+     AND WOULD ACTUALLY PIN THEM
+     TO THE DECK.               
+
+287
+00:12:18,504 --> 00:12:20,972
+        <i> DAVE EXPLAINS</i>          
+       <i> HOW THIS WORKED.</i>        
+
+288
+00:12:21,040 --> 00:12:23,441
+  <i> A THREADED PIN AT THE BACK</i>   
+        <i> OF THE BARREL</i>          
+
+289
+00:12:23,509 --> 00:12:25,276
+      <i> ADJUSTED THE TILT.</i>       
+
+290
+00:12:25,345 --> 00:12:29,447
+  <i> THE BARREL WAS MOUNTED ON</i>    
+   <i> A SMALL BASE, OR SLIDER,</i>    
+
+291
+00:12:29,515 --> 00:12:32,216
+   <i> WHICH FIT ONTO A LONGER</i>     
+        <i> SLOTTED BOARD.</i>         
+
+292
+00:12:32,285 --> 00:12:34,518
+  <i> THIS BOARD SAT ON ROLLERS</i>    
+         <i> AT THE BACK</i>           
+
+293
+00:12:34,587 --> 00:12:36,487
+         <i> AND PIVOTED</i>           
+        <i> AT THE FRONT.</i>          
+
+294
+00:12:36,556 --> 00:12:38,789
+     <i> ANOTHER PIN BENEATH</i>       
+        <i> THE CARRONADE</i>          
+
+295
+00:12:38,858 --> 00:12:41,058
+     <i> WENT FROM THE SLIDER</i>      
+        <i> INTO THE SLOT.</i>         
+
+296
+00:12:41,127 --> 00:12:43,995
+  <i> WHEN THE CARRONADE FIRED,</i>    
+ <i> THIS CONTROLLED THE RECOIL.</i>   
+
+297
+00:12:44,063 --> 00:12:48,165
+<i> DAVE SAYS THE RECENT FINDS SHOW</i>
+ <i> SIMILARITIES TO THIS DESIGN.</i>  
+
+298
+00:12:48,234 --> 00:12:50,534
+     THEY STILL HAVE THAT SLIDER
+     ATTACHED TO IT,            
+
+299
+00:12:50,603 --> 00:12:52,536
+            OR AT LEAST EVIDENCE
+            OF THAT.            
+
+300
+00:12:52,605 --> 00:12:55,740
+  THAT BRINGS THE PROBABILITY   
+  OF THIS BEING A U.S. NAVY SHIP
+
+301
+00:12:55,808 --> 00:12:58,576
+               MUCH, MUCH HIGHER
+               IN OUR EYES.     
+
+302
+00:12:58,644 --> 00:13:01,712
+ <i> BUT WITH ALL THE CONCRETION</i>   
+<i> SURROUNDING MIRANDA'S OBJECT,</i>  
+
+303
+00:13:01,781 --> 00:13:04,915
+   <i> IT'S IMPOSSIBLE TO MAKE</i>     
+   <i> A DEFINITIVE CONNECTION.</i>    
+
+304
+00:13:04,984 --> 00:13:09,253
+       <i> MY INVESTIGATION</i>        
+     <i> MIGHT BE AT AN END.</i>       
+
+305
+00:13:09,322 --> 00:13:12,790
+     <i> BUT BECAUSE INTEREST</i>      
+  <i> IN MIRANDA'S FIND IS HIGH,</i>   
+
+306
+00:13:12,859 --> 00:13:16,861
+<i> I'VE BEEN ABLE TO SCHEDULE AN</i>  
+<i> X-RAY SESSION FOR THE CANNONS.</i> 
+
+307
+00:13:16,929 --> 00:13:20,030
+ <i> I'M RETURNING TO NEHALEM BAY</i>  
+   <i> TO MEET ROBERT NEYLAND,</i>     
+
+308
+00:13:20,099 --> 00:13:22,666
+    <i> HEAD OF THE UNDERWATER</i>     
+      <i> ARCHEOLOGY BRANCH</i>        
+
+309
+00:13:22,735 --> 00:13:24,468
+         <i> OF THE NAVAL</i>          
+      <i> HISTORICAL CENTER,</i>       
+
+310
+00:13:24,537 --> 00:13:26,303
+       <i> WHO WILL EXAMINE</i>        
+         <i> THE X-RAYS.</i>           
+
+311
+00:13:26,372 --> 00:13:29,039
+THIS IS JUST                    
+A GENERIC CARRONADE.            
+
+312
+00:13:29,108 --> 00:13:31,108
+         <i> BOB TELLS ME</i>          
+      <i> THESE WERE COMMON</i>        
+
+313
+00:13:31,177 --> 00:13:33,210
+      <i> ON MANY NAVY SHIPS</i>       
+        <i> LIKE THE</i> SHARK         
+
+314
+00:13:33,279 --> 00:13:35,446
+      <i> IN THE FIRST HALF</i>        
+     <i> OF THE 19th CENTURY.</i>      
+
+315
+00:13:35,515 --> 00:13:37,748
+IN A CLOSE-IN FIGHT,            
+THEY WOULD DO MORE DAMAGE       
+
+316
+00:13:37,817 --> 00:13:39,750
+TO THE OPPOSING                 
+OR THE ENEMY SHIP               
+
+317
+00:13:39,819 --> 00:13:41,719
+AND DO MORE DAMAGE              
+TO THE CREWS, TOO.              
+
+318
+00:13:41,788 --> 00:13:44,255
+IT WOULD SMASH UP THE WOOD      
+OR THE SHIP A LOT MORE.         
+
+319
+00:13:44,323 --> 00:13:47,124
+  <i> BECAUSE THIS SMALL CANNON</i>    
+    <i> WAS A POPULAR WEAPON,</i>      
+
+320
+00:13:47,193 --> 00:13:50,094
+     <i> BOB SAYS MATCHING IT</i>      
+ <i> TO THE</i> SHARK<i> WILL BE TOUGH.</i>   
+
+321
+00:13:50,163 --> 00:13:52,329
+     <i> BUT ONCE THE X-RAYS</i>       
+       <i> HAVE PENETRATED</i>         
+
+322
+00:13:52,398 --> 00:13:54,832
+     <i> MORE THAN 150 YEARS</i>       
+         <i> OF DEPOSITS,</i>          
+
+323
+00:13:54,901 --> 00:13:57,268
+       <i> THEY MAY REVEAL</i>         
+      <i> SOMETHING TELLING.</i>       
+
+324
+00:13:57,336 --> 00:14:00,104
+YOU COULD GET LUCKY AND ACTUALLY
+SEE A DATE MARKED ON THE GUNS   
+
+325
+00:14:00,173 --> 00:14:01,639
+AS WELL AS FOUNDRY MARKS.       
+
+326
+00:14:01,707 --> 00:14:03,107
+YOU COULD GET LUCKY             
+AND SEE THAT.                   
+
+327
+00:14:03,176 --> 00:14:05,075
+           THAT'D BE VERY LUCKY.
+YEAH, IT WOULD BE.              
+
+328
+00:14:05,144 --> 00:14:07,945
+YOU KNOW, OR SAY "U.S. NAVY"    
+AS WELL, TOO.                   
+
+329
+00:14:08,014 --> 00:14:11,015
+ <i> TO CAPTURE A GLIMPSE OF THE</i>   
+<i> OBJECT BENEATH THIS THICK MASS</i> 
+
+330
+00:14:11,083 --> 00:14:13,884
+    <i> REQUIRES AN EXTREMELY</i>      
+     <i> HIGH-POWERED SYSTEM.</i>      
+
+331
+00:14:13,953 --> 00:14:16,787
+    <i> A TEAM OF SPECIALISTS</i>      
+      <i> IN NUCLEAR IMAGING</i>       
+
+332
+00:14:16,856 --> 00:14:20,291
+      <i> FROM FUJIFILM NDT</i>        
+     <i> AND PSI INCORPORATED</i>      
+
+333
+00:14:20,359 --> 00:14:25,029
+       <i> ARE VOLUNTEERING</i>        
+   <i> THEIR EXPERTISE TO HELP.</i>    
+
+334
+00:14:25,097 --> 00:14:28,232
+<i> BOB EXAMINES MIRANDA'S CANNON</i>  
+     <i> TO PLAN THE X-RAYS.</i>       
+
+335
+00:14:28,301 --> 00:14:30,467
+HERE YOU'VE GOT YOUR PIN        
+FOR THE CARRIAGE.               
+
+336
+00:14:30,536 --> 00:14:32,770
+THIS APPEARS TO BE WHAT'S LEFT  
+OF YOUR BREACH RING,            
+
+337
+00:14:32,838 --> 00:14:34,605
+BUT IT LOOKS LIKE               
+A PIECE OF IT'S BROKEN OFF      
+
+338
+00:14:34,674 --> 00:14:36,340
+IF I'M CORRECT IN THAT.         
+
+339
+00:14:36,409 --> 00:14:38,209
+THE SCREW,                      
+THE ELEVATING SCREW,            
+
+340
+00:14:38,277 --> 00:14:41,178
+SHOULD BE RIGHT IN HERE         
+SOMEWHERE AS WELL, TOO.         
+
+341
+00:14:45,918 --> 00:14:47,751
+      YOU GUYS ARE GOING        
+      TO HAVE TO BACK OFF.      
+
+342
+00:14:47,820 --> 00:14:50,087
+      IT'S GOING TO GET         
+      REAL HOT RIGHT HERE.      
+
+343
+00:14:50,156 --> 00:14:52,756
+ <i> THE FILM NEEDS TO BE EXPOSED</i>  
+    <i> FOR NEARLY 90 MINUTES</i>      
+
+344
+00:14:52,825 --> 00:14:54,925
+  <i> TO CAPTURE ENOUGH DETAIL.</i>    
+
+345
+00:14:54,994 --> 00:14:57,261
+  <i> WHEN ALL OF THE EXPOSURES</i>    
+    <i> ARE FINALLY COMPLETE,</i>      
+
+346
+00:14:57,330 --> 00:15:00,831
+   <i> WE TAKE THE X-RAY PLATES</i>    
+ <i> INSIDE TO SEE WHAT WE HAVE.</i>   
+
+347
+00:15:00,900 --> 00:15:02,299
+STILL NOT GETTING               
+ANYTHING, HUH?                  
+
+348
+00:15:02,368 --> 00:15:03,601
+   I CAN SEE A LITTLE MORE.     
+
+349
+00:15:03,669 --> 00:15:05,269
+       <i> THE FIRST IMAGE</i>         
+       <i> REVEALS LITTLE.</i>         
+
+350
+00:15:05,338 --> 00:15:07,805
+     <i> THE SECOND PLATE IS</i>       
+    <i> ONLY SLIGHTLY BETTER,</i>      
+
+351
+00:15:07,873 --> 00:15:10,574
+     <i> BUT IT DOES OUTLINE</i>       
+<i> THE SHAPE OF A CANNON BARREL.</i>  
+
+352
+00:15:10,643 --> 00:15:13,611
+         IN THIS SHOT, WE'VE GOT
+         SOME OF THE BORE,      
+
+353
+00:15:13,679 --> 00:15:15,913
+   WE'RE DEFINITELY LOOKING AT  
+   THE BANDING AROUND THE GUN...
+
+354
+00:15:15,982 --> 00:15:21,385
+ <i> THE BANDING KEPT THE BARREL</i>   
+  <i> FROM RUPTURING WHEN FIRED.</i>   
+
+355
+00:15:21,454 --> 00:15:26,457
+          <i> WE'RE DOWN</i>           
+      <i> TO THE LAST PLATE.</i>       
+
+356
+00:15:26,525 --> 00:15:28,659
+     THAT IS A GREAT SHOT.      
+
+357
+00:15:28,728 --> 00:15:30,294
+              NOW WE'RE TALKING.
+
+358
+00:15:30,363 --> 00:15:33,030
+      <i> IT'S TIME TO GIVE</i>        
+     <i> MIRANDA HER ANSWER.</i>       
+
+359
+00:15:33,099 --> 00:15:36,233
+I HAVE DONE ALL THE RESEARCH    
+THAT WAS POSSIBLE               
+
+360
+00:15:36,302 --> 00:15:37,935
+ON THE CANNON                   
+THAT YOU FOUND.                 
+
+361
+00:15:38,004 --> 00:15:39,536
+BUT THIS IS NOT                 
+JUST A CANNON,                  
+
+362
+00:15:39,605 --> 00:15:42,640
+IT'S A CERTAIN KIND OF CANNON   
+CALLED A CARRONADE              
+
+363
+00:15:42,708 --> 00:15:45,309
+THAT WAS ON U.S. NAVY SHIPS     
+
+364
+00:15:45,378 --> 00:15:48,445
+IN THE EARLY HALF               
+OF THE 19th CENTURY.            
+
+365
+00:15:48,514 --> 00:15:51,315
+     <i> I TELL MIRANDA ABOUT</i>      
+     <i> THE</i> USS SHARK'S<i> ROLE</i>      
+
+366
+00:15:51,384 --> 00:15:53,183
+        <i> IN THE SHAPING</i>         
+     <i> OF AMERICA'S BORDERS</i>      
+
+367
+00:15:53,252 --> 00:15:55,019
+  <i> AND ITS FOREIGN RELATIONS.</i>   
+
+368
+00:15:55,087 --> 00:15:57,755
+  <i> ONLY VERY POWERFUL X-RAYS</i>    
+       <i> COULD PEER DEEP</i>         
+
+369
+00:15:57,823 --> 00:16:00,157
+  <i> INTO THE MASS OF SEDIMENT</i>    
+       <i> AND RUSTED METAL</i>        
+
+370
+00:16:00,226 --> 00:16:02,760
+     <i> TO REVEAL WHAT LIES</i>       
+         <i> UNDERNEATH.</i>           
+
+371
+00:16:02,828 --> 00:16:04,261
+        SO WHAT ARE WE          
+        LOOKING AT HERE?        
+
+372
+00:16:04,330 --> 00:16:05,462
+             THERE'S YOUR SCREW.
+
+373
+00:16:05,531 --> 00:16:06,730
+          EXCELLENT.            
+
+374
+00:16:06,799 --> 00:16:08,499
+I GUESS THIS IS THE THREADING   
+ON IT, RIGHT?                   
+
+375
+00:16:08,567 --> 00:16:10,601
+  YOU CAN CLEARLY SEE           
+  YOU'VE STILL GOT THE THREADS  
+
+376
+00:16:10,669 --> 00:16:12,102
+     VERY VISIBLE IN HERE.      
+
+377
+00:16:12,171 --> 00:16:13,771
+           OH, THAT'S WHERE     
+           YOU'D CRANK IT, OKAY.
+
+378
+00:16:13,839 --> 00:16:15,506
+      THE LOOP HERE             
+      FOR THE BREACH ROPE,      
+
+379
+00:16:15,574 --> 00:16:16,940
+      A LONG GUN WOULDN'T       
+      HAVE THAT.                
+
+380
+00:16:17,009 --> 00:16:18,242
+     THE ELEVATING SCREW,       
+
+381
+00:16:18,310 --> 00:16:20,010
+   A LONG GUN WOULD NOT HAVE    
+   AN ELEVATING SCREW.          
+
+382
+00:16:20,079 --> 00:16:21,478
+        IT'S DEFINITELY         
+        A CARRONADE.            
+
+383
+00:16:21,547 --> 00:16:23,047
+      BUT IT ALSO COMPARES      
+      VERY FAVORABLY            
+
+384
+00:16:23,115 --> 00:16:25,749
+   TO THE CANNON THAT           
+   WAS RECOVERED IN THE 1890s   
+
+385
+00:16:25,818 --> 00:16:28,652
+     AND IS NOW AN EXHIBIT,     
+     SO SUGGESTING IT IS        
+
+386
+00:16:28,721 --> 00:16:32,122
+  THE SAME TIME OF CANNON,      
+  PERHAPS FROM THE SAME SHIP.   
+
+387
+00:16:32,191 --> 00:16:34,091
+   I DON'T SEE ANYWHERE         
+   WHERE IT SAYS<i> "USS SHARK"</i>    
+
+388
+00:16:34,160 --> 00:16:36,427
+   OR "U.S. NAVY,"              
+   BUT THIS IS ALL CONSISTENT   
+
+389
+00:16:36,495 --> 00:16:38,362
+      WITH THE CARRONADE.       
+
+390
+00:16:38,431 --> 00:16:40,964
+   SO FAR, CIRCUMSTANTIAL       
+   EVIDENCE, IT IS CONSISTENT   
+
+391
+00:16:41,033 --> 00:16:43,967
+WITH WHAT WE'D EXPECT TO SEE    
+FOR A CARRONADE FROM THE<i> SHARK.</i> 
+
+392
+00:16:44,036 --> 00:16:47,738
+AND HERE IS AN X-RAY            
+OF THE PART OF THE CANNON       
+
+393
+00:16:47,807 --> 00:16:49,873
+THAT WOULD GO INTO              
+THE DECK THERE.                 
+
+394
+00:16:49,942 --> 00:16:52,109
+YOU WOULD SCREW IT              
+TO LIFT IT UP.                  
+
+395
+00:16:52,178 --> 00:16:53,744
+              THAT'S AWESOME.   
+
+396
+00:16:53,813 --> 00:16:55,212
+               THANK YOU.       
+
+397
+00:16:55,281 --> 00:16:58,949
+ALL THE PEOPLE AGREE THAT       
+WHILE WE'LL NEVER KNOW FOR SURE,
+
+398
+00:16:59,018 --> 00:17:02,586
+YOU PROBABLY FOUND THE CANNON   
+THAT WAS ON THE<i> USS SHARK.</i>      
+
+399
+00:17:02,655 --> 00:17:04,221
+       NICE, THAT'S PRETTY COOL.
+
+400
+00:17:04,290 --> 00:17:06,190
+DON'T YOU FEEL PROUD ABOUT THAT?
+              YEAH, THAT'S COOL.
+
+401
+00:17:06,258 --> 00:17:08,659
+YOU FOUND SOMETHING             
+THAT DOESN'T JUST GIVE US       
+
+402
+00:17:08,727 --> 00:17:11,662
+A CRITICAL PART OF              
+THE EARLY HISTORY OF OREGON     
+
+403
+00:17:11,730 --> 00:17:15,232
+BUT TELLS US ABOUT              
+A VERY IMPORTANT PART           
+
+404
+00:17:15,301 --> 00:17:17,401
+OF AMERICAN HISTORY.            
+
+405
+00:17:17,470 --> 00:17:19,036
+              WOW, ONE CANNON.  
+
+406
+00:17:19,104 --> 00:17:21,839
+YEAH.                           
+
+407
+00:17:21,907 --> 00:17:24,241
+       <i> THE GREAT IRONY</i>         
+     <i> OF THE</i> SHARK'S<i> STORY</i>      
+
+408
+00:17:24,310 --> 00:17:26,577
+      <i> WAS THAT A TREATY</i>        
+      <i> ENDING THE DISPUTE</i>       
+
+409
+00:17:26,645 --> 00:17:30,714
+   <i> OVER THE CANADIAN BORDER</i>    
+ <i> WAS SIGNED IN JUNE OF 1846,</i>   
+
+410
+00:17:30,783 --> 00:17:34,751
+  <i> ONE MONTH BEFORE THE</i> SHARK   
+<i> ARRIVED AT THE COLUMBIA RIVER.</i> 
+
+411
+00:17:34,820 --> 00:17:37,421
+      <i> NEWS DIDN'T REACH</i>        
+      <i> LIEUTENANT HOWISON</i>       
+
+412
+00:17:37,489 --> 00:17:40,424
+        <i> UNTIL A MONTH</i>          
+    <i> AFTER THE</i> SHARK<i> SANK.</i>      
+
+413
+00:17:40,492 --> 00:17:43,660
+    <i> THE OREGON TREATY SET</i>      
+   <i> THE U.S./CANADIAN BORDER</i>    
+
+414
+00:17:43,729 --> 00:17:47,731
+    <i> AT THE 49th PARALLEL,</i>      
+   <i> WHERE IT REMAINS TODAY.</i>     
+
+415
+00:17:50,069 --> 00:17:53,370
+   SOME OF THE WORLD'S MOST     
+FASCINATING HISTORICAL OBJECTS  
+
+416
+00:17:53,439 --> 00:17:55,706
+         HAVE EMERGED           
+        FROM THE DEEP.          
+
+417
+00:17:55,774 --> 00:17:58,242
+   OCEANS, RIVERS, AND LAKES    
+           ARE TOMBS            
+
+418
+00:17:58,310 --> 00:18:01,211
+  FOR AN INCALCULABLE WEALTH    
+          OF OBJECTS.           
+
+419
+00:18:01,280 --> 00:18:04,781
+ ALTHOUGH UNDERWATER RECOVERY   
+      IS NOT ALWAYS EASY,       
+
+420
+00:18:04,850 --> 00:18:08,619
+    ADVANCES IN TECHNOLOGY      
+ HAVE MADE MARITIME ARCHEOLOGY  
+
+421
+00:18:08,687 --> 00:18:12,522
+   AN EXCITING NEW FRONTIER     
+        FOR HISTORIANS.         
+
+422
+00:18:12,591 --> 00:18:16,293
+   IN 1943, JACQUES COUSTEAU    
+       AND EMILE GAGNON         
+
+423
+00:18:16,362 --> 00:18:18,862
+        REVOLUTIONIZED          
+    UNDERWATER EXPLORATION      
+
+424
+00:18:18,931 --> 00:18:20,998
+     WITH THEIR AQUA-LUNG,      
+
+425
+00:18:21,066 --> 00:18:24,201
+  A SELF-CONTAINED UNDERWATER   
+     BREATHING APPARATUS.       
+
+426
+00:18:24,270 --> 00:18:27,004
+       THIS SCUBA DEVICE        
+ ALLOWED HUMANS TO FREELY DIVE  
+
+427
+00:18:27,072 --> 00:18:29,740
+    TO DEPTHS OF 180 FEET.      
+
+428
+00:18:29,808 --> 00:18:31,541
+    THE NEXT GREAT ADVANCE      
+
+429
+00:18:31,610 --> 00:18:34,044
+    WAS TITANIUM-REINFORCED     
+         SUBMERSIBLES,          
+
+430
+00:18:34,113 --> 00:18:37,180
+   WHICH COULD PROBE TWO AND    
+ A HALF MILES BELOW SEA LEVEL.  
+
+431
+00:18:37,249 --> 00:18:40,884
+           IN 1985,             
+    AN UNMANNED SUBMERSIBLE     
+
+432
+00:18:40,953 --> 00:18:43,954
+     FINALLY MADE CONTACT       
+       WITH THE<i> TITANIC.</i>        
+
+433
+00:18:44,023 --> 00:18:47,024
+ THE NOTION THAT A GREAT GASH   
+  HAD RIPPED THE SHIP IN TWO    
+
+434
+00:18:47,092 --> 00:18:48,859
+       WAS NOW DEBUNKED.        
+
+435
+00:18:48,927 --> 00:18:53,063
+   IN 2002, ONE OF HISTORY'S    
+ MOST SIGNIFICANT DISCOVERIES   
+
+436
+00:18:53,132 --> 00:18:55,832
+           WAS MADE             
+      BY SHEER ACCIDENT.        
+
+437
+00:18:55,901 --> 00:18:59,803
+      OFF INDIA'S COAST,        
+   OCEANOGRAPHERS UNEARTHED     
+
+438
+00:18:59,872 --> 00:19:04,074
+   WHAT COULD BE ONE OF THE     
+ WORLD'S OLDEST CIVILIZATIONS.  
+
+439
+00:19:04,143 --> 00:19:06,677
+     SCIENTISTS USED SONAR      
+          TO IDENTIFY           
+
+440
+00:19:06,745 --> 00:19:12,616
+   HUGE GEOMETRIC STRUCTURES    
+   DATING BACK 10,000 YEARS.    
+
+441
+00:19:16,455 --> 00:19:19,156
+            Elyse:              
+        <i> OUR NEXT STORY</i>         
+         <i> INVESTIGATES</i>          
+
+442
+00:19:19,224 --> 00:19:23,160
+   <i> A CONNECTICUT FARMHOUSE</i>     
+   <i> WITH AN UNSETTLED PAST.</i>     
+
+443
+00:19:26,465 --> 00:19:28,198
+  <i> AS THE 20th CENTURY DAWNS,</i>   
+
+444
+00:19:28,267 --> 00:19:30,233
+       <i> AMERICA'S CITIES</i>        
+     <i> ARE INDUSTRIALIZING</i>       
+
+445
+00:19:30,302 --> 00:19:32,703
+        <i> AND GROWING AT</i>         
+      <i> AN EXPLOSIVE RATE.</i>       
+
+446
+00:19:32,771 --> 00:19:34,971
+     <i> THEY'RE BEING FILLED</i>      
+       <i> BY A TIDAL WAVE</i>         
+
+447
+00:19:35,040 --> 00:19:38,041
+  <i> OF IMMIGRANTS FROM EUROPE</i>    
+  <i> AND NATIVE-BORN AMERICANS</i>    
+
+448
+00:19:38,110 --> 00:19:40,143
+      <i> WHO ARE ABANDONING</i>       
+      <i> THEIR FAMILY FARMS</i>       
+
+449
+00:19:40,212 --> 00:19:42,245
+     <i> FOR THE OPPORTUNITY</i>       
+       <i> AND BETTER WAGES</i>        
+
+450
+00:19:42,314 --> 00:19:46,550
+<i> OF THE INDUSTRIAL REVOLUTION.</i>  
+
+451
+00:19:46,618 --> 00:19:48,919
+  <i> MORE THAN 100 YEARS LATER,</i>   
+
+452
+00:19:48,987 --> 00:19:51,288
+  <i> CHRIS REMY OF EAST HADDAM,</i>   
+         <i> CONNECTICUT,</i>          
+
+453
+00:19:51,356 --> 00:19:53,957
+      <i> BELIEVES HIS HOME</i>        
+   <i> MAY SOMEHOW BE CONNECTED</i>    
+
+454
+00:19:54,026 --> 00:19:56,760
+   <i> TO THIS DRAMATIC PERIOD</i>     
+      <i> IN AMERICA'S PAST.</i>       
+
+455
+00:19:56,829 --> 00:19:58,495
+               I'D LIKE TO KNOW 
+               A LITTLE BIT MORE
+
+456
+00:19:58,564 --> 00:19:59,830
+               ABOUT THE HISTORY
+               OF MY HOUSE,     
+
+457
+00:19:59,898 --> 00:20:02,499
+             WHO WERE THE PEOPLE
+             THAT LIVED HERE.   
+
+458
+00:20:03,769 --> 00:20:05,035
+                  HI.           
+I'M ELYSE.                      
+
+459
+00:20:05,104 --> 00:20:06,403
+              CHRIS, COME ON IN.
+
+460
+00:20:06,472 --> 00:20:08,405
+WHAT A GREAT HOUSE.             
+                      THANK YOU.
+
+461
+00:20:08,474 --> 00:20:10,040
+SO HOW LONG HAVE YOU            
+OWNED IT?                       
+
+462
+00:20:10,109 --> 00:20:11,641
+             WE BOUGHT THE HOUSE
+             SIX YEARS AGO.     
+
+463
+00:20:11,710 --> 00:20:15,812
+  IT'S FIVE ACRES, PART OF WHAT 
+  WAS ORIGINALLY A 60-ACRE FARM.
+
+464
+00:20:15,881 --> 00:20:17,848
+THIS IS THE MAP FROM            
+WHEN THEY SUBDIVIDED IT         
+
+465
+00:20:17,916 --> 00:20:19,382
+BACK IN THE '70s,               
+
+466
+00:20:19,451 --> 00:20:21,818
+AND HERE'S OUR FIVE-ACRE PLOT   
+RIGHT HERE.                     
+
+467
+00:20:21,887 --> 00:20:23,753
+      WHAT SPARKED YOUR INTEREST
+      IN DOING RESEARCH?        
+
+468
+00:20:23,822 --> 00:20:25,956
+WELL, I KNEW THE HOUSE          
+WAS BUILT IN 1804, OBVIOUSLY,   
+
+469
+00:20:26,024 --> 00:20:28,024
+WHEN I BOUGHT IT,               
+SO I WANTED TO RESEARCH         
+
+470
+00:20:28,093 --> 00:20:30,327
+WHAT I COULD FIND OUT,          
+WHO BUILT IT AND WHEN,          
+
+471
+00:20:30,395 --> 00:20:31,661
+AND WHO'S LIVED HERE.           
+
+472
+00:20:31,730 --> 00:20:32,996
+            WHAT'D YOU FIND OUT?
+
+473
+00:20:33,065 --> 00:20:34,831
+WELL, I FOUND OUT THAT AROUND   
+THE TURN OF THE LAST CENTURY,   
+
+474
+00:20:34,900 --> 00:20:37,200
+THE PROPERTY SEEMED TO          
+CHANGE HANDS A LOT OF TIMES --  
+
+475
+00:20:37,269 --> 00:20:38,702
+EVERY YEAR,                     
+EVERY TWO YEARS --              
+
+476
+00:20:38,770 --> 00:20:40,303
+FOR A GOOD 15, 20 YEARS,        
+
+477
+00:20:40,372 --> 00:20:43,073
+AND THEY SEEMED TO HAVE RUSSIAN 
+AND EASTERN-EUROPEAN NAMES.     
+
+478
+00:20:43,141 --> 00:20:44,941
+     WHAT SPECIFICALLY          
+     DO YOU WANT ME TO FIND OUT?
+
+479
+00:20:45,010 --> 00:20:46,443
+I'D LIKE TO KNOW                
+WHO THESE PEOPLE WERE,          
+
+480
+00:20:46,512 --> 00:20:47,944
+WHAT WERE THEY                  
+DOING HERE...                   
+
+481
+00:20:48,013 --> 00:20:49,112
+                    MM-HMM.     
+
+482
+00:20:49,181 --> 00:20:51,248
+AND WHY DID THE PROPERTY        
+CHANGE HANDS SO MANY TIMES      
+
+483
+00:20:51,316 --> 00:20:53,016
+IN SUCH A SHORT                 
+TIME FRAME?                     
+
+484
+00:20:53,085 --> 00:20:54,751
+       DO YOU HAVE ANYTHING ELSE
+       FOR ME TO GO ON?         
+
+485
+00:20:54,820 --> 00:20:57,087
+WELL, WHEN I WAS DOING          
+SOME REMODELING ON THE HOUSE,   
+
+486
+00:20:57,155 --> 00:21:00,323
+INSIDE THE WALLS, I FOUND       
+THIS OLD WALLPAPER.             
+
+487
+00:21:00,392 --> 00:21:03,994
+ON THE OTHER SIDE IS NEWSPAPER  
+WITH HEBREW CHARACTERS.         
+
+488
+00:21:04,062 --> 00:21:05,962
+AND AT THE TOP OF THIS PAGE     
+YOU CAN SEE                     
+
+489
+00:21:06,031 --> 00:21:07,731
+IT'S<i> THE JEWISH</i>                 
+<i> MORNING JOURNAL.</i>               
+
+490
+00:21:07,799 --> 00:21:10,000
+ WELL, I'M GOING TO GO WALK     
+ OUTSIDE AND TAKE A LOOK AROUND,
+
+491
+00:21:10,068 --> 00:21:12,002
+        AND THEN I GUESS I'M OFF
+        TO THE TOWN HALL.       
+
+492
+00:21:12,070 --> 00:21:14,671
+OKAY.                           
+
+493
+00:21:14,740 --> 00:21:17,407
+  <i> I'M ESPECIALLY INTERESTED</i>    
+        <i> IN THIS STORY.</i>         
+
+494
+00:21:17,476 --> 00:21:19,576
+    <i> MY OWN FAMILY ARRIVED</i>      
+     <i> FROM EASTERN EUROPE</i>       
+
+495
+00:21:19,645 --> 00:21:22,012
+ <i> AND SETTLED IN NEW YORK CITY</i>  
+   <i> AND BALTIMORE, MARYLAND,</i>    
+
+496
+00:21:22,080 --> 00:21:24,114
+    <i> THREE GENERATIONS AGO.</i>     
+
+497
+00:21:24,182 --> 00:21:26,750
+<i> BUT IT'S NOT CLEAR WHY SO MANY</i> 
+<i> EASTERN-EUROPEAN IMMIGRANTS --</i> 
+
+498
+00:21:26,818 --> 00:21:28,418
+        <i> IF THAT'S WHAT</i>         
+         <i> THEY WERE --</i>          
+
+499
+00:21:28,487 --> 00:21:31,621
+<i> ROTATED THROUGH THIS FARMHOUSE</i> 
+ <i> AT THE TURN OF THE CENTURY.</i>   
+
+500
+00:21:33,825 --> 00:21:37,127
+        <i> MY FIRST STOP</i>          
+        <i> IS TOWN HALL.</i>          
+
+501
+00:21:37,195 --> 00:21:42,432
+  <i> THERE ARE LAND DEEDS HERE</i>    
+  <i> GOING BACK TWO CENTURIES.</i>    
+
+502
+00:21:42,501 --> 00:21:45,201
+        <i> BEFORE I SCOUR</i>         
+     <i> THESE BOUND RECORDS,</i>      
+
+503
+00:21:45,270 --> 00:21:47,671
+     <i> I WANT TO LEARN MORE</i>      
+   <i> ABOUT THE OLD NEWSPAPERS</i>    
+
+504
+00:21:47,739 --> 00:21:50,206
+    <i> FROM INSIDE THE WALLS</i>      
+        <i> OF THE HOUSE.</i>          
+
+505
+00:21:50,275 --> 00:21:51,941
+  <i> THE JEWISH MORNING JOURNAL</i>   
+
+506
+00:21:52,010 --> 00:21:54,177
+        WAS APPARENTLY          
+  AN ULTRA-ORTHODOX NEWSPAPER   
+
+507
+00:21:54,246 --> 00:21:56,246
+     THAT STARTED PRINTING      
+     IN THE UNITED STATES       
+
+508
+00:21:56,315 --> 00:21:58,181
+       IN NEW YORK CITY         
+           IN 1902.             
+
+509
+00:21:58,250 --> 00:21:59,783
+        LISTEN TO THIS:         
+
+510
+00:21:59,851 --> 00:22:01,785
+   THE PAPER WASN'T WRITTEN     
+          IN HEBREW,            
+
+511
+00:22:01,853 --> 00:22:03,653
+    IT WAS ACTUALLY WRITTEN     
+          IN YIDDISH.           
+
+512
+00:22:03,722 --> 00:22:05,955
+      YIDDISH IS WRITTEN        
+    WITH HEBREW CHARACTERS,     
+
+513
+00:22:06,024 --> 00:22:07,691
+     BUT IT IS DIFFERENT.       
+
+514
+00:22:07,759 --> 00:22:10,026
+       IT'S DERIVED FROM        
+     THE GERMAN LANGUAGE.       
+
+515
+00:22:10,095 --> 00:22:12,295
+     THERE'S PROBABLY ONLY      
+   A QUARTER-MILLION PEOPLE     
+
+516
+00:22:12,364 --> 00:22:14,864
+     IN THE UNITED STATES       
+   TODAY THAT SPEAK YIDDISH,    
+
+517
+00:22:14,933 --> 00:22:16,933
+   INCLUDING MY GRANDMOTHER.    
+
+518
+00:22:17,002 --> 00:22:18,535
+       <i> I KNOW FROM HER</i>         
+       <i> THAT BACK THEN,</i>         
+
+519
+00:22:18,603 --> 00:22:20,203
+         <i> THE LANGUAGE</i>          
+      <i> WAS SPOKEN WIDELY</i>        
+
+520
+00:22:20,272 --> 00:22:22,906
+   <i> AMONG JEWISH IMMIGRANTS</i>     
+     <i> FROM EASTERN EUROPE.</i>      
+
+521
+00:22:22,974 --> 00:22:26,176
+     ALL RIGHT, LET'S SEE       
+WHAT THE LAND DEEDS CAN TELL US.
+
+522
+00:22:26,244 --> 00:22:29,379
+   <i> HERE'S THE FIRST RECORD</i>     
+   <i> OF THE SALE OF THE LAND.</i>    
+
+523
+00:22:29,448 --> 00:22:32,048
+       ON JULY 17, 1798,        
+
+524
+00:22:32,117 --> 00:22:34,984
+JUSTIN WORTHINGTON SOLD THE LAND
+       TO CIRUS WILLEY.         
+
+525
+00:22:35,053 --> 00:22:36,820
+      <i> THE FARM STAYED IN</i>       
+        <i> THE SAME HANDS</i>         
+
+526
+00:22:36,888 --> 00:22:38,822
+ <i> FOR MORE THAN THREE-QUARTERS</i>  
+        <i> OF A CENTURY.</i>          
+
+527
+00:22:38,890 --> 00:22:42,492
+      <i> THE WILLEY FAMILY</i>        
+    <i> SOLD THE FARM IN 1878,</i>     
+
+528
+00:22:42,561 --> 00:22:45,462
+     <i> AND THE REAL ESTATE</i>       
+<i> TRANSACTIONS LOOK PRETTY NORMAL</i>
+
+529
+00:22:45,530 --> 00:22:47,931
+         <i> UNTIL 1891.</i>           
+
+530
+00:22:47,999 --> 00:22:50,734
+       ON JUNE 15, 1891,        
+
+531
+00:22:50,802 --> 00:22:55,972
+    IT LOOKS LIKE THE LAND      
+   WAS SOLD TO DAVID DINSON.    
+
+532
+00:22:56,041 --> 00:22:58,742
+   <i> ONLY FOUR MONTHS LATER,</i>     
+    <i> DINSON SELLS THE FARM</i>      
+
+533
+00:22:58,810 --> 00:23:00,744
+       <i> TO LEWIS NAMEROV</i>        
+      <i> AND LOUIS NATESZON</i>       
+
+534
+00:23:00,812 --> 00:23:02,212
+      <i> OF NEW YORK CITY.</i>        
+
+535
+00:23:02,280 --> 00:23:05,315
+ <i> JUST NINE MONTHS AFTER THAT,</i>  
+       <i> IT'S SOLD AGAIN.</i>        
+
+536
+00:23:05,383 --> 00:23:10,653
+  <i> BETWEEN 1891 AND 1906, THE</i>   
+<i> FARM CHANGES HANDS SIX TIMES:</i>  
+
+537
+00:23:10,722 --> 00:23:14,691
+           <i> DINSON,</i>             
+    <i> NAMEROV AND NATESZON,</i>      
+
+538
+00:23:14,760 --> 00:23:18,228
+        <i> MALLER, BOOX,</i>          
+      <i> KATZ AND KURRIER,</i>        
+
+539
+00:23:18,296 --> 00:23:20,864
+    <i> RITTER AND AZWOLENSKY.</i>     
+
+540
+00:23:20,932 --> 00:23:23,199
+      <i> AND THE SALE PRICE</i>       
+   <i> OFTEN INCLUDED LIVESTOCK</i>    
+
+541
+00:23:23,268 --> 00:23:25,235
+         <i> AND VARIOUS</i>           
+       <i> FARM EQUIPMENT.</i>         
+
+542
+00:23:25,303 --> 00:23:27,504
+    <i> SOMETHING ELSE APPEARS</i>     
+     <i> TO LINK THE FAMILIES</i>      
+
+543
+00:23:27,572 --> 00:23:29,606
+      <i> WHO PASSED THROUGH</i>       
+        <i> CHRIS'S HOME.</i>          
+
+544
+00:23:29,674 --> 00:23:32,509
+  A FEW OF THESE PEOPLE HAVE    
+MORTGAGES FROM THE SAME LENDERS,
+
+545
+00:23:32,577 --> 00:23:34,177
+   THE BARON de HIRSCH FUND     
+
+546
+00:23:34,246 --> 00:23:36,980
+  AND THE JEWISH AGRICULTURAL   
+  AND INDUSTRIAL AID SOCIETY,   
+
+547
+00:23:37,048 --> 00:23:39,115
+  BOTH NEW YORK CORPORATIONS.   
+
+548
+00:23:39,184 --> 00:23:42,752
+<i> CENSUS RECORDS CONFIRM SEVERAL</i> 
+  <i> OF THE FARM'S EARLY OWNERS</i>   
+
+549
+00:23:42,821 --> 00:23:44,521
+      <i> WERE FROM RUSSIA.</i>        
+
+550
+00:23:44,589 --> 00:23:46,089
+    MAX AND GUSSIE MALLER,      
+
+551
+00:23:46,158 --> 00:23:48,191
+   OR MULLER AS IT'S WRITTEN    
+        IN THE CENSUS,          
+
+552
+00:23:48,260 --> 00:23:51,594
+  CAME TO AMERICA FROM RUSSIA   
+           IN 1886.             
+
+553
+00:23:51,663 --> 00:23:56,099
+ AND THE ENTIRE RITTER FAMILY   
+   WAS BORN IN RUSSIA, ALSO.    
+
+554
+00:23:56,168 --> 00:23:57,967
+        SO FAR, I HAVE          
+      RUSSIAN IMMIGRANTS        
+
+555
+00:23:58,036 --> 00:23:59,602
+  MOVING FROM NEW YORK CITY,    
+
+556
+00:23:59,671 --> 00:24:02,105
+  I HAVE A YIDDISH PAPER THAT   
+WAS PUBLISHED IN NEW YORK CITY, 
+
+557
+00:24:02,174 --> 00:24:04,941
+    AND I HAVE LOANS GIVEN      
+      BY TWO CORPORATIONS       
+
+558
+00:24:05,010 --> 00:24:06,242
+       IN NEW YORK CITY.        
+
+559
+00:24:06,311 --> 00:24:09,812
+    EVERYTHING IS POINTING      
+         TO MANHATTAN.          
+
+560
+00:24:13,151 --> 00:24:16,185
+   <i> I'M MEETING IMMIGRATION</i>     
+   <i> HISTORIAN DANIEL SAWYER</i>     
+
+561
+00:24:16,254 --> 00:24:19,355
+<i> AT NEW YORK'S LOWER EAST SIDE</i>  
+       <i> TENEMENT MUSEUM.</i>        
+
+562
+00:24:19,424 --> 00:24:21,190
+DANIEL, I'M INVESTIGATING       
+THIS FARMHOUSE                  
+
+563
+00:24:21,259 --> 00:24:22,892
+THAT'S IN CONNECTICUT,          
+
+564
+00:24:22,961 --> 00:24:25,361
+AND IN THE EARLY 20th CENTURY,  
+THERE WAS A LOT OF TURNOVER.    
+
+565
+00:24:25,430 --> 00:24:28,665
+THE PEOPLE WERE GENERALLY       
+COMING FROM NEW YORK CITY,      
+
+566
+00:24:28,733 --> 00:24:30,900
+AND THERE WERE TWO NAMES        
+ON THE MORTGAGE                 
+
+567
+00:24:30,969 --> 00:24:33,102
+THAT I KEPT SEEING              
+OVER AND OVER AGAIN.            
+
+568
+00:24:33,171 --> 00:24:35,104
+THERE WAS THE                   
+BARON de HIRSCH FUND            
+
+569
+00:24:35,173 --> 00:24:38,608
+AND THE JEWISH AGRICULTURAL     
+AND INDUSTRIAL AID SOCIETY.     
+
+570
+00:24:38,677 --> 00:24:41,444
+  WELL, THE BARON de HIRSCH FUND
+  WAS SET UP IN 1891            
+
+571
+00:24:41,513 --> 00:24:44,047
+     BY BARON MAURICE de HIRSCH,
+
+572
+00:24:44,115 --> 00:24:47,183
+WHO WAS A EUROPEAN JEWISH       
+PHILANTHROPIST, IN ORDER TO HELP
+
+573
+00:24:47,252 --> 00:24:50,453
+ THE EASTERN-EUROPEAN JEWISH    
+ IMMIGRANTS TO THE UNITED STATES
+
+574
+00:24:50,522 --> 00:24:53,022
+              TO GET ESTABLISHED
+              IN THEIR NEW HOME.
+
+575
+00:24:53,091 --> 00:24:55,591
+     <i> DANIEL EXPLAINS THAT</i>      
+        <i> IN MARCH 1881,</i>         
+
+576
+00:24:55,660 --> 00:24:58,594
+   <i> THE ASSASSINATION OF THE</i>    
+  <i> RUSSIAN CZAR ALEXANDER II</i>    
+
+577
+00:24:58,663 --> 00:25:03,166
+  <i> TRIGGERED A MASSIVE JEWISH</i>   
+<i> MIGRATION TO THE UNITED STATES.</i>
+
+578
+00:25:03,234 --> 00:25:06,602
+THERE WAS A POPULAR FEELING THAT
+THE JEWS HAD BEEN BEHIND THIS,  
+
+579
+00:25:06,671 --> 00:25:08,905
+              AND SO THERE WAS  
+              A WAVE OF POGROMS,
+
+580
+00:25:08,974 --> 00:25:10,773
+   WHICH WERE ANTI-JEWISH RIOTS,
+
+581
+00:25:10,842 --> 00:25:12,475
+            IN WHICH MANY PEOPLE
+            WERE KILLED         
+
+582
+00:25:12,544 --> 00:25:14,711
+               AND MUCH PROPERTY
+               WAS DESTROYED.   
+
+583
+00:25:14,779 --> 00:25:16,412
+    <i> OVER THE NEXT DECADE,</i>      
+
+584
+00:25:16,481 --> 00:25:19,082
+      <i> MORE THAN 200,000</i>        
+    <i> EASTERN-EUROPEAN JEWS</i>      
+
+585
+00:25:19,150 --> 00:25:21,684
+    <i> FLOODED INTO THE MAIN</i>      
+      <i> EAST COAST PORTS,</i>        
+
+586
+00:25:21,753 --> 00:25:23,720
+    <i> PARTICULARLY NEW YORK.</i>     
+
+587
+00:25:23,788 --> 00:25:25,722
+         <i> BY THE TURN</i>           
+       <i> OF THE CENTURY,</i>         
+
+588
+00:25:25,790 --> 00:25:28,024
+   <i> MORE THAN HALF A MILLION</i>    
+         <i> HAD ARRIVED.</i>          
+
+589
+00:25:28,093 --> 00:25:29,892
+SO THEY CAME HERE               
+SEEKING A BETTER LIFE.          
+
+590
+00:25:29,961 --> 00:25:31,327
+                     ABSOLUTELY.
+
+591
+00:25:31,396 --> 00:25:35,098
+     CAME HERE SEEKING JOBS     
+     AND A WAY TO MAKE A LIVING.
+
+592
+00:25:35,166 --> 00:25:38,201
+     <i> MANY OF THESE JEWISH</i>      
+       <i> REFUGEES SETTLED</i>        
+
+593
+00:25:38,269 --> 00:25:40,636
+      <i> IN NEW YORK CITY'S</i>       
+       <i> LOWER EAST SIDE,</i>        
+
+594
+00:25:40,705 --> 00:25:42,538
+     <i> SURROUNDED BY PEOPLE</i>      
+          <i> WHO SHARED</i>           
+
+595
+00:25:42,607 --> 00:25:45,241
+     <i> A COMMON BACKGROUND,</i>      
+     <i> FAITH, AND LANGUAGE.</i>      
+
+596
+00:25:45,310 --> 00:25:47,877
+   <i> BUT DANIEL EXPLAINS THAT</i>    
+ <i> PACKED INTO THE SLUMS OF ONE</i>  
+
+597
+00:25:47,946 --> 00:25:51,180
+<i> OF THE MOST DENSELY POPULATED</i>  
+   <i> NEIGHBORHOODS ON EARTH,</i>     
+
+598
+00:25:51,249 --> 00:25:53,983
+    <i> THE NEW ARRIVALS ALSO</i>      
+   <i> FOUND THEMSELVES AT ODDS</i>    
+
+599
+00:25:54,052 --> 00:25:57,253
+     <i> WITH THE ESTABLISHED</i>      
+<i> AMERICANIZED JEWISH COMMUNITY.</i> 
+
+600
+00:25:57,322 --> 00:26:00,289
+THEY HAD A VERY AMBIVALENT      
+FEELING TOWARDS THESE NEWCOMERS.
+
+601
+00:26:00,358 --> 00:26:02,592
+     ON THE ONE HAND, THEY FELT 
+     A KINSHIP WITH THESE PEOPLE
+
+602
+00:26:02,660 --> 00:26:04,160
+             AND WANTED TO HELP.
+
+603
+00:26:04,229 --> 00:26:05,962
+              ON THE OTHER HAND,
+              THEY WERE FOREIGN,
+
+604
+00:26:06,030 --> 00:26:07,797
+             THEY SPOKE YIDDISH,
+             THEY WERE POOR,    
+
+605
+00:26:07,866 --> 00:26:10,800
+     AND THE ESTABLISHED        
+     JEWISH COMMUNITY WAS AFRAID
+
+606
+00:26:10,869 --> 00:26:12,835
+         THAT THEY WOULD REFLECT
+         BADLY ON THEM,         
+
+607
+00:26:12,904 --> 00:26:15,071
+                AND SO THEY FELT
+                AN ADDED IMPETUS
+
+608
+00:26:15,140 --> 00:26:18,074
+        TO HELP PEOPLE ESTABLISH
+        THEMSELVES, AMERICANIZE,
+
+609
+00:26:18,143 --> 00:26:21,144
+           AND GET ESTABLISHED  
+           ECONOMICALLY AS WELL.
+
+610
+00:26:21,212 --> 00:26:23,012
+HOW DOES THE                    
+BARON de HIRSCH FUND            
+
+611
+00:26:23,081 --> 00:26:25,782
+AND THE JEWISH AGRICULTURAL     
+AND INDUSTRIAL AID SOCIETY      
+
+612
+00:26:25,850 --> 00:26:27,250
+FIT INTO ALL OF THIS?           
+
+613
+00:26:27,318 --> 00:26:29,385
+      THE JEWISH AGRICULTURAL   
+      AND INDUSTRIAL AID SOCIETY
+
+614
+00:26:29,454 --> 00:26:31,420
+       WAS A SPIN-OFF OF        
+       THE BARON de HIRSCH FUND,
+
+615
+00:26:31,489 --> 00:26:33,656
+           WHICH PROVIDED PEOPLE
+           WITH MORTGAGES       
+
+616
+00:26:33,725 --> 00:26:36,025
+         WHEN THEY WANTED TO GET
+         SET UP AS FARMERS      
+
+617
+00:26:36,094 --> 00:26:37,960
+                ON THE LAND     
+                AND WITH HOUSES.
+
+618
+00:26:38,029 --> 00:26:40,496
+   <i> HE SAYS OUR DEED HOLDERS</i>    
+     <i> WERE PART OF A PLAN</i>       
+
+619
+00:26:40,565 --> 00:26:43,132
+     <i> TO EASE OVERCROWDING</i>      
+      <i> BY RELOCATING JEWS</i>       
+
+620
+00:26:43,201 --> 00:26:44,967
+  <i> OUTSIDE OF NEW YORK CITY,</i>    
+
+621
+00:26:45,036 --> 00:26:47,436
+    <i> WHERE THEY COULD EARN</i>      
+    <i> A LIVING OFF THE LAND.</i>     
+
+622
+00:26:47,505 --> 00:26:49,505
+         <i> BUT HE CAN'T</i>          
+        <i> SHED ANY LIGHT</i>         
+
+623
+00:26:49,574 --> 00:26:51,641
+      <i> ON WHO OUR RUSSIAN</i>       
+       <i> IMMIGRANTS WERE</i>         
+
+624
+00:26:51,709 --> 00:26:53,676
+    <i> OR WHY SO MANY SEEMED</i>      
+        <i> TO HAVE STAYED</i>         
+
+625
+00:26:53,745 --> 00:26:57,713
+   <i> FOR SUCH A BRIEF PERIOD</i>     
+    <i> AT CHRIS'S FARMHOUSE.</i>      
+
+626
+00:26:57,782 --> 00:27:00,516
+          <i> THE CENTER</i>           
+      <i> FOR JEWISH HISTORY</i>       
+
+627
+00:27:00,585 --> 00:27:02,585
+      <i> HOUSES THE PAPERS</i>        
+     <i> OF THE BARON'S FUND</i>       
+
+628
+00:27:02,654 --> 00:27:05,788
+        <i> AND THE JEWISH</i>         
+    <i> AGRICULTURAL SOCIETY.</i>      
+
+629
+00:27:05,857 --> 00:27:08,724
+      <i> IN A VOLUME ABOUT</i>        
+    <i> THE SOCIAL CONDITIONS</i>      
+
+630
+00:27:08,793 --> 00:27:12,061
+    <i> FACING RUSSIAN JEWS AT</i>     
+<i> THE TURN OF THE 19th CENTURY,</i>  
+
+631
+00:27:12,130 --> 00:27:15,097
+    <i> I DISCOVER THE JEWISH</i>      
+    <i> AGRICULTURAL SOCIETY,</i>      
+
+632
+00:27:15,166 --> 00:27:18,100
+   <i> OR J.A.S., SET FAMILIES</i>     
+        <i> UP ON FARMLAND</i>         
+
+633
+00:27:18,169 --> 00:27:19,835
+   <i> ALL ACROSS NEW ENGLAND.</i>     
+
+634
+00:27:19,904 --> 00:27:22,071
+  "INDIVIDUAL JEWISH FARMERS    
+         ARE SCATTERED          
+
+635
+00:27:22,140 --> 00:27:24,006
+   "THROUGH THE NEW ENGLAND     
+            STATES              
+
+636
+00:27:24,075 --> 00:27:27,643
+"AND OWN FARMS IN RHODE ISLAND, 
+  MASSACHUSETTS, CONNECTICUT,   
+
+637
+00:27:27,712 --> 00:27:29,912
+       "MAINE, VERMONT,         
+      AND NEW HAMPSHIRE.        
+
+638
+00:27:29,981 --> 00:27:33,583
+  "BY FAR THE GREATEST NUMBER   
+  ARE LOCATED IN CONNECTICUT,   
+
+639
+00:27:33,651 --> 00:27:36,185
+     "AND THEY HAVE FORMED      
+  THE MOST IMPORTANT SECTION    
+
+640
+00:27:36,254 --> 00:27:40,156
+OF THE JEWISH FARMING COMMUNITY 
+       IN NEW ENGLAND."         
+
+641
+00:27:43,094 --> 00:27:45,528
+     THIS IS A LEDGER BOOK      
+       THAT LISTS LOANS         
+
+642
+00:27:45,597 --> 00:27:49,599
+FROM THE BARON de HIRSCH FUND.  
+
+643
+00:27:49,667 --> 00:27:51,334
+         LET'S SEE...           
+
+644
+00:27:51,402 --> 00:27:53,469
+       AH, CONNECTICUT.         
+
+645
+00:27:53,538 --> 00:27:56,806
+<i> ALTHOUGH THERE'S NO INFORMATION</i>
+       <i> ON OUR FAMILIES,</i>        
+
+646
+00:27:56,874 --> 00:27:58,708
+         <i> THE ORIGINAL</i>          
+      <i> LOAN APPLICATIONS</i>        
+
+647
+00:27:58,776 --> 00:28:01,811
+       <i> DESCRIBE HOW THE</i>        
+   <i> LENDING PROCESS WORKED.</i>     
+
+648
+00:28:01,879 --> 00:28:04,313
+    <i> SUCCESSFUL APPLICANTS</i>      
+      <i> WERE RUSSIAN JEWS</i>        
+
+649
+00:28:04,382 --> 00:28:06,782
+   <i> WHO WERE HEALTHY ENOUGH</i>     
+     <i> TO HANDLE FARM WORK</i>       
+
+650
+00:28:06,851 --> 00:28:11,053
+<i> AND WHO ALSO HAD A LITTLE BIT</i>  
+   <i> OF MONEY TO GET STARTED.</i>    
+
+651
+00:28:11,122 --> 00:28:12,989
+          <i> FOR THOSE</i>            
+     <i> WHO DIDN'T QUALIFY,</i>       
+
+652
+00:28:13,057 --> 00:28:15,891
+      <i> THE FUND PROVIDED</i>        
+<i> TRADE SCHOOLS, ENGLISH CLASSES,</i>
+
+653
+00:28:15,960 --> 00:28:18,794
+       <i> AND SCHOLARSHIPS</i>        
+  <i> FOR STUDENTS IN THE CITY.</i>    
+
+654
+00:28:18,863 --> 00:28:22,832
+      BUT I'M NOT FINDING       
+ANY INFORMATION ON OUR FARMERS. 
+
+655
+00:28:25,203 --> 00:28:27,103
+    HI.                         
+                HI, ELYSE.      
+
+656
+00:28:27,171 --> 00:28:29,572
+   <i> I'M MEETING CONNECTICUT</i>     
+ <i> HISTORIAN BRIANN GREENFIELD</i>   
+
+657
+00:28:29,641 --> 00:28:31,474
+    <i> AT THE STATE ARCHIVES.</i>     
+
+658
+00:28:31,542 --> 00:28:34,043
+ <i> SHE EXPLAINS WHY CONNECTICUT</i>  
+  <i> WAS SUCH A POPULAR CHOICE</i>    
+
+659
+00:28:34,112 --> 00:28:36,112
+  <i> FOR THE IMMIGRANT FARMERS.</i>   
+
+660
+00:28:36,180 --> 00:28:38,814
+          WELL, THE SHORT ANSWER
+          IS AVAILABLE LAND.    
+
+661
+00:28:38,883 --> 00:28:42,051
+A LOT OF OLD YANKEE FARMERS     
+WERE MOVING AWAY FROM THE FARMS.
+
+662
+00:28:42,120 --> 00:28:44,086
+          THEY WERE BEING PULLED
+          OUT WEST,             
+
+663
+00:28:44,155 --> 00:28:45,888
+            WHERE AGRICULTURE   
+            WAS MORE PRODUCTIVE,
+
+664
+00:28:45,957 --> 00:28:47,656
+             OR THEY WERE COMING
+             TO THE FACTORY JOBS
+
+665
+00:28:47,725 --> 00:28:49,258
+             THAT WERE AVAILABLE
+             IN THE CITY.       
+
+666
+00:28:49,327 --> 00:28:51,127
+     <i> BRIANN TELLS ME THAT</i>      
+      <i> THE STATE WORRIED</i>        
+
+667
+00:28:51,195 --> 00:28:52,928
+   <i> ABOUT THE ABANDONED FARM</i>    
+           <i> PROBLEM</i>             
+
+668
+00:28:52,997 --> 00:28:54,897
+       <i> AND THE DECLINE</i>         
+    <i> OF RURAL COMMUNITIES.</i>      
+
+669
+00:28:54,966 --> 00:28:58,968
+<i> IN 1892, THEY BEGAN TO PUBLISH</i> 
+   <i> LISTS OF FARMS FOR SALE.</i>    
+
+670
+00:28:59,037 --> 00:29:02,872
+           THIS IS A DESCRIPTION
+           OF FARMS FOR SALE    
+
+671
+00:29:02,940 --> 00:29:06,242
+          IN CONNECTICUT THAT   
+          WAS PUBLISHED IN 1899.
+
+672
+00:29:06,310 --> 00:29:07,543
+SO IT'S A REAL ESTATE           
+LISTING?                        
+
+673
+00:29:07,612 --> 00:29:09,011
+           THAT'S EXACTLY RIGHT.
+
+674
+00:29:09,080 --> 00:29:13,549
+  THEY HAVE MAPS, AND THERE ARE 
+  SOME PICTURES IN HERE AS WELL.
+
+675
+00:29:13,618 --> 00:29:15,618
+          THIS IS EVERYTHING    
+          YOU WOULD NEED TO KNOW
+
+676
+00:29:15,686 --> 00:29:17,853
+       ABOUT THE KINDS OF FARMS 
+       THAT YOU WERE LOOKING AT.
+
+677
+00:29:17,922 --> 00:29:19,855
+               THERE'S EVEN SOME
+               IN EAST HADDAM.  
+
+678
+00:29:19,924 --> 00:29:21,690
+       <i> BRIANN EXPLAINS</i>         
+       <i> THE RUSSIAN JEWS</i>        
+
+679
+00:29:21,759 --> 00:29:24,693
+  <i> WEREN'T THE ONLY NEWCOMERS</i>   
+<i> SETTLING THE OLD YANKEE FARMS.</i> 
+
+680
+00:29:24,762 --> 00:29:28,664
+     IT WAS ALL SORTS OF        
+     DIFFERENT IMMIGRANT GROUPS,
+
+681
+00:29:28,733 --> 00:29:31,734
+           AND THIS WAS A PERIOD
+           OF HEAVY IMMIGRATION.
+
+682
+00:29:31,803 --> 00:29:33,936
+                TAKE A LOOK     
+                AT THIS ARTICLE.
+
+683
+00:29:34,005 --> 00:29:36,172
+"ALIEN INVASION                 
+OF CONNECTICUT FARMS."          
+
+684
+00:29:36,240 --> 00:29:38,808
+"EVERY THIRD FARM IN CONNECTICUT
+IS NOW IN THE HANDS             
+
+685
+00:29:38,876 --> 00:29:40,509
+OF A MAN OF FOREIGN BIRTH."     
+
+686
+00:29:40,578 --> 00:29:42,278
+             "THERE IS NO CORNER
+             OF THE STATE       
+
+687
+00:29:42,346 --> 00:29:44,513
+    "INTO WHICH THE IMMIGRANT   
+    FOREIGNER HAS NOT PENETRATED
+
+688
+00:29:44,582 --> 00:29:46,982
+         "AND THAT HE COMES FROM
+         LANDS THE POLES APART  
+
+689
+00:29:47,051 --> 00:29:50,052
+        IN CUSTOMS, LANGUAGE,   
+        RELIGION, AND MORALITY."
+
+690
+00:29:50,121 --> 00:29:51,854
+THAT SEEMS PRETTY               
+NEGATIVE TO ME.                 
+
+691
+00:29:51,923 --> 00:29:54,056
+        WELL, TO BE VERY HONEST,
+        I THINK THEY SAW IT     
+
+692
+00:29:54,125 --> 00:29:56,192
+              AS BOTH A BLESSING
+              AND AS A THREAT.  
+
+693
+00:29:56,260 --> 00:29:58,494
+ A BLESSING BECAUSE             
+ THEY NEEDED AGRICULTURAL LABOR,
+
+694
+00:29:58,563 --> 00:30:00,529
+               BUT ALSO A THREAT
+
+695
+00:30:00,598 --> 00:30:03,399
+     BECAUSE PEOPLE FEARED      
+     THE LOSS OF YANKEE CULTURE.
+
+696
+00:30:03,467 --> 00:30:05,601
+    <i> THE FAMILIES WHO LIVED</i>     
+       <i> IN CHRIS'S HOME</i>         
+
+697
+00:30:05,670 --> 00:30:07,603
+   <i> SWAPPED THE OVERCROWDING</i>    
+      <i> AND CLASS TENSION</i>        
+
+698
+00:30:07,672 --> 00:30:09,672
+   <i> OF THE JEWISH COMMUNITY</i>     
+         <i> IN NEW YORK</i>           
+
+699
+00:30:09,740 --> 00:30:13,442
+      <i> FOR THE XENOPHOBIA</i>       
+<i> OF THE YANKEES IN CONNECTICUT.</i> 
+
+700
+00:30:13,511 --> 00:30:15,611
+      <i> DOES THAT EXPLAIN</i>        
+       <i> WHY THE ARRIVALS</i>        
+
+701
+00:30:15,680 --> 00:30:19,114
+       <i> ONLY STAYED FOR</i>         
+      <i> SUCH A SHORT TIME?</i>       
+
+702
+00:30:19,183 --> 00:30:21,884
+       <i> MARY DONOHUE IS</i>         
+  <i> AN ARCHITECTURAL HISTORIAN</i>   
+
+703
+00:30:21,953 --> 00:30:24,653
+<i> WITH THE CONNECTICUT COMMISSION</i>
+   <i> ON CULTURE AND TOURISM.</i>     
+
+704
+00:30:24,722 --> 00:30:25,955
+                HI, MARY, ELYSE.
+HI.                             
+
+705
+00:30:26,023 --> 00:30:27,590
+LET'S HEAD IN HERE.             
+
+706
+00:30:27,658 --> 00:30:30,125
+MARY, I'M INVESTIGATING         
+A FARMHOUSE IN CONNECTICUT      
+
+707
+00:30:30,194 --> 00:30:32,228
+THAT DURING                     
+THE EARLY 20th CENTURY          
+
+708
+00:30:32,296 --> 00:30:35,431
+HAD A TREMENDOUS AMOUNT         
+OF TURNOVER WITH RUSSIAN JEWS,  
+
+709
+00:30:35,499 --> 00:30:37,766
+AND I'M TRYING                  
+TO FIGURE OUT WHY.              
+
+710
+00:30:37,835 --> 00:30:40,569
+WELL, THEY SETTLED ON           
+THE LOWER EAST SIDE OF MANHATTAN
+
+711
+00:30:40,638 --> 00:30:42,504
+          IN A VERY JEWISH AREA,
+
+712
+00:30:42,573 --> 00:30:44,073
+                BUT THEN TO MOVE
+                TO THE COUNTRY  
+
+713
+00:30:44,141 --> 00:30:45,674
+           WAS A VERY HARD MOVE.
+
+714
+00:30:45,743 --> 00:30:47,543
+    SUDDENLY, THEY'RE IN        
+    THE CONNECTICUT COUNTRYSIDE,
+
+715
+00:30:47,612 --> 00:30:49,979
+    WHERE THERE'S NOT A         
+    READY-MADE JEWISH COMMUNITY,
+
+716
+00:30:50,047 --> 00:30:52,047
+                THEY DIDN'T     
+                SPEAK ENGLISH --
+
+717
+00:30:52,116 --> 00:30:53,582
+            THAT MADE IT HARDER.
+
+718
+00:30:53,651 --> 00:30:55,651
+       <i> BUT MARY DOUBTS</i>         
+ <i> RESENTMENT OF THE NEWCOMERS</i>   
+
+719
+00:30:55,720 --> 00:30:57,586
+        <i> WAS THE REASON</i>         
+    <i> FOR THE HIGH TURNOVER.</i>     
+
+720
+00:30:57,655 --> 00:30:59,488
+              I THINK IF        
+              THE JEWISH FARMERS
+
+721
+00:30:59,557 --> 00:31:01,323
+              WORKED HARD AND   
+              BECAME SUCCESSFUL,
+
+722
+00:31:01,392 --> 00:31:03,692
+    THEY REALLY HAD             
+    THE YANKEE FARMERS' RESPECT.
+
+723
+00:31:03,761 --> 00:31:05,527
+       <i> BUT IF IT WASN'T</i>        
+         <i> XENOPHOBIA,</i>           
+
+724
+00:31:05,596 --> 00:31:08,097
+   <i> WHY WEREN'T THE FAMILIES</i>    
+<i> WHO LIVED IN CHRIS'S FARMHOUSE</i> 
+
+725
+00:31:08,165 --> 00:31:10,165
+      <i> ABLE TO MAKE A GO</i>        
+            <i> OF IT?</i>             
+
+726
+00:31:10,234 --> 00:31:12,601
+           THE REAL BREAKTHROUGH
+           CAME THROUGH IN 1908.
+
+727
+00:31:12,670 --> 00:31:14,203
+   <i> WHAT MARY TELLS ME NEXT</i>     
+
+728
+00:31:14,272 --> 00:31:16,805
+     <i> PUTS ALL THE PIECES</i>       
+   <i> OF THE PUZZLE IN PLACE.</i>     
+
+729
+00:31:16,874 --> 00:31:19,775
+    <i> IT'S TIME TO HEAD BACK</i>     
+          <i> TO CHRIS.</i>            
+
+730
+00:31:19,844 --> 00:31:21,844
+CHRIS, I WASN'T ABLE TO FIND OUT
+A LOT OF INFORMATION            
+
+731
+00:31:21,912 --> 00:31:23,579
+           ABOUT THE PEOPLE THAT
+           LIVED HERE,          
+
+732
+00:31:23,648 --> 00:31:25,781
+         BUT YOU WERE RIGHT,    
+         THEY WERE RUSSIAN JEWS.
+
+733
+00:31:25,850 --> 00:31:26,982
+THAT'S GREAT.                   
+
+734
+00:31:27,051 --> 00:31:28,484
+             PRETTY COOL, RIGHT?
+PRETTY COOL.                    
+
+735
+00:31:28,552 --> 00:31:30,986
+      <i> I TELL CHRIS HOW,</i>        
+<i> WITH THE HELP OF ORGANIZATIONS</i> 
+
+736
+00:31:31,055 --> 00:31:33,122
+       <i> LIKE THE JEWISH</i>         
+    <i> AGRICULTURAL SOCIETY,</i>      
+
+737
+00:31:33,190 --> 00:31:35,724
+   <i> IMMIGRANTS ESCAPED FROM</i>     
+  <i> THE SLUMS OF NEW YORK CITY</i>   
+
+738
+00:31:35,793 --> 00:31:37,626
+    <i> TO FARMS SUCH AS HIS.</i>      
+
+739
+00:31:37,695 --> 00:31:40,062
+       BUT WHEN THEY GOT HERE,  
+       IT WAS A DIFFERENT STORY.
+
+740
+00:31:40,131 --> 00:31:42,631
+         THEY REALLY DIDN'T HAVE
+         TRAINING AS FARMERS,   
+
+741
+00:31:42,700 --> 00:31:44,800
+            AND THESE ARE PEOPLE
+            THAT WERE REFUGEES. 
+
+742
+00:31:44,869 --> 00:31:47,202
+        THEY WERE IN THE TRADES,
+        THEY WERE PROFESSIONALS,
+
+743
+00:31:47,271 --> 00:31:49,505
+       THEY WERE ALMOST ANYTHING
+       BUT A FARMER.            
+
+744
+00:31:49,573 --> 00:31:52,041
+        YOU WEREN'T EVEN ALLOWED
+        TO OWN LAND IN RUSSIA   
+
+745
+00:31:52,109 --> 00:31:53,709
+             IF YOU WERE JEWISH.
+
+746
+00:31:53,778 --> 00:31:55,878
+             IT WAS ALSO        
+             VERY MARGINAL LAND.
+
+747
+00:31:55,946 --> 00:31:58,681
+            CONNECTICUT POTATOES
+            ARE REALLY ROCKS.   
+
+748
+00:31:58,749 --> 00:32:02,584
+   THIS IS FARMLAND THAT'S BEEN 
+   USED HARD FOR OVER 200 YEARS.
+
+749
+00:32:02,653 --> 00:32:05,020
+         <i> MANY SIMPLY</i>           
+      <i> COULDN'T MAKE IT,</i>        
+
+750
+00:32:05,089 --> 00:32:08,524
+   <i> AND THE OLD YANKEE FARMS</i>    
+     <i> KEPT CHANGING HANDS.</i>      
+
+751
+00:32:08,592 --> 00:32:11,493
+WOW, THAT I WOULD NOT           
+HAVE GUESSED.                   
+
+752
+00:32:11,562 --> 00:32:13,862
+WELL, I GUESS THAT EXPLAINS     
+WHY THERE WAS SO MUCH TURNOVER. 
+
+753
+00:32:13,931 --> 00:32:15,764
+THEY DIDN'T REALLY KNOW         
+WHAT THEY WERE DOING            
+
+754
+00:32:15,833 --> 00:32:17,433
+AND DECIDED TO GIVE UP.         
+
+755
+00:32:17,501 --> 00:32:19,435
+        <i> BUT THE STORY</i>          
+      <i> DOESN'T END THERE.</i>       
+
+756
+00:32:19,503 --> 00:32:21,236
+     <i> MARY EXPLAINED THAT</i>       
+      <i> THE ORGANIZATIONS</i>        
+
+757
+00:32:21,305 --> 00:32:22,905
+         <i> THAT HELPED</i>           
+        <i> BUY THE FARMS</i>          
+
+758
+00:32:22,973 --> 00:32:26,141
+<i> REALIZED THE EARLY IMMIGRANTS</i>  
+  <i> NEEDED FURTHER ASSISTANCE.</i>   
+
+759
+00:32:26,210 --> 00:32:28,377
+           THE REAL BREAKTHROUGH
+           CAME THROUGH IN 1908 
+
+760
+00:32:28,446 --> 00:32:31,046
+          WHEN THEY ALSO STARTED
+          TO PRODUCE A NEWSPAPER
+
+761
+00:32:31,115 --> 00:32:34,149
+       IN YIDDISH FOR FARMERS   
+       CALLED<i> THE JEWISH FARMER,</i>
+
+762
+00:32:34,218 --> 00:32:37,386
+     WHICH WAS THE FIRST YIDDISH
+     AGRICULTURAL MAGAZINE      
+
+763
+00:32:37,455 --> 00:32:38,887
+                   IN THE WORLD.
+
+764
+00:32:38,956 --> 00:32:41,156
+      <i> MARY'S FRIEND AVI</i>        
+ <i> HAS AGREED TO HELP TRANSLATE</i>  
+
+765
+00:32:41,225 --> 00:32:42,558
+     <i> SOME OF THE YIDDISH.</i>      
+
+766
+00:32:42,626 --> 00:32:44,226
+ALL RIGHT,                      
+HELP US OUT HERE.               
+
+767
+00:32:44,295 --> 00:32:45,761
+           AND THE FIRST ARTICLE
+           YOU HAVE             
+
+768
+00:32:45,830 --> 00:32:48,063
+   IS "HOW TO BEST UNDERSTAND   
+   YOUR COW," OR...             
+
+769
+00:32:48,132 --> 00:32:50,499
+           [ speaks in Yiddish ]
+
+770
+00:32:50,568 --> 00:32:52,701
+             AND THEN IT GOES ON
+             TO SAY IN YIDDISH  
+
+771
+00:32:52,770 --> 00:32:54,937
+        WHAT EVERY FARMER SHOULD
+        KNOW ABOUT THEIR COW.   
+
+772
+00:32:55,005 --> 00:33:01,009
+         [ speaking in Yiddish ]
+
+773
+00:33:01,078 --> 00:33:03,912
+        "EVERY JEWISH FARMER    
+        WHO HAS EYES HAS NOTICED
+
+774
+00:33:03,981 --> 00:33:05,080
+                "THAT SOME COWS 
+                GIVE MILK BETTER
+
+775
+00:33:05,149 --> 00:33:06,982
+               AND SOME COWS    
+               GIVE MILK WORSE."
+
+776
+00:33:07,051 --> 00:33:10,018
+WHAT YOU HAVE HERE IS THIS      
+HOW-TO GUIDE FOR JEWISH FARMERS,
+
+777
+00:33:10,087 --> 00:33:12,387
+    EVERYTHING THEY NEED TO KNOW
+    HOW TO BE A FARMER,         
+
+778
+00:33:12,456 --> 00:33:14,656
+             ALL THE BASICS,    
+             WRITTEN IN YIDDISH.
+
+779
+00:33:14,725 --> 00:33:16,558
+MARY, WITH ALL THIS INFORMATION 
+FROM<i> THE JEWISH FARMER,</i>         
+
+780
+00:33:16,627 --> 00:33:17,860
+HOW DID THEY DO?                
+
+781
+00:33:17,928 --> 00:33:19,094
+        THEY DID GREAT.         
+
+782
+00:33:19,163 --> 00:33:21,730
+      IN 1908, IT ONLY HAD      
+      638 SUBSCRIBERS,          
+
+783
+00:33:21,799 --> 00:33:24,099
+     AND FIVE YEARS LATER,      
+     IT HAD THOUSANDS.          
+
+784
+00:33:24,168 --> 00:33:27,135
+ IN CONNECTICUT, JEWISH FARMERS 
+ DEVELOPED A NICHE MARKET       
+
+785
+00:33:27,204 --> 00:33:29,972
+    FOR THINGS LIKE TOBACCO,    
+    POULTRY, EGGS, DAIRY,       
+
+786
+00:33:30,040 --> 00:33:32,274
+   AND SECOND AND THIRD         
+   GENERATION JEWISH FARMERS    
+
+787
+00:33:32,343 --> 00:33:33,675
+       REALLY PROSPERED.        
+
+788
+00:33:33,744 --> 00:33:35,344
+           YOU KNOW, SOME PEOPLE
+           DIDN'T MAKE IT       
+
+789
+00:33:35,412 --> 00:33:36,812
+              AND THEY WENT BACK
+              TO THE CITY,      
+
+790
+00:33:36,881 --> 00:33:38,180
+                BUT OTHER PEOPLE
+                WERE SMART      
+
+791
+00:33:38,249 --> 00:33:40,115
+       AND THEY FOUND OTHER WAYS
+       TO MAKE MONEY,           
+
+792
+00:33:40,184 --> 00:33:42,918
+     AND THEY TURNED THEIR FARMS
+     INTO EITHER BOARDING HOUSES
+
+793
+00:33:42,987 --> 00:33:44,553
+             OR WEEKEND RESORTS,
+
+794
+00:33:44,622 --> 00:33:46,388
+               SO MUCH SO,      
+               THAT AT ONE TIME,
+
+795
+00:33:46,457 --> 00:33:48,824
+   THIS AREA WAS CALLED         
+   THE CATSKILLS OF NEW ENGLAND.
+
+796
+00:33:48,893 --> 00:33:51,727
+THE IDEA THAT THIS HOUSE        
+WAS MORE THAN A HOUSE,          
+
+797
+00:33:51,795 --> 00:33:54,363
+THAT IT COULD HAVE BEEN         
+A SANCTUARY FOR PEOPLE,         
+
+798
+00:33:54,431 --> 00:33:56,398
+I MEAN, THAT'S                  
+JUST FANTASTIC.                 
+
+799
+00:33:56,467 --> 00:33:58,300
+WELL, IT WAS A GREAT EXPERIENCE,
+AND THANK YOU VERY MUCH.        
+
+800
+00:33:58,369 --> 00:33:59,701
+THANK YOU.                      
+
+801
+00:33:59,770 --> 00:34:01,837
+   FOR MORE OF MY INTERVIEW     
+      WITH DANIEL SAWYER,       
+
+802
+00:34:01,906 --> 00:34:07,476
+   VISIT<i> HISTORY DETECTIVES</i>     
+     ON THE WEB AT pbs.org.     
+
+803
+00:34:07,544 --> 00:34:10,245
+   THE TOWN OF WILLIAMSBURG     
+    IN BROOKLYN, NEW YORK,      
+
+804
+00:34:10,314 --> 00:34:12,681
+      ALSO SAW AN INFLUX        
+      OF JEWISH RESIDENTS       
+
+805
+00:34:12,750 --> 00:34:14,583
+        AT THE TURN OF          
+       THE 20th CENTURY         
+
+806
+00:34:14,652 --> 00:34:18,787
+ THANKS TO AN INCREDIBLE FEAT   
+   OF AMERICAN ENGINEERING.     
+
+807
+00:34:18,856 --> 00:34:21,757
+        CONSTRUCTION ON         
+   THE WILLIAMSBURG BRIDGE,     
+
+808
+00:34:21,825 --> 00:34:24,226
+       NEW YORK'S SECOND        
+   GREAT SUSPENSION BRIDGE,     
+
+809
+00:34:24,295 --> 00:34:27,496
+           BEGAN ON             
+      NOVEMBER 7th, 1896.       
+
+810
+00:34:27,564 --> 00:34:29,431
+   TO ALLEVIATE THE TRAFFIC     
+
+811
+00:34:29,500 --> 00:34:31,300
+         OVERWHELMING           
+     THE BROOKLYN BRIDGE,       
+
+812
+00:34:31,368 --> 00:34:33,769
+     ITS DESIGN CALLED FOR      
+    A DOUBLE-DECKER ROADWAY     
+
+813
+00:34:33,837 --> 00:34:37,005
+   FOR CARRIAGES, TROLLEYS,     
+       AND PEDESTRIANS.         
+
+814
+00:34:37,074 --> 00:34:40,008
+      IN ORDER TO SUPPORT       
+    TWO LEVELS OF TRAFFIC,      
+
+815
+00:34:40,077 --> 00:34:43,478
+     310-FOOT-HIGH TOWERS       
+         WERE ERECTED,          
+
+816
+00:34:43,547 --> 00:34:46,481
+      THE FIRST EVER MADE       
+      ENTIRELY OF STEEL.        
+
+817
+00:34:46,550 --> 00:34:48,917
+    BUILT IN HALF THE TIME      
+    OF THE BROOKLYN BRIDGE      
+
+818
+00:34:48,986 --> 00:34:51,453
+ AND MEASURING FOUR AND A HALF  
+         FEET LONGER,           
+
+819
+00:34:51,522 --> 00:34:53,789
+    THE WILLIAMSBURG BRIDGE     
+        STOLE THE TITLE         
+
+820
+00:34:53,857 --> 00:34:56,425
+   OF THE LONGEST SUSPENSION    
+      BRIDGE IN THE WORLD       
+
+821
+00:34:56,493 --> 00:35:00,295
+       WHEN IT OPENED ON        
+      DECEMBER 19, 1903.        
+
+822
+00:35:00,364 --> 00:35:03,665
+JEWISH RESIDENTS OF MANHATTAN'S 
+  CROWDED EAST SIDE TENEMENTS   
+
+823
+00:35:03,734 --> 00:35:06,468
+      STREAMED OVER THIS        
+    STATE-OF-THE-ART BRIDGE     
+
+824
+00:35:06,537 --> 00:35:09,604
+       TO FIND NEW HOMES        
+     IN SPACIOUS BROOKLYN.      
+
+825
+00:35:09,673 --> 00:35:12,841
+      THE BRAND-NEW LINK        
+BETWEEN THE THEN-SEPARATE CITIES
+
+826
+00:35:12,910 --> 00:35:15,010
+   OF NEW YORK AND BROOKLYN     
+
+827
+00:35:15,079 --> 00:35:17,345
+         ALSO PROVIDED          
+        A FINAL IMPETUS         
+
+828
+00:35:17,414 --> 00:35:19,247
+   FOR THEM TO CONSOLIDATE.     
+
+829
+00:35:19,316 --> 00:35:21,983
+           IN 1898,             
+   THEY JOINED WITH QUEENS,     
+
+830
+00:35:22,052 --> 00:35:23,985
+        STATEN ISLAND,          
+         AND THE BRONX          
+
+831
+00:35:24,054 --> 00:35:28,757
+TO BECOME THE SINGLE UNITED CITY
+         OF NEW YORK.           
+
+832
+00:35:33,831 --> 00:35:36,098
+            Tukufu:             
+ <i> OUR LAST STORY INVESTIGATES</i>   
+        <i> THE CONNECTION</i>         
+
+833
+00:35:36,166 --> 00:35:40,502
+ <i> BETWEEN A PORTRAIT, A POET,</i>   
+  <i> AND THE FALL OF AN EMPIRE.</i>   
+
+834
+00:35:43,941 --> 00:35:47,843
+  <i> IN 1923, THE LEBANESE-BORN</i>   
+      <i> POET KHALIL GIBRAN</i>       
+
+835
+00:35:47,911 --> 00:35:50,212
+    <i> PUBLISHES</i> THE PROPHET,     
+
+836
+00:35:50,280 --> 00:35:52,013
+    <i> A COLLECTION OF POEMS</i>      
+   <i> EXPLORING FACETS OF LIFE</i>    
+
+837
+00:35:52,082 --> 00:35:54,416
+   <i> AND THE HUMAN CONDITION.</i>    
+
+838
+00:35:54,485 --> 00:35:56,718
+ <i> ALTHOUGH VIEWED SKEPTICALLY</i>   
+         <i> BY CRITICS,</i>           
+
+839
+00:35:56,787 --> 00:35:58,653
+        <i> IT WILL BECOME</i>         
+    <i> A LITERARY SENSATION,</i>      
+
+840
+00:35:58,722 --> 00:36:02,824
+ <i> MAKING KHALIL GIBRAN ONE OF</i>   
+<i> THE WORLD'S BESTSELLING POETS</i>  
+
+841
+00:36:02,893 --> 00:36:04,693
+          <i> AND HAVING</i>           
+      <i> A POWERFUL IMPACT</i>        
+
+842
+00:36:04,761 --> 00:36:08,897
+ <i> ON THE COUNTERCULTURE OF THE</i>  
+<i> 1960s AND THE NEW-AGE MOVEMENT.</i>
+
+843
+00:36:08,966 --> 00:36:11,266
+     <i> BUT MANY ARE UNAWARE</i>      
+       <i> THAT THE WRITER</i>         
+
+844
+00:36:11,335 --> 00:36:13,135
+           <i> WAS ALSO</i>            
+     <i> A PROLIFIC PAINTER,</i>       
+
+845
+00:36:13,203 --> 00:36:15,537
+    <i> CAPTURING CELEBRITIES</i>      
+      <i> AND FAMOUS FIGURES</i>       
+
+846
+00:36:15,606 --> 00:36:18,607
+     <i> OF THE 20th CENTURY</i>       
+          <i> ON CANVAS.</i>           
+
+847
+00:36:18,675 --> 00:36:22,277
+  <i> NOW, ALMOST EIGHT DECADES</i>    
+    <i> AFTER GIBRAN'S DEATH,</i>      
+
+848
+00:36:22,346 --> 00:36:27,349
+ <i> BOB DIAB FROM OVERLAND PARK,</i>  
+    <i> KANSAS, HAS A PORTRAIT</i>     
+
+849
+00:36:27,417 --> 00:36:30,285
+ <i> THAT HE THINKS MAY HAVE BEEN</i>  
+      <i> PAINTED BY GIBRAN.</i>       
+
+850
+00:36:32,589 --> 00:36:35,056
+      [ doorbell rings ]        
+
+851
+00:36:35,125 --> 00:36:35,924
+              HELLO, I'M TUKUFU.
+
+852
+00:36:35,993 --> 00:36:37,759
+I'M BOB.                        
+PLEASE COME IN.                 
+
+853
+00:36:37,828 --> 00:36:39,261
+WOW, SO WHAT IS THIS?           
+
+854
+00:36:39,329 --> 00:36:43,031
+         THIS IS MY GRANDFATHER,
+         NAJEEB MUSA DIAB.      
+
+855
+00:36:43,100 --> 00:36:46,368
+          HE WAS A PUBLISHER    
+          OF AN ARABIC NEWSPAPER
+
+856
+00:36:46,436 --> 00:36:49,271
+     IN BROOKLYN, NEW YORK,     
+     AT THE TURN OF THE CENTURY.
+
+857
+00:36:49,339 --> 00:36:52,374
+   JUST AFTER HE IMMIGRATED HERE
+   FROM SYRIA.                  
+
+858
+00:36:52,442 --> 00:36:53,975
+AND WHICH PAPER                 
+WAS THAT?                       
+
+859
+00:36:54,044 --> 00:36:55,844
+        IT WAS CALLED           
+        <i> THE MIRROR OF THE WEST.</i>
+
+860
+00:36:55,913 --> 00:36:57,746
+         <i> BOB SAYS HIS</i>          
+   <i> GRANDFATHER'S NEWSPAPER</i>     
+
+861
+00:36:57,814 --> 00:37:00,549
+<i> WAS ONCE AN IMPORTANT RESOURCE</i> 
+     <i> FOR ARAB IMMIGRANTS,</i>      
+
+862
+00:37:00,617 --> 00:37:03,451
+       <i> A FAMILIAR VOICE</i>        
+ <i> REPORTING ON CHANGING EVENTS</i>  
+
+863
+00:37:03,520 --> 00:37:05,320
+   <i> IN THEIR HOME COUNTRIES</i>     
+
+864
+00:37:05,389 --> 00:37:07,756
+      <i> AND ON LIFE WITHIN</i>       
+  <i> ARAB IMMIGRANT COMMUNITIES</i>   
+
+865
+00:37:07,824 --> 00:37:09,491
+    <i> IN THE UNITED STATES.</i>      
+
+866
+00:37:09,560 --> 00:37:11,993
+ <i> HE PUBLISHED GIBRAN'S POEMS</i>   
+      <i> IN HIS NEWSPAPER,</i>        
+
+867
+00:37:12,062 --> 00:37:14,229
+       <i> GIVING THE POET</i>         
+      <i> A PROMINENT VOICE</i>        
+
+868
+00:37:14,298 --> 00:37:16,531
+       <i> IN THE ISOLATED</i>         
+       <i> ARAB COMMUNITY.</i>         
+
+869
+00:37:16,600 --> 00:37:20,468
+WHAT IS IT ABOUT THIS PAINTING  
+THAT'S SO IMPORTANT?            
+
+870
+00:37:20,537 --> 00:37:23,638
+   THE STORY IS THAT IT         
+   WAS PAINTED BY KHALIL GIBRAN.
+
+871
+00:37:23,707 --> 00:37:26,241
+NOW, I KNOW OF HIM              
+AS A VERY FAMOUS WRITER,        
+
+872
+00:37:26,310 --> 00:37:27,943
+BUT I DIDN'T KNOW               
+HE DID PAINTINGS.               
+
+873
+00:37:28,011 --> 00:37:29,110
+                      YES.      
+
+874
+00:37:29,179 --> 00:37:30,512
+ESPECIALLY PORTRAITS.           
+                      YES.      
+
+875
+00:37:30,581 --> 00:37:32,013
+           AND I KNOW THAT HE...
+
+876
+00:37:32,082 --> 00:37:34,849
+    <i> BOB TELLS ME A COUSIN</i>      
+ <i> HE HASN'T SEEN IN MANY YEARS</i>  
+
+877
+00:37:34,918 --> 00:37:37,919
+      <i> ONCE HAD A DRAWING</i>       
+     <i> SIGNED BY THE POET.</i>       
+
+878
+00:37:37,988 --> 00:37:40,055
+    <i> ALTHOUGH THE PAINTING</i>      
+     <i> OF BOB'S GRANDFATHER</i>      
+
+879
+00:37:40,123 --> 00:37:43,391
+   <i> IS NOT SIGNED, THERE ARE</i>    
+    <i> SOME POTENTIAL CLUES.</i>      
+
+880
+00:37:43,460 --> 00:37:45,493
+WHAT IS THIS MEDAL HERE,        
+DO YOU KNOW WHAT THAT'S ABOUT?  
+
+881
+00:37:45,562 --> 00:37:47,028
+                  I DO NOT KNOW.
+
+882
+00:37:47,097 --> 00:37:49,664
+AND THIS HERE,                  
+THIS IS A WATCH, RIGHT?         
+
+883
+00:37:49,733 --> 00:37:52,300
+     <i> BOB HAS A TIMEPIECE</i>       
+  <i> THAT HAS BEEN PASSED DOWN</i>    
+
+884
+00:37:52,369 --> 00:37:54,569
+      <i> THROUGH HIS FAMILY</i>       
+    <i> WHICH HE THINKS MAY BE</i>     
+
+885
+00:37:54,638 --> 00:37:56,504
+        <i> THE SAME WATCH</i>         
+       <i> IN THE PAINTING.</i>        
+
+886
+00:37:56,573 --> 00:37:59,474
+     THIS POCKET WATCH WAS      
+     PRESENTED TO MY GRANDFATHER
+
+887
+00:37:59,543 --> 00:38:02,410
+       WHEN HE WAS PRESIDENT OF 
+       THE UNITED SYRIAN SOCIETY
+
+888
+00:38:02,479 --> 00:38:04,813
+                IN 1914 TO 1915.
+
+889
+00:38:04,881 --> 00:38:06,848
+FINE TIMEPIECE.                 
+                      THANK YOU.
+
+890
+00:38:06,917 --> 00:38:09,384
+    <i> BOB SAYS THAT ALTHOUGH</i>     
+       <i> HIS GRANDFATHER</i>         
+
+891
+00:38:09,453 --> 00:38:11,119
+        <i> IMMIGRATED TO</i>          
+      <i> THE UNITED STATES,</i>       
+
+892
+00:38:11,188 --> 00:38:13,888
+     <i> HE DEVOTED HIS LIFE</i>       
+ <i> TO THE CAUSE OF INDEPENDENCE</i>  
+
+893
+00:38:13,957 --> 00:38:15,957
+    <i> FOR SYRIA AND LEBANON.</i>     
+
+894
+00:38:16,026 --> 00:38:18,193
+     <i> BOTH WERE STILL PART</i>      
+    <i> OF THE OTTOMAN EMPIRE,</i>     
+
+895
+00:38:18,261 --> 00:38:21,062
+ <i> WHICH HAD RULED THOSE LANDS</i>   
+  <i> FOR SEVERAL HUNDRED YEARS.</i>   
+
+896
+00:38:21,131 --> 00:38:23,031
+SO WHAT DO YOU WANT ME          
+TO FIND OUT FOR YOU?            
+
+897
+00:38:23,100 --> 00:38:26,668
+        WELL, COULD IT HAVE BEEN
+        PAINTED BY KHALIL GIBRAN
+
+898
+00:38:26,737 --> 00:38:30,138
+           AND ANY BACKGROUND   
+           ABOUT MY GRANDFATHER.
+
+899
+00:38:30,207 --> 00:38:32,540
+  <i> THE PORTRAIT IS TOO LARGE</i>    
+      <i> TO CARRY WITH ME,</i>        
+
+900
+00:38:32,609 --> 00:38:36,044
+     <i> SO I'M GOING TO TAKE</i>      
+         <i> SOME PHOTOS.</i>          
+
+901
+00:38:36,113 --> 00:38:39,114
+     <i> I READ KHALIL GIBRAN</i>      
+         <i> IN COLLEGE,</i>           
+
+902
+00:38:39,182 --> 00:38:42,117
+    <i> BUT I DON'T KNOW MUCH</i>      
+      <i> ABOUT HIS ARTWORK.</i>       
+
+903
+00:38:42,185 --> 00:38:45,787
+  <i> I'M HEADING INTO BROOKLYN,</i>   
+  <i> NEW YORK, HOME TO A LARGE</i>    
+
+904
+00:38:45,856 --> 00:38:48,590
+      <i> AND LONG-STANDING</i>        
+   <i> ARAB-AMERICAN COMMUNITY,</i>    
+
+905
+00:38:48,658 --> 00:38:51,659
+    <i> TO SHOW BOB'S PAINTING</i>     
+ <i> TO A KHALIL GIBRAN SCHOLAR,</i>   
+
+906
+00:38:51,728 --> 00:38:53,461
+       <i> GREGORY ORFALEA.</i>        
+
+907
+00:38:53,530 --> 00:38:55,130
+WELCOME.                        
+
+908
+00:38:55,198 --> 00:38:58,066
+  <i> GREG SAYS MUCH OF GIBRAN'S</i>   
+     <i> WRITING AND PAINTING</i>      
+
+909
+00:38:58,135 --> 00:39:00,502
+    <i> REFLECTS HIS IDENTITY</i>      
+       <i> AS AN IMMIGRANT</i>         
+
+910
+00:39:00,570 --> 00:39:02,237
+      <i> IN A FOREIGN LAND.</i>       
+
+911
+00:39:02,305 --> 00:39:05,006
+I THINK HIS EXPERIENCE          
+IN AMERICA                      
+
+912
+00:39:05,075 --> 00:39:07,142
+WAS ONE OF ALIENATION.          
+
+913
+00:39:07,210 --> 00:39:09,544
+IT WAS A LONELY EXPERIENCE      
+LINGUISTICALLY.                 
+
+914
+00:39:09,613 --> 00:39:11,079
+HE DIDN'T KNOW ENGLISH.         
+
+915
+00:39:11,148 --> 00:39:15,316
+HE WAS NOT IN BEAUTIFUL,        
+VERDANT, SNOWY MT. LEBANON,     
+
+916
+00:39:15,385 --> 00:39:18,787
+HE WAS LIVING IN THE TENEMENTS  
+IN GRIMY BOSTON,                
+
+917
+00:39:18,855 --> 00:39:21,222
+SOUTH BOSTON,                   
+WEST ROXBURY.                   
+
+918
+00:39:21,291 --> 00:39:26,094
+  <i> GREG EXPLAINS THAT GIBRAN</i>    
+  <i> ARRIVED IN BOSTON IN 1895</i>    
+
+919
+00:39:26,163 --> 00:39:28,329
+      <i> AT THE AGE OF 12.</i>        
+
+920
+00:39:28,398 --> 00:39:31,399
+     <i> HIS FAMILY WAS PART</i>       
+    <i> OF AN ENORMOUS INFLUX</i>      
+
+921
+00:39:31,468 --> 00:39:33,835
+  <i> OF MOSTLY POOR IMMIGRANTS</i>    
+         <i> WHO ARRIVED</i>           
+
+922
+00:39:33,904 --> 00:39:36,271
+  <i> AT THE TURN OF THE CENTURY</i>   
+    <i> FROM LEBANON AND SYRIA</i>     
+
+923
+00:39:36,339 --> 00:39:38,473
+      <i> TO PLACES SUCH AS</i>        
+     <i> BROOKLYN, NEW YORK,</i>       
+
+924
+00:39:38,542 --> 00:39:40,141
+      <i> AND SOUTH BOSTON.</i>        
+
+925
+00:39:40,210 --> 00:39:42,343
+       <i> HIS FIRST POETRY</i>        
+        <i> WAS IN ARABIC</i>          
+
+926
+00:39:42,412 --> 00:39:44,879
+  <i> AND OFTEN ADDRESSED YOUNG</i>    
+   <i> IMMIGRANTS LIKE HIMSELF</i>     
+
+927
+00:39:44,948 --> 00:39:47,982
+ <i> STRUGGLING TO FIND THEIR WAY</i>  
+    <i> IN THE UNITED STATES.</i>      
+
+928
+00:39:48,051 --> 00:39:51,486
+HE WROTE POEMS                  
+TO TELL YOUNG SYRIAN AMERICANS  
+
+929
+00:39:51,555 --> 00:39:53,855
+TO BE PROUD OF THEIR HERITAGE   
+IN THE UNITED STATES            
+
+930
+00:39:53,924 --> 00:39:58,026
+AND FEEL THAT THEY HAD          
+SOMETHING TO GIVE OF MAGNITUDE. 
+
+931
+00:39:58,094 --> 00:40:00,595
+    <i> IN 1923, HE PUBLISHED</i>      
+         <i> A COLLECTION</i>          
+
+932
+00:40:00,664 --> 00:40:03,131
+  <i> OF 26 ENGLISH PROSE POEMS</i>    
+
+933
+00:40:03,200 --> 00:40:06,968
+  <i> ABOUT A MYSTICAL SPIRITUAL</i>   
+     <i> LEADER,</i> THE PROPHET.      
+
+934
+00:40:07,037 --> 00:40:11,739
+<i> IN IT, GIBRAN EXPLORED SUBJECTS</i>
+<i> LIKE LOVE, BEAUTY, AND GIVING.</i> 
+
+935
+00:40:11,808 --> 00:40:14,676
+  <i> "YOU GIVE BUT LITTLE WHEN</i>    
+<i> YOU GIVE OF YOUR POSSESSIONS.</i>  
+
+936
+00:40:14,744 --> 00:40:18,479
+<i> IT IS WHEN YOU GIVE OF YOURSELF</i>
+    <i> THAT YOU TRULY GIVE."</i>      
+
+937
+00:40:18,548 --> 00:40:21,649
+   <i> THE UNIQUE BLEND OF EAST</i>    
+      <i> AND WEST THINKING</i>        
+
+938
+00:40:21,718 --> 00:40:24,419
+      <i> HAS SOLD MILLIONS</i>        
+          <i> OF COPIES.</i>           
+
+939
+00:40:24,487 --> 00:40:26,321
+THERE ARE SOME PARTS            
+OF<i> THE PROPHET</i>                  
+
+940
+00:40:26,389 --> 00:40:27,855
+THAT ARE VERY INTERESTING,      
+
+941
+00:40:27,924 --> 00:40:30,024
+AND SOME OF THE APHORISMS       
+THAT ARE DIFFERENT.             
+
+942
+00:40:30,093 --> 00:40:32,060
+"WORK IS LOVE MADE VISIBLE."    
+
+943
+00:40:32,128 --> 00:40:34,696
+IT WAS A COMPLETELY DIFFERENT   
+STYLE OF WRITING                
+
+944
+00:40:34,764 --> 00:40:38,967
+THAN WAS GOING ON RIGHT THEN    
+AND THERE WITH THE AMERICANS.   
+
+945
+00:40:39,035 --> 00:40:41,202
+   <i> BUT GREG BELIEVES THAT,</i>     
+         <i> IRONICALLY,</i>           
+
+946
+00:40:41,271 --> 00:40:44,505
+   THE PROPHET'S<i> COMMERCIAL</i>     
+ <i> SUCCESS MAY HAVE CONTRIBUTED</i>  
+
+947
+00:40:44,574 --> 00:40:47,442
+  <i> TO GIBRAN'S MIXED REVIEWS</i>    
+        <i> FROM CRITICS.</i>          
+
+948
+00:40:47,510 --> 00:40:51,346
+AND ALSO YOU HAVE TO SAY        
+THAT ANOTHER REASON WAS         
+
+949
+00:40:51,414 --> 00:40:53,848
+THAT THEY JUST SIMPLY           
+DID NOT TRANSLATE               
+
+950
+00:40:53,917 --> 00:40:58,152
+HIS TOUGHER, MORE REBELLIOUS,   
+PRINCIPLED POLITICAL WORK       
+
+951
+00:40:58,221 --> 00:41:01,189
+THAT WAS PUBLISHED              
+PRIOR TO<i> THE PROPHET.</i>           
+
+952
+00:41:01,257 --> 00:41:03,625
+WE TRANSLATED A POEM OF HIS     
+THAT HAD NEVER SEEN ENGLISH,    
+
+953
+00:41:03,693 --> 00:41:05,393
+"DEFEAT, MY DEFEAT."            
+
+954
+00:41:05,462 --> 00:41:07,462
+THAT MATERIAL SHOWS             
+A MORE POLITICAL,               
+
+955
+00:41:07,530 --> 00:41:13,067
+MORE DEFIANT,                   
+MORE SOCIALLY ENGAGED GIBRAN.   
+
+956
+00:41:13,136 --> 00:41:15,603
+I'LL READ JUST A BIT            
+OF IT.                          
+
+957
+00:41:15,672 --> 00:41:20,541
+"DEFEAT, MY DEFEAT,             
+MY SHINING SWORD AND SHIELD.    
+
+958
+00:41:20,610 --> 00:41:23,144
+"IN YOUR EYES I HAVE READ       
+
+959
+00:41:23,213 --> 00:41:26,414
+"THAT TO BE ENTHRONED           
+IS TO BE ENSLAVED,              
+
+960
+00:41:26,483 --> 00:41:29,450
+"AND WE SHALL STAND             
+IN THE SUN WITH A WILL          
+
+961
+00:41:29,519 --> 00:41:32,186
+AND WE SHALL BE DANGEROUS."     
+
+962
+00:41:32,255 --> 00:41:34,922
+SALMA JAYYUSI,                  
+THE PALESTINIAN CRITIC,         
+
+963
+00:41:34,991 --> 00:41:37,892
+SAYS THAT HE IS THE MOST        
+IMPORTANT LITERARY FIGURE       
+
+964
+00:41:37,961 --> 00:41:40,962
+IN THE ARAB WORLD IN THE FIRST  
+HALF OF THE 20th CENTURY.       
+
+965
+00:41:41,031 --> 00:41:42,864
+THAT'S BIG.                     
+
+966
+00:41:42,932 --> 00:41:45,933
+      <i> I TELL GREG ABOUT</i>        
+      <i> MY INVESTIGATION.</i>        
+
+967
+00:41:46,002 --> 00:41:48,936
+  SO I'M PARTICULARLY INTERESTED
+  IN THE RELATIONSHIP           
+
+968
+00:41:49,005 --> 00:41:52,807
+           BETWEEN KHALIL GIBRAN
+           AND NAJEEB DIAB.     
+
+969
+00:41:52,876 --> 00:41:55,710
+        CAN YOU TALK TO ME      
+        A LITTLE BIT ABOUT DIAB?
+
+970
+00:41:55,779 --> 00:41:59,380
+WELL, HE WAS A LEADER OF        
+THE COMMUNITY AS A JOURNALIST.  
+
+971
+00:41:59,449 --> 00:42:02,917
+HE WAS A LEADER OF              
+THE UNITED SYRIAN SOCIETY.      
+
+972
+00:42:02,986 --> 00:42:06,721
+IT WAS FOR FREEDOM              
+FOR SYRIA FROM OTTOMAN TURKEY.  
+
+973
+00:42:06,790 --> 00:42:09,424
+HE WAS                          
+A HIGHLY RESPECTED MAN.         
+
+974
+00:42:09,492 --> 00:42:12,059
+    <i> GREG CONFIRMS BOTH MEN</i>     
+       <i> KNEW EACH OTHER</i>         
+
+975
+00:42:12,128 --> 00:42:14,028
+          <i> AND MOVED</i>            
+     <i> IN SIMILAR CIRCLES,</i>       
+
+976
+00:42:14,097 --> 00:42:16,030
+    <i> EACH SPEAKING IN FAVOR</i>     
+       <i> OF INDEPENDENCE</i>         
+
+977
+00:42:16,099 --> 00:42:18,032
+    <i> FOR SYRIA AND LEBANON.</i>     
+
+978
+00:42:18,101 --> 00:42:22,069
+   <i> LIKE GIBRAN, NAJEEB DIAB</i>    
+  <i> WAS PROFOUNDLY INFLUENCED</i>    
+
+979
+00:42:22,138 --> 00:42:26,574
+<i> BY AMERICAN IDEAS OF POLITICAL</i> 
+   <i> LIBERTY AND FREE SPEECH.</i>    
+
+980
+00:42:26,643 --> 00:42:28,876
+THESE PEOPLE HAD                
+COME TO AMERICA,                
+
+981
+00:42:28,945 --> 00:42:32,880
+THEY HAD TASTED THE FRUITS      
+OF DEMOCRACY AND SECULARISM.    
+
+982
+00:42:32,949 --> 00:42:35,750
+MOST OF THEM LIKED              
+WHAT THEY SAW                   
+
+983
+00:42:35,819 --> 00:42:37,485
+AND LIKED WHAT THEY TASTED.     
+
+984
+00:42:37,554 --> 00:42:39,854
+THEY WANTED TO SEE IT           
+IN THEIR HOME COUNTRIES.        
+
+985
+00:42:39,923 --> 00:42:43,157
+     <i> BUT GREG'S NOT SURE</i>       
+ <i> IF GIBRAN EVER PAINTED THIS.</i>  
+
+986
+00:42:43,226 --> 00:42:47,028
+IT'S ALMOST TOO REALISTIC.      
+
+987
+00:42:47,096 --> 00:42:52,500
+THERE'S NO PRE-RAPHAELITE LIGHT 
+AND MISTINESS ABOUT IT          
+
+988
+00:42:52,569 --> 00:42:55,002
+THAT YOU SAW                    
+IN GIBRAN'S PAINTINGS.          
+
+989
+00:42:55,071 --> 00:42:57,405
+     <i> HE SAYS THE LARGEST</i>       
+      <i> PUBLIC COLLECTION</i>        
+
+990
+00:42:57,473 --> 00:42:59,507
+     <i> OF GIBRAN PAINTINGS</i>       
+         <i> IN THE U.S.</i>           
+
+991
+00:42:59,576 --> 00:43:02,410
+   <i> IS AT THE TELFAIR MUSEUM</i>    
+    <i> IN SAVANNAH, GEORGIA,</i>      
+
+992
+00:43:02,478 --> 00:43:04,712
+       <i> SO I'M ARRANGING</i>        
+    <i> TO HAVE BOB'S PORTRAIT</i>     
+
+993
+00:43:04,781 --> 00:43:07,081
+        <i> SHIPPED THERE</i>          
+       <i> FOR COMPARISON.</i>         
+
+994
+00:43:07,150 --> 00:43:10,551
+ <i> MEANWHILE, I'M GOING TO TRY</i>   
+ <i> TO TRACK DOWN BOB'S COUSIN,</i>   
+
+995
+00:43:10,620 --> 00:43:17,024
+ <i> WHOM HE HAD SAID ONCE OWNED</i>   
+  <i> ARTWORK SIGNED BY GIBRAN.</i>    
+
+996
+00:43:17,093 --> 00:43:19,760
+     <i> EVENTUALLY, I LOCATE</i>      
+         <i> ROBERT MADEY</i>          
+
+997
+00:43:19,829 --> 00:43:22,430
+        <i> ON LONG ISLAND</i>         
+     <i> NEAR NEW YORK CITY.</i>       
+
+998
+00:43:22,498 --> 00:43:25,366
+  <i> ROBERT IS ALSO A GRANDSON</i>    
+<i> OF THE MAN IN BOB'S PORTRAIT,</i>  
+
+999
+00:43:25,435 --> 00:43:27,134
+         <i> NAJEEB DIAB.</i>          
+
+1000
+00:43:27,203 --> 00:43:29,070
+WELCOME.                        
+            THANK YOU VERY MUCH.
+
+1001
+00:43:29,138 --> 00:43:33,174
+NOW, IT'S MY UNDERSTANDING      
+THAT YOU ACTUALLY HAVE A SKETCH 
+
+1002
+00:43:33,243 --> 00:43:37,678
+THAT KHALIL GIBRAN              
+DID AND SIGNED.                 
+
+1003
+00:43:37,747 --> 00:43:39,814
+             I DO, AND AS       
+             A MATTER OF FACT...
+
+1004
+00:43:39,882 --> 00:43:42,683
+       <i> ROBERT SHOWS ME</i>         
+<i> THE SKETCH OF HIS AUNT SELMA.</i>  
+
+1005
+00:43:42,752 --> 00:43:45,353
+  <i> THE WOMAN IS NAJEEB DIAB'S</i>   
+          <i> DAUGHTER.</i>            
+
+1006
+00:43:45,421 --> 00:43:47,989
+    <i> HE SAYS THAT ALTHOUGH</i>      
+ <i> THE ORIGINAL HAS BEEN SOLD,</i>   
+
+1007
+00:43:48,057 --> 00:43:50,324
+       <i> THERE'S NO DOUBT</i>        
+         <i> WHO DREW IT.</i>          
+
+1008
+00:43:50,393 --> 00:43:54,395
+          "MY LOVE TO SELMA DIAB
+          FROM GIBRAN GIBRAN."  
+
+1009
+00:43:54,464 --> 00:43:57,098
+WOW, VERY,                      
+VERY INTERESTING.               
+
+1010
+00:43:57,166 --> 00:44:00,167
+ WELL, GIBRAN AND MY GRANDFATHER
+ WERE FRIENDS.                  
+
+1011
+00:44:00,236 --> 00:44:02,770
+       <i> ROBERT EXPLAINS</i>         
+      <i> THAT KHALIL GIBRAN</i>       
+
+1012
+00:44:02,839 --> 00:44:04,972
+       <i> WAS CLOSE TO HIS</i>        
+        <i> ENTIRE FAMILY,</i>         
+
+1013
+00:44:05,041 --> 00:44:07,508
+      <i> SHARING POLITICAL</i>        
+   <i> AND ARTISTIC INTERESTS.</i>     
+
+1014
+00:44:07,577 --> 00:44:11,812
+ THEY WERE FOUNDERS OF A SOCIETY
+ CALLED AL-RABITAH,             
+
+1015
+00:44:11,881 --> 00:44:14,982
+           AND THAT ORGANIZATION
+           WAS FORMED TO PROMOTE
+
+1016
+00:44:15,051 --> 00:44:19,086
+     AND PERPETUATE THE         
+     ARABIC LANGUAGE AND CULTURE
+
+1017
+00:44:19,155 --> 00:44:21,255
+                AND LITERATURE  
+                IN THIS COUNTRY.
+
+1018
+00:44:21,324 --> 00:44:25,926
+    AND MY FATHER, IN FACT,     
+    DELIVERED A EULOGY TO GIBRAN
+
+1019
+00:44:25,995 --> 00:44:27,928
+            WHEN HE PASSED AWAY.
+
+1020
+00:44:27,997 --> 00:44:31,265
+I'M DOING AN INVESTIGATION      
+TO FIND OUT                     
+
+1021
+00:44:31,334 --> 00:44:35,870
+IF KHALIL GIBRAN COULD HAVE     
+ACTUALLY PAINTED THIS PORTRAIT. 
+
+1022
+00:44:35,938 --> 00:44:37,672
+HAVE YOU EVER                   
+SEEN THIS BEFORE?               
+
+1023
+00:44:37,740 --> 00:44:38,939
+                         I HAVE.
+
+1024
+00:44:39,008 --> 00:44:40,941
+       I HAVE THE ORIGINAL PHOTO
+
+1025
+00:44:41,010 --> 00:44:44,111
+        FROM WHICH THIS PORTRAIT
+        WAS PAINTED.            
+
+1026
+00:44:44,180 --> 00:44:45,613
+THIS IS AMAZING.                
+
+1027
+00:44:45,682 --> 00:44:48,382
+THE TWIST IN THE HAIR           
+IS AT THE EXACT SAME PLACE,     
+
+1028
+00:44:48,451 --> 00:44:51,285
+THE TIE IS THE SAME,            
+THE COAT IS THE SAME,           
+
+1029
+00:44:51,354 --> 00:44:53,354
+THE NUMBER OF BUTTONS           
+ARE THE SAME.                   
+
+1030
+00:44:53,423 --> 00:44:55,623
+DO YOU KNOW WHEN                
+THIS PHOTOGRAPH WAS TAKEN?      
+
+1031
+00:44:55,692 --> 00:44:59,493
+     NO, BUT I THINK IT WAS DONE
+     PROBABLY IN CONNECTION     
+
+1032
+00:44:59,562 --> 00:45:03,998
+   WITH A CONFERENCE HE ATTENDED
+   IN PARIS IN 1913.            
+
+1033
+00:45:04,067 --> 00:45:06,667
+    IT MAY HAVE BEEN DONE JUST  
+    PRIOR TO OR JUST AFTERWARDS.
+
+1034
+00:45:06,736 --> 00:45:09,470
+ <i> ROBERT SAYS HIS GRANDFATHER</i>   
+           <i> ATTENDED</i>            
+
+1035
+00:45:09,539 --> 00:45:13,307
+ <i> A MAJOR CONFERENCE IN PARIS</i>   
+   <i> JUST BEFORE WORLD WAR I</i>     
+
+1036
+00:45:13,376 --> 00:45:16,744
+        <i> AS THE HEAD OF</i>         
+  <i> THE UNITED SYRIAN SOCIETY.</i>   
+
+1037
+00:45:16,813 --> 00:45:19,780
+ <i> DELEGATES FROM ARAB NATIONS</i>   
+  <i> AND OTHER IMMIGRANT GROUPS</i>   
+
+1038
+00:45:19,849 --> 00:45:23,084
+  <i> WERE DEBATING THE BEST WAY</i>   
+    <i> OF ENDING TURKISH RULE</i>     
+
+1039
+00:45:23,152 --> 00:45:25,386
+    <i> IN SYRIA AND LEBANON.</i>      
+
+1040
+00:45:25,455 --> 00:45:27,254
+   <i> THE WATCH BOB SHOWED ME</i>     
+
+1041
+00:45:27,323 --> 00:45:29,824
+        <i> WAS ALSO FROM</i>          
+  <i> THE UNITED SYRIAN SOCIETY</i>    
+
+1042
+00:45:29,892 --> 00:45:33,360
+<i> AND MAY WELL BE THE SAME WATCH</i> 
+       <i> IN THE PORTRAIT.</i>        
+
+1043
+00:45:33,429 --> 00:45:36,063
+      <i> HAD GIBRAN PAINTED</i>       
+   <i> THIS IMAGE OF HIS FRIEND</i>    
+
+1044
+00:45:36,132 --> 00:45:39,166
+        <i> TO COMMEMORATE</i>         
+    <i> THIS IMPORTANT MOMENT?</i>     
+
+1045
+00:45:39,235 --> 00:45:42,269
+ <i> BOB'S SKEPTICAL THE PAINTING</i>  
+    <i> WAS DONE BY GIBRAN --</i>      
+
+1046
+00:45:42,338 --> 00:45:45,439
+  <i> THE STYLE IS SO DIFFERENT</i>    
+<i> FROM THE IMAGE OF HIS AUNT --</i>  
+
+1047
+00:45:45,508 --> 00:45:47,541
+   <i> BUT HE CAN'T BE CERTAIN.</i>    
+
+1048
+00:45:47,610 --> 00:45:53,714
+        IT'S CONCEIVABLE THAT   
+        HE COULD'VE DONE A COPY.
+
+1049
+00:45:53,783 --> 00:45:56,650
+  <i> BOB'S PAINTING HAS ARRIVED</i>   
+    <i> AT THE TELFAIR MUSEUM,</i>     
+
+1050
+00:45:56,719 --> 00:45:59,887
+  <i> WHERE I'M MEETING CURATOR</i>    
+        <i> TANIA SAMMONS.</i>         
+
+1051
+00:45:59,956 --> 00:46:02,756
+WE ARE TRYING TO FIND OUT       
+
+1052
+00:46:02,825 --> 00:46:06,961
+IF THIS PAINTING                
+WAS DONE BY GIBRAN.             
+
+1053
+00:46:07,029 --> 00:46:11,332
+WELL, KHALIL GIBRAN ACTUALLY WAS
+FIRST KNOWN FOR HIS ARTWORK.    
+
+1054
+00:46:11,400 --> 00:46:13,467
+        <i> TANIA TELLS ME</i>         
+     <i> THAT GIBRAN'S TALENT</i>      
+
+1055
+00:46:13,536 --> 00:46:15,603
+      <i> WON THE ATTENTION</i>        
+  <i> OF BOSTON'S ART COMMUNITY</i>    
+
+1056
+00:46:15,671 --> 00:46:17,738
+      <i> WHILE HE WAS STILL</i>       
+           <i> A TEEN.</i>             
+
+1057
+00:46:17,807 --> 00:46:20,741
+    <i> A SCHOOL HEADMISTRESS</i>      
+      <i> NAMED MARY HASKELL</i>       
+
+1058
+00:46:20,810 --> 00:46:24,411
+      <i> BECAME HIS PATRON</i>        
+  <i> AND EVENTUALLY HIS LOVER.</i>    
+
+1059
+00:46:24,480 --> 00:46:28,816
+  <i> SHE SENT HIM TO STUDY ART</i>    
+<i> AT THE ACADEMIE JULIAN IN PARIS</i>
+
+1060
+00:46:28,885 --> 00:46:31,952
+ <i> AND HAD A PROFOUND INFLUENCE</i>  
+         <i> ON HIS LIFE.</i>          
+
+1061
+00:46:32,021 --> 00:46:36,257
+  IN 1911, SHE HELPED HIM SET UP
+  A STUDIO IN NEW YORK CITY.    
+
+1062
+00:46:36,325 --> 00:46:39,727
+          SHE REALLY ALLOWED HIM
+          TO TAKE OFF,          
+
+1063
+00:46:39,795 --> 00:46:42,696
+             BOTH IN HIS WRITING
+             AND VISUAL CAREERS.
+
+1064
+00:46:42,765 --> 00:46:45,866
+   SO NOT ONLY DID SHE ENCOURAGE
+   HIM TO WRITE IN ENGLISH,     
+
+1065
+00:46:45,935 --> 00:46:48,335
+             BUT SHE HELPED HIM 
+             LEARN THE LANGUAGE,
+
+1066
+00:46:48,404 --> 00:46:51,005
+             SHE EDITED HIS WORK
+             AS WELL.           
+
+1067
+00:46:51,073 --> 00:46:54,842
+NOW, DOES THE LACK OF           
+A SIGNATURE TELL US ANYTHING?   
+
+1068
+00:46:54,911 --> 00:46:57,344
+            KHALIL GIBRAN       
+            DID SIGN HIS PIECES,
+
+1069
+00:46:57,413 --> 00:46:59,580
+                BUT HE DIDN'T   
+                SIGN EVERYTHING.
+
+1070
+00:46:59,649 --> 00:47:02,283
+           HOWEVER, I WOULD SAY 
+           THE STYLE OF PAINTING
+
+1071
+00:47:02,351 --> 00:47:05,152
+              IS NOT TYPICAL    
+              FOR KHALIL GIBRAN.
+
+1072
+00:47:05,221 --> 00:47:08,289
+   <i> TANIA SHOWS ME A SERIES</i>     
+   <i> OF PAINTINGS BY GIBRAN,</i>     
+
+1073
+00:47:08,357 --> 00:47:11,492
+    <i> AND AT FIRST GLIMPSE,</i>      
+  <i> HIS WORKS DO NOT RESEMBLE</i>    
+
+1074
+00:47:11,560 --> 00:47:13,227
+      <i> THE DIAB PORTRAIT.</i>       
+
+1075
+00:47:13,296 --> 00:47:15,863
+           YOU CAN SEE HOW HE IS
+           NOT REALLY FOCUSED   
+
+1076
+00:47:15,931 --> 00:47:18,499
+      ON THE INDIVIDUAL FEATURES
+      OF A PERSON.              
+
+1077
+00:47:18,567 --> 00:47:20,701
+IT'S VERY FLUID.                
+                           YEAH.
+
+1078
+00:47:20,770 --> 00:47:25,105
+DO YOU HAVE ANY OIL PAINTINGS   
+LIKE OURS WHICH ARE A PORTRAIT? 
+
+1079
+00:47:25,174 --> 00:47:26,907
+       I HAVE A GOOD COMPARISON.
+
+1080
+00:47:26,976 --> 00:47:29,176
+            IT'S A SELF-PORTRAIT
+            OF KHALIL GIBRAN.   
+
+1081
+00:47:29,245 --> 00:47:31,011
+  <i> THE STYLE OF THIS PORTRAIT</i>   
+
+1082
+00:47:31,080 --> 00:47:33,180
+   <i> IS ALSO QUITE DIFFERENT</i>     
+         <i> FROM BOB'S.</i>           
+
+1083
+00:47:33,249 --> 00:47:36,083
+          IN THIS PAINTING,     
+          GIBRAN'S BRUSH STROKES
+
+1084
+00:47:36,152 --> 00:47:38,352
+               ARE VERY EVIDENT.
+
+1085
+00:47:38,421 --> 00:47:40,020
+             THEY'RE MUCH FREER.
+
+1086
+00:47:40,089 --> 00:47:43,057
+   YOU CAN SEE INDIVIDUAL COLORS
+   IN THE PAINTING              
+
+1087
+00:47:43,125 --> 00:47:45,826
+                AND HIS FACE    
+                ISN'T DELINEATED
+
+1088
+00:47:45,895 --> 00:47:48,729
+                  LIKE THE IMAGE
+                  OF MR. DIAB.  
+
+1089
+00:47:48,798 --> 00:47:52,032
+<i> I EXPLAIN THAT BOB'S PORTRAIT</i>  
+   <i> MAY HAVE SOMETHING TO DO</i>    
+
+1090
+00:47:52,101 --> 00:47:54,601
+  <i> WITH NAJEEB DIAB ATTENDING</i>   
+      <i> A MAJOR CONFERENCE</i>       
+
+1091
+00:47:54,670 --> 00:47:57,471
+      <i> IN PARIS IN 1913.</i>        
+
+1092
+00:47:57,540 --> 00:47:59,640
+       <i> TANIA SAYS THAT</i>         
+     <i> DURING THAT PERIOD,</i>       
+
+1093
+00:47:59,709 --> 00:48:02,076
+     <i> GIBRAN DID A NUMBER</i>       
+  <i> OF PAINTINGS AND DRAWINGS</i>    
+
+1094
+00:48:02,144 --> 00:48:04,411
+     <i> OF IMPORTANT ARTISTS</i>      
+        <i> AND THINKERS.</i>          
+
+1095
+00:48:04,480 --> 00:48:06,980
+         <i> HE CALLED IT</i>          
+ <i> THE "TEMPLE OF ART" SERIES.</i>   
+
+1096
+00:48:07,049 --> 00:48:11,585
+   CERTAINLY MR. DIAB WOULD HAVE
+   FIT WITHIN THAT SERIES.      
+
+1097
+00:48:11,654 --> 00:48:13,287
+AND SO IT WOULDN'T              
+HAVE BEEN                       
+
+1098
+00:48:13,355 --> 00:48:16,490
+UNCALLED FOR                    
+FOR DIAB TO REQUEST             
+
+1099
+00:48:16,559 --> 00:48:20,728
+A PARTICULAR TYPE OF PORTRAIT   
+FROM GIBRAN.                    
+
+1100
+00:48:20,796 --> 00:48:22,663
+            YEAH, CERTAINLY NOT.
+
+1101
+00:48:22,732 --> 00:48:25,365
+        IT'S TYPICAL FOR PEOPLE 
+        WHO COMMISSION PORTRAITS
+
+1102
+00:48:25,434 --> 00:48:30,070
+          TO GUIDE THE ARTIST   
+          ON HOW THEY WOULD LIKE
+
+1103
+00:48:30,139 --> 00:48:32,506
+                FOR THE PORTRAIT
+                TO BE PAINTED.  
+
+1104
+00:48:32,575 --> 00:48:35,709
+  <i> DOES BOB HAVE A PREVIOUSLY</i>   
+       <i> UNKNOWN PAINTING</i>        
+
+1105
+00:48:35,778 --> 00:48:38,412
+           <i> FROM THE</i>            
+   <i> "TEMPLE OF ART" SERIES?</i>     
+
+1106
+00:48:38,481 --> 00:48:42,149
+ <i> TANIA SUGGESTS THAT IF DIAB</i>   
+  <i> HAD COMMISSIONED THE WORK,</i>   
+
+1107
+00:48:42,218 --> 00:48:45,219
+ <i> GIBRAN MAY HAVE MENTIONED IT</i>  
+    <i> IN HIS CORRESPONDENCE</i>      
+
+1108
+00:48:45,287 --> 00:48:47,254
+       <i> WITH HIS LOVER,</i>         
+        <i> MARY HASKELL.</i>          
+
+1109
+00:48:47,323 --> 00:48:49,156
+          LET ME SEE            
+    IF I CAN FIND ANYTHING      
+
+1110
+00:48:49,225 --> 00:48:51,592
+           ABOUT THE            
+     "TEMPLE OF ART" HERE.      
+
+1111
+00:48:51,660 --> 00:48:53,861
+     <i> THERE ARE REFERENCES</i>      
+  <i> TO MANY OF THE LUMINARIES</i>    
+
+1112
+00:48:53,929 --> 00:48:55,729
+       <i> THAT GIBRAN DREW</i>        
+         <i> OR PAINTED,</i>           
+
+1113
+00:48:55,798 --> 00:48:58,398
+  <i> INCLUDING PSYCHOTHERAPIST</i>    
+          <i> CARL JUNG,</i>           
+
+1114
+00:48:58,467 --> 00:49:00,968
+          <i> IRISH POET</i>           
+    <i> WILLIAM BUTLER YEATS,</i>      
+
+1115
+00:49:01,036 --> 00:49:03,971
+  <i> AND THE LEGENDARY ACTRESS</i>    
+       <i> SARAH BERNHARDT.</i>        
+
+1116
+00:49:04,039 --> 00:49:05,272
+        LISTEN TO THIS:         
+
+1117
+00:49:05,341 --> 00:49:08,742
+     "AT LAST, THE DIVINE       
+       SARAH IS CAUGHT."        
+
+1118
+00:49:08,811 --> 00:49:11,645
+      THIS IS A REFERENCE       
+      TO SARAH BERNHARDT.       
+
+1119
+00:49:11,714 --> 00:49:14,248
+      "BUT IF I AM TO GO        
+   THROUGH THE SAME PROCESS     
+
+1120
+00:49:14,316 --> 00:49:16,650
+     "WITH OTHER GREAT MEN      
+          AND WOMEN,            
+
+1121
+00:49:16,719 --> 00:49:20,020
+ "I MIGHT AS WELL GIVE UP ART   
+    AND BECOME A DIPLOMAT."     
+
+1122
+00:49:20,089 --> 00:49:23,257
+   OKAY, HERE IS A REFERENCE    
+           TO DIAB.             
+
+1123
+00:49:23,325 --> 00:49:25,292
+       <i> I'VE DISCOVERED</i>         
+        <i> A CURIOUS NOTE</i>         
+
+1124
+00:49:25,361 --> 00:49:26,827
+   <i> IN THE HASKELL LETTERS.</i>     
+
+1125
+00:49:26,896 --> 00:49:29,596
+    <i> I THINK I FINALLY HAVE</i>     
+    <i> SOME ANSWERS FOR BOB.</i>      
+
+1126
+00:49:29,665 --> 00:49:32,599
+BOB, THIS INVESTIGATION         
+HAS ALLOWED US                  
+
+1127
+00:49:32,668 --> 00:49:35,636
+TO GAIN SOME INSIGHT            
+OF THE RELATIONSHIP             
+
+1128
+00:49:35,704 --> 00:49:39,006
+BETWEEN YOUR GRANDFATHER        
+AND KHALIL GIBRAN.              
+
+1129
+00:49:39,074 --> 00:49:42,809
+I SPOKE TO AN EXPERT            
+ON HIS ARTWORK,                 
+
+1130
+00:49:42,878 --> 00:49:46,313
+AND SHE IS OF THE OPINION       
+THAT THIS PAINTING              
+
+1131
+00:49:46,382 --> 00:49:49,950
+IS NOT THE WORK                 
+OF KHALIL GIBRAN.               
+
+1132
+00:49:50,019 --> 00:49:52,786
+       <i> I EXPLAIN TO BOB</i>        
+    <i> THAT TO MAKE CERTAIN,</i>      
+
+1133
+00:49:52,855 --> 00:49:56,256
+   <i> I CONSULTED THE LETTERS</i>     
+ <i> AND DIARIES OF MARY HASKELL.</i>  
+
+1134
+00:49:56,325 --> 00:49:59,126
+AND IT IS THAT SEARCH           
+WHICH LED ME                    
+
+1135
+00:49:59,194 --> 00:50:02,329
+TO ONE OF MY MOST               
+IMPORTANT DISCOVERIES.          
+
+1136
+00:50:02,398 --> 00:50:04,531
+   OKAY, HERE IS A REFERENCE    
+           TO DIAB.             
+
+1137
+00:50:04,600 --> 00:50:06,867
+     IT'S QUITE POLITICAL,      
+     AND THIS IS REFERRING      
+
+1138
+00:50:06,936 --> 00:50:09,703
+       TO THE 1913 PARIS        
+          CONFERENCE.           
+
+1139
+00:50:09,772 --> 00:50:12,940
+  "DIAB AND MYSELF WERE ASKED   
+   TO GO AS REPRESENTATIVES.    
+
+1140
+00:50:13,008 --> 00:50:16,410
+      "THE IDEA IS FINE,        
+ BUT AFTER TALKING THINGS OVER  
+
+1141
+00:50:16,478 --> 00:50:18,545
+       "WITH A COMMITTEE        
+          OF SYRIANS,           
+
+1142
+00:50:18,614 --> 00:50:21,815
+       "I FOUND THAT WE         
+  DO NOT AGREE ON ANY POINT.    
+
+1143
+00:50:21,884 --> 00:50:26,219
+   "DIAB THINKS I AM MAD --     
+    OTHERS THINK SO, TOO."      
+
+1144
+00:50:26,288 --> 00:50:28,922
+     IT HAS NOTHING TO SAY      
+   ABOUT HIM DOING A SKETCH     
+
+1145
+00:50:28,991 --> 00:50:30,891
+    OR A PORTRAIT OF DIAB.      
+
+1146
+00:50:30,960 --> 00:50:33,727
+    <i> I TELL BOB THAT GIBRAN</i>     
+    <i> HAD REFUSED TO ATTEND</i>      
+
+1147
+00:50:33,796 --> 00:50:36,730
+  <i> THE 1913 PARIS CONFERENCE</i>    
+        <i> BECAUSE HE HAD</i>         
+
+1148
+00:50:36,799 --> 00:50:39,232
+   <i> FUNDAMENTAL DIFFERENCES</i>     
+    <i> WITH OTHER ATTENDEES,</i>      
+
+1149
+00:50:39,301 --> 00:50:41,601
+    <i> INCLUDING NAJEEB DIAB.</i>     
+
+1150
+00:50:41,670 --> 00:50:43,270
+     <i> SO IT SEEMS UNLIKELY</i>      
+
+1151
+00:50:43,339 --> 00:50:45,105
+      <i> THAT GIBRAN WOULD</i>        
+       <i> PAINT A PORTRAIT</i>        
+
+1152
+00:50:45,174 --> 00:50:47,107
+       <i> IN COMMEMORATION</i>        
+        <i> OF THE EVENT.</i>          
+
+1153
+00:50:47,176 --> 00:50:50,944
+THE RELATIONSHIP BETWEEN        
+YOUR GRANDFATHER                
+
+1154
+00:50:51,013 --> 00:50:55,415
+AND KHALIL GIBRAN               
+WAS NOT ONLY OVER ISSUES        
+
+1155
+00:50:55,484 --> 00:50:57,451
+OF WRITING AND ART,             
+
+1156
+00:50:57,519 --> 00:51:00,821
+IT WENT TO THE HEART            
+OF THEIR POLITICAL COMMITMENT   
+
+1157
+00:51:00,889 --> 00:51:03,190
+AND WAS A REFLECTION            
+
+1158
+00:51:03,258 --> 00:51:07,294
+ON THE EARLY ARAB-AMERICAN      
+POLITICAL LEADERSHIP            
+
+1159
+00:51:07,363 --> 00:51:09,429
+IN THIS COUNTRY.                
+
+1160
+00:51:09,498 --> 00:51:11,465
+         IT'S QUITE INTERESTING.
+
+1161
+00:51:11,533 --> 00:51:14,768
+     I NEVER REALIZED THAT      
+     THEY WERE EVEN IN POLITICS,
+
+1162
+00:51:14,837 --> 00:51:17,604
+               MY GRANDFATHER   
+               OR KHALIL GIBRAN.
+
+1163
+00:51:17,673 --> 00:51:20,040
+       IT'S THE ONLY PICTURE    
+       I HAVE OF MY GRANDFATHER,
+
+1164
+00:51:20,109 --> 00:51:23,443
+         AND I'LL STILL KEEP IT 
+         AND CHERISH IT AT HOME.
+
+1165
+00:51:23,512 --> 00:51:25,579
+                    I THANK YOU.
+
+1166
+00:51:25,647 --> 00:51:29,416
+        <i> IN THE 1960s,</i>          
+<i> A GENERATION HUNGRY FOR CHANGE</i> 
+
+1167
+00:51:29,485 --> 00:51:32,886
+        <i> WAS CAPTIVATED</i>         
+<i> BY PASSAGES FROM</i> THE PROPHET,  
+
+1168
+00:51:32,955 --> 00:51:36,990
+   <i> LIKE "LOVE POSSESSES NOT</i>    
+  <i> NOR WOULD IT BE POSSESSED;</i>   
+
+1169
+00:51:37,059 --> 00:51:40,394
+    <i> FOR LOVE IS SUFFICIENT</i>     
+         <i> UNTO LOVE."</i>           
+
+1170
+00:51:40,462 --> 00:51:43,663
+<i> IN THEIR SEARCH FOR A DIFFERENT</i>
+ <i> WAY OF THINKING AND LIVING,</i>   
+
+1171
+00:51:43,732 --> 00:51:46,500
+  <i> MANY YOUNG, DISILLUSIONED</i>    
+          <i> AMERICANS</i>            
+
+1172
+00:51:46,568 --> 00:51:49,369
+   <i> TURNED TO THE TEACHINGS</i>     
+         <i> OF THE EAST.</i>          
+
+1173
+00:51:49,438 --> 00:51:51,838
+     <i> THE IDEAS EXPRESSED</i>       
+        <i> IN</i> THE PROPHET         
+
+1174
+00:51:51,907 --> 00:51:55,408
+  <i> MIRRORED THEIR STRUGGLE OF</i>   
+<i> THE SPIRIT AGAINST MATERIALISM.</i>
+
+1175
+00:51:55,477 --> 00:51:57,744
+        <i> KHALIL GIBRAN</i>          
+        <i> BECAME A VOICE</i>         
+
+1176
+00:51:57,813 --> 00:51:59,813
+           <i> FOR THE</i>             
+   <i> COUNTERCULTURE MOVEMENT.</i>    
+
+1177
+00:51:59,882 --> 00:52:01,515
+          <i> BUT GIBRAN</i>           
+         <i> NEVER LIVED</i>           
+
+1178
+00:52:01,583 --> 00:52:04,451
+   <i> TO SEE HIS WORDS INSPIRE</i>    
+<i> THAT GENERATION OF AMERICANS.</i>  
+
+1179
+00:52:04,520 --> 00:52:06,586
+     <i> HE DIED OF CIRRHOSIS</i>      
+         <i> OF THE LIVER</i>          
+
+1180
+00:52:06,655 --> 00:52:09,289
+       <i> FROM ALCOHOLISM</i>         
+           <i> IN 1931.</i>            
+
+1181
+00:52:12,427 --> 00:52:14,461
+And so, my fellow Americans...  
+
+1182
+00:52:14,530 --> 00:52:16,563
+            Elyse:              
+     PRESIDENT KENNEDY IS       
+ BELIEVED TO HAVE PARAPHRASED   
+
+1183
+00:52:16,632 --> 00:52:18,865
+    KHALIL GIBRAN'S WRITING     
+         WHEN HE SAID:          
+
+1184
+00:52:18,934 --> 00:52:23,537
+       Ask not what your country
+       can do for you,          
+
+1185
+00:52:23,605 --> 00:52:26,873
+             ask what you can do
+             for your country.  
+
+1186
+00:52:26,942 --> 00:52:28,575
+   [ cheering and applause ]    
+
+1187
+00:52:28,644 --> 00:52:31,511
+       JFK WAS ALSO FOND        
+ OF QUOTING FROM ROBERT FROST   
+
+1188
+00:52:31,580 --> 00:52:34,414
+  AND EVEN HAD THE POET READ    
+     AT HIS INAUGURATION.       
+
+1189
+00:52:34,483 --> 00:52:36,983
+     IT'S RARE THAT POETRY      
+       AND POLITICS MIX,        
+
+1190
+00:52:37,052 --> 00:52:40,187
+     BUT SOMETIMES TRAGEDY      
+   BRINGS THE TWO TOGETHER.     
+
+1191
+00:52:40,255 --> 00:52:42,289
+    FOLLOWING THE DISASTER      
+    THAT CLAIMED THE LIVES      
+
+1192
+00:52:42,357 --> 00:52:44,891
+  OF SEVEN ASTRONAUTS ABOARD    
+ THE SPACE SHUTTLE<i> CHALLENGER</i>   
+
+1193
+00:52:44,960 --> 00:52:49,462
+  ON JANUARY 28, 1986, RONALD   
+ REAGAN ADDRESSED THE NATION.   
+
+1194
+00:52:49,531 --> 00:52:50,830
+We will never forget them.      
+
+1195
+00:52:50,899 --> 00:52:53,066
+   WHEN HE ENDED HIS REMARKS    
+BY SAYING THE ASTRONAUTS HAD... 
+
+1196
+00:52:53,135 --> 00:52:57,704
+Slipped the surly bonds of      
+Earth to touch the face of God. 
+
+1197
+00:52:57,773 --> 00:53:00,173
+       HE WAS BORROWING         
+ FROM THE FIRST AND LAST LINE   
+
+1198
+00:53:00,242 --> 00:53:01,341
+       OF "HIGH FLIGHT."        
+
+1199
+00:53:01,410 --> 00:53:03,810
+     THE POEM WAS WRITTEN       
+            IN 1941             
+
+1200
+00:53:03,879 --> 00:53:05,812
+    BY A 19-YEAR-OLD PILOT      
+           OFFICER,             
+
+1201
+00:53:05,881 --> 00:53:07,881
+  JOHN GILLESPIE MAGEE, JR.,    
+
+1202
+00:53:07,950 --> 00:53:09,983
+    ON THE BACK OF A LETTER     
+         TO HIS MOTHER          
+
+1203
+00:53:10,052 --> 00:53:12,652
+       JUST A FEW MONTHS        
+     BEFORE HE WAS KILLED.      
+
+1204
+00:53:12,721 --> 00:53:15,055
+ WHEN MARTIN LUTHER KING, JR.,  
+       WAS ASSASSINATED,        
+
+1205
+00:53:15,123 --> 00:53:17,757
+    BOBBY KENNEDY WENT BACK     
+          2,500 YEARS           
+
+1206
+00:53:17,826 --> 00:53:19,960
+       TO THE GREEK POET        
+           AESCHYLUS            
+
+1207
+00:53:20,028 --> 00:53:22,529
+         TO GIVE VOICE          
+  TO HIS HOPE FOR THE FUTURE.   
+
+1208
+00:53:22,598 --> 00:53:26,900
+           Kennedy:             
+      Even in our sleep,        
+   pain which cannot forget     
+
+1209
+00:53:26,969 --> 00:53:31,004
+      falls drop by drop        
+        upon the heart          
+
+1210
+00:53:31,073 --> 00:53:35,075
+   until in our own despair,    
+       against our will,        
+
+1211
+00:53:35,143 --> 00:53:40,280
+         comes wisdom           
+through the awful grace of God. 
+
+1212
+00:54:17,685 --> 00:54:19,185
+            Tukufu:             
+    <i> BE A HISTORY DETECTIVE</i>     
+          <i> YOURSELF.</i>            
+
+1213
+00:54:19,254 --> 00:54:20,887
+        <i> GO TO pbs.org</i>          
+
+1214
+00:54:20,956 --> 00:54:23,323
+     <i> AND LEARN MORE ABOUT</i>      
+   <i> INVESTIGATIVE TECHNIQUES</i>    
+
+1215
+00:54:23,392 --> 00:54:25,792
+  <i> OR SUBMIT YOUR OWN MYSTERY</i>   
+         <i> TO THE TEAM.</i>          
+
+1216
+00:54:25,861 --> 00:54:29,295
+  <i> YOU CAN ALSO FIND OUT MORE</i>   
+<i> ABOUT TONIGHT'S INVESTIGATIONS</i> 
+
+1217
+00:54:29,364 --> 00:54:32,632
+       <i> ONLY AT pbs.org.</i>        
+
+1218
+00:54:32,701 --> 00:54:36,102
+   <i> THIS EPISODE OF</i> HISTORY     
+DETECTIVES<i> IS AVAILABLE ON DVD.</i> 
+
+1219
+00:54:36,171 --> 00:54:39,305
+    <i> THE COMPANION BOOK TO</i>      
+<i> THE PROGRAM IS ALSO AVAILABLE.</i> 
+
+1220
+00:54:39,374 --> 00:54:44,077
+          <i> TO ORDER,</i>            
+  <i> CALL PBS HOME VIDEO AT...</i>    
+
+1221
+00:54:44,146 --> 00:54:48,114
+   <i> OR VISIT US ONLINE AT...</i>    
+
+1222
+00:54:48,183 --> 00:54:52,152
+  <font color="#ff0000"> Captions by LNS Captioning</font>   
+       <font color="#ff0000"> Portland, Oregon</font>        
+    <font color="#00ffff"> www.LNScaptioning.com</font>      
+
+1223
+00:55:18,246 --> 00:55:24,317
+        Elvis Costello:         
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+1224
+00:55:24,386 --> 00:55:28,988
+       ♪ IT'S JUST LIKE         
+   WATCHIN' THE DETECTIVES ♪    
+
+1225
+00:55:29,057 --> 00:55:31,224
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+1226
+00:55:32,394 --> 00:55:33,927
+  ♪ WATCHIN' THE DETECTIVES ♪   
+
+1227
+00:55:33,995 --> 00:55:36,863
+          Gwendolyn:            
+<i> THIS PROGRAM WAS MADE POSSIBLE</i> 
+       <i> BY CONTRIBUTIONS</i>        
+
+1228
+00:55:36,932 --> 00:55:40,166
+     <i> TO YOUR PBS STATION</i>       
+    <i> FROM VIEWERS LIKE YOU.</i>     
+
+1229
+01:00:14,208 --> 01:00:17,043
+<i>   WE'RE THE HISTORY DETECTIVES,</i>
+<i> AND WE'RE GOING TO INVESTIGATE</i> 
+
+1230
+01:00:17,111 --> 01:00:20,245
+     <i> SOME UNTOLD STORIES</i>       
+     <i> FROM AMERICA'S PAST.</i>      
+
