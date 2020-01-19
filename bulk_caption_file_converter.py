@@ -86,7 +86,7 @@ for file in file_lists:
                     # print(times[0]+" "+times[1])
                 elif len(line) < 3:
 
-                    all_text = all_text + texts
+                    all_text = all_text+ texts
                     try:
                         word_per_minute = float((no_of_words - 1) * 60 / latency)
                         sum_wpm = sum_wpm + word_per_minute
@@ -103,13 +103,15 @@ for file in file_lists:
                     print("Line Number::" + str(len(str(line))))
                 elif has_letters(str(line)):
                     texts = texts.rstrip() + " " + str(line)
-                    words = str(texts).split(" ");
+                    words = str(texts).split(" ")
                     no_of_words = len(words)
                     print("text::" + texts)
+                    texts = re.sub(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', '\n', texts)
         all_text = ' '.join(all_text.split())
-        # all_text = re.sub(r'<.*?>','',all_text)
+        all_text = re.sub(r'<.*?>','',all_text)
         # ftext.write(all_text.replace('\n','').replace('\r','').replace('\"','').replace('♪','[Music]').replace('<','').replace('>',''))
-        ftext.write(all_text.replace('\n', '').replace('\r', '').replace('\"', '').replace('♪', '[Music]').replace('>>> ','\n>>> ').replace('>> ','\n>> ').replace(' >>','\n>> ').replace('- ','\n- '))
+
+        ftext.write(all_text.replace('\n', '').replace('\r', '').replace('\"', '').replace('♪', '[Music]').replace('>>> ','\n').replace('>> ','\n').replace('- ','\n').replace('. ','.\n'))
         ftext.close()
         avg_word_per_minute = float(sum_wpm / count);
         print ("Average Word Per minute: " + str(avg_word_per_minute))
