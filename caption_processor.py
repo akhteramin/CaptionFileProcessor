@@ -58,9 +58,9 @@ with open('Hypothesis Caption Text/'+Reffile_lists[0]) as fRef:
             max_BLEU=0.0
             new_ref_line=''
             for HLine in HypLines:
-                # print(str(nlp.translate.bleu_score.sentence_bleu([HLine.split()],RLine.split(),[0.25,0.25,0.25,0.25])))
-                if max_BLEU< nlp.translate.bleu_score.sentence_bleu([HLine.split()],RLine.split(),[0.25,0.25,0.25,0.25]):
-                    new_ref_line = RLine
-        f = open(Reffile_lists[0].replace('.txt','_New.txt'), "a+")
-        f.write("\n"+new_ref_line)
-        f.close()
+                print(str(nlp.translate.bleu_score.sentence_bleu([HLine.split()],RLine.split(),[0.25,0.25,0.25,0.25])))
+                # if max_BLEU< nlp.translate.bleu_score.sentence_bleu([HLine.split()],RLine.split(),[0.25,0.25,0.25,0.25]):
+                #     new_ref_line = RLine
+        # f = open(Reffile_lists[0].replace('.txt','_New.txt'), "a+")
+        # f.write("\n"+new_ref_line)
+        # f.close()
