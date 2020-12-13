@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 import re, sys
 import argparse
@@ -60,58 +61,53 @@ def get_sec(time_str):
     h, m, s = time_str.split(':')
     return float(h) * 3600 + float(m) * 60 + float(s)
 
+def caption_file_to_text_converter():
+    file_lists = os.listdir(args.get("dir")+" Caption SRT")
+    avg_word_per_minute = 0
+    sum_wpm = 0
+    for file in file_lists:
+        all_text = ''
+        file = "ABC 7 News at Noon - Jul 8.en.srt"
+        print(file)
+        try:
+            ftext = open(args.get("dir")+" Caption Text/"+file.replace('.srt','')+".txt", "w+")
+            with open(args.get("dir")+" Caption SRT/"+file) as f:
+                lines = f.readlines()
+                latency = 0
+                no_of_words = 0
+                texts = ''
+                count = 1
+                old_line = ''
+                for line in lines:
 
-file_lists=os.listdir(args.get("dir")+" Caption SRT")
+                    if is_time_stamp(str(line)):
+                        print("timestamp")
+                        times = str(line).replace(',', '.').split(' --> ')
+                        latency = float(get_sec(times[1]) - get_sec(times[0]))
+                        texts = texts + os.linesep
+                    elif len(line) < 3:
 
+                        print("text::" + texts)
 
+                    elif has_no_text(str(line)):
+                        print("Line Number::" + str(line))
 
-avg_word_per_minute = 0
-sum_wpm = 0
-for file in file_lists:
-    all_text = ''
-    print(file)
-    try:
-        ftext = open(args.get("dir")+" Caption Text/"+file.replace('.srt','')+".txt", "w+")
-        with open(args.get("dir")+" Caption SRT/"+file) as f:
-            lines = f.readlines()
-            latency = 0
-            no_of_words = 0
-            texts = ''
-            count = 1;
-            for line in lines:
-                if is_time_stamp(str(line)):
-                    print("timestamp")
-                    times = str(line).replace(',', '.').split(' --> ')
-                    latency = float(get_sec(times[1]) - get_sec(times[0]))
-                    # print(times[0]+" "+times[1])
-                elif len(line) < 3:
+                    elif has_letters(str(line)):
+                        if old_line == line:
+                            continue
+                        else:
+                            texts = texts + " " + line.rstrip()
+                            words = str(texts).split(" ")
+                            no_of_words = len(words)
+                            old_line = line
 
-                    all_text = all_text + texts
-                    try:
-                        word_per_minute = float((no_of_words - 1) * 60 / latency)
-                        sum_wpm = sum_wpm + word_per_minute
-                        print("word per minute::" + str(latency))
-                        print("word per minute::" + str(word_per_minute))
-                    except:
-                        print("Division by Zero error")
-                    print(line.strip())
-                    no_of_words = 0
-                    texts = ''
-                    print("Break")
-                    count = count + 1
-                elif has_no_text(str(line)):
-                    print("Line Number::" + str(len(str(line))))
-                elif has_letters(str(line)):
-                    texts = texts.rstrip() + " " + str(line)
-                    words = str(texts).split(" ");
-                    no_of_words = len(words)
-                    print("text::" + texts)
-        all_text = ' '.join(all_text.split())
-        # all_text = re.sub(r'<.*?>','',all_text)
-        # ftext.write(all_text.replace('\n','').replace('\r','').replace('\"','').replace('♪','[Music]').replace('<','').replace('>',''))
-        ftext.write(all_text.replace('\n', '').replace('\r', '').replace('\"', '').replace('♪', '[Music]').replace('>>> ','\n>>> ').replace('>> ','\n>> ').replace(' >>','\n>> ').replace('- ','\n- '))
-        ftext.close()
-        avg_word_per_minute = float(sum_wpm / count);
-        print ("Average Word Per minute: " + str(avg_word_per_minute))
-    except:
-        print("File Not Found Error.")
+            ftext.write(texts.replace('>>> ','').replace('- ','').replace('>> ','').replace(' >>','').replace('>>>','').replace('>>',''))
+            ftext.close()
+
+        except:
+            print("File Not Found Error.")
+        i = 1
+        if i == 1:
+            break
+
+caption_file_to_text_converter()
