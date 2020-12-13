@@ -79,7 +79,6 @@ def caption_file_to_text_converter():
                 count = 1
                 old_line = ''
                 for line in lines:
-
                     if is_time_stamp(str(line)):
                         print("timestamp")
                         times = str(line).replace(',', '.').split(' --> ')
@@ -111,3 +110,4 @@ def caption_file_to_text_converter():
             break
 
 caption_file_to_text_converter()
+
