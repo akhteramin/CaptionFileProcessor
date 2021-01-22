@@ -37,7 +37,7 @@ To cleanup hypothesis file run this command:
 
 # File splitting for feeding into ACE
 Line by line comparison command:
-`python3 caption_file_split.py --name 'ABC 7 News at Noon - Jul 8.en.txt' --fname 'abc_jul_8'
+`python3 caption_file_split.py --name 'ABC 7 News at Noon - Jul 8.en.txt' --fname 'abc_jul_8'`
 
 Before running this command a folder named "abc_jul_8" need to be created under both "Split Hypothesis Files" and "Split Reference Files"
 
