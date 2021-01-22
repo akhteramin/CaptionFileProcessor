@@ -67,8 +67,8 @@ def caption_file_to_text_converter():
     sum_wpm = 0
     for file in file_lists:
         all_text = ''
-        file = "ABC 7 News at Noon - Jul 8.en.srt"
-        print(file)
+        # file = "ABC 7 News at Noon - Jul 8.en.srt"
+        # print(file)
         try:
             ftext = open(args.get("dir")+" Caption Text/"+file.replace('.srt','')+".txt", "w+")
             with open(args.get("dir")+" Caption SRT/"+file) as f:
@@ -80,13 +80,13 @@ def caption_file_to_text_converter():
                 old_line = ''
                 for line in lines:
                     if is_time_stamp(str(line)):
-                        print("timestamp")
+                        # print("timestamp")
                         times = str(line).replace(',', '.').split(' --> ')
                         latency = float(get_sec(times[1]) - get_sec(times[0]))
                         texts = texts + os.linesep
                     elif len(line) < 3:
 
-                        print("text::" + texts)
+                        print("text::")
 
                     elif has_no_text(str(line)):
                         print("Line Number::" + str(line))
@@ -105,9 +105,9 @@ def caption_file_to_text_converter():
 
         except:
             print("File Not Found Error.")
-        i = 1
-        if i == 1:
-            break
+        # i = 1
+        # if i == 1:
+        #     break
 
 caption_file_to_text_converter()
 

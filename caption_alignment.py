@@ -47,6 +47,7 @@ def caption_alignement():
         reference_lines = fr.readlines()
     with open("Hypothesis Caption Text/"+args.get("name")) as fh:
         hypothesis_lines = fh.readlines()
+    ##################################Max Matching################################
     max_match_sentence = ''
     i = 0
     for h_line in hypothesis_lines:
@@ -79,12 +80,23 @@ def caption_alignement():
     print(max_match_sentence)
     value_index = reference_lines.index(max_match_sentence)
     print(value_index)
+    ##################################Max Matching End################################
+    ref_lines =reference_lines[value_index:]
+    # hypothesis_lines = reference_lines
+    reference_text=""
+    for r_line in ref_lines:
+        r_line = r_line.strip('\n')
+        reference_text = reference_text + r_line
 
     ftext = open("Processed Reference Caption Text/" + args.get("name"), "w+")
-    texts = ' '.join(map(str, reference_lines[value_index:]))
 
-    ftext.write(texts)
+    # texts = ' '.join(map(str, reference_lines[value_index:]))
+    reference_text = reference_text.replace('.','.\n')
+
+    ftext.write(reference_text)
     ftext.close()
+
+
 
 
 caption_alignement()
