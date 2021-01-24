@@ -43,6 +43,7 @@ Before running this command a folder named "abc_jul_8" need to be created under 
 
 # Hypothesis and Reference File manual Alignment segment
 We have manually aligned the file till the text matched substantially side by side. 
-1. ABC 7 News at Noon - Jul 8.en -- 87 lines
+1. ABC 7 News at Noon - Jul 8.en.txt -- 87 lines
+2. CNN With Poppy Harlow&Jim Sciutto -Jul 8.en.txt -- 16 lines
 
 

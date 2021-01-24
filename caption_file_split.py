@@ -63,10 +63,10 @@ def caption_file_align_and_split():
 		hypthesis_text = hypthesis_text + hypothesis_lines[i]
 		reference_text = reference_text + reference_lines[i]
 	if hypthesis_text != "":
-		ftext = open("Split Hypothesis Files/"+ args.get("fname")+"/" + str(int(total_length/4)+1) + ".txt", "w+")
+		ftext = open("Split Hypothesis Files/"+ args.get("fname")+"/" + str(int((total_length-1)/4)+1) + ".txt", "w+")
 		ftext.write(hypthesis_text)
 		ftext.close()
-		ftext = open("Split Reference Files/"+ args.get("fname")+"/" + str(int(total_length/4)+1) + ".txt", "w+")
+		ftext = open("Split Reference Files/"+ args.get("fname")+"/" + str(int((total_length-1)/4)+1) + ".txt", "w+")
 		ftext.write(reference_text)
 		ftext.close()
 	# print(Token_Set_Ratio)
