@@ -1,5 +1,21 @@
 import argparse
 import os
+from nltk import tokenize
+####################nltk text file download and install start##########################
+# import nltk
+# import ssl
+#
+# try:
+#     _create_unverified_https_context = ssl._create_unverified_context
+# except AttributeError:
+#     pass
+# else:
+#     ssl._create_default_https_context = _create_unverified_https_context
+#
+# nltk.download()
+####################nltk text file download and install end##########################
+
+
 # Use fuzzy to chunkify and alignment: https://www.datacamp.com/community/tutorials/fuzzy-string-python
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--name", required=True,
@@ -41,8 +57,10 @@ def cleanup_hypothesis_file():
         else:
             hypthesis_text=hypthesis_text+subsequent_matching_removal(previous_sentence,h_line)
             previous_sentence = h_line
-
-    hypthesis_text = hypthesis_text.replace('.', '.\n')
+    sentence = tokenize.sent_tokenize(hypthesis_text)
+    hypthesis_text = ""
+    for line in sentence:
+        hypthesis_text = hypthesis_text+ "\n" + line
     ftext = open("Processed Hypothesis Caption Text/" + args.get("name"), "w+")
     # texts = ' '.join(map(str, hypthesis_text))
 

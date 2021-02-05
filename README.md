@@ -26,7 +26,7 @@ Second, identify the 1st sentence of hypothesis file in reference file.
 Third, try to make them as close as possible by performing some wizard-of-oz actions such as if the sentence breaks into multiple sentence in reference file, merge them before running the following script.
 
 Run caption alignment file:
-`python3 caption_alignment.py --name 'NFL Live2-Jul 3.en.txt'`
+`python3 caption_reference_alignment.py --name 'NFL Live2-Jul 3.en.txt'`
 
 -- The processed aligned text file will be saved in "Processed Reference Caption Text" folder. And the file name will remain same.
 

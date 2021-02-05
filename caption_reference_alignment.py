@@ -1,5 +1,8 @@
 import argparse
 import os
+import argparse
+import os
+from nltk import tokenize
 
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--name", required=True,
@@ -85,13 +88,17 @@ def caption_alignement():
     # hypothesis_lines = reference_lines
     reference_text=""
     for r_line in ref_lines:
-        r_line = r_line.strip('\n')
         reference_text = reference_text + r_line
 
     ftext = open("Processed Reference Caption Text/" + args.get("name"), "w+")
 
     # texts = ' '.join(map(str, reference_lines[value_index:]))
-    reference_text = reference_text.replace('.','.\n')
+
+    # reference_text = reference_text.replace('.','.\n')
+    sentence = tokenize.sent_tokenize(reference_text)
+    reference_text = ""
+    for line in sentence:
+        reference_text = reference_text + "\n" + line
 
     ftext.write(reference_text)
     ftext.close()
