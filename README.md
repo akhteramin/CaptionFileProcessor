@@ -25,7 +25,7 @@ Second, identify the 1st sentence of hypothesis file in reference file.
 
 Third, try to make them as close as possible by performing some wizard-of-oz actions such as if the sentence breaks into multiple sentence in reference file, merge them before running the following script.
 
-Run caption alignment file:
+To cleanup reference file run this command:
 `python3 caption_reference_alignment.py --name 'NFL Live2-Jul 3.en.txt'`
 
 -- The processed aligned text file will be saved in "Processed Reference Caption Text" folder. And the file name will remain same.
@@ -50,7 +50,9 @@ We have manually aligned the file till the text matched substantially side by si
 5. At This Hour With Kate Bolduan 2019-07-03 2019-07-03-1059.en.txt -- 64 lines (Some character is out of ASCII.)
 6. Autopsy The Last Hours Of-July 7.en.txt -- 112 lines (Ended before advertise)
 7. BBC World News - Feb 5.en.txt -- 98 lines 
-
+8. Catfish The TV Show S07E03 2018-01-17 Kim  Matt 2019-07-03-1500.en.txt -- 43 lines (Rest sentences were not in reference transcript)
+9. Caught in Providence - Jan 30.en.txt -- 128 lines
+10. Cavuto Live 2019-07-06 2019-07-06-0959.en.txt -- 30 lines (Rest lines are challenging to align.)
 
  
 
