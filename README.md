@@ -46,6 +46,11 @@ We have manually aligned the file till the text matched substantially side by si
 1. ABC 7 News at Noon - Jul 8.en.txt -- 87 lines
 2. CNN With Poppy Harlow&Jim Sciutto -Jul 8.en.txt -- 16 lines
 3. ABC World News Tonight With David Muir 2019-07-02 2019-07-02-1829.en.txt -- 50 lines
+4. AM Joy 2019-07-06 2019-07-06-1000.en.txt -- 132 lines
+5. At This Hour With Kate Bolduan 2019-07-03 2019-07-03-1059.en.txt -- 64 lines (Some character is out of ASCII.)
+6. Autopsy The Last Hours Of-July 7.en.txt -- 112 lines (Ended before advertise)
+7. BBC World News - Feb 5.en.txt -- 98 lines 
+
 
  
 

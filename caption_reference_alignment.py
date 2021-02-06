@@ -85,6 +85,7 @@ def caption_alignement():
     print(value_index)
     ##################################Max Matching End################################
     ref_lines =reference_lines[0:]
+    # ref_lines = reference_lines[value_index:]
     # hypothesis_lines = reference_lines
     reference_text=""
     for r_line in ref_lines:
