@@ -25,21 +25,24 @@ Second, identify the 1st sentence of hypothesis file in reference file.
 
 Third, try to make them as close as possible by performing some wizard-of-oz actions such as if the sentence breaks into multiple sentence in reference file, merge them before running the following script.
 
+# Reference File Cleanup
+
 To cleanup reference file run this command:
 `python3 caption_reference_alignment.py --name 'NFL Live2-Jul 3.en.txt'`
 
 -- The processed aligned text file will be saved in "Processed Reference Caption Text" folder. And the file name will remain same.
 
-# Hypothesis Cleanup
+# Hypothesis File Cleanup
 To cleanup hypothesis file run this command:
 `python3 caption_hypothesis_cleanup.py --name 'NFL Live2-Jul 3.en.txt'`
 -- The processed hypothesis text file will be saved in "Processed Hypothesis Caption Text" folder. And the file name will remain same.
 
 # File splitting for feeding into ACE
+Before running the command below, a folder named "abc_jul_8"(Pseudo name, for each file title should be selected uniquely.) need to be created under both "Split Hypothesis Files" and "Split Reference Files"
+
 Line by line comparison command:
 `python3 caption_file_split.py --name 'ABC 7 News at Noon - Jul 8.en.txt' --fname 'abc_jul_8'`
 
-Before running this command a folder named "abc_jul_8" need to be created under both "Split Hypothesis Files" and "Split Reference Files"
 
 # Hypothesis and Reference File manual Alignment segment
 We have manually aligned the file till the text matched substantially side by side. 
@@ -53,6 +56,9 @@ We have manually aligned the file till the text matched substantially side by si
 8. Catfish The TV Show S07E03 2018-01-17 Kim  Matt 2019-07-03-1500.en.txt -- 43 lines (Rest sentences were not in reference transcript)
 9. Caught in Providence - Jan 30.en.txt -- 128 lines
 10. Cavuto Live 2019-07-06 2019-07-06-0959.en.txt -- 30 lines (Rest lines are challenging to align.)
+11. CNBCThe Exchange - Apr 18.en.txt -- 72 lines
+12. CNN_Elizabeth Warren A CNN Town Hall Event- Apr 22.en.txt -- 275 lines
+13. CNN_Kamala Harris A CNN Town Hall Event- Apr 22.en.txt -- 254 lines
 
  
 
