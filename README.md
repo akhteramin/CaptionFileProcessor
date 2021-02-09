@@ -46,19 +46,23 @@ Line by line comparison command:
 
 # Hypothesis and Reference File manual Alignment segment
 We have manually aligned the file till the text matched substantially side by side. 
-1. ABC 7 News at Noon - Jul 8.en.txt -- 87 lines
-2. CNN With Poppy Harlow&Jim Sciutto -Jul 8.en.txt -- 16 lines
-3. ABC World News Tonight With David Muir 2019-07-02 2019-07-02-1829.en.txt -- 50 lines
-4. AM Joy 2019-07-06 2019-07-06-1000.en.txt -- 132 lines
-5. At This Hour With Kate Bolduan 2019-07-03 2019-07-03-1059.en.txt -- 64 lines (Some character is out of ASCII.)
-6. Autopsy The Last Hours Of-July 7.en.txt -- 112 lines (Ended before advertise)
-7. BBC World News - Feb 5.en.txt -- 98 lines 
-8. Catfish The TV Show S07E03 2018-01-17 Kim  Matt 2019-07-03-1500.en.txt -- 43 lines (Rest sentences were not in reference transcript)
-9. Caught in Providence - Jan 30.en.txt -- 128 lines
+1. ABC 7 News at Noon - Jul 8.en.txt -- 87 lines (Discrepancy rate: medium)
+2. CNN With Poppy Harlow&Jim Sciutto -Jul 8.en.txt -- 16 lines (Discrepancy rate: high)
+3. ABC World News Tonight With David Muir 2019-07-02 2019-07-02-1829.en.txt -- 50 lines (Discrepancy rate: high)
+4. AM Joy 2019-07-06 2019-07-06-1000.en.txt -- 132 lines (Discrepancy rate: medium.)
+5. At This Hour With Kate Bolduan 2019-07-03 2019-07-03-1059.en.txt -- 64 lines (Some character is out of ASCII. (Discrepancy rate: high))
+6. Autopsy The Last Hours Of-July 7.en.txt -- 112 lines (Discrepancy rate: medium. Ended before advertise)
+7. BBC World News - Feb 5.en.txt -- 98 lines (Discrepancy rate: low.)
+8. Catfish The TV Show S07E03 2018-01-17 Kim  Matt 2019-07-03-1500.en.txt -- 43 lines (Discrepancy rate: low. Rest sentences were not in reference transcript)
+9. Caught in Providence - Jan 30.en.txt -- 128 lines (Discrepancy rate: low.)
 10. Cavuto Live 2019-07-06 2019-07-06-0959.en.txt -- 30 lines (Rest lines are challenging to align.)
-11. CNBCThe Exchange - Apr 18.en.txt -- 72 lines
-12. CNN_Elizabeth Warren A CNN Town Hall Event- Apr 22.en.txt -- 275 lines
-13. CNN_Kamala Harris A CNN Town Hall Event- Apr 22.en.txt -- 254 lines
+11. CNBCThe Exchange - Apr 18.en.txt -- 72 lines (Discrepancy rate: medium.)
+12. CNN_Elizabeth Warren A CNN Town Hall Event- Apr 22.en.txt -- 275 lines (Discrepancy rate: low.)
+13. CNN_Kamala Harris A CNN Town Hall Event- Apr 22.en.txt -- 254 lines (Discrepancy rate: low.)
+14. Daily Blast Live - Feb 13.en.txt -- 44 lines (Discrepancy rate: high)
+15. Daily Blast Live-Jul 2.en.txt -- 55 lines (Discrepancy rate: high, after 50 lines of scrutiny, alignment becomes quite impossible to perform.)
+16. Fox 5 News - Feb 19.en.txt --   123 lines (Discrepancy rate: low)
+17. Fox 5 News at 11-Jul 3.en.txt -- 71 lines (Discrepancy rate: medium)
 
  
 
