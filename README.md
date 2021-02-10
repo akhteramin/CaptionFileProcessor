@@ -1,8 +1,6 @@
 # caption-file-reader
-Reading caption file(i.e: srt, vtt etc) and convert them to JSON object.
-caption-processor
 
-This is offline closed caption processor. This processor will linearize the caption text in different format of caption. Then feed the file into different caption analyzer such as ACE, SCLITE and others. Our goal is to analysis between ground truth and caption transcription.
+This is offline closed caption processor. This processor will linearize the caption text in different format of caption. Then feed the file into different caption transcription evaluator ACE. Our goal is to perform evaluation between ground truth and caption transcription.
 
 # Caption Reader
 
@@ -63,6 +61,7 @@ We have manually aligned the file till the text matched substantially side by si
 15. Daily Blast Live-Jul 2.en.txt -- 55 lines (Discrepancy rate: high, after 50 lines of scrutiny, alignment becomes quite impossible to perform.)
 16. Fox 5 News - Feb 19.en.txt --   123 lines (Discrepancy rate: low)
 17. Fox 5 News at 11-Jul 3.en.txt -- 71 lines (Discrepancy rate: medium)
+18. Great Day Washington-Jul 8.en.txt -- 35 lines (Discrepancy rate: high, so many missing lines and text shortening.)
 
  
 
