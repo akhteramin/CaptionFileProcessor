@@ -1,6 +1,7 @@
 import argparse
 import os
 from nltk import tokenize
+import re
 ####################nltk text file download and install start##########################
 # import nltk
 # import ssl
@@ -60,6 +61,7 @@ def cleanup_hypothesis_file():
     sentence = tokenize.sent_tokenize(hypthesis_text)
     hypthesis_text = ""
     for line in sentence:
+        line = re.sub(r"[^a-zA-Z0-9.?! ]+", "", line)
         hypthesis_text = hypthesis_text+ "\n" + line
     ftext = open("Processed Hypothesis Caption Text/" + args.get("name"), "w+")
     # texts = ' '.join(map(str, hypthesis_text))

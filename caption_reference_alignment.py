@@ -1,7 +1,7 @@
 import argparse
 import os
 import argparse
-import os
+import re
 from nltk import tokenize
 
 ap = argparse.ArgumentParser()
@@ -81,7 +81,11 @@ def caption_alignement():
         if i == 1:
             break
     print(max_match_sentence)
-    value_index = reference_lines.index(max_match_sentence)
+    value_index = 0
+    try:
+        value_index = reference_lines.index(max_match_sentence)
+    except:
+        print("An exception occurred")
     print(value_index)
     ##################################Max Matching End################################
     ref_lines =reference_lines[0:]
@@ -99,6 +103,7 @@ def caption_alignement():
     sentence = tokenize.sent_tokenize(reference_text)
     reference_text = ""
     for line in sentence:
+        line = re.sub(r"[^a-zA-Z0-9.?! ]+", "", line)
         reference_text = reference_text + "\n" + line
 
     ftext.write(reference_text)
