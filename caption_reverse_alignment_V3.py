@@ -51,7 +51,7 @@ def caption_alignement():
         reference_lines = fr.readlines()
     max_match_sentence = ''
     # matching_map = [[]]
-    num_of_lines = min(100, len(reference_lines))
+    num_of_lines = min(200, len(reference_lines))
     range_match_forward = 5
     range_match_backward = 5
     matching_map = {}
@@ -115,7 +115,9 @@ def caption_alignement():
         arr = []
         if value_index in matching_map:
             arr = matching_map[value_index]
-            arr.append(j)
+            if arr[len(arr)-1] == j-1:
+                arr.append(j)
+
             matching_map[value_index] = arr
         else:
             arr.append(j)
@@ -126,8 +128,8 @@ def caption_alignement():
             break
     print(matching_map)
 
-    ftext_ref = open("Automatic Annotation Reference Text V2/" + "Annotated_" + args.get("name"), "w+")
-    ftext_hyp = open("Automatic Annotation Hypothesis Text V2/" + "Annotated_" + args.get("name"), "w+")
+    ftext_ref = open("Automatic Annotation Reference Text V3/" + "Annotated_" + args.get("name"), "w+")
+    ftext_hyp = open("Automatic Annotation Hypothesis Text V3/" + "Annotated_" + args.get("name"), "w+")
     annotated_ref_text=""
     annotated_hyp_text=""
     for key,value in matching_map.items():
