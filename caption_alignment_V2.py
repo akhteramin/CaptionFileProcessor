@@ -74,9 +74,9 @@ def caption_alignement():
     ##########################Sentence Tokenizer End##################################
 
     ##################################Max Matching################################
-    with open("Automatic Annotation Hypothesis Text/" + args.get("name")) as fh:
+    with open("Automatic Annotation Hypothesis Text V2/" + args.get("name")) as fh:
         hypothesis_lines = fh.readlines()
-    with open("Automatic Annotation Reference Text/"+args.get("name")) as fr:
+    with open("Automatic Annotation Reference Text V2/"+args.get("name")) as fr:
         reference_lines = fr.readlines()
     max_match_sentence = ''
     # matching_map = [[]]
@@ -149,8 +149,8 @@ def caption_alignement():
             break
     print(matching_map)
 
-    ftext_ref = open("Automatic Annotation Reference Text/"+ "Annotated_V2_" +args.get("name"), "w+")
-    ftext_hyp = open("Automatic Annotation Hypothesis Text/" + "Annotated_V2_" + args.get("name"), "w+")
+    ftext_ref = open("Automatic Annotation Reference Text V2/"+ "Annotated_V2_" +args.get("name"), "w+")
+    ftext_hyp = open("Automatic Annotation Hypothesis Text V2/" + "Annotated_V2_" + args.get("name"), "w+")
     annotated_ref_text=""
     annotated_hyp_text=""
     for key,value in matching_map.items():

@@ -44,8 +44,6 @@ def LCSubStr(X,Y,m,n):
 
 
 def caption_alignement():
-
-
     ##################################Max Matching################################
     with open("Processed Hypothesis Caption Text/" + args.get("name")) as fh:
         hypothesis_lines = fh.readlines()
@@ -53,7 +51,7 @@ def caption_alignement():
         reference_lines = fr.readlines()
     max_match_sentence = ''
     # matching_map = [[]]
-    num_of_lines = min(50, len(reference_lines))
+    num_of_lines = min(100, len(reference_lines))
     range_match_forward = 5
     range_match_backward = 5
     matching_map = {}
@@ -64,11 +62,9 @@ def caption_alignement():
     for j in range(num_of_lines):
         r_line = reference_lines[j]
         max_val = 0
-        current_hypothesis_index = j
 
         max_match_sentence = r_line
 
-        # h_line = h_line.replace('.', '').replace(',',' ')
         r_line = re.sub(r"[^a-zA-Z0-9.?! ]+", "", r_line)
         r_line_words = r_line.lower().split()
         # identify first non-empty line#
@@ -78,17 +74,17 @@ def caption_alignement():
             continue
 
         ###################################
-        upper_boundary=max(j+range_match_forward,value_index+range_match_forward)
-        if j < range_match_backward:
-            range_match_backward = j
+        upper_boundary = max(j+range_match_forward, value_index+range_match_forward)
+        lower_bound = min(j-range_match_backward, value_index-1)
+        if lower_bound < 0:
+            lower_bound = 0
         if len(hypothesis_lines) <= upper_boundary:
             upper_boundary = len(hypothesis_lines)
-        for k in range(min(j-range_match_backward,value_index-1), upper_boundary):
+        for k in range(lower_bound, upper_boundary):
             # print(h_line_words)
             h_line = hypothesis_lines[k]
             actual_h_line = h_line
-            # current_hypothesis_index = reference_lines.index(actual_h_line)
-            # r_line = r_line.replace('.', '').replace(',', ' ')
+
             h_line = re.sub(r"[^a-zA-Z0-9.?! ]+", "", h_line)
             h_line_words = h_line.lower().split()
             if len(h_line_words) > 0:
@@ -101,7 +97,14 @@ def caption_alignement():
 
         print(max_match_sentence)
         print(r_line_words)
-
+        ######################## Hash Map Start ##############################
+        # Matching Map is a `hashmap` which can contain list of index        #
+        # against one index, for example:                                    #
+        # if line 3,4,5 of hypothesis file possess high                      #
+        # longest common subsequence score with line 2 of reference file,    #
+        # then this information will be stored in  matching_map like this:   #
+        #  matching_map[2]=[3,4,5]                                           #
+        ######################################################################
         try:
             value_index = hypothesis_lines.index(max_match_sentence)
 
@@ -117,13 +120,14 @@ def caption_alignement():
         else:
             arr.append(j)
             matching_map[value_index] = arr
+        ###################### Hash Map End #####################################
 
         if i == num_of_lines:
             break
     print(matching_map)
 
-    ftext_ref = open("Automatic Annotation Reference Text/" + "Annotated_" + args.get("name"), "w+")
-    ftext_hyp = open("Automatic Annotation Hypothesis Text/" + "Annotated_" + args.get("name"), "w+")
+    ftext_ref = open("Automatic Annotation Reference Text V2/" + "Annotated_" + args.get("name"), "w+")
+    ftext_hyp = open("Automatic Annotation Hypothesis Text V2/" + "Annotated_" + args.get("name"), "w+")
     annotated_ref_text=""
     annotated_hyp_text=""
     for key,value in matching_map.items():
