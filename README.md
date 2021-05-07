@@ -1,4 +1,4 @@
-# caption-file-reader
+# Automatic Caption File Processor
 
 This is offline closed caption processor. This processor will linearize the caption text in different format of caption. Then feed the file into different caption transcription evaluator ACE. Our goal is to perform evaluation between ground truth and caption transcription.
 
