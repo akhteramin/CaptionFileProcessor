@@ -3,7 +3,7 @@ imutils==0.5.3
 kiwisolver==1.1.0
 -e git://github.com/matplotlib/matplotlib.git@c2cfdf3f7164ad043b09b3472e55ee8c812a3299#egg=matplotlib
 nltk==3.4.5
-numpy==1.18.0
+numpy==1.22.0
 opencv-contrib-python==4.1.2.30
 opencv-python==4.1.2.30
 Pillow==7.0.0
